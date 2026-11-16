@@ -359,18 +359,47 @@ table.recipe-grid{border-collapse:separate;border-spacing:0;background:var(--car
 @media(min-width:641px){.recipe-picker{grid-template-columns:repeat(2,1fr)}}
 @media(min-width:1024px){.recipe-picker{grid-template-columns:repeat(3,1fr)}}
 
-/* Phones: the same grid as nested boxes. Each box wraps what an operation combines; its action sits underneath. */
-.g-nested{display:none}
-.g-group{border:2px solid var(--brand-primary);background:var(--card)}
-.g-group .g-group{margin:8px 8px 0;border-width:1px}
-.g-leaf{padding:9px 12px;border-bottom:1px solid var(--line);font-size:15px;line-height:1.4}
-.g-group>.g-group+.g-leaf,.g-group>.g-group+.g-group{margin-top:8px}
-.g-action{padding:10px 12px;background:var(--chip-bg);font:var(--sub-weight) 14px/1.4 var(--font-subhead);border-top:1px solid var(--brand-primary)}
-.g-action:before{content:"↓";margin-right:8px;color:var(--accent-ink);font-weight:700}
-.g-group>.g-group:last-of-type{margin-bottom:8px}
+/* Phones: a scroll-driven cooking flow. The ingredient panel is pinned under the page header for the whole recipe; the list inside grows
+   step by step and only shifts up once the panel is full. The box fixed to the bottom holds the current step and is its progress bar. */
+.g-flow{display:none;position:relative}
+.flow-stage{position:sticky;overflow:hidden;background:var(--card);border-top:2px solid var(--brand-primary);border-bottom:1px solid var(--line)}
+.flow-list{list-style:none;margin:0;padding:0;transition:transform .35s ease}
+.flow-row{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);background:var(--card);font-size:15px;line-height:1.4;transition:background .3s,color .3s}
+.flow-no{flex:none;display:inline-flex;align-items:center;justify-content:center;min-width:24px;height:24px;border-radius:12px;background:var(--line);color:var(--muted);font:700 12px var(--font-subhead)}
+.flow-row.is-current{background:var(--chip-bg);box-shadow:inset 5px 0 0 var(--brand-primary);font-weight:600}
+.flow-row.is-current .flow-no{background:var(--brand-primary);color:#fff}
+.flow-row.is-done{color:var(--muted)}
+.flow-row.is-new{animation:row-in .45s ease}
+@keyframes row-in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.flow-hint{padding:14px;color:var(--muted);font:600 13px var(--font-subhead);text-align:center}
+.flow-bar{position:fixed;left:0;right:0;bottom:0;z-index:55;display:none;overflow:hidden;background:var(--ink);color:#fff;box-shadow:0 -8px 22px rgb(0 0 0/.3)}
+.flow-bar.is-on{display:block}
+.flow-fill{position:absolute;inset:0;background:color-mix(in srgb,var(--brand-primary) 72%,var(--ink));transform:scaleX(0);transform-origin:left}
+.flow-bar-text{position:relative;padding:12px 16px calc(14px + env(safe-area-inset-bottom))}
+.flow-count{margin:0 0 4px;color:var(--brand-highlight);font:700 12px var(--font-subhead);text-transform:uppercase}
+.flow-action{margin:0;font:var(--sub-weight) 1.02rem/1.45 var(--font-subhead)}
+.brand-pv .flow-action{line-height:1.8}
+.flow-bar .discard{margin:6px 0 0;color:#ffd0d0}
+.flow-fab{position:fixed;right:16px;bottom:140px;z-index:60;width:56px;height:56px;border:0;border-radius:50%;background:var(--brand-highlight);color:var(--ink);font:800 22px/1 var(--font-subhead);box-shadow:0 8px 22px rgb(0 0 0/.38);cursor:pointer;display:none}
+.flow-fab.is-on{display:block}
+.flow-fab:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+.flow-sheet{position:fixed;inset:auto 0 0 0;width:100%;max-width:none;max-height:82vh;margin:0;padding:0;border:0;background:var(--card);color:var(--ink);overflow:hidden;box-shadow:0 -12px 40px rgb(0 0 0/.4)}
+.flow-sheet[open]{display:flex;flex-direction:column}
+.flow-sheet::backdrop{background:rgb(0 0 0/.55)}
+.flow-sheet-head{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid var(--line)}
+.flow-sheet-head h3{margin:0;font:800 1.2rem var(--font-headline)}
+.flow-close{min-height:44px;padding:0 14px;border:2px solid var(--ink);background:transparent;color:var(--ink);font:700 14px var(--font-subhead);cursor:pointer}
+.flow-search{margin:12px 16px;min-height:44px;padding:0 12px;border:2px solid var(--ink);font:16px var(--font-body);background:#fff;color:var(--ink)}
+.flow-items{list-style:none;margin:0;padding:0 0 12px;overflow:auto}
+.flow-item{display:flex;gap:12px;width:100%;min-height:48px;padding:10px 16px;border:0;border-bottom:1px solid var(--line);background:transparent;color:var(--ink);text-align:left;font:15px/1.4 var(--font-body);cursor:pointer}
+.flow-item:hover{background:var(--chip-bg)}
+.flow-item-no{flex:none;display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:var(--brand-primary);color:#fff;font:700 13px var(--font-subhead)}
+.flow-item-text{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.flow-empty{margin:0;padding:16px;color:var(--muted)}
+@media(prefers-reduced-motion:reduce){.flow-row.is-new{animation:none}.flow-list,.flow-row{transition:none}}
 @media(max-width:700px){
   .table-wrap{display:none}
-  .g-nested{display:block}
+  .g-flow{display:block}
 }
 .ingredient-list{list-style:none;display:grid;gap:10px}
 .ingredient-list li{padding-bottom:10px;border-bottom:1px solid var(--line)}
