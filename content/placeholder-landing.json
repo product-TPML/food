@@ -46,7 +46,19 @@
    "kinds": {
     "restaurant": "Restaurant",
     "experience": "Experience"
-   }
+   },
+   "back": "← Back to Food",
+   "share": "Share",
+   "copyLink": "Copy link",
+   "copied": "Link copied",
+   "whatsapp": "WhatsApp",
+   "cookTitle": "Cook it, step by step",
+   "cookText": "Open the ingredient grid and follow the method. The draft keeps the source quantities exactly as published.",
+   "cookButton": "Open the recipe",
+   "moreFrom": "More from Food",
+   "sectionIntro": "Restaurants and food experiences",
+   "notFound": "This story could not be found.",
+   "storyTitleSuffix": ""
   },
   "kn": {
    "title": "ಸವಿರುಚಿ",
@@ -59,7 +71,19 @@
    "kinds": {
     "restaurant": "ರೆಸ್ಟೋರೆಂಟ್",
     "experience": "ಅನುಭವ"
-   }
+   },
+   "back": "← ಆಹಾರ ಪುಟಕ್ಕೆ",
+   "share": "ಹಂಚಿಕೊಳ್ಳಿ",
+   "copyLink": "ಲಿಂಕ್ ನಕಲಿಸಿ",
+   "copied": "ಲಿಂಕ್ ನಕಲಾಗಿದೆ",
+   "whatsapp": "ವಾಟ್ಸ್ಆ್ಯಪ್",
+   "cookTitle": "ಹಂತ ಹಂತವಾಗಿ ಮಾಡಿ",
+   "cookText": "ಪದಾರ್ಥಗಳ ಕೋಷ್ಟಕ ತೆರೆದು ವಿಧಾನ ಅನುಸರಿಸಿ. ಕರಡು ಮೂಲ ಬರಹದ ಪ್ರಮಾಣಗಳನ್ನು ಯಥಾವತ್ತಾಗಿ ಇಟ್ಟುಕೊಂಡಿದೆ.",
+   "cookButton": "ರೆಸಿಪಿ ತೆರೆಯಿರಿ",
+   "moreFrom": "ಆಹಾರ ವಿಭಾಗದಿಂದ ಇನ್ನಷ್ಟು",
+   "sectionIntro": "ರೆಸ್ಟೋರೆಂಟ್ ಮತ್ತು ಆಹಾರ ಅನುಭವಗಳು",
+   "notFound": "ಈ ಬರಹ ಸಿಗಲಿಲ್ಲ.",
+   "storyTitleSuffix": ""
   }
  },
  "modules": [
@@ -275,7 +299,11 @@
     "title": "ಹದಿನೈದು ನಿಮಿಷದಲ್ಲಿ ಮಾಡಬಹುದಾದ ರುಚಿಕರ ಬೇಳೆ ಸಾರು",
     "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
    },
-   "img": "prajavani/2026-11-14/q43m9cfp/file88a3ky9k4l5fclbrnpe.jpg"
+   "img": "prajavani/2026-11-14/q43m9cfp/file88a3ky9k4l5fclbrnpe.jpg",
+   "recipe": {
+    "dh": "dh-jamun-rosemary-lime",
+    "pv": "pv-dill-dal"
+   }
   },
   "c1": {
    "shape": "tall",
@@ -291,7 +319,11 @@
     "title": "ಗರಿಗರಿ ದೋಸೆ, ಮೃದು ಮಧ್ಯ: ಎಂದೂ ಕೈಕೊಡದ ಹಿಟ್ಟು",
     "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
    },
-   "img": "deccanherald/2026-10-25/cagxcke8/file883hi24ty1d2k6rdqvr.jpg"
+   "img": "deccanherald/2026-10-25/cagxcke8/file883hi24ty1d2k6rdqvr.jpg",
+   "recipe": {
+    "dh": "dh-blueberry-orange-blossom-vanilla-fizz",
+    "pv": "pv-dill-akki-rotti"
+   }
   },
   "c2": {
    "shape": "tall",
@@ -307,7 +339,11 @@
     "title": "ಒಂದೇ ಬಾಣಲೆಯಲ್ಲಿ ಮಾಡಬಹುದಾದ ಹಬ್ಬದ ಸಿಹಿಗಳು",
     "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
    },
-   "img": "prajavani/2026-11-03/5q4x1h3m/file.webp"
+   "img": "prajavani/2026-11-03/5q4x1h3m/file.webp",
+   "recipe": {
+    "dh": "dh-mango-passion-fruit-saffron-lime-cooler",
+    "pv": "pv-seven-cup-barfi"
+   }
   },
   "c3": {
    "shape": "tall",
@@ -323,7 +359,11 @@
     "title": "ಹಣ್ಣು, ಪುದೀನ, ಸೋಡಾ ಬೆರೆಸಿದ ತಂಪು ಪಾನೀಯಗಳು",
     "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
    },
-   "img": "deccanherald/2026-11-07/3tfplb0d/iStock-1319973261.jpg"
+   "img": "deccanherald/2026-11-07/3tfplb0d/iStock-1319973261.jpg",
+   "recipe": {
+    "dh": "dh-green-apple-cucumber-mint-chilli-refresh",
+    "pv": "pv-sabbakki-payasa"
+   }
   },
   "c4": {
    "shape": "tall",
@@ -339,7 +379,11 @@
     "title": "ಅನ್ನವನ್ನೇ ವಿಶೇಷಗೊಳಿಸಿ: ಒಂದೇ ಪಾತ್ರೆಯ ನಾಲ್ಕು ಐಡಿಯಾ",
     "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
    },
-   "img": "deccanherald/2026-09-05/7aase92q/file87ecqiverxf1i4b5iupk.jpg"
+   "img": "deccanherald/2026-09-05/7aase92q/file87ecqiverxf1i4b5iupk.jpg",
+   "recipe": {
+    "dh": "dh-jamun-rosemary-lime",
+    "pv": "pv-haalu-kheeru"
+   }
   },
   "c5": {
    "shape": "tall",
@@ -355,7 +399,11 @@
     "title": "ದಿನದ ಪ್ರತಿ ಊಟಕ್ಕೂ ಚಟ್ನಿಗಳು",
     "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
    },
-   "img": "prajavani/2026-10-17/48utdkd8/file.webp"
+   "img": "prajavani/2026-10-17/48utdkd8/file.webp",
+   "recipe": {
+    "dh": "dh-blueberry-orange-blossom-vanilla-fizz",
+    "pv": "pv-andhra-nellikayi-pachadi"
+   }
   },
   "r1": {
    "shape": "43",
@@ -373,7 +421,11 @@
     "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
     "dek": "ಚಿಕ್ಕ ಪರಿಚಯದ ಮಾದರಿ ಪಠ್ಯ. ನಿಜವಾದ ಸಾರಾಂಶದಿಂದ ಬದಲಿಸಿ."
    },
-   "img": "deccanherald/2026-10-17/kir7qt6e/file880cieyccza18b631rwz.jpg"
+   "img": "deccanherald/2026-10-17/kir7qt6e/file880cieyccza18b631rwz.jpg",
+   "recipe": {
+    "dh": "dh-mango-passion-fruit-saffron-lime-cooler",
+    "pv": "pv-holige-apple"
+   }
   },
   "r2": {
    "shape": "square",
@@ -787,5 +839,33 @@
    "img": "prajavani/2026-11-03/5q4x1h3m/file.webp"
   }
  },
- "mastheadImage": "deccanherald/2026-09-19/p3ive4fb/564802684.jpg"
+ "mastheadImage": "deccanherald/2026-09-19/p3ive4fb/564802684.jpg",
+ "article": {
+  "en": {
+   "paras": [
+    "This is placeholder text. When the real piece arrives, this opening paragraph sets the scene and gives readers a reason to keep going. It is here only so the page can be judged for layout, rhythm and typography.",
+    "The smell of the kitchen, the sound of the pan, the colour on the plate: good food writing holds on to all of it. Replace these paragraphs with the real story, written and edited by the desk.",
+    "Every region has its own history at the table. How grains, spices and traditions came together can be told here, with room for a pull quote, an image and a recipe link when the story has one.",
+    "From simple weeknight cooking to festival feasts, each dish has a story behind it. Longer pieces can run to many paragraphs; the column stays narrow so the lines remain easy to read.",
+    "At the end of a piece readers get a suggestion for what to do next, or links to related stories. The related stories below are placeholders too."
+   ],
+   "quote": "A good meal is a story you can taste.",
+   "sub": "Where it all begins",
+   "caption": "Placeholder image caption. Credit goes here.",
+   "minutes": "5 min read"
+  },
+  "kn": {
+   "paras": [
+    "ಇದು ಮಾದರಿ ಪಠ್ಯ. ನಿಜವಾದ ಬರಹ ಬಂದಾಗ ಈ ಜಾಗದಲ್ಲಿ ಲೇಖನದ ಆರಂಭದ ಪ್ಯಾರಾ ಇರುತ್ತದೆ. ಓದುಗರನ್ನು ಮುಂದೆ ಓದಲು ಸೆಳೆಯುವ ಸಾಲುಗಳು ಇಲ್ಲಿರುತ್ತವೆ. ಪುಟದ ವಿನ್ಯಾಸ, ಲಯ ಮತ್ತು ಅಕ್ಷರಶೈಲಿಯನ್ನು ಪರಿಶೀಲಿಸಲು ಮಾತ್ರ ಇದನ್ನು ಬಳಸಲಾಗಿದೆ.",
+    "ಅಡುಗೆಮನೆಯ ಪರಿಮಳ, ಬಾಣಲೆಯ ಸದ್ದು, ತಟ್ಟೆಯ ಮೇಲಿನ ಬಣ್ಣ: ಒಳ್ಳೆಯ ಆಹಾರ ಬರಹ ಇವೆಲ್ಲವನ್ನೂ ಹಿಡಿದಿಡುತ್ತದೆ. ಈ ಪ್ಯಾರಾಗಳನ್ನು ಸಂಪಾದಕೀಯ ವಿಭಾಗ ಬರೆದು ಪರಿಶೀಲಿಸಿದ ನಿಜವಾದ ಬರಹದಿಂದ ಬದಲಿಸಿ.",
+    "ಪ್ರತಿ ಪ್ರದೇಶದ ಊಟಕ್ಕೂ ತನ್ನದೇ ಆದ ಇತಿಹಾಸ ಇದೆ. ಧಾನ್ಯ, ಮಸಾಲೆ ಮತ್ತು ಸಂಪ್ರದಾಯಗಳು ಹೇಗೆ ಒಟ್ಟಿಗೆ ಬೆರೆತವು ಎಂಬುದನ್ನು ಇಲ್ಲಿ ಹೇಳಬಹುದು. ಬರಹದಲ್ಲಿ ರೆಸಿಪಿ ಇದ್ದರೆ ಅದರ ಕೊಂಡಿ ಕೂಡ ಇಲ್ಲಿ ಬರುತ್ತದೆ.",
+    "ಮನೆಯಲ್ಲಿ ಮಾಡುವ ಸರಳ ಅಡುಗೆಯಿಂದ ಹಿಡಿದು ಹಬ್ಬದ ವಿಶೇಷ ತಿನಿಸುಗಳವರೆಗೆ, ಪ್ರತಿಯೊಂದಕ್ಕೂ ಒಂದು ಕಥೆ ಇರುತ್ತದೆ. ಉದ್ದದ ಬರಹಗಳಲ್ಲಿ ಹಲವು ಪ್ಯಾರಾಗಳಿರುತ್ತವೆ; ಓದಲು ಸುಲಭವಾಗುವಂತೆ ಸಾಲಿನ ಅಗಲ ಕಿರಿದಾಗಿರುತ್ತದೆ.",
+    "ಬರಹದ ಕೊನೆಯಲ್ಲಿ ಓದುಗರಿಗೆ ಮುಂದೇನು ಮಾಡಬಹುದು ಎಂಬ ಸಲಹೆ ಅಥವಾ ಸಂಬಂಧಿತ ಬರಹಗಳ ಕೊಂಡಿ ಇರುತ್ತದೆ. ಕೆಳಗಿನ ಬರಹಗಳು ಕೂಡ ಮಾದರಿ ಮಾತ್ರ."
+   ],
+   "quote": "ಒಳ್ಳೆಯ ಊಟವೆಂದರೆ ರುಚಿ ನೋಡಬಹುದಾದ ಒಂದು ಕಥೆ.",
+   "sub": "ಎಲ್ಲವೂ ಇಲ್ಲಿಂದ ಶುರು",
+   "caption": "ಮಾದರಿ ಚಿತ್ರದ ಶೀರ್ಷಿಕೆ. ಚಿತ್ರಕೃಪೆ ಇಲ್ಲಿ.",
+   "minutes": "5 ನಿಮಿಷದ ಓದು"
+  }
+ }
 }

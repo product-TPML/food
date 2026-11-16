@@ -1,10 +1,16 @@
 {
-  "note": "Recipe draft files, in display order. Each holds {recipes:[...]} in the tabular notation of tabular-recipe-drafts.json.",
+  "note": "Recipe draft files, in display order. Each holds {recipes:[...]} in the tabular notation of tabular-recipe-drafts.json. translations lists separate files that add the other language to a recipe by id (content/recipe-i18n/); source drafts are never edited.",
   "files": [
     "tabular-recipe-drafts.json",
     "recipe-drafts/dh-mocktails.json",
     "recipe-drafts/pv-dill-and-sweets.json",
     "recipe-drafts/pv-holige.json",
     "recipe-drafts/pv-mixed.json"
+  ],
+  "translations": [
+    "recipe-i18n/dh.json",
+    "recipe-i18n/pv-1.json",
+    "recipe-i18n/pv-2.json",
+    "recipe-i18n/pv-3.json"
   ]
 }

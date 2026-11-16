@@ -53,12 +53,36 @@
     return response.json();
   }
 
-  // Every recipe draft listed in content/recipe-index.json. A missing or broken file is skipped, not fatal.
+  // Every recipe draft listed in content/recipe-index.json, with any translations attached as recipe.i18n[lang].
+  // A missing or broken file is skipped, not fatal. Translations live in separate files so source drafts stay untouched.
   async function loadRecipes() {
     const index = await loadJson('content/recipe-index.json');
-    const files = await Promise.all(index.files.map(file => loadJson(`content/${file}`).catch(error => { console.warn(`Recipe file skipped: ${file}`, error); return { recipes: [] }; })));
-    return files.flatMap(file => file.recipes || []);
+    const skip = file => error => { console.warn(`Recipe file skipped: ${file}`, error); return null; };
+    const [files, translations] = await Promise.all([
+      Promise.all(index.files.map(file => loadJson(`content/${file}`).catch(skip(file)))),
+      Promise.all((index.translations || []).map(file => loadJson(`content/${file}`).catch(skip(file))))
+    ]);
+    const recipes = files.flatMap(file => (file && file.recipes) || []);
+    const byId = new Map(recipes.map(recipe => [recipe.id, recipe]));
+    for (const file of translations.filter(Boolean)) {
+      for (const [id, tr] of Object.entries(file)) {
+        const recipe = byId.get(id);
+        if (recipe && tr && tr.lang) (recipe.i18n = recipe.i18n || {})[tr.lang] = tr;
+      }
+    }
+    return recipes;
   }
 
-  window.Food = { el, plainText, imageUrl, picture, formatDate, authorLine, loadJson, loadRecipes };
+  // The recipe as shown in `lang`: the original when the language matches, a translated copy when one exists, otherwise null.
+  // A translation must cover every ingredient and step; if any is missing the recipe is treated as untranslated.
+  function localise(recipe, lang) {
+    if (lang === recipe.language) return recipe;
+    const tr = recipe.i18n && recipe.i18n[lang];
+    if (!tr || !recipe.ingredients.every(([key]) => tr.ingredients && tr.ingredients[key]) || !recipe.operations.every(op => tr.actions && tr.actions[op.id])) return null;
+    return { ...recipe, language: lang, originalLanguage: recipe.language, translated: true, title: tr.title,
+      ingredients: recipe.ingredients.map(([key]) => [key, tr.ingredients[key]]),
+      operations: recipe.operations.map(op => ({ ...op, action: tr.actions[op.id] })) };
+  }
+
+  window.Food = { el, plainText, imageUrl, picture, formatDate, authorLine, loadJson, loadRecipes, localise };
 })();

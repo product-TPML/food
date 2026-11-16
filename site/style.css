@@ -51,18 +51,16 @@ a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visi
 @media(max-width:700px){.section-name{display:none}}
 
 /* Masthead: slim photo bar under a dark overlay (photo set in the layout JSON), spice-toned gradient as fallback */
-.masthead{padding:clamp(16px,2.6vw,28px) 0;margin-bottom:clamp(20px,3vw,32px);color:#fff;background:linear-gradient(90deg,rgb(0 0 0/.72),rgb(0 0 0/.30)),var(--masthead-image,none) center/cover,linear-gradient(120deg,#7a1f2b,#b5541a 45%,#e9a93a);border-bottom:5px solid var(--brand-highlight)}
+.masthead{padding:clamp(16px,2.6vw,28px) 0;margin-bottom:clamp(20px,3vw,32px);color:#fff;background:linear-gradient(90deg,rgb(0 0 0/.72),rgb(0 0 0/.30)),var(--masthead-image,none) center/cover,linear-gradient(120deg,#7a1f2b,#b5541a 45%,#e9a93a)}
 .masthead h1{font:var(--head-weight) clamp(2rem,4.5vw,3rem)/1.15 var(--font-headline)}
 .brand-pv .masthead h1{line-height:1.3}
 .masthead p{margin-top:6px;max-width:52ch;color:#fff;opacity:.92;font-size:1.0625rem}
 
 /* Shared story parts */
-/* Kicker label: bold small caps with a short highlight bar in front (chips are kept for Video, Premium, Restaurant, Experience). */
+/* Kicker label: bold small caps with a small type icon in front (chips are kept for Video, Premium, Restaurant, Experience). */
 .tags{display:flex;flex-wrap:wrap;gap:6px 12px;margin-bottom:10px}
 .tag{display:inline-flex;align-items:center;gap:8px;font:700 12px/1.2 var(--font-subhead);text-transform:uppercase;color:var(--accent-ink)}
-.tag:before{content:"";flex:none;width:22px;height:4px;background:var(--brand-highlight)}
 .brand-pv .tag{text-transform:none;font-size:13px}
-.tag-video:before,.tag-premium:before,.tag-restaurant:before,.tag-experience:before{display:none}
 .tag-video,.tag-premium{padding:4px 7px;border-radius:3px}
 .tag-video{background:var(--ink);color:#fff}
 .tag-premium{background:#fff;color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
@@ -87,7 +85,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visi
 
 /* Modules */
 .module{padding:clamp(24px,4vw,44px) 0;border-top:1px solid var(--line)}
-.module:first-child{border-top:0;padding-top:12px}
+.module:first-child{border-top:0;padding-top:0}
 /* Every second module sits on a full-width tinted band; the clip keeps the band from widening the page. */
 .module:nth-of-type(4n){--band:var(--band-warm)}
 .module:nth-of-type(even){border-top:0;background:var(--band);box-shadow:0 0 0 100vmax var(--band);clip-path:inset(0 -100vmax)}
@@ -106,8 +104,8 @@ a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visi
 .brand-pv .lead .headline{line-height:1.35}
 .lead .dek{font-size:1.0625rem}
 .lead-side{display:flex;flex-direction:column}
-/* Rail rows: text on the left, a square thumbnail on the right, hairline between rows. */
-.row{display:grid;grid-template-columns:minmax(0,1fr) minmax(88px,28%);grid-template-areas:"text art";gap:14px;align-items:start;padding:var(--gap) 0;border-bottom:1px solid var(--line)}
+/* Rail rows: text on the left, a square photo on the right (40% of the row), hairline between rows. */
+.row{display:grid;grid-template-columns:minmax(0,1fr) 40%;grid-template-areas:"text art";gap:14px;align-items:start;padding:var(--gap) 0;border-bottom:1px solid var(--line)}
 .row:first-child{padding-top:0}
 .row:last-child{border-bottom:0;padding-bottom:0}
 .row .art{grid-area:art}
@@ -115,7 +113,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visi
 .lead .row .headline{font-size:1.125rem;line-height:1.25}
 .brand-pv .lead .row .headline{line-height:1.45}
 
-.lead--hero .lead-main{display:grid;grid-template-columns:minmax(0,1fr);background:var(--card);border-top:6px solid var(--brand-primary)}
+.lead--hero .lead-main{display:grid;grid-template-columns:minmax(0,1fr);background:var(--card)}
 .lead--hero .lead-body{justify-content:center;padding:clamp(22px,4vw,52px)}
 .lead--hero .lead-main .headline{font-size:clamp(1.7rem,3vw,2.7rem);line-height:1.1}
 .brand-pv .lead--hero .lead-main .headline{line-height:1.3}
@@ -154,24 +152,41 @@ a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visi
 .pcard-link:hover .headline{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--brand-highlight)}
 .pcard-link:focus-visible{outline-offset:-4px;outline-color:#fff}
 
-/* Frosted-glass cards: text sits in a translucent, blurred, square-edged panel flush with the bottom of the photo. Used by the Food stories row and the big regional card. */
-.pcard--glass .pcard-text,.lead--split .lead-body{left:0;right:0;bottom:0;padding:14px 16px;background:rgb(16 12 8/.42);-webkit-backdrop-filter:blur(14px) saturate(1.35);backdrop-filter:blur(14px) saturate(1.35);border:0;border-top:1px solid rgb(255 255 255/.35);border-radius:0;color:#fff}
-.pcard--glass .pcard-text{background-image:none}
+/* Frosted-glass cards: the text panel sits directly below the photo (never over it). It is a translucent, square-edged slab that shows a
+   blurred continuation of the same photo (--glass-img, set by main.js) under a dark tint. Used by the Food stories row and the big regional card. */
+.rail.glass{align-items:stretch}
+.pcard--glass{display:flex;background:transparent}
+.pcard--glass .pcard-link{display:flex;flex-direction:column;width:100%}
+.pcard--glass .pcard-text,.lead--split .lead-body{position:relative;isolation:isolate;overflow:hidden;left:auto;right:auto;bottom:auto;padding:14px 16px;background:rgb(16 12 8/.9);border:0;border-top:1px solid rgb(255 255 255/.35);border-radius:0;color:#fff}
+.pcard--glass .pcard-text{flex:1}
+.lead--split .lead-body{flex:none}
+.pcard--glass .pcard-text:before,.lead--split .lead-body:before{content:"";position:absolute;inset:-40px;z-index:-2;background:var(--glass-img,none) center/cover;filter:blur(24px) saturate(1.5)}
+.pcard--glass .pcard-text:after,.lead--split .lead-body:after{content:"";position:absolute;inset:0;z-index:-1;background:rgb(16 12 8/.5)}
 .pcard--glass .headline{font-size:1.05rem}
 .pcard--glass .meta{padding-top:8px;font-size:12px}
-.lead--split .lead-main{position:relative}
-.lead--split .lead-body{position:absolute;z-index:2;padding-top:14px;flex:none}
 .lead--split .lead-main .headline{font-size:clamp(1.35rem,2.4vw,2rem);color:#fff}
 .lead--split .lead-main .dek,.lead--split .lead-main .meta,.lead--split .lead-main .tag{color:#fff}
 .lead--split .lead-main .dek{opacity:.92}
 .lead--split .lead-main .meta{opacity:.9}
-@supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){.pcard--glass .pcard-text,.lead--split .lead-body{background:rgb(16 12 8/.72)}}
 @media(max-width:1023px){.lead--split .lead-main .dek{display:none}}
 
-/* Restaurant / experience labels on city cards */
-.tag-restaurant,.tag-experience{padding:4px 8px;border-radius:3px}
-.tag-restaurant{background:var(--brand-primary);color:#fff}
-.tag-experience{background:var(--brand-highlight);color:var(--ink)}
+/* Kicker icons: one small SVG per type, drawn with a mask so it takes the label colour (white on photos). */
+.tag:before{content:"";flex:none;width:16px;height:16px;background:currentColor;-webkit-mask:var(--icon) center/contain no-repeat;mask:var(--icon) center/contain no-repeat}
+.tag-video:before,.tag-premium:before{display:none}
+.tag-feature{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 3l2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.5 6.6 19.5l1.2-6L3.3 9.3l6.1-.7z'/%3E%3C/svg%3E")}
+.tag-guide{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='M15.5 8.5l-2 5-5 2 2-5z'/%3E%3C/svg%3E")}
+.tag-recipe{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M7 18v-2.2A4.5 4.5 0 1 1 9.5 7.2a3.5 3.5 0 0 1 5 0A4.5 4.5 0 1 1 17 15.8V18z'/%3E%3Cpath d='M7 21h10'/%3E%3C/svg%3E")}
+.tag-story{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 5.5C5 4.5 8.5 4.5 12 6.5c3.5-2 7-2 9-1V19c-2-1-5.5-1-9 1-3.5-2-7-2-9-1z'/%3E%3Cpath d='M12 6.5V20'/%3E%3C/svg%3E")}
+.tag-tips{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M9 18h6M10 21h4'/%3E%3Cpath d='M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z'/%3E%3C/svg%3E")}
+.tag-regional{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 21s7-6.2 7-11.5A7 7 0 0 0 5 9.5C5 14.8 12 21 12 21z'/%3E%3Ccircle cx='12' cy='9.5' r='2.5'/%3E%3C/svg%3E")}
+.tag-restaurant{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M7 3v8M4.5 3v5a2.5 2.5 0 0 0 5 0V3M7 11v10'/%3E%3Cpath d='M17 3c-2 1.5-3 4-3 7h3v11'/%3E%3C/svg%3E")}
+.tag-experience{--icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 3l1.8 4.7 4.7 1.8-4.7 1.8L12 16l-1.8-4.7-4.7-1.8 4.7-1.8z'/%3E%3Cpath d='M19 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z'/%3E%3C/svg%3E")}
+
+/* Restaurant / experience labels on city cards: same kicker as the other types; the icon colour tells them apart */
+.tag-restaurant,.tag-experience{color:var(--ink)}
+.tag-restaurant:before,.tag-experience:before{width:18px;height:18px}
+.tag-restaurant:before{background:var(--brand-primary)}
+.tag-experience:before{background:color-mix(in srgb,var(--brand-highlight) 78%,#000)}
 
 /* City tabs: editorial underline tabs. Bold headline-font labels on a hairline; a heavy brand underline grows in under the active tab. */
 .tabs-wrap{display:grid;gap:24px}
@@ -190,18 +205,19 @@ a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visi
 @media(max-width:640px){.tabs{margin:0 calc(-1*var(--pad));padding:0 var(--pad)}}
 
 /* Desktop hover effects (mouse only): photos zoom, headlines underline, portrait cards lift. */
-.art img{transition:transform .6s cubic-bezier(.2,.7,.2,1)}
+/* Photos are drawn 34% oversize; scroll parallax moves them with `translate` (--py vertical on page scroll, --px sideways on carousel swipe, set by main.js) and hover zooms with `scale`. */
+.art img{scale:var(--zoom,1.34);translate:var(--px,0px) var(--py,0px);transition:scale .6s cubic-bezier(.2,.7,.2,1);will-change:translate}
 .pcard{transition:transform .3s ease,box-shadow .3s ease}
 .pcard-text{transition:padding-bottom .3s ease}
 .button,.text-link{transition:background .2s,color .2s,box-shadow .2s}
 @media(hover:hover) and (pointer:fine){
-  .card:hover .art img,.row:hover .art img,.pcard:hover .art img{transform:scale(1.07)}
+  .card:hover .art img,.row:hover .art img,.pcard:hover .art img{--zoom:1.42}
   .card:hover .headline a,.row:hover .headline a,.lead-main:hover .headline a,.more-list li:hover .headline a{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px;text-decoration-color:var(--brand-primary)}
   .pcard:hover{transform:translateY(-6px);box-shadow:0 14px 28px rgb(0 0 0/.28)}
   .pcard:hover .pcard-text{padding-bottom:22px}
   .more-list li{transition:padding-left .25s ease}
   .more-list li:hover{padding-left:10px}
-  .lead-main:hover .art img{transform:scale(1.04)}
+  .lead-main:hover .art img{--zoom:1.39}
   .top-nav a{transition:background .2s,border-color .2s}
   .top-nav a:hover{background:rgb(255 255 255/.1)}
   .text-link:hover{color:var(--brand-primary);text-decoration-thickness:2px}
@@ -224,6 +240,56 @@ a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visi
   .headline a,.pcard .headline{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;line-clamp:3;overflow:hidden}
 }
 
+/* Story page: full-bleed photo hero, narrow reading column with drop cap and pull quote, a full-width photo break, recipe callout,
+   share row, reading-progress bar and a "More from Food" row. Reuses the landing's kickers, buttons, rails and parallax. */
+[data-page-root]:focus{outline:none}
+a.section-name{text-decoration:none}
+a.section-name:hover{text-decoration:underline}
+.progress{position:fixed;top:0;left:0;right:0;height:5px;z-index:300;background:linear-gradient(90deg,var(--brand-primary),var(--brand-highlight));transform:scaleX(0);transform-origin:left}
+.ar-hero{--ar:16/9}
+.story-hero{position:relative;color:#fff;background:#000}
+.story-hero>.art{aspect-ratio:auto;height:clamp(460px,80vh,780px)}
+.story-hero:after{content:"";position:absolute;inset:0;z-index:2;pointer-events:none;background:linear-gradient(to top,rgb(0 0 0/.9) 0%,rgb(0 0 0/.58) 40%,rgb(0 0 0/.12) 72%,rgb(0 0 0/.4) 100%)}
+.story-hero-wrap{position:absolute;left:0;right:0;bottom:0;z-index:3;margin:0 auto;padding-bottom:clamp(24px,5vw,60px)}
+.story-hero-text{max-width:900px}
+.story-hero .tag{color:#fff}
+.story-title{margin:6px 0 14px;font:800 clamp(2.2rem,6.2vw,4.8rem)/1.02 var(--font-headline)}
+.brand-pv .story-title{line-height:1.25}
+.story-dek{max-width:46ch;font-size:clamp(1.05rem,2vw,1.4rem);line-height:1.45;opacity:.94}
+.back-link{display:inline-flex;align-items:center;min-height:44px;margin-bottom:6px;color:#fff;text-decoration:none;font:600 14px var(--font-subhead)}
+.back-link:hover{text-decoration:underline;text-underline-offset:3px}
+.byline{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:18px;font-size:14px;opacity:.92}
+.byline>*+*:before{content:"\2022";margin-right:18px;opacity:.65}
+
+.story-body{padding-top:clamp(28px,5vw,60px);padding-bottom:clamp(8px,2vw,24px)}
+.story-col{max-width:720px;margin:0 auto;font-size:1.125rem;line-height:1.75}
+.brand-pv .story-col{line-height:2}
+.story-col>p{margin:0 0 1.4em}
+.lede{font-size:1.3rem;line-height:1.6;font-weight:500}
+.brand-dh .lede:first-letter{float:left;padding:6px 14px 0 0;color:var(--brand-primary);font:800 5rem/.82 var(--font-headline)}
+.story-sub{margin:1.6em 0 .5em;font:800 clamp(1.7rem,3.6vw,2.4rem)/1.1 var(--font-headline)}
+.brand-dh .story-sub{text-transform:uppercase}
+.pullquote{margin:2.2em 0;padding:0 0 0 24px;border-left:7px solid var(--brand-highlight)}
+.pullquote p{margin:0;font:800 clamp(1.7rem,4vw,2.7rem)/1.15 var(--font-headline);color:var(--ink)}
+.brand-pv .pullquote p{line-height:1.45}
+.story-break{margin:clamp(20px,4vw,44px) 0}
+.story-break .art{aspect-ratio:auto;height:clamp(300px,54vh,580px)}
+.story-break figcaption{padding-top:10px;color:var(--muted);font-size:13px}
+
+.recipe-cta{margin:2.4em 0;padding:clamp(20px,3vw,34px);background:var(--card);border-top:6px solid var(--brand-highlight);box-shadow:0 12px 32px rgb(0 0 0/.14)}
+.recipe-cta h2{margin:4px 0 8px;font:800 clamp(1.5rem,3vw,2.1rem)/1.1 var(--font-headline)}
+.recipe-cta p{margin:0 0 16px;font-size:1rem;line-height:1.6;color:#3f484c}
+.recipe-cta .tags{margin-bottom:4px}
+
+.share{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:2.4em;padding-top:20px;border-top:3px solid var(--ink);font:600 15px var(--font-subhead)}
+.share-btn{display:inline-flex;align-items:center;min-height:44px;padding:0 18px;border:2px solid var(--ink);background:transparent;color:var(--ink);font:600 14px var(--font-subhead);text-decoration:none;cursor:pointer;transition:background .2s,color .2s}
+.share-btn:hover{background:var(--ink);color:#fff}
+.share-btn:focus-visible{outline:3px solid var(--brand-primary);outline-offset:2px}
+
+.story-more{margin-top:clamp(32px,6vw,72px);background:var(--band);border-top:0}
+.section-page{padding-top:clamp(20px,3vw,36px);padding-bottom:clamp(40px,6vw,72px)}
+.section-back{margin-bottom:14px}
+
 /* Reserved ad positions. Empty until the publisher's ad integration is wired in. Never place inside a recipe grid. */
 .ad-slot{display:none;margin:8px auto;min-height:90px;align-items:center;justify-content:center;border:1px dashed var(--line);color:var(--muted);font-size:11px;text-transform:uppercase}
 body.show-ad-slots .ad-slot{display:flex}
@@ -232,7 +298,7 @@ body.show-ad-slots .ad-slot{display:flex}
 .foot{border-top:1px solid var(--line);padding:20px 0 40px;color:var(--muted);font-size:13px}
 
 /* Recipe page */
-.recipe{padding-top:clamp(20px,4vw,40px);padding-bottom:64px}
+.recipe{padding-top:0;padding-bottom:64px}
 .recipe-head h1{font:var(--head-weight) clamp(2rem,5vw,3.2rem)/1.1 var(--font-headline);margin-top:8px}
 .brand-pv .recipe-head h1{line-height:1.3}
 .recipe-head .dek{font-style:italic}
@@ -261,6 +327,12 @@ table.recipe-grid{border-collapse:separate;border-spacing:0;background:var(--car
 .scroll-hint{margin-top:8px;font-size:13px;color:var(--muted)}
 .recipe-grid .g-op{text-align:center;min-width:128px;max-width:200px;background:var(--chip-bg);font-family:var(--font-subhead);font-weight:var(--sub-weight);font-size:14px}
 .recipe-grid .g-empty{border-right-color:var(--line);border-bottom-color:var(--line);background:var(--card)}
+.recipe-top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 16px}
+.lang-switch{display:inline-flex;border:2px solid var(--ink)}
+.lang-switch button{min-height:44px;padding:0 18px;border:0;background:transparent;color:var(--ink);font:600 14px var(--font-subhead);cursor:pointer;transition:background .2s,color .2s}
+.lang-switch button+button{border-left:2px solid var(--ink)}
+.lang-switch button[aria-pressed="true"]{background:var(--ink);color:#fff}
+.lang-switch button:focus-visible{outline:3px solid var(--brand-primary);outline-offset:2px}
 /* Recipe chooser (several recipes in one story, or every draft) */
 .picker-group{margin-top:28px}
 .picker-group h2{margin-bottom:12px}

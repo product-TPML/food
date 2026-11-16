@@ -1,0 +1,314 @@
+{
+  "pv-holige-apple": {
+    "lang": "en",
+    "title": "Apple holige",
+    "ingredients": {
+      "apple": "Apple: 2",
+      "sugar": "Sugar: 1/2 cup",
+      "khova": "Khoa: 200 g",
+      "cardamom": "Cardamom powder: 1/2 teaspoon",
+      "maida": "Maida (refined flour): 250 g",
+      "water": "Water: as needed",
+      "turmeric": "Turmeric powder: 1/4 teaspoon",
+      "ghee-filling": "Ghee (for the filling): one tablespoon",
+      "ghee-dough": "Ghee (for the dough mixture): one teaspoon",
+      "ghee-coat": "Ghee (to smear around the kneaded dough): one teaspoon",
+      "salt": "Salt: 1/4 teaspoon",
+      "cooking-fat": "Ghee or oil for cooking the holige: no quantity given"
+    },
+    "actions": {
+      "grated": "Grate the apple and keep it aside",
+      "hot-ghee": "Put one tablespoon of ghee in a pan and heat it",
+      "sauteed": "Add the grated apple to the hot ghee and sauté",
+      "sugar-added": "Then add the sugar",
+      "cardamom-added": "When the sugar melts and begins to thicken, add the cardamom powder",
+      "crumbled-khova": "Crumbled khoa",
+      "khova-added": "Add the crumbled khoa and mix well",
+      "cooling": "When the mixture thickens and reaches a consistency for making balls, take it off the stove, put it on a plate and let it cool",
+      "filling": "Once cooled, make lemon-sized balls (filling)",
+      "dough-mix": "Put the maida in a bowl, add the turmeric, one teaspoon of ghee and the salt, and mix",
+      "kneaded": "Add water to this mixture little by little and knead it softer than chapati dough",
+      "dough": "Then smear one teaspoon of ghee around the kneaded dough and keep it covered for one to two hours (dough)",
+      "stuffed": "Now take dough equal in size to the prepared filling. Flatten the dough, put the filling inside and close it",
+      "rolled": "Roll it out",
+      "cooked": "Once the tava is hot, smear it with ghee or oil and cook the holige on both sides",
+      "serve": "Enjoy the delicious holige with ghee and milk"
+    }
+  },
+  "pv-holige-jackfruit-seed": {
+    "lang": "en",
+    "title": "Jackfruit seed holige",
+    "ingredients": {
+      "seed": "Jackfruit seeds, boiled and powdered: 1 bowl",
+      "coconut": "Finely grated coconut: 1/2 bowl",
+      "jaggery": "Jaggery: 1 bowl",
+      "cardamom": "Cardamom powder: a little",
+      "ghee": "Ghee: 1 spoon",
+      "peni": "Chiroti rava: 1/2 cup",
+      "wheat": "Wheat flour: 1/2 cup",
+      "turmeric": "Turmeric: a little",
+      "salt": "Salt: a little",
+      "oil-dough": "Oil (for the dough): 3 spoons",
+      "water-filling": "Water (for the filling): two spoons",
+      "water-dough": "Water (for the dough): mentioned in the method; no quantity given"
+    },
+    "actions": {
+      "filling-heated": "Add the jackfruit seed powder, jaggery and grated coconut, add two spoons of water, put it on the stove and stir",
+      "filling": "Add the ghee and cardamom powder, stir, and take it off once it thickens a little. The filling is ready.",
+      "dough-mix": "Add the chiroti rava, wheat flour, turmeric and salt, add water and knead like chapati dough",
+      "dough": "Add 3 spoons of oil, knead, and keep it covered for two hours. The dough is ready.",
+      "stuffed": "Take a little dough, flatten it in your hand, place a ball of filling in the middle and close it",
+      "rolled": "Place it on the holige sheet and roll it out",
+      "cooked": "Put it on a hot tava, cook on both sides on a low flame and take it off"
+    }
+  },
+  "pv-holige-beetroot": {
+    "lang": "en",
+    "title": "Beetroot holige",
+    "ingredients": {
+      "beetroot": "Grated beetroot: 3 cups",
+      "copra": "Dry coconut powder: 2 cups",
+      "sugar": "Powdered sugar: 2 cups",
+      "cardamom": "Cardamom powder: 1 spoon",
+      "ghee": "Ghee: 1 cup",
+      "oil": "Oil: 1 cup",
+      "maida": "Maida (refined flour): 2 cups",
+      "chiroti": "Chiroti rava: 1 cup",
+      "salt": "Salt: a pinch (mentioned in the method; not in the list)",
+      "water": "Water: mentioned in the method; no quantity given",
+      "banana-leaf": "Banana leaf: mentioned in the method; no quantity given"
+    },
+    "actions": {
+      "hot-ghee": "Heat the ghee in a pan",
+      "beet-cooked": "Add the grated beetroot and cook",
+      "filling": "Then add the dry coconut powder, powdered sugar and cardamom powder, mix well and take it off the stove",
+      "dough": "Add the chiroti rava, oil, a pinch of salt and water to the maida and knead to a chapati dough consistency",
+      "flattened": "Make small balls from this and flatten them on your palm into a puri shape",
+      "stuffed": "Place the filling in the middle",
+      "rolled": "Roll it out gently on a banana leaf smeared with oil",
+      "cooked": "Smear with ghee, put it on a hot griddle and cook both sides"
+    }
+  },
+  "pv-holige-kobbari-sakkare": {
+    "lang": "en",
+    "title": "Dry coconut and sugar holige",
+    "ingredients": {
+      "coconut": "Grated dry coconut: 1 cup (grated and powdered)",
+      "sugar": "Sugar: 1 cup",
+      "maida-dough": "Maida (for the dough): 1 cup",
+      "maida-filling": "Maida (for the filling, to roast): 2 spoons",
+      "chiroti": "Chiroti rava: 1 cup",
+      "cardamom": "Cardamom powder: a little",
+      "nutmeg": "Nutmeg powder: 1/4 spoon",
+      "ghee-filling": "Ghee (for the filling): 2 spoons",
+      "ghee-dough": "Ghee (for the dough): half a spoon",
+      "salt": "Salt: to taste",
+      "milk": "Milk: 1/4 cup",
+      "rice-flour": "Rice flour: a little",
+      "oil-dough": "Oil (for the dough): one spoon",
+      "oil-soak": "Oil (for soaking): mentioned in the method; no quantity given",
+      "hot-water": "Hot water: a little at a time (mentioned in the method)",
+      "water-sprinkle": "Water (to sprinkle): mentioned in the method; no quantity given"
+    },
+    "actions": {
+      "sugar-powdered": "Grind the sugar finely and put it in a bowl",
+      "mix-1": "Add the sugar, grated coconut, cardamom powder and nutmeg powder and mix",
+      "maida-roasted": "In another vessel, roast 2 spoons of maida",
+      "mix-2": "Add it to that and mix",
+      "ghee-melted": "Heat the pan again, add 2 spoons of ghee and melt it",
+      "mix-3": "Mix it into the sugar and coconut mixture",
+      "filling": "Add a little milk and bind it into balls (filling)",
+      "dough-first": "In a vessel, add the maida, chiroti rava, a pinch of salt, half a spoon of ghee and hot water a little at a time, and prepare the dough",
+      "rest-1": "Keep it covered for half an hour",
+      "kneaded": "After half an hour, sprinkle water on the prepared dough and knead it",
+      "rest-2": "Leave it again for 15 minutes",
+      "dough": "Add one spoon of oil to the dough, knead again and leave it for 2 minutes",
+      "flattened": "Make a ball from the dough and flatten it to the size of your palm",
+      "stuffed": "Place a ball of filling inside it and fold it around",
+      "soaked": "Let it soak in oil",
+      "rolled": "Then roll it out",
+      "cooked": "Once the griddle is hot, cook on both sides"
+    }
+  },
+  "pv-holige-mango": {
+    "lang": "en",
+    "title": "Mango holige",
+    "ingredients": {
+      "pulp": "Mango pulp: 1 cup",
+      "copra": "Grated dry coconut: 1 cup",
+      "jaggery": "Jaggery: 1/4 cup",
+      "cardamom": "Cardamom powder: a little",
+      "salt-filling": "Salt (for the filling): a pinch",
+      "peni": "Chiroti rava: 1/2 cup",
+      "wheat": "Wheat flour: 1/2 cup",
+      "turmeric": "Turmeric: a little",
+      "oil": "Oil: 2 spoons",
+      "salt-dough": "Salt (for the dough): a little",
+      "water-filling": "Water (for the filling): 1 spoon",
+      "water-dough": "Water (for the dough): mentioned in the method; quantity: a little"
+    },
+    "actions": {
+      "copra-powdered": "Grind the dry coconut finely",
+      "blended": "Add the mango pulp to it and grind for one round",
+      "filling-heated": "Add the jaggery, a pinch of salt and the cardamom powder, put it on the stove, add 1 spoon of water and stir",
+      "filling": "Take it off when it thickens. The filling is ready.",
+      "dough-mix": "Add the wheat flour, chiroti rava, salt and turmeric, add a little water and mix; it should be of chapati dough consistency",
+      "dough": "Add oil, knead and keep it covered for 2 hours. The dough is ready.",
+      "stuffed": "Take a little dough, flatten it in your hand, place a ball of filling and close it",
+      "rolled": "Roll it out on the holige sheet",
+      "cooked": "Put it on a hot tava, cook on a low flame and take it off"
+    }
+  },
+  "pv-holige-gasagase": {
+    "lang": "en",
+    "title": "Poppy seed holige",
+    "ingredients": {
+      "poppy": "Poppy seeds: 1 cup",
+      "copra": "Grated dry coconut: 1 cup",
+      "jaggery": "Jaggery: 3/4 cup",
+      "cardamom": "Cardamom powder: a little",
+      "peni": "Chiroti rava: 1/2 cup",
+      "wheat": "Wheat flour: 1/2 cup",
+      "salt": "Salt: a little",
+      "turmeric": "Turmeric: a little",
+      "oil-dough": "Oil (for the dough): three spoons",
+      "water-filling": "Water (for the filling): two spoons",
+      "water-dough": "Water (for the dough): mentioned in the method; quantity: a little"
+    },
+    "actions": {
+      "ground": "Grind the poppy seeds and grated coconut together finely",
+      "filling-heated": "Put it in a thick-bottomed vessel, add the jaggery and cardamom powder, add two spoons of water, put it on the stove and stir",
+      "filling": "Take it off once it thickens. The filling is ready. Make sure no moisture is left in the filling.",
+      "dough-mix": "Add the chiroti rava, wheat flour, a little salt and turmeric, add a little water and knead like chapati dough",
+      "dough": "Add three spoons of oil, knead and keep it covered for two hours. The softer the dough, the easier it is to pat out the holige.",
+      "stuffed": "Fill the dough with the filling as with the other holige",
+      "rolled": "Roll it out",
+      "cooked": "Take it off the griddle when the aroma of the dry coconut spreads"
+    }
+  },
+  "pv-holige-hesarubele": {
+    "lang": "en",
+    "title": "Moong dal holige",
+    "ingredients": {
+      "dal": "Moong dal: 1 cup",
+      "sugar": "Sugar: 1/2 cup",
+      "cardamom": "Cardamom powder: a little",
+      "ghee": "Ghee: 2 spoons",
+      "milk": "Milk: 2 spoons",
+      "peni": "Chiroti rava: 1/2 cup",
+      "wheat": "Wheat flour: 1/2 cup",
+      "salt": "Salt: a little",
+      "turmeric": "Turmeric: a little",
+      "oil-dough": "Oil (for the dough): three spoons",
+      "oil-sheet": "Oil (to apply on the holige sheet): mentioned in the method; no quantity given",
+      "water-dough": "Water (for the dough): mentioned in the method; quantity: a little"
+    },
+    "actions": {
+      "dal-powder": "Roast the moong dal until its colour changes slightly and grind it finely",
+      "sugar-powder": "Powder the sugar",
+      "mix": "Put both in a vessel, add the ghee and mix",
+      "filling": "Add the milk and make it soft. The filling is ready.",
+      "dough-mix": "Add the chiroti rava, wheat flour, a little salt and turmeric, add a little water and knead like chapati dough",
+      "dough": "Add three spoons of oil, knead and keep it covered for two hours. The dough is ready.",
+      "stuffed": "Pat the dough out flat in your hand, place a ball of filling and close it",
+      "rolled": "Apply oil on the holige sheet, place the stuffed ball and roll it out",
+      "cooked": "Put it on a hot tava, cook on a low flame and take it off"
+    }
+  },
+  "pv-holige-paneer": {
+    "lang": "en",
+    "title": "Paneer holige",
+    "ingredients": {
+      "paneer": "Grated paneer: 1 bowl",
+      "khova": "Unsweetened khoa: 1/4 bowl",
+      "sugar": "Powdered sugar: 1/4 bowl",
+      "cardamom": "Cardamom powder: a little",
+      "peni": "Chiroti rava: 1/2 cup",
+      "wheat": "Wheat flour: 1/2 cup",
+      "salt": "Salt: a little",
+      "turmeric": "Turmeric: a little",
+      "oil-dough": "Oil (for the dough): three spoons",
+      "oil-sheet": "Oil (to apply on the holige sheet): mentioned in the method; no quantity given",
+      "water-dough": "Water (for the dough): mentioned in the method; quantity: a little"
+    },
+    "actions": {
+      "filling": "In a vessel, add the grated paneer, khoa, powdered sugar and cardamom powder and mix well. The filling is ready.",
+      "dough-mix": "Add the chiroti rava, wheat flour, a little salt and turmeric, add a little water and knead like chapati dough",
+      "dough": "Add three spoons of oil, knead and keep it covered for two hours. The dough is ready.",
+      "stuffed": "Flatten the dough, fill it with the filling, and fold the dough in like petals of a flower to make a ball",
+      "rolled": "Apply oil on the holige sheet and roll this out. Make sure the edges are thin.",
+      "cooked": "Cook as with the other holige"
+    }
+  },
+  "pv-holige-khova": {
+    "lang": "en",
+    "title": "Khoa holige",
+    "ingredients": {
+      "khova": "Unsweetened khoa: 1 bowl",
+      "jaggery": "Jaggery: 1/4 bowl",
+      "wheat-filling": "Wheat flour (for the filling): 2 spoons",
+      "cardamom": "Cardamom powder: a little",
+      "ghee-roast": "Ghee (to roast the wheat flour): one spoon",
+      "ghee-khova": "Ghee (to fry the khoa): one spoon",
+      "peni": "Chiroti rava: 1/2 cup",
+      "wheat-dough": "Wheat flour (for the dough): 1/2 cup",
+      "salt": "Salt: a little",
+      "turmeric": "Turmeric: a little",
+      "oil-dough": "Oil (for the dough): three spoons",
+      "water-dough": "Water (for the dough): mentioned in the method; quantity: a little"
+    },
+    "actions": {
+      "hot-ghee-1": "Place a thick-bottomed vessel on the stove and, once it is hot, add one spoon of ghee",
+      "wheat-roasted": "Add the wheat flour, roast until the aroma comes, and set it aside",
+      "khova-fried": "In the same vessel add one spoon of ghee, add the khoa and stir",
+      "jaggery-added": "Add the jaggery and cardamom powder, stir and fry",
+      "filling": "Add the wheat flour, stir well and take it off once it thickens a little. The filling is ready.",
+      "dough-mix": "Add the chiroti rava, wheat flour, a little salt and turmeric, add a little water and knead like chapati dough",
+      "dough": "Add three spoons of oil, knead and keep it covered for two hours. The dough is ready.",
+      "stuffed": "When placing the khoa inside the dough, it must be placed in the shape of a ball. Otherwise, the filling will not reach the edges when rolling.",
+      "rolled": "Watch this carefully and roll it out",
+      "cooked": "Put it on a hot griddle and cook on a low flame"
+    }
+  },
+  "pv-holige-instant-shenga": {
+    "lang": "en",
+    "title": "Instant peanut holige",
+    "ingredients": {
+      "peanut": "Peanuts: 2 large spoons each",
+      "sesame": "White sesame seeds: 2 large spoons each",
+      "poppy": "Poppy seeds: 2 large spoons each",
+      "almond": "Almonds: 2 large spoons each",
+      "cashew": "Cashews: 2 large spoons each",
+      "copra": "Grated dry coconut: 2 large spoons each",
+      "gram": "Roasted gram: 2 large spoons each",
+      "rice-flour": "Rice flour: 1 spoon each",
+      "wheat-filling": "Wheat flour (for the filling): 1 spoon each",
+      "jaggery": "Jaggery powder: as much as needed to taste",
+      "cardamom": "Cardamom powder: 1/2 spoon",
+      "ghee-filling": "Ghee (for the filling): 1 spoon",
+      "water-syrup": "Water (for the syrup): just a little (mentioned in the method)",
+      "maida": "Maida: 1 cup",
+      "rava": "Holige rava: 1/2 cup",
+      "ghee-dough": "Ghee (for the dough): 3 to 4 spoons",
+      "turmeric": "Turmeric: a pinch",
+      "salt": "Salt: a pinch",
+      "oil": "Oil: a little"
+    },
+    "actions": {
+      "dough-mix": "Add the maida, rava, turmeric, salt and ghee, knead softly like chapati dough and prepare the dough",
+      "dough-rested": "Add a little oil and leave it to soak for half an hour",
+      "roasted-seeds": "Roast the peanuts, white sesame seeds and poppy seeds to the right level",
+      "warmed-nuts": "Warm the almonds and cashews",
+      "powder": "Once cooled, combine everything with the roasted gram and grated dry coconut and grind finely",
+      "powder-flours": "Add the roasted wheat flour and rice flour to it",
+      "syrup": "Take as much jaggery as there is powder, add just a little water and put it on the stove",
+      "filling-mix": "Once a thin syrup forms, add the prepared powder. Stir well without lumps to prepare the filling, and turn off the stove",
+      "filling": "Add the cardamom powder and 1 spoon of ghee",
+      "dough": "Knead the prepared dough well once more",
+      "stuffed": "Take a lemon-sized portion of filling and stuff it into the dough",
+      "rolled": "Apply oil on the holige paper and pat it out thin or roll it out",
+      "cooked": "Put oil on the tava and cook the rolled holige on both sides until crisp",
+      "serve": "Enjoy with ghee. This holige can be kept for eight days."
+    }
+  }
+}

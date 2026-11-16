@@ -1,0 +1,235 @@
+{
+  "pv-badam-halwa": {
+    "lang": "en",
+    "title": "Almond Halwa (Wheat-Milk Base)",
+    "ingredients": {
+      "wheat": "Wheat: half a kg",
+      "milk": "Milk: half a litre",
+      "ghee": "Ghee: 1/4 kg",
+      "sugar": "Sugar: 3/4 kg",
+      "almond-powder": "Almond powder: 1/4 kg",
+      "almonds": "Almonds: 20",
+      "saffron": "Saffron petals: 1/2 spoon",
+      "cardamom": "Cardamom powder: 1 spoon",
+      "nutmeg": "Nutmeg powder: 1/4 spoon",
+      "soak-water": "Water (for soaking the wheat): mentioned in the method; no quantity given",
+      "saffron-milk": "Hot milk (for soaking the saffron): 2 spoons",
+      "hot-water": "Hot water: a little",
+      "tray-ghee": "Ghee for greasing the plate: mentioned in the method; no quantity given"
+    },
+    "actions": {
+      "soak-wheat": "Soak the cleaned, sorted wheat for 3 days, changing the water every day.",
+      "saffron-soak": "Soak the saffron petals in 2 spoons of hot milk for 15 minutes, then grind.",
+      "grind-wheat": "Now drain the wheat, grind it without adding water, and strain.",
+      "wheat-milk-rest": "Mix in a little hot water, stir, and keep the resulting milk covered for 12 hours.",
+      "hang-mixture": "The next day, pour off the water on top of the milk, tie the remaining thick mixture in a cloth and hang it from a peg.",
+      "syrup": "Boil the sugar and milk in a vessel and keep the syrup ready.",
+      "cook-halwa": "Now add the wheat-milk mixture to the syrup and keep stirring on low heat.",
+      "add-almond-ghee": "Once the halwa thickens, add the almond powder and a little ghee, leave for five minutes, and",
+      "add-flavours": "add the cardamom, nutmeg powder and saffron.",
+      "set-tray": "Pour it onto a plate greased with ghee and spread evenly.",
+      "top-almonds": "Scatter chopped almonds over it.",
+      "shape": "Once cooled, cut it into the shape you want."
+    }
+  },
+  "pv-mango-halwa": {
+    "lang": "en",
+    "title": "Mango Halwa",
+    "ingredients": {
+      "mango": "Well-ripened mangoes: 5",
+      "sugar": "Sugar: 6 spoons",
+      "milk": "Milk: 1/4 L",
+      "ghee": "Ghee: 4 spoons",
+      "cardamom": "Cardamom powder: 1 spoon",
+      "cashew": "Cashews: 20-25",
+      "tray-ghee": "Ghee for greasing the plate: mentioned in the method; no separate quantity given"
+    },
+    "actions": {
+      "dissolve-sugar": "Dissolve the sugar in hot milk,",
+      "add-mango": "then mash the mangoes and add the pulp to it.",
+      "cook": "Add the milk, ghee, cashews and cardamom powder and cook on the stove.",
+      "set-tray": "Once the halwa is cooked to the right consistency, put it on a plate greased with ghee,",
+      "cut": "and cut it into the shape you want."
+    }
+  },
+  "pv-godhi-halwa": {
+    "lang": "en",
+    "title": "Wheat Halwa",
+    "ingredients": {
+      "wheat": "Wheat: 100 g",
+      "sugar": "Sugar: 150 g",
+      "ghee": "Ghee: 75 g",
+      "cashew": "Cashews: 50 g each",
+      "raisins": "Raisins: 50 g each",
+      "saffron-petals": "Saffron petals: 4-5",
+      "cardamom": "Cardamom powder: 1/2 spoon",
+      "lime-juice": "Lime juice: 2 spoons",
+      "saffron-pinch": "Saffron: 1 pinch",
+      "water": "Water: mentioned in the method; no quantity given"
+    },
+    "actions": {
+      "soak-grind": "Soak the wheat for a whole day and grind it smooth,",
+      "wheat-milk": "strain out its milk and keep it covered for one hour.",
+      "fry-nuts": "In ghee heated on the stove, fry the raisins and cashews and set aside.",
+      "syrup": "To the same ghee, add water and sugar and make a thick syrup.",
+      "pour-wheat-milk": "Now pour off the water on top of the wheat milk, stir the remaining milk, pour it into the sugar syrup and keep stirring so that it does not form lumps.",
+      "add-flavours": "Once it thickens, add the saffron, lime juice, raisins and cashews, mix and cook for 5 minutes.",
+      "serve": "Once the halwa leaves the sides of the vessel, put it on a plate and the wheat halwa is ready to enjoy."
+    }
+  },
+  "pv-bakery-style-badusha": {
+    "lang": "en",
+    "title": "Bakery-Style Badusha",
+    "ingredients": {
+      "maida": "Maida (refined flour): 2 cups",
+      "ghee": "Ghee: half a cup",
+      "baking-powder": "Baking powder: half a spoon",
+      "curd": "Curd: half a cup",
+      "baking-soda": "Baking soda: 1 spoon",
+      "sugar": "Sugar: 2 cups",
+      "nuts": "Almonds, pistachios: no quantity given",
+      "cardamom": "Cardamom powder: no quantity given",
+      "saffron": "Saffron: no quantity given",
+      "salt": "Salt: mentioned in the method; a pinch",
+      "water": "Water: mentioned in the method; half a cup",
+      "frying-fat": "Oil or ghee (for frying): mentioned in the method; no quantity given"
+    },
+    "actions": {
+      "dough-mix": "In a vessel, put the maida, baking powder, baking soda, a pinch of salt, half a cup of ghee and chilled curd.",
+      "dough-rest": "Knead the dough lightly and leave it as it is for 30 minutes.",
+      "syrup": "In a vessel, put 2 cups of sugar and half a cup of water and set it to boil.",
+      "syrup-flavour": "When the sugar dissolves and the syrup reaches the right consistency, add the cardamom powder and saffron.",
+      "shape": "Then shape the kneaded dough into balls, hold each in your palm and press slightly, and make one small hole in the middle with your finger.",
+      "fry": "After this, heat oil or ghee in a pan and add the badushas one by one. Cook on low heat until the balls turn golden in colour.",
+      "soak-in-syrup": "Then put the badushas fried in oil directly into the warm sugar syrup. Let them soak in the syrup for 5 minutes so that the syrup is absorbed on both sides.",
+      "garnish": "Then take them out and garnish the badushas with finely chopped almonds and pistachios. Now the badusha is ready to enjoy."
+    }
+  },
+  "pv-haalu-kheeru": {
+    "lang": "en",
+    "title": "Milk Kheer (Vermicelli)",
+    "ingredients": {
+      "vermicelli": "Vermicelli: one cup",
+      "sugar": "Sugar: 2 cups",
+      "milk": "Milk: 2 cups",
+      "almond-powder": "Almond powder: 3 spoons",
+      "raisins": "Raisins: 10",
+      "cashew": "Cashews: 10",
+      "cardamom": "Cardamom powder: a little",
+      "ghee": "Ghee: 1 spoon",
+      "water": "Water: mentioned in the method; two cups"
+    },
+    "actions": {
+      "fry": "Fry the raisins, cashews and vermicelli in ghee and keep aside.",
+      "base": "Then add two cups of water and, when it boils, add the milk, sugar, almond powder and cardamom powder. Once well cooked,",
+      "serve": "add the raisins and cashews fried in ghee, and the milk kheer is ready to enjoy."
+    }
+  },
+  "pv-sabbakki-payasa": {
+    "lang": "en",
+    "title": "Sabudana (Sago) Payasa",
+    "ingredients": {
+      "sabbakki": "Sabudana (sago): one cup",
+      "sugar": "Sugar: 1 cup",
+      "jaggery": "Jaggery: 1 block",
+      "moong-rice": "Moong dal and rice: 1 cup",
+      "almond-powder": "Almond powder: 2 spoons",
+      "poppy": "Poppy seeds: a little",
+      "coconut": "Coconut: half piece",
+      "milk": "Milk: 1 cup",
+      "raisins": "Raisins: 10",
+      "cashew": "Cashews: 10",
+      "cardamom": "Cardamom powder: a little",
+      "water": "Water: mentioned in the method; no quantity given",
+      "ghee": "Ghee: mentioned in the method; no quantity given"
+    },
+    "actions": {
+      "roast-sabbakki": "Roast the sabudana separately on low heat and set aside.",
+      "roast-moong-rice": "Roast the rice and moong dal separately on low heat and set aside.",
+      "roast-poppy": "Roast the poppy seeds separately on low heat and set aside.",
+      "coconut-milk": "Grind the coconut and poppy seeds, and strain out the milk and keep it,",
+      "moong-rice-rava": "Powder the moong dal and rice coarsely.",
+      "boil-rava": "Put water in a vessel and, when it boils, slowly add the moong dal-rice coarse powder and stir so that no lumps form.",
+      "add-sabbakki": "Add the sabudana and cook.",
+      "sweeten": "Add the jaggery, coconut milk, milk, sugar, almond powder and cardamom powder and cook.",
+      "serve": "Then add the raisins and cashews fried in ghee."
+    }
+  },
+  "pv-macaroni-payasa": {
+    "lang": "en",
+    "title": "Macaroni Payasa",
+    "ingredients": {
+      "macaroni": "Macaroni: 50 g",
+      "sugar": "Sugar: 1 glass",
+      "water": "Water: 1 glass",
+      "milk": "Milk: 1 glass",
+      "moong-dal": "Moong dal: 1 cup",
+      "cardamom": "Cardamom: 4",
+      "almond-powder": "Almond powder: 4 spoons",
+      "ghee": "Ghee: no quantity given",
+      "raisins": "Raisins: 15",
+      "cashew": "Cashews: 10"
+    },
+    "actions": {
+      "roast-powder": "Roast the cardamom and moong dal and powder them.",
+      "fry-macaroni": "Put ghee in a pan and fry the macaroni on low heat until it turns brown, and keep aside.",
+      "fry-nuts": "Fry the raisins and cashews in ghee and keep aside.",
+      "boil-powder": "After putting water in a vessel, add the cardamom and moong dal powder and, once it has boiled,",
+      "add-milk-sugar": "add the milk and sugar,",
+      "add-macaroni": "and when it is boiling well, add the fried macaroni. Keep stirring until it is cooked.",
+      "finish": "Once the macaroni is cooked, add the almond powder to it, boil for a couple of minutes and take it off the heat."
+    }
+  },
+  "pv-andhra-nellikayi-pachadi": {
+    "lang": "en",
+    "title": "Andhra-Style Amla (Indian Gooseberry) Pachadi",
+    "ingredients": {
+      "amla": "Amla (Indian gooseberry): half a kg",
+      "tamarind": "Tamarind: 100 g",
+      "chilli-powder": "Chilli powder: 100 g",
+      "salt": "Salt: 100 g",
+      "mustard-powder": "Mustard powder: 30 g",
+      "fenugreek-powder": "Fenugreek powder: 2 spoons",
+      "turmeric": "Turmeric powder: 1 spoon",
+      "oil": "Oil: as much as needed",
+      "garlic": "Garlic: 2 whole bulbs",
+      "dry-chilli": "Dry chillies: 10",
+      "curry-leaves": "Curry leaves: no quantity given",
+      "asafoetida": "Asafoetida: 2 spoons",
+      "hot-water": "Hot water: mentioned in the method; 2 cups"
+    },
+    "actions": {
+      "wash-amla": "First wash the amla well and wipe it completely dry with a cloth.",
+      "soak-tamarind": "Soak the tamarind in 2 cups of hot water for 10 minutes.",
+      "cook-amla": "Put oil in a pan. Then add the amla, deseeded and chopped small, and cook well on low heat.",
+      "masala-mix": "Then, to the vessel with the amla pieces cooked in oil, add the chilli powder, salt, mustard, fenugreek, turmeric powder and tamarind juice, and mix well.",
+      "tempering": "After this, in the same oil in which the amla was cooked, add the mustard seeds, fenugreek, dry chillies, asafoetida and curry leaves and make the tempering.",
+      "fry-garlic": "Add the garlic to this and fry until it changes colour.",
+      "serve": "Once this tempering has cooled completely, pour it over the amla masala mixture and mix well. Now the Andhra-style amla pachadi is ready to enjoy. It can be enjoyed with white rice, dosa, chapati or roti, along with ghee."
+    }
+  },
+  "pv-malnad-chicken-sambar": {
+    "lang": "en",
+    "title": "Malnad Chicken Recipe",
+    "ingredients": {
+      "chicken": "Chicken: 1 kg",
+      "onion": "Onions: 4 to 5",
+      "garlic": "Garlic: 1 handful",
+      "chilli-powder": "Chilli powder or mutton sambar powder: no quantity given",
+      "coriander-powder": "Coriander powder: no quantity given",
+      "turmeric": "Turmeric powder: no quantity given",
+      "green-chilli": "Green chillies: 3 to 4",
+      "coriander-leaves": "Coriander leaves: no quantity given",
+      "salt-marinade": "Salt (for marinating the chicken): a little",
+      "salt": "Salt: to taste",
+      "oil": "Oil: no quantity given"
+    },
+    "actions": {
+      "marinate": "First add a little salt and turmeric powder to the chicken pieces, mix well, and leave to marinate for 15 to 20 minutes.",
+      "fry-base": "Then heat oil in a pan, add finely chopped onions, crushed garlic and green chillies, and fry.",
+      "add-chicken": "Next add the chicken and salt to taste, and sauté until the raw smell goes away.",
+      "add-spices": "Then add the chilli powder or mutton sambar powder and the coriander powder, and cook well on low heat until the oil separates.",
+      "serve": "Finally, sprinkle finely chopped coriander leaves and the tasty Malnad-style chicken recipe is ready. It can be enjoyed with chapati, rice, dosa or roti."
+    }
+  }
+}

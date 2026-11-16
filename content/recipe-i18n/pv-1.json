@@ -1,0 +1,245 @@
+{
+  "pv-dill-thambuli": {
+    "lang": "en",
+    "title": "Dill Leaf Thambuli",
+    "ingredients": {
+      "dill": "Chopped dill leaves: one cup",
+      "curd": "Curd: one cup",
+      "coconut": "Grated coconut: two spoons",
+      "chilli": "Green chilli: 2",
+      "cumin": "Cumin: half a spoon",
+      "ginger": "Ginger: half an inch",
+      "salt": "Salt: to taste",
+      "water": "Water: half a cup (total in the list); for grinding, the method says \"a little water\"",
+      "water-add": "Water (for the curd mixture): as needed",
+      "oil": "Oil: mentioned in the method; no quantity given",
+      "mustard": "Mustard seeds: mentioned in the method; no quantity given",
+      "curry-leaf": "Curry leaves: mentioned in the method; no quantity given",
+      "asafoetida": "Asafoetida: mentioned in the method; no quantity given"
+    },
+    "actions": {
+      "ground": "Put the dill leaves, grated coconut, green chilli, ginger, cumin, salt and a little water in a mixie and grind smooth.",
+      "mixed": "Transfer this mixture to a bowl and add the curd and as much water as needed.",
+      "tempering": "For the tempering, heat oil in a small pot, add mustard seeds, curry leaves and asafoetida, and make the tempering.",
+      "serve": "Enjoy with rice."
+    }
+  },
+  "pv-dill-akki-rotti": {
+    "lang": "en",
+    "title": "Dill Rice-Flour Rotti",
+    "ingredients": {
+      "rice-flour": "Rice flour: one cup",
+      "dill": "Finely chopped dill leaves: half a cup",
+      "onion": "Onion: one",
+      "chilli": "Finely chopped green chilli: two",
+      "salt": "Salt: to taste",
+      "coriander": "Coriander leaves: a little",
+      "water": "Water: mentioned in the method (add a little at a time); no quantity given",
+      "leaf": "Banana leaf or plastic cover: mentioned in the method; no quantity given",
+      "oil-greasing": "Oil (to grease the leaf/cover): mentioned in the method; no quantity given",
+      "oil-top": "Oil (to pour over the tava): a little"
+    },
+    "actions": {
+      "bowl-mix": "Put the rice flour, salt, chopped dill leaves, onion, green chilli and coriander leaves into a bowl.",
+      "dough": "Add water a little at a time and knead the dough soft.",
+      "pressed": "Grease a banana leaf or plastic cover with oil, make a ball of the dough, press it thin by hand and put it on the tava.",
+      "cooked": "Pour a little oil over the top and cook on both sides."
+    }
+  },
+  "pv-masale-kadubu": {
+    "lang": "en",
+    "title": "Dill Masala Kadubu",
+    "ingredients": {
+      "chana-dal": "Chana dal soaked for three hours: one cup",
+      "dill": "Finely chopped dill leaves: three-quarters of a cup",
+      "onion": "Large onion: one",
+      "chilli": "Green chilli: 3-4",
+      "ginger": "Ginger: no quantity given",
+      "salt": "Salt: to taste"
+    },
+    "actions": {
+      "ground": "Put the soaked chana dal in a mixie. Grind coarsely with the green chilli and ginger, without adding water.",
+      "mixed": "Add the chopped onion, dill leaves and salt to this mixture and mix well by hand.",
+      "steamed": "Shape into balls and steam for 15 minutes, and the dill kadubu is ready. Enjoy with coconut chutney and tomato chutney."
+    }
+  },
+  "pv-dill-dal": {
+    "lang": "en",
+    "title": "Dill Dal",
+    "ingredients": {
+      "toor-dal": "Toor dal: half a cup",
+      "dill": "Dill leaves: one bunch",
+      "onion": "Chopped onion: one",
+      "tomato": "Tomato: one",
+      "chilli": "Green chilli: two",
+      "garlic": "Garlic: 3-4 cloves",
+      "turmeric": "Turmeric: a quarter spoon",
+      "salt": "Salt: to taste (total in the list); for cooking the dal, the method says \"a little salt\"",
+      "tamarind": "Tamarind juice: one spoon",
+      "water": "Water: two cups (mentioned in the method)",
+      "fat": "Oil or ghee (for the tempering): no quantity given",
+      "mustard": "Mustard seeds: no quantity given",
+      "cumin": "Cumin: no quantity given",
+      "asafoetida": "Asafoetida: a pinch",
+      "dry-chilli": "Dry red chilli: two",
+      "curry-leaf": "Curry leaves: no quantity given"
+    },
+    "actions": {
+      "boiled-dal": "Add two cups of water, turmeric and a little salt to the toor dal and cook.",
+      "with-veg": "Add the chopped dill leaves, onion, tomato, green chilli and garlic to this and simmer on low heat for five more minutes.",
+      "with-tamarind": "Once the dal is well softened, add the tamarind juice.",
+      "tempering": "Then make a tempering in a pot, and",
+      "serve": "add it to the cooked dal mixture. Enjoy with hot rice, adding ghee."
+    }
+  },
+  "pv-rajasthani-khaja": {
+    "lang": "en",
+    "title": "Rajasthani Khaja",
+    "ingredients": {
+      "maida": "Maida (refined flour): one bowl",
+      "salt": "Salt: a pinch",
+      "ghee-dough": "Ghee (for the dough): two spoons",
+      "ghee-sheets": "Ghee: one bowl (total in the list)",
+      "sugar": "Sugar: one bowl",
+      "water-dough": "Water: one bowl (total in the list)",
+      "water-syrup": "Water (for the sugar syrup): mentioned in the method; no quantity given",
+      "water-seal": "Water (to stick the end): mentioned in the method; no quantity given",
+      "lemon": "Lemon juice: two spoons",
+      "cornflour": "Cornflour: two spoons",
+      "oil": "Oil: no quantity given"
+    },
+    "actions": {
+      "dough": "Add the maida, two spoons of ghee and salt, mix well, add water, knead into a stiff dough and leave to rest for ten minutes.",
+      "syrup": "Add water to the sugar, boil and take it off the heat.",
+      "lemon-syrup": "Add the lemon juice and keep aside.",
+      "rolled": "Divide the dough into five balls and roll out thin.",
+      "brushed": "Melt the ghee, brush it thinly over one sheet, and sprinkle cornflour thinly on top.",
+      "roll-up": "Stack all five sheets one on top of another, roll up lightly into a spiral, and stick the end by smearing it with water.",
+      "cut": "Cut with a knife into one-centimetre pieces.",
+      "fried": "Fry in hot oil until golden.",
+      "dipped": "Once cooled, dip in the sugar syrup and take out."
+    }
+  },
+  "pv-dry-fruits-karjikayi": {
+    "lang": "en",
+    "title": "Dry-Fruit Karjikayi",
+    "ingredients": {
+      "maida": "Maida: one bowl",
+      "rava": "Fine rava: a quarter bowl",
+      "ghee": "Ghee: two spoons",
+      "milk": "Milk: a quarter bowl",
+      "salt": "Salt: a pinch",
+      "copra": "Grated dry coconut: one bowl",
+      "jaggery": "Powdered jaggery: three-quarters of a bowl",
+      "dates": "Finely chopped dates: three-quarters of a bowl",
+      "raisins": "Raisins: three spoons",
+      "seeds-nuts": "Pumpkin seeds, watermelon seeds, muskmelon seeds, almonds, cashews, pistachios: one bowl",
+      "sesame": "White sesame seeds: two spoons",
+      "poppy": "Poppy seeds: two spoons",
+      "cardamom": "Cardamom: no quantity given",
+      "water-seal": "Water (to stick): mentioned in the method; no quantity given",
+      "oil": "Oil for frying: no quantity given"
+    },
+    "actions": {
+      "dough": "Combine the maida, rava, ghee and salt, add milk, knead into a soft dough and set aside.",
+      "crushed": "Except the raisins and dates, warm the remaining dry fruits a little and, once cooled, crush coarsely.",
+      "filling": "Add the dry coconut, powdered jaggery, dates, raisins and cardamom powder to this to prepare the filling.",
+      "rolled": "Knead the maida dough well, make small balls and roll out thin.",
+      "filled": "Place this in the karjikayi mould, add two spoons of filling, and stick the edges by smearing water all around.",
+      "fried": "Now remove from the mould and fry in hot oil until golden."
+    }
+  },
+  "pv-beetroot-barfi": {
+    "lang": "en",
+    "title": "Beetroot Barfi",
+    "ingredients": {
+      "beetroot": "Grated beetroot: one bowl",
+      "coconut": "Grated coconut: one bowl",
+      "water": "Water (for grinding): mentioned in the method; no quantity given",
+      "cornflour": "Cornflour: four spoons",
+      "sugar": "Sugar: one bowl",
+      "ghee-mix": "Ghee (for mixing in): one spoon",
+      "ghee-tray": "Ghee: two spoons (total in the list); for greasing the plate, mentioned in the method"
+    },
+    "actions": {
+      "juice": "Grind the grated beetroot and grated coconut with water and make four bowls of juice.",
+      "boiling": "Add sugar to three bowls of the juice, put it in a pan and place it on the stove to boil.",
+      "slurry": "Add the cornflour to one bowl of the juice, mix without lumps and keep aside.",
+      "thickened": "Once it comes to a good boil, add the juice mixed with cornflour and keep stirring so that it does not stick to the bottom.",
+      "with-ghee": "When it turns thick in ten minutes and starts leaving the bottom, add one spoon of ghee and mix well.",
+      "set": "Pour onto a plate greased with ghee and cut once cooled."
+    }
+  },
+  "pv-rava-chakkuli": {
+    "lang": "en",
+    "title": "Rava Chakkuli",
+    "ingredients": {
+      "rava": "Chiroti rava: one bowl",
+      "water": "Water: two bowls (total in the list)",
+      "water-knead": "Water (to knead the dough): a little",
+      "rice-flour": "Rice flour: two bowls",
+      "ghee": "Ghee: two spoons",
+      "cumin": "Cumin: one spoon",
+      "sesame": "Sesame seeds: two spoons",
+      "asafoetida": "Asafoetida: no quantity given",
+      "salt": "Salt: no quantity given",
+      "chilli-powder": "Chilli powder: mentioned in the method; no quantity given",
+      "oil": "Oil: no quantity given"
+    },
+    "actions": {
+      "boiling-water": "Put water in a pan and set it to boil.",
+      "cooked-rava": "Then add the rava, cook without lumps, add the ghee and leave to cool.",
+      "dry-mix": "In a vessel, put the rice flour, chilli powder, cumin, sesame seeds and salt and mix well.",
+      "dough": "Add the cooked rava to this, add a little water and knead to the consistency of chapati dough.",
+      "fried": "Put it in the chakkuli press, press out the chakkuli and fry in hot oil."
+    }
+  },
+  "pv-seven-cup-barfi": {
+    "lang": "en",
+    "title": "Seven-Cup Barfi",
+    "ingredients": {
+      "flour": "Besan (gram flour): 1 cup",
+      "coconut": "Grated coconut: 1 cup",
+      "sugar": "Sugar: 3 cups",
+      "milk": "Milk: 1 cup",
+      "ghee": "Ghee: 1 cup",
+      "nuts": "Cashews, almonds: as needed",
+      "tray-ghee": "Ghee to grease the plate: mentioned in the method; no separate quantity given"
+    },
+    "actions": {
+      "roasted": "Roast on low heat until fragrant.",
+      "mixture": "Mix well so that no lumps form.",
+      "ground-nuts": "Coarsely crush the cashews and almonds.",
+      "thickened": "Add the powder; cook on medium heat, stirring continuously, until the mixture leaves the bottom of the pan.",
+      "tray": "Grease the plate with ghee beforehand.",
+      "cut": "Pour onto the plate and, once slightly cooled, cut into the desired shape.",
+      "serve": "Once fully cooled, separate the pieces."
+    }
+  },
+  "pv-sabudana-vada": {
+    "lang": "en",
+    "title": "Sabudana Vada",
+    "ingredients": {
+      "sabudana": "Sabudana (sago): 1 cup",
+      "water": "Water for soaking: mentioned in the method; no quantity given",
+      "potato": "Potato: 2",
+      "peanut": "Peanuts: half a cup",
+      "chilli": "Green chilli: 2",
+      "cumin": "Cumin: 1 spoon",
+      "coriander": "Coriander leaves: no quantity given",
+      "lemon": "Lemon juice: 1 spoon",
+      "salt": "Salt to taste",
+      "oil": "Oil: no quantity given"
+    },
+    "actions": {
+      "soaked": "Soak for 4–5 hours and drain the water completely.",
+      "mashed": "Boil and mash; the source article gives no time.",
+      "ground": "Roast and powder; the source article gives no time.",
+      "mixture": "Mix well in a large vessel.",
+      "shaped": "Take a little portion and pat it into a flat vada shape.",
+      "hot-oil": "Heat oil in a pan.",
+      "fried": "Fry on medium heat on both sides until golden and crisp.",
+      "serve": "Enjoy with chutney or curd (optional accompaniments)."
+    }
+  }
+}
