@@ -11,7 +11,7 @@
       for (const entry of entries) entry.isIntersecting ? visible.add(entry.target) : visible.delete(entry.target);
       schedule();
     }, { rootMargin: '160px 0px' });
-    document.querySelectorAll('.art.has-img').forEach(frame => observer.observe(frame));
+    document.querySelectorAll('.art.has-img').forEach(frame => { if (!frame.closest('[data-static]')) observer.observe(frame); }); // [data-static] = photo that must not move
     const rails = [...document.querySelectorAll('.rail')];
 
     function updateRail(rail) {

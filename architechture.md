@@ -17,7 +17,8 @@ Both landings point `data-layout` at the same file, `content/placeholder-landing
 - `common.js`: shared helpers on `window.Food` (`el`, `imageUrl`, `formatDate`, `loadJson`, `loadRecipes`, `picture`, `authorLine`, `plainText`). `loadRecipes` reads `content/recipe-index.json` and merges every listed draft file.
 - `cards.js`: shared builders (`Cards.create(data)`): photo frame, kicker, meta, card, portrait/glass card, rail, and URL helpers (`storyUrl`, `sectionUrl`, `recipeUrl`). Used by `main.js` and `story.js`.
 - `parallax.js`: scroll parallax shared by every page (vertical photo drift, sideways drift inside carousels, masthead photo; cards themselves never move). Skipped for reduced motion.
-- `story.js`: renders `story.html` and `section.html`.
+- `recipe-view.js`: recipe rendering shared by `recipe.html` and story pages (`RecipeView.method` = ingredient grid / nested boxes / list with toggle and print; `RecipeView.card` = the inline recipe card).
+- `story.js`: renders `story.html` and `section.html`. Story hero: the whole photo (never cropped, fitted inside the hero with a blurred copy behind) sits in a fixed layer; the headline scrolls up and the opaque article (`.story-after`) slides over it. A story with a recipe shows the recipe card inline and a "Jump to recipe" button in the hero.
 - `main.js`: landing renderer. Builds modules from the layout JSON: `lead` (hero), `split` (big card with a frosted-glass text panel beside a rail), `portrait` (2:3 cards with text on a gradient), `glass` (4:5 cards with a frosted, square-edged text panel), `cards`, `tabs` (city pill tabs with ARIA tablist and arrow-key support), `list`. Card rails are grids on desktop and scroll-snap carousels below 1024px. Sets the masthead photo from `mastheadImage`.
 - `recipe.js`: recipe renderer. Lays the ingredient/operation tree out as a spanning-cell grid (desktop), nested boxes (phones) and a numbered list; also the chooser.
 

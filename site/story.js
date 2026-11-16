@@ -1,7 +1,7 @@
 /* Food section · story pages (story.html?id=…&b=dh|pv) and "See all" section pages (section.html?m=…&t=…&b=…).
    Same placeholder content as the landing (content/placeholder-landing.json). The brand comes from the &b= parameter. */
 (function () {
-  const { el, imageUrl, loadJson, formatDate } = window.Food;
+  const { el, imageUrl, loadJson, formatDate, loadRecipes, localise } = window.Food;
   const root = document.querySelector('[data-page-root]');
   const page = root.dataset.page;
   const params = new URLSearchParams(location.search);
@@ -36,7 +36,7 @@
     return after.filter(id => data.stories[id].img).slice(0, 5);
   }
 
-  function renderStory() {
+  async function renderStory() {
     const id = params.get('id');
     if (!data.stories[id]) throw new Error(`No story "${id}"`);
     const s = C.story(id), A = data.article[C.lang];
@@ -50,9 +50,35 @@
       el('span', { text: A.minutes }));
     const heroText = el('div', { class: 'story-hero-text' });
     C.put(heroText, el('a', { class: 'back-link', href: C.homeUrl, text: C.T.back }), C.tags(s), el('h1', { class: 'story-title', text: s.title }), s.dek ? el('p', { class: 'story-dek', text: s.dek }) : null, byline);
-    const hero = el('header', { class: 'story-hero' },
-      C.art(s, { shape: 'hero', link: false, eager: true, widths: [800, 1200, 1600, 2000], sizes: '100vw' }),
-      el('div', { class: 'wrap story-hero-wrap' }, heroText));
+    // Curtain: the photo stays fixed in place (a layer behind everything); the headline scrolls up with the page and the article
+    // (.story-after, opaque) slides over the photo, covering it. The photo dims a little as it is covered.
+    // The photo is shown whole (never cropped): it is fitted inside the hero area, and a blurred copy of it fills any space around it.
+    const media = el('div', { class: 'story-hero-media', 'data-static': '' });
+    const [tone1, tone2] = data.tones[s.tone % data.tones.length];
+    media.style.setProperty('--t1', tone1); media.style.setProperty('--t2', tone2);
+    if (s.img) {
+      media.style.setProperty('--blur-img', `url("${imageUrl(s.img, 400)}")`);
+      media.append(el('div', { class: 'story-hero-blur' }), el('img', { class: 'story-hero-img', alt: '', decoding: 'async', fetchpriority: 'high',
+        src: imageUrl(s.img, 1600), srcset: [800, 1200, 1600, 2000].map(w => `${imageUrl(s.img, w)} ${w}w`).join(', '), sizes: '100vw' }));
+    }
+    media.append(el('div', { class: 'story-hero-dim' }));
+    const hero = el('header', { class: 'story-hero' }, media, el('div', { class: 'wrap story-hero-wrap' }, heroText));
+
+    // A story can name a different recipe per brand, so each brand shows a recipe in its own language.
+    const recipeId = s.recipe && typeof s.recipe === 'object' ? s.recipe[brand] : s.recipe;
+    let recipeCard = null;
+    if (recipeId) {
+      const base = (await loadRecipes()).find(r => r.id === recipeId);
+      if (base) {
+        const recipe = localise(base, C.lang) || base;
+        recipeCard = window.RecipeView.card(recipe, window.RecipeView.STRINGS[recipe.language], { href: C.recipeUrl(recipeId), kicker: s.cat || C.T.cookTitle });
+      }
+    }
+
+    // Top of the article: a button that jumps straight to the recipe card further down.
+    if (recipeCard) {
+      heroText.append(el('a', { class: 'jump-recipe', href: '#recipe' }, el('span', { text: C.T.jumpRecipe }), el('span', { class: 'jump-arrow', 'aria-hidden': 'true', text: '↓' })));
+    }
 
     const first = el('article', { class: 'story-col' });
     const col = el('div', { class: 'story-col' });
@@ -61,15 +87,7 @@
     const photoBreak = el('figure', { class: 'story-break' }, C.art(breakStory, { shape: 'wide2', link: false, widths: [800, 1200, 1600, 2000], sizes: '100vw' }),
       el('figcaption', { class: 'wrap', text: A.caption }));
     col.append(el('h2', { class: 'story-sub', text: A.sub }), p(A.paras[3]));
-    // A story can name a different recipe per brand, so each brand opens a recipe in its own language.
-    const recipeId = s.recipe && typeof s.recipe === 'object' ? s.recipe[brand] : s.recipe;
-    if (recipeId) {
-      col.append(el('aside', { class: 'recipe-cta' },
-        el('p', { class: 'tags' }, el('span', { class: 'tag tag-recipe', text: s.cat || C.T.kinds.restaurant })),
-        el('h2', { text: C.T.cookTitle }), el('p', { text: C.T.cookText }),
-        el('a', { class: 'button', href: C.recipeUrl(recipeId), text: `${C.T.cookButton} →` })));
-    }
-    col.append(p(A.paras[4]));
+    const tail = el('div', { class: 'story-col' }, p(A.paras[4]));
 
     const copy = el('button', { type: 'button', class: 'share-btn', text: C.T.copyLink });
     copy.addEventListener('click', async () => {
@@ -77,19 +95,29 @@
       setTimeout(() => { copy.textContent = C.T.copyLink; }, 2200);
     });
     const whatsapp = el('a', { class: 'share-btn', href: `https://wa.me/?text=${encodeURIComponent(`${s.title} ${location.href}`)}`, target: '_blank', rel: 'noopener noreferrer', text: C.T.whatsapp });
-    col.append(el('div', { class: 'share' }, el('span', { text: C.T.share }), copy, whatsapp));
+    tail.append(el('div', { class: 'share' }, el('span', { text: C.T.share }), copy, whatsapp));
 
     const moreSection = el('section', { class: 'module story-more', 'aria-labelledby': 'more-title' },
       el('div', { class: 'wrap' },
         el('div', { class: 'module-head' }, el('h2', { id: 'more-title', text: C.T.moreFrom })),
         C.rail('pcards cols-5', C.T.moreFrom, more.map(C.story).map(x => C.portraitCard(x)))));
 
-    root.replaceChildren(hero, el('div', { class: 'wrap story-body' }, first), photoBreak, el('div', { class: 'wrap story-body' }, col), moreSection);
+    root.replaceChildren(hero, el('div', { class: 'story-after' }, el('div', { class: 'wrap story-body' }, first), photoBreak, el('div', { class: 'wrap story-body' }, col),
+      recipeCard ? el('div', { class: 'wrap story-recipe' }, recipeCard) : null, el('div', { class: 'wrap story-body' }, tail), moreSection));
 
     const bar = el('div', { class: 'progress', 'aria-hidden': 'true' });
     document.body.prepend(bar);
     const tick = () => { const max = document.documentElement.scrollHeight - innerHeight; bar.style.transform = `scaleX(${max > 0 ? Math.min(1, scrollY / max) : 0})`; };
     addEventListener('scroll', tick, { passive: true }); addEventListener('resize', tick); tick();
+
+    // The fixed photo sits just below the sticky header; measure the header so the two line up at every width.
+    const header = document.querySelector('.top');
+    const place = () => {
+      document.documentElement.style.setProperty('--hh', `${header.offsetHeight}px`);
+      const covered = Math.max(0, Math.min(1, scrollY / Math.max(1, hero.offsetHeight)));
+      media.style.setProperty('--dim', (covered * 0.78).toFixed(3));
+    };
+    addEventListener('scroll', place, { passive: true }); addEventListener('resize', place); place();
   }
 
   // ---- "See all" section page --------------------------------------------
@@ -113,7 +141,7 @@
       data = await loadJson('content/placeholder-landing.json');
       C = window.Cards.create(data);
       chrome();
-      if (page === 'story') renderStory(); else renderSection();
+      if (page === 'story') await renderStory(); else renderSection();
       window.Parallax.init();
     } catch (error) {
       console.error(error);

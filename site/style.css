@@ -247,10 +247,14 @@ a.section-name{text-decoration:none}
 a.section-name:hover{text-decoration:underline}
 .progress{position:fixed;top:0;left:0;right:0;height:5px;z-index:300;background:linear-gradient(90deg,var(--brand-primary),var(--brand-highlight));transform:scaleX(0);transform-origin:left}
 .ar-hero{--ar:16/9}
-.story-hero{position:relative;color:#fff;background:#000}
-.story-hero>.art{aspect-ratio:auto;height:clamp(460px,80vh,780px)}
-.story-hero:after{content:"";position:absolute;inset:0;z-index:2;pointer-events:none;background:linear-gradient(to top,rgb(0 0 0/.9) 0%,rgb(0 0 0/.58) 40%,rgb(0 0 0/.12) 72%,rgb(0 0 0/.4) 100%)}
-.story-hero-wrap{position:absolute;left:0;right:0;bottom:0;z-index:3;margin:0 auto;padding-bottom:clamp(24px,5vw,60px)}
+.story-hero{position:relative;height:clamp(460px,80vh,780px);color:#fff}
+/* The photo layer is fixed under the header, so it never moves; everything after the hero (.story-after) is opaque and scrolls over it. */
+.story-hero-media{position:fixed;left:0;right:0;top:var(--hh,104px);height:clamp(460px,80vh,780px);z-index:0;overflow:hidden;background:linear-gradient(145deg,var(--t1,#444),var(--t2,#222))}
+.story-hero-blur{position:absolute;inset:-40px;background:var(--blur-img) center/cover;filter:blur(30px) brightness(.62) saturate(1.3)}
+.story-hero-img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
+.story-hero-dim{position:absolute;inset:0;z-index:2;pointer-events:none;background:linear-gradient(to top,rgb(0 0 0/.9) 0%,rgb(0 0 0/.58) 40%,rgb(0 0 0/.22) 72%,rgb(0 0 0/.45) 100%);box-shadow:inset 0 0 0 100vmax rgb(0 0 0/var(--dim,0))}
+.story-after{position:relative;z-index:1;background:var(--paper);box-shadow:0 -18px 40px rgb(0 0 0/.35)}
+.story-hero-wrap{position:absolute;left:0;right:0;bottom:0;z-index:3;margin:0 auto;padding-bottom:clamp(24px,5vw,60px);text-shadow:0 2px 14px rgb(0 0 0/.55)}
 .story-hero-text{max-width:900px}
 .story-hero .tag{color:#fff}
 .story-title{margin:6px 0 14px;font:800 clamp(2.2rem,6.2vw,4.8rem)/1.02 var(--font-headline)}
@@ -276,10 +280,6 @@ a.section-name:hover{text-decoration:underline}
 .story-break .art{aspect-ratio:auto;height:clamp(300px,54vh,580px)}
 .story-break figcaption{padding-top:10px;color:var(--muted);font-size:13px}
 
-.recipe-cta{margin:2.4em 0;padding:clamp(20px,3vw,34px);background:var(--card);border-top:6px solid var(--brand-highlight);box-shadow:0 12px 32px rgb(0 0 0/.14)}
-.recipe-cta h2{margin:4px 0 8px;font:800 clamp(1.5rem,3vw,2.1rem)/1.1 var(--font-headline)}
-.recipe-cta p{margin:0 0 16px;font-size:1rem;line-height:1.6;color:#3f484c}
-.recipe-cta .tags{margin-bottom:4px}
 
 .share{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:2.4em;padding-top:20px;border-top:3px solid var(--ink);font:600 15px var(--font-subhead)}
 .share-btn{display:inline-flex;align-items:center;min-height:44px;padding:0 18px;border:2px solid var(--ink);background:transparent;color:var(--ink);font:600 14px var(--font-subhead);text-decoration:none;cursor:pointer;transition:background .2s,color .2s}
@@ -289,6 +289,21 @@ a.section-name:hover{text-decoration:underline}
 .story-more{margin-top:clamp(32px,6vw,72px);background:var(--band);border-top:0}
 .section-page{padding-top:clamp(20px,3vw,36px);padding-bottom:clamp(40px,6vw,72px)}
 .section-back{margin-bottom:14px}
+
+.jump-recipe{display:inline-flex;align-items:center;gap:10px;min-height:48px;margin-top:20px;padding:0 22px;background:var(--brand-highlight);color:var(--ink);text-decoration:none;font:700 15px var(--font-subhead);text-shadow:none;box-shadow:0 6px 18px rgb(0 0 0/.35);transition:transform .2s,background .2s}
+.jump-recipe:hover{background:#fff;transform:translateY(2px)}
+.jump-recipe:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.jump-arrow{display:inline-block;font-size:18px;line-height:1;animation:jump-bob 1.6s ease-in-out infinite}
+@keyframes jump-bob{0%,100%{transform:translateY(-1px)}50%{transform:translateY(3px)}}
+@media(prefers-reduced-motion:reduce){.jump-arrow{animation:none}.jump-recipe{transition:none}}
+/* Inline recipe card on a story page: the full ingredient grid, in a wide white card that breaks out of the reading column. */
+.story-recipe{margin:clamp(28px,5vw,60px) auto;max-width:1180px}
+.recipe-card{padding:clamp(18px,3vw,38px);background:var(--card);border-top:7px solid var(--brand-highlight);box-shadow:0 16px 40px rgb(0 0 0/.16)}
+.recipe-card .recipe-card-title{margin:6px 0 4px;font:800 clamp(1.8rem,4.2vw,3rem)/1.05 var(--font-headline)}
+.brand-pv .recipe-card .recipe-card-title{line-height:1.3}
+.recipe-card .tags{margin-bottom:2px}
+.recipe-card .method{margin-top:22px}
+.recipe-card-link{margin-top:18px}
 
 /* Reserved ad positions. Empty until the publisher's ad integration is wired in. Never place inside a recipe grid. */
 .ad-slot{display:none;margin:8px auto;min-height:90px;align-items:center;justify-content:center;border:1px dashed var(--line);color:var(--muted);font-size:11px;text-transform:uppercase}
@@ -306,8 +321,8 @@ body.show-ad-slots .ad-slot{display:flex}
 .facts dt{font-size:12px;text-transform:uppercase;color:var(--muted)}
 .facts dd{font-family:var(--font-subhead);font-weight:var(--sub-weight);margin-bottom:4px}
 .draft-note{margin-top:16px;padding:10px 14px;background:#fff4d6;border-left:4px solid var(--brand-highlight);font-size:14px}
-.recipe h2{font:var(--head-weight) 1.5rem/1.2 var(--font-headline)}
-.recipe h3{font:var(--head-weight) 1.2rem/1.2 var(--font-headline);margin:20px 0 10px}
+.recipe h2,.recipe-card h2{font:var(--head-weight) 1.5rem/1.2 var(--font-headline)}
+.recipe h3,.recipe-card h3{font:var(--head-weight) 1.2rem/1.2 var(--font-headline);margin:20px 0 10px}
 .method{margin-top:28px}
 .method-head{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px}
 .toggle{display:flex;gap:6px;flex-wrap:wrap}

@@ -58,7 +58,8 @@
    "moreFrom": "More from Food",
    "sectionIntro": "Restaurants and food experiences",
    "notFound": "This story could not be found.",
-   "storyTitleSuffix": ""
+   "storyTitleSuffix": "",
+   "jumpRecipe": "Jump to recipe"
   },
   "kn": {
    "title": "ಸವಿರುಚಿ",
@@ -83,7 +84,8 @@
    "moreFrom": "ಆಹಾರ ವಿಭಾಗದಿಂದ ಇನ್ನಷ್ಟು",
    "sectionIntro": "ರೆಸ್ಟೋರೆಂಟ್ ಮತ್ತು ಆಹಾರ ಅನುಭವಗಳು",
    "notFound": "ಈ ಬರಹ ಸಿಗಲಿಲ್ಲ.",
-   "storyTitleSuffix": ""
+   "storyTitleSuffix": "",
+   "jumpRecipe": "ರೆಸಿಪಿಗೆ ಹೋಗಿ"
   }
  },
  "modules": [

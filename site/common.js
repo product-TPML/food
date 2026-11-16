@@ -21,7 +21,8 @@
   }
 
   function imageUrl(key, width, ratio) {
-    return `${IMG_HOST}${key}?w=${width}&ar=${ratio}&auto=format`;
+    // No ratio = the whole photo, uncropped.
+    return ratio ? `${IMG_HOST}${key}?w=${width}&ar=${ratio}&auto=format` : `${IMG_HOST}${key}?w=${width}&auto=format`;
   }
 
   function picture(story, { ratio = '3:2', widths = [400, 640, 960, 1280], sizes, eager = false, width = 640, height = 427 } = {}) {
