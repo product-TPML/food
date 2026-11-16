@@ -191,8 +191,8 @@
    "ad": "after-cities"
   },
   {
-   "id": "stories",
-   "type": "cards",
+   "id": "food-stories",
+   "type": "glass",
    "nav": {
     "en": "Food stories",
     "kn": "ಆಹಾರ ಕಥೆಗಳು"
@@ -408,7 +408,7 @@
    "img": "deccanherald/2026-11-06/l84h3828/file88bro25sdpj1cuj505zu.jpeg"
   },
   "s1": {
-   "shape": "square",
+   "shape": "portrait",
    "tone": 2,
    "date": "2026-10-29",
    "en": {
@@ -424,7 +424,7 @@
    "img": "prajavani/2026-10-31/2xew2kgr/1e4d9f9add911e58a998c1f2766f7c898b79d5df2eda21a116c9ac0e3a9d1023_t3.jpg"
   },
   "s2": {
-   "shape": "wide2",
+   "shape": "portrait",
    "tone": 3,
    "date": "2026-10-28",
    "en": {
@@ -442,7 +442,7 @@
    "img": "deccanherald/2026-10-17/kmwipmgk/file880deydukhw1e5currwz.jpg"
   },
   "s3": {
-   "shape": "square",
+   "shape": "portrait",
    "tone": 4,
    "date": "2026-10-27",
    "en": {
@@ -458,7 +458,7 @@
    "img": "prajavani/2026-10-17/48utdkd8/file.webp"
   },
   "s4": {
-   "shape": "square",
+   "shape": "portrait",
    "tone": 5,
    "date": "2026-10-26",
    "en": {

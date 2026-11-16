@@ -55,12 +55,13 @@
   }
 
   // Full-bleed portrait card, text on a dark gradient at the bottom (The Hindu style).
-  function portraitCard(s, level = 3) {
+  // glass: a 4:5 card whose text sits in a frosted, translucent panel over the photo instead of a dark gradient.
+  function portraitCard(s, { level = 3, glass = false } = {}) {
     const link = el('a', { class: 'pcard-link', href: '#', 'data-placeholder': '' });
     const text = el('div', { class: 'pcard-text' });
     put(text, tags(s), el(`h${level}`, { class: 'headline', text: s.title }), meta(s));
-    link.append(art(s, { shape: 'tall', link: false }), text);
-    return el('article', { class: 'pcard' }, link);
+    link.append(art(s, { shape: glass ? 'portrait' : 'tall', link: false }), text);
+    return el('article', { class: glass ? 'pcard pcard--glass' : 'pcard' }, link);
   }
 
   // A row of cards: a grid on desktop, a swipeable scroll-snap carousel below 1024px.
@@ -130,6 +131,7 @@
     if (module.type === 'lead') section.append(lead(ids, 3, 'hero'));
     else if (module.type === 'split') section.append(lead(ids, 3, 'split'));
     else if (module.type === 'portrait') section.append(rail('pcards cols-5', title, ids.map(story).map(s => portraitCard(s))));
+    else if (module.type === 'glass') section.append(rail('pcards cols-4', title, ids.map(story).map(s => portraitCard(s, { glass: true }))));
     else if (module.type === 'tabs') section.append(tabs(module, title));
     else if (module.type === 'list') section.append(list(ids));
     else section.append(rail(`cols-${Math.min(ids.length, 4)}`, title, ids.map(story).map(s => card(s))));

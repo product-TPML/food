@@ -13,7 +13,7 @@ Both landings point `data-layout` at the same file, `content/placeholder-landing
 
 ## Scripts (`site/`)
 - `common.js`: shared helpers on `window.Food` (`el`, `imageUrl`, `formatDate`, `loadJson`, `loadRecipes`, `picture`, `authorLine`, `plainText`). `loadRecipes` reads `content/recipe-index.json` and merges every listed draft file.
-- `main.js`: landing renderer. Builds modules from the layout JSON: `lead` (hero), `split`, `portrait` (2:3 cards with text on a gradient), `cards`, `tabs` (city pill tabs with ARIA tablist and arrow-key support), `list`. Card rails are grids on desktop and scroll-snap carousels below 1024px. Sets the masthead photo from `mastheadImage`. Placeholder links are inert (`data-placeholder`).
+- `main.js`: landing renderer. Builds modules from the layout JSON: `lead` (hero), `split` (big card with a frosted-glass text panel beside a rail), `portrait` (2:3 cards with text on a gradient), `glass` (4:5 cards with a frosted, square-edged text panel), `cards`, `tabs` (city pill tabs with ARIA tablist and arrow-key support), `list`. Card rails are grids on desktop and scroll-snap carousels below 1024px. Sets the masthead photo from `mastheadImage`. Placeholder links are inert (`data-placeholder`).
 - `recipe.js`: recipe renderer. Lays the ingredient/operation tree out as a spanning-cell grid (desktop), nested boxes (phones) and a numbered list; also the chooser.
 
 ## Styles (`site/style.css`)
