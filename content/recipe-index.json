@@ -1,0 +1,10 @@
+{
+  "note": "Recipe draft files, in display order. Each holds {recipes:[...]} in the tabular notation of tabular-recipe-drafts.json.",
+  "files": [
+    "tabular-recipe-drafts.json",
+    "recipe-drafts/dh-mocktails.json",
+    "recipe-drafts/pv-dill-and-sweets.json",
+    "recipe-drafts/pv-holige.json",
+    "recipe-drafts/pv-mixed.json"
+  ]
+}

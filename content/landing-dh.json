@@ -1,0 +1,93 @@
+{
+  "brand": "DH",
+  "lang": "en",
+  "locale": "en-IN",
+  "status": "Editorial placement draft. Story ids are prefixes of ids in landing-shortlist.json. Not editor-approved.",
+  "strings": {
+    "title": "Food",
+    "descriptor": "Recipes, regional kitchens, eating out and the stories behind what we eat.",
+    "skip": "Skip to stories",
+    "navLabel": "Food sections",
+    "recipe": "Recipe",
+    "video": "Video",
+    "premium": "Premium",
+    "by": "By",
+    "stepByStep": "Step-by-step recipe",
+    "readStory": "Read the story",
+    "newTab": "(opens in a new tab)",
+    "allFood": "All food stories on Deccan Herald",
+    "allFoodUrl": "https://www.deccanherald.com/lifestyle/food-and-drink",
+    "adLabel": "Advertisement",
+    "loadError": "Stories could not be loaded. Please try again later.",
+    "stepByStepMany": "{n} step-by-step recipes"
+  },
+  "modules": [
+    {
+      "id": "top",
+      "type": "lead",
+      "title": "Top story",
+      "hideTitle": true,
+      "stories": [
+        "4682d526",
+        "812d9cb4",
+        "20cd2245"
+      ],
+      "ad": "after-lead"
+    },
+    {
+      "id": "cook",
+      "type": "recipe-feature",
+      "nav": "Cook",
+      "title": "Cook something",
+      "intro": "A written recipe, with a step-by-step view you can follow at the stove.",
+      "stories": [
+        "05caadb6"
+      ]
+    },
+    {
+      "id": "regional",
+      "type": "split",
+      "nav": "Regional tables",
+      "title": "Regional tables",
+      "intro": "Sweets, grains and heritage from across Karnataka and India.",
+      "stories": [
+        "1da988a7",
+        "e672dfd8",
+        "719198e4"
+      ],
+      "ad": "after-regional"
+    },
+    {
+      "id": "eating-out",
+      "type": "cards",
+      "nav": "Eating out",
+      "title": "Eating out",
+      "stories": [
+        "4e85ebc5",
+        "dbde44bf"
+      ]
+    },
+    {
+      "id": "stories",
+      "type": "cards",
+      "nav": "Food stories",
+      "title": "Food stories",
+      "intro": "People, history and travel on the plate.",
+      "stories": [
+        "c8fa8b9e",
+        "c4887139",
+        "8949c12b"
+      ],
+      "ad": "after-stories"
+    },
+    {
+      "id": "more",
+      "type": "list",
+      "title": "More to read",
+      "stories": [
+        "461d32f1"
+      ]
+    }
+  ],
+  "mastheadImage": "8949c12b"
+}

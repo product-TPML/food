@@ -1,0 +1,1605 @@
+{
+  "status": "Editorial drafts; not cooking-tested or publication approved",
+  "recipes": [
+    {
+      "id": "pv-holige-apple",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಸೇಬು ಹಣ್ಣಿನ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Apple holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "apple",
+          "ಸೇಬುಹಣ್ಣು: 2"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 1/2 ಕಪ್"
+        ],
+        [
+          "khova",
+          "ಕೋವಾ: 200 ಗ್ರಾಂ"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿಪುಡಿ: 1/2 ಟೀ ಚಮಚ"
+        ],
+        [
+          "maida",
+          "ಮೈದಾಹಿಟ್ಟು: 250 ಗ್ರಾಂ"
+        ],
+        [
+          "water",
+          "ನೀರು: ಬೇಕಾದಷ್ಟು"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಸಿನ ಪುಡಿ: 1/4 ಟೀ ಚಮಚ"
+        ],
+        [
+          "ghee-filling",
+          "ತುಪ್ಪ (ಹೂರಣಕ್ಕೆ): ಒಂದು ಟೇಬಲ್ ಚಮಚ"
+        ],
+        [
+          "ghee-dough",
+          "ತುಪ್ಪ (ಕಣಕದ ಮಿಶ್ರಣಕ್ಕೆ): ಒಂದು ಟೀ ಚಮಚ"
+        ],
+        [
+          "ghee-coat",
+          "ತುಪ್ಪ (ಕಲೆಸಿದ ಹಿಟ್ಟಿನ ಸುತ್ತ ಸವರಲು): ಒಂದು ಟೀ ಚಮಚ"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: 1/4 ಟೀ ಚಮಚ"
+        ],
+        [
+          "cooking-fat",
+          "ಹೋಳಿಗೆ ಬೇಯಿಸಲು ತುಪ್ಪ ಅಥವಾ ಎಣ್ಣೆ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "grated",
+          "inputs": [
+            "apple"
+          ],
+          "action": "ಸೇಬುಹಣ್ಣನ್ನು ತುರಿದಿಟ್ಟುಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "hot-ghee",
+          "inputs": [
+            "ghee-filling"
+          ],
+          "action": "ಬಾಣಲೆಯಲ್ಲಿ ಒಂದು ಟೇಬಲ್ ಚಮಚ ತುಪ್ಪ ಹಾಕಿ ಬಿಸಿ ಮಾಡಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "sauteed",
+          "inputs": [
+            "grated",
+            "hot-ghee"
+          ],
+          "action": "ಬಿಸಿಯಾದ ತುಪ್ಪಕ್ಕೆ ಸೇಬು ತುರಿ ಸೇರಿಸಿ ಬಾಡಿಸಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "sugar-added",
+          "inputs": [
+            "sauteed",
+            "sugar"
+          ],
+          "action": "ನಂತರ ಸಕ್ಕರೆ ಸೇರಿಸಿ"
+        },
+        {
+          "id": "cardamom-added",
+          "inputs": [
+            "sugar-added",
+            "cardamom"
+          ],
+          "action": "ಸಕ್ಕರೆ ಕರಗಿ ಗಟ್ಟಿಯಾಗುತ್ತಾ ಬರುವಾಗ ಏಲಕ್ಕಿ ಪುಡಿ ಸೇರಿಸಿ"
+        },
+        {
+          "id": "crumbled-khova",
+          "inputs": [
+            "khova"
+          ],
+          "action": "ಪುಡಿ ಮಾಡಿಕೊಂಡ ಕೋವಾ"
+        },
+        {
+          "id": "khova-added",
+          "inputs": [
+            "cardamom-added",
+            "crumbled-khova"
+          ],
+          "action": "ಪುಡಿ ಮಾಡಿಕೊಂಡ ಕೋವಾವನ್ನು ಸೇರಿಸಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ"
+        },
+        {
+          "id": "cooling",
+          "inputs": [
+            "khova-added"
+          ],
+          "action": "ಮಿಶ್ರಣವು ಗಟ್ಟಿಯಾಗುತ್ತಾ ಉಂಡೆ ಮಾಡುವ ಹದ ಬಂದಾಗ ಒಲೆಯಿಂದ ಇಳಿಸಿ, ತಟ್ಟೆಗೆ ಹಾಕಿ ಆರಲು ಬಿಡಿ"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "cooling"
+          ],
+          "action": "ಆರಿದ ನಂತರ ನಿಂಬೆ ಗಾತ್ರದ ಉಂಡೆಗಳನ್ನು ತಯಾರಿಸಿಡಿ (ಹೂರಣ)"
+        },
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "maida",
+            "turmeric",
+            "ghee-dough",
+            "salt"
+          ],
+          "action": "ಒಂದು ಬೌಲ್‌ನಲ್ಲಿ ಮೈದಾಹಿಟ್ಟನ್ನು ಹಾಕಿ ಅದಕ್ಕೆ ಅರಿಸಿನ, ಒಂದು ಟೀ ಚಮಚ ತುಪ್ಪ ಮತ್ತು ಉಪ್ಪನ್ನು ಸೇರಿಸಿ ಮಿಶ್ರಣ ಮಾಡಿ"
+        },
+        {
+          "id": "kneaded",
+          "inputs": [
+            "dough-mix",
+            "water"
+          ],
+          "action": "ಈ ಮಿಶ್ರಣಕ್ಕೆ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪವೇ ನೀರನ್ನು ಹಾಕಿಕೊಳ್ಳುತ್ತಾ ಚಪಾತಿ ಹಿಟ್ಟಿಗಿಂತಲೂ ಮೃದುವಾಗಿ ಕಲೆಸಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "kneaded",
+            "ghee-coat"
+          ],
+          "action": "ನಂತರ ಕಲೆಸಿದ ಹಿಟ್ಟಿನ ಸುತ್ತಲೂ ಒಂದು ಟೀ ಚಮಚ ತುಪ್ಪವನ್ನು ಸವರಿ ಅದನ್ನು ಒಂದರಿಂದ ಎರಡು ಗಂಟೆಗಳ ಮುಚ್ಚಿಡಿ (ಕಣಕ)"
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "filling",
+            "dough"
+          ],
+          "action": "ಈಗ ತಯಾರಿಸಿದ ಹೂರಣದ ಗಾತ್ರದಷ್ಟೇ ಕಣಕವನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಕಣಕವನ್ನು ಚಪ್ಪಟೆ ಮಾಡಿ ಅದರೊಳಗೆ ಹೂರಣವನ್ನು ಹಾಕಿ ಮುಚ್ಚಿ"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed"
+          ],
+          "action": "ಲಟ್ಟಿಸಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled",
+            "cooking-fat"
+          ],
+          "action": "ತವಾ ಬಿಸಿಯಾದ ಮೇಲೆ ತುಪ್ಪ ಅಥವಾ ಎಣ್ಣೆ ಸವರಿ ಹೋಳಿಗೆಯನ್ನು ಎರಡೂ ಕಡೆ ಬೇಯಿಸಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "cooked"
+          ],
+          "action": "ರುಚಿಕರವಾದ ಹೋಳಿಗೆಯನ್ನು ತುಪ್ಪ, ಹಾಲಿನೊಂದಿಗೆ ಸವಿಯಿರಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "Ingredient list gives ತುಪ್ಪ as 2 ಟೀ ಚಮಚ, but the method quotes one ಟೇಬಲ್ ಚಮಚ for the filling plus one ಟೀ ಚಮಚ in the dough mix plus one ಟೀ ಚಮಚ smeared around the dough; the quantities do not reconcile and are recorded as the method states them.",
+        "ಚಮಚ/ಟೀ ಚಮಚ/ಟೇಬಲ್ ಚಮಚ spoon sizes are as in source; no conversion done.",
+        "Water quantity is only ಬೇಕಾದಷ್ಟು (ಸ್ವಲ್ಪ ಸ್ವಲ್ಪವೇ in method).",
+        "Cooking fat (ತುಪ್ಪ ಅಥವಾ ಎಣ್ಣೆ) quantity and choice not given.",
+        "Source says ಒಂದರಿಂದ ಎರಡು ಗಂಟೆಗಳ ಮುಚ್ಚಿಡಿ (apparent typo for ಗಂಟೆಗಳ ಕಾಲ); kept verbatim.",
+        "Cooking time and heat level for the tava are not stated; yield and total time absent.",
+        "Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-jackfruit-seed",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಹಲಸಿನ ಬೀಜದ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Jackfruit seed holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "seed",
+          "ಹಲಸಿನ ಬೀಜ ಬೇಯಿಸಿ ಪುಡಿಮಾಡಿ ಕೊಂಡಿದ್ದು: 1 ಬಟ್ಟಲು"
+        ],
+        [
+          "coconut",
+          "ಸಣ್ಣಗೆ ತುರಿದ ಕಾಯಿತುರಿ: 1/2 ಬಟ್ಟಲು"
+        ],
+        [
+          "jaggery",
+          "ಬೆಲ್ಲ: 1 ಬಟ್ಟಲು"
+        ],
+        [
+          "cardamom",
+          "ಎಲಕ್ಕಿ ಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: 1 ಚಮಚ"
+        ],
+        [
+          "peni",
+          "ಪೇಣಿರವೆ: 1/2ಕಪ್"
+        ],
+        [
+          "wheat",
+          "ಗೋಧಿಹಿಟ್ಟು: 1/2ಕಪ್"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಶಿನ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "oil-dough",
+          "ಎಣ್ಣೆ (ಕಣಕಕ್ಕೆ): 3 ಚಮಚ"
+        ],
+        [
+          "water-filling",
+          "ನೀರು (ಹೂರಣಕ್ಕೆ): ಎರಡು ಚಮಚ"
+        ],
+        [
+          "water-dough",
+          "ನೀರು (ಕಣಕಕ್ಕೆ): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "filling-heated",
+          "inputs": [
+            "seed",
+            "jaggery",
+            "coconut",
+            "water-filling"
+          ],
+          "action": "ಹಲಸಿನ ಬೀಜದಪುಡಿ, ಬೆಲ್ಲ, ಕಾಯಿತುರಿ ಹಾಕಿ ಎರಡು ಚಮಚ ನೀರು ಹಾಕಿ ಒಲೆಯ ಮೇಲೆ ಇಟ್ಟು ಮಗುಚಿ"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "filling-heated",
+            "ghee",
+            "cardamom"
+          ],
+          "action": "ತುಪ್ಪ, ಎಲಕ್ಕಿಪುಡಿ ಹಾಕಿ ಮಗುಚಿ ಸ್ವಲ್ಪ ಗಟ್ಟಿಯಾದ ಮೇಲೆ ಇಳಿಸಿ. ಹೊರಣ ರೆಡಿ."
+        },
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "peni",
+            "wheat",
+            "turmeric",
+            "salt",
+            "water-dough"
+          ],
+          "action": "ಪೇಣಿ ರವೆ, ಗೋಧಿಹಿಟ್ಟು, ಅರಿಶಿನ, ಉಪ್ಪು ಹಾಕಿ ನೀರು ಹಾಕಿ ಚಪಾತಿ ಹಿಟ್ಟಿನಂತೆ ಕಲಸಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "dough-mix",
+            "oil-dough"
+          ],
+          "action": "3 ಚಮಚ ಎಣ್ಣೆ ಹಾಕಿ ನಾದಿ ಎರಡು ಗಂಟೆಗಳ ಕಾಲ ಮುಚ್ಚಿಡಿ. ಕಣಕ ರೆಡಿ."
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "filling",
+            "dough"
+          ],
+          "action": "ಸ್ವಲ್ಪ ಕಣಕ ತೆಗೆದುಕೊಂಡು ಕೈಯಲ್ಲಿ ಅಗಲಮಾಡಿ ಹೂರಣದ ಉಂಡೆ ಮಧ್ಯದಲ್ಲಿ ಇಟ್ಟು ಮುಚ್ಚಿ"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed"
+          ],
+          "action": "ಹೋಳಿಗೆ ಶೀಟ್‌ನಲ್ಲಿ ಇಟ್ಟು ಲಟ್ಟಿಸಿ"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ಕಾದ ತವಾದ ಮೇಲೆ ಹಾಕಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಎರಡು ಕಡೆ ಬೇಯಿಸಿ ತೆಗೆಯಿರಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "Ingredient list gives ಎಣ್ಣೆ as 4 ಚಮಚ but the method uses only 3 ಚಮಚ (in the dough); the remaining 1 ಚಮಚ use (e.g. greasing the sheet or tava) is not stated and no remainder was computed.",
+        "Source does not say how the 'ಹೂರಣದ ಉಂಡೆ' (filling ball) is formed or its size.",
+        "Water for the dough is unquantified (no amount given).",
+        "Source spells the filling 'ಹೊರಣ' in one place (ಹೂರಣ elsewhere); kept verbatim.",
+        "No cooking time or fat for cooking on the tava; the holige sheet greasing is not mentioned.",
+        "Yield and total time absent.",
+        "Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-beetroot",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಬಿಟ್ರೂಟ್ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Beetroot holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "beetroot",
+          "ಬೀಟ್ರೂಟ್ ತುರಿ: 3 ಕಪ್"
+        ],
+        [
+          "copra",
+          "ಒಣ ಕೊಬ್ಬರಿ ಪುಡಿ: 2 ಕಪ್"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ ಪುಡಿ: 2 ಕಪ್"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿ ಪುಡಿ: 1 ಚಮಚ"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: 1 ಕಪ್"
+        ],
+        [
+          "oil",
+          "ಎಣ್ಣೆ: 1 ಕಪ್"
+        ],
+        [
+          "maida",
+          "ಮೈದಾ ಹಿಟ್ಟು: 2 ಕಪ್"
+        ],
+        [
+          "chiroti",
+          "ಚಿರೋಟಿ ರವೆ: 1 ಕಪ್"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ಒಂದು ಚಿಟಿಕೆ (ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪಟ್ಟಿಯಲ್ಲಿ ಇಲ್ಲ)"
+        ],
+        [
+          "water",
+          "ನೀರು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "banana-leaf",
+          "ಬಾಳೆ ಎಲೆ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "hot-ghee",
+          "inputs": [
+            "ghee"
+          ],
+          "action": "ಬಾಣಲೆಯಲ್ಲಿ ತುಪ್ಪ ಕಾಯಿಸಿ"
+        },
+        {
+          "id": "beet-cooked",
+          "inputs": [
+            "hot-ghee",
+            "beetroot"
+          ],
+          "action": "ಬೀಟ್ರೂಟ್ ತುರಿ ಹಾಕಿ ಬೇಯಿಸಿ"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "beet-cooked",
+            "copra",
+            "sugar",
+            "cardamom"
+          ],
+          "action": "ನಂತರ ಇದಕ್ಕೆ ಒಣ ಕೊಬ್ಬರಿ ಪುಡಿ, ಸಕ್ಕರೆ ಪುಡಿ, ಏಲಕ್ಕಿ ಪುಡಿ ಹಾಕಿ ಚೆನ್ನಾಗಿ ಕಲಸಿ ಒಲೆಯಿಂದ ಕೆಳಗಿಳಿಸಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "maida",
+            "chiroti",
+            "oil",
+            "salt",
+            "water"
+          ],
+          "action": "ಮೈದಾ ಹಿಟ್ಟಿಗೆ ಚಿರೋಟಿ ರವೆ, ಎಣ್ಣೆ, ಒಂದು ಚಿಟಿಕೆ ಉಪ್ಪು ಮತ್ತು ನೀರು ಹಾಕಿ ಚಪಾತಿ ಹಿಟ್ಟಿನ ಹದಕ್ಕೆ ಕಲಸಿಡಿ"
+        },
+        {
+          "id": "flattened",
+          "inputs": [
+            "dough"
+          ],
+          "action": "ಇದರಿಂದ ಚಿಕ್ಕ ಚಿಕ್ಕ ಉಂಡೆಗಳನ್ನು ಮಾಡಿ ಅಂಗೈಯಲ್ಲಿ ಪೂರಿಯಾಕಾರದಲ್ಲಿ ತಟ್ಟಿ"
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "flattened",
+            "filling"
+          ],
+          "action": "ಮಧ್ಯಕ್ಕೆ ಹೂರಣವಿಟ್ಟು"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed",
+            "banana-leaf"
+          ],
+          "action": "ಎಣ್ಣೆ ಸವರಿದ ಬಾಳೆ ಎಲೆಯ ಮೇಲೆ ಮೃದುವಾಗಿ ಲಟ್ಟಿಸಿ"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ತುಪ್ಪ ಸವರಿ ಕಾದ ಕಾವಲಿಯ ಮೇಲೆ ಹಾಕಿ ಎರಡೂ ಬದಿಗಳನ್ನು ಬೇಯಿಸಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "ತುಪ್ಪ (1 ಕಪ್) is used in the filling ('ತುಪ್ಪ ಕಾಯಿಸಿ') and again smeared before cooking ('ತುಪ್ಪ ಸವರಿ'); no portion is quoted for either, so it is assigned to the first use only. The cooking-smear ghee has no separate input.",
+        "ಎಣ್ಣೆ (1 ಕಪ್) is used in the dough and for greasing the banana leaf; no portions quoted, so assigned to the dough only. Banana-leaf greasing oil has no separate input.",
+        "The salt (ಒಂದು ಚಿಟಿಕೆ) is in the method but not in the ingredient list; water is also not listed.",
+        "Banana leaf is not in the ingredient list; no leaf size or alternative given.",
+        "No rest time for the dough, no ಕಣಕ/ಹೂರಣ ball sizes, and no cooking time or heat level.",
+        "Beetroot cooking time and moisture handling in the filling not stated.",
+        "Source spells the title ಬಿಟ್ರೂಟ್ but the ingredient ಬೀಟ್ರೂಟ್.",
+        "Source ends the method with a double full stop ('..'); no information lost.",
+        "Yield and total time absent. Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-kobbari-sakkare",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಕೊಬ್ಬರಿ ಸಕ್ಕರೆ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Dry coconut and sugar holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "coconut",
+          "ಕೊಬ್ಬರಿ ತುರಿ: 1 ಕಪ್ (ತುರಿದು ಪುಡಿ ಮಾಡಿಕೊಂಡಿದ್ದು)"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 1 ಕಪ್"
+        ],
+        [
+          "maida-dough",
+          "ಮೈದಾಹಿಟ್ಟು (ಕಣಕಕ್ಕೆ): 1 ಕಪ್"
+        ],
+        [
+          "maida-filling",
+          "ಮೈದಾಹಿಟ್ಟು (ಹೂರಣಕ್ಕೆ, ಹುರಿಯಲು): 2 ಚಮಚ"
+        ],
+        [
+          "chiroti",
+          "ಚಿರೋಟಿ ರವೆ: 1 ಕಪ್"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿ ಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "nutmeg",
+          "ಜಾಯಿಕಾಯಿ ಪುಡಿ: 1/4 ಚಮಚ"
+        ],
+        [
+          "ghee-filling",
+          "ತುಪ್ಪ (ಹೂರಣಕ್ಕೆ): 2 ಚಮಚ"
+        ],
+        [
+          "ghee-dough",
+          "ತುಪ್ಪ (ಕಣಕಕ್ಕೆ): ಅರ್ಧ ಚಮಚ"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ರುಚಿಗೆ"
+        ],
+        [
+          "milk",
+          "ಹಾಲು: 1/4 ಕಪ್"
+        ],
+        [
+          "rice-flour",
+          "ಅಕ್ಕಿಹಿಟ್ಟು: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "oil-dough",
+          "ಎಣ್ಣೆ (ಕಣಕಕ್ಕೆ): ಒಂದು ಚಮಚ"
+        ],
+        [
+          "oil-soak",
+          "ಎಣ್ಣೆ (ನೆನೆಯಲು ಬಿಡಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "hot-water",
+          "ಬಿಸಿನೀರು: ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ (ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ)"
+        ],
+        [
+          "water-sprinkle",
+          "ನೀರು (ಚಿಮುಕಿಸಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "sugar-powdered",
+          "inputs": [
+            "sugar"
+          ],
+          "action": "ಸಕ್ಕರೆಯನ್ನು ನುಣ್ಣಗೆ ಪುಡಿ ಮಾಡಿಕೊಂಡು ಬೌಲ್‌ಗೆ ಹಾಕಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "mix-1",
+          "inputs": [
+            "sugar-powdered",
+            "coconut",
+            "cardamom",
+            "nutmeg"
+          ],
+          "action": "ಸಕ್ಕರೆ ಕೊಬ್ಬರಿ ತುರಿ, ಏಲಕ್ಕಿ ಪುಡಿ, ಜಾಯಿಕಾಯಿ ಪುಡಿ ಸೇರಿಸಿ ಕಲೆಸಿ"
+        },
+        {
+          "id": "maida-roasted",
+          "inputs": [
+            "maida-filling"
+          ],
+          "action": "ಇನ್ನೊಂದು ಪಾತ್ರೆಯಲ್ಲಿ 2 ಚಮಚ ಮೈದಾಹಿಟ್ಟನ್ನು ಹುರಿದುಕೊಂಡು"
+        },
+        {
+          "id": "mix-2",
+          "inputs": [
+            "mix-1",
+            "maida-roasted"
+          ],
+          "action": "ಅದಕ್ಕೆ ಸೇರಿಸಿ ಕಲೆಸಿ"
+        },
+        {
+          "id": "ghee-melted",
+          "inputs": [
+            "ghee-filling"
+          ],
+          "action": "ಪುನಃ ಪಾನ್‌ ಬಿಸಿ ಮಾಡಿಕೊಂಡು 2 ಚಮಚ ತುಪ್ಪ ಹಾಕಿ ಕರಗಿಸಿ"
+        },
+        {
+          "id": "mix-3",
+          "inputs": [
+            "mix-2",
+            "ghee-melted"
+          ],
+          "action": "ಸಕ್ಕರೆ, ಕೊಬ್ಬರಿ ಮಿಶ್ರಣಕ್ಕೆ ಕಲೆಸಿ"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "mix-3",
+            "milk"
+          ],
+          "action": "ಸ್ವಲ್ಪ ಹಾಲು ಸೇರಿಸಿ ಉಂಡೆ ಕಟ್ಟಿಕೊಳ್ಳಿ (ಹೂರಣ)"
+        },
+        {
+          "id": "dough-first",
+          "inputs": [
+            "maida-dough",
+            "chiroti",
+            "salt",
+            "ghee-dough",
+            "hot-water"
+          ],
+          "action": "ಪಾತ್ರೆಯೊಂದರಲ್ಲಿ ಮೈದಾಹಿಟ್ಟು, ಚಿರೋಟಿ ರವೆ, ಚಿಟಿಕೆ ಉಪ್ಪು, ಅರ್ಧ ಚಮಚ ತುಪ್ಪ ಹಾಗೂ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಬಿಸಿನೀರು ಸೇರಿಸಿ ಕಣಕ ತಯಾರಿಸಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "rest-1",
+          "inputs": [
+            "dough-first"
+          ],
+          "action": "ಅದನ್ನು ಅರ್ಧಗಂಟೆ ಮುಚ್ಚಿಡಿ"
+        },
+        {
+          "id": "kneaded",
+          "inputs": [
+            "rest-1",
+            "water-sprinkle"
+          ],
+          "action": "ಅರ್ಧಗಂಟೆಯಾದ ಮೇಲೆ ತಯಾರಿಸಿಕೊಂಡ ಕಣಕಕ್ಕೆ ನೀರು ಚಿಮುಕಿಸಿ ನಾದಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "rest-2",
+          "inputs": [
+            "kneaded"
+          ],
+          "action": "ಮತ್ತೆ 15 ನಿಮಿಷ ಹಾಗೆ ಬಿಡಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "rest-2",
+            "oil-dough"
+          ],
+          "action": "ಕಣಕಕ್ಕೆ ಒಂದು ಚಮಚ ಎಣ್ಣೆ ಹಾಕಿ ಮತ್ತೆ ನಾದಿಕೊಂಡು 2 ನಿಮಿಷ ಬಿಡಿ"
+        },
+        {
+          "id": "flattened",
+          "inputs": [
+            "dough"
+          ],
+          "action": "ಕಣಕದಿಂದ ಉಂಡೆ ತಯಾರಿಸಿ ಅಂಗೈ ಗಾತ್ರಕ್ಕೆ ತಟ್ಟಿಕೊಂಡು"
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "flattened",
+            "filling"
+          ],
+          "action": "ಅದರ ಒಳಗೆ ಹೂರಣದ ಉಂಡೆ ಇಟ್ಟು ಸುತ್ತಲೂ ಮಡಿಸಿ"
+        },
+        {
+          "id": "soaked",
+          "inputs": [
+            "stuffed",
+            "oil-soak"
+          ],
+          "action": "ಎಣ್ಣೆಯಲ್ಲಿ ನೆನೆಯಲು ಬಿಡಿ"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "soaked",
+            "rice-flour"
+          ],
+          "action": "ನಂತರ ಲಟ್ಟಿಸಿಕೊಂಡು"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ಹೆಂಚು ಕಾದ ಮೇಲೆ ಎರಡೂ ಕಡೆ ಕಾಯಿಸಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "ಅಕ್ಕಿಹಿಟ್ಟು (ಸ್ವಲ್ಪ) is listed but never mentioned in the method; it is attached to the rolling step only as a placeholder so the graph is complete. Source does not say where it is used.",
+        "Ghee: list gives ತುಪ್ಪ 2 ಟೇಬಲ್ ಚಮಚ, method uses ಅರ್ಧ ಚಮಚ in the dough and 2 ಚಮಚ in the filling; these do not match the listed amount and no remainder was computed.",
+        "Maida: list gives 1 ಕಪ್; the method also takes 2 ಚಮಚ for roasting in the filling. Unclear whether the 2 ಚಮಚ is part of the 1 ಕಪ್.",
+        "Salt listed as ರುಚಿಗೆ but the dough step says ಚಿಟಿಕೆ ಉಪ್ಪು; milk listed as 1/4 ಕಪ್ but the method says ಸ್ವಲ್ಪ ಹಾಲು.",
+        "Oil listed as ಸ್ವಲ್ಪ; method quotes ಒಂದು ಚಮಚ for the dough, and an unquantified amount for soaking the stuffed ball.",
+        "Source says 'ಸಕ್ಕರೆ ಕೊಬ್ಬರಿ ತುರಿ' without a comma; interpreted as two separate items (sugar, grated coconut).",
+        "Soaking time in oil, tava heat and cooking time are not stated; yield and total time absent.",
+        "The intro line (alternate name ಕಾಯಿಹೋಳಿಗೆ on the coast/Malnad, popular in North Karnataka) is editorial context and not included in the recipe.",
+        "Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-mango",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಮಾವಿನ ಹಣ್ಣಿನ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Mango holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "pulp",
+          "ಮಾವಿನ ಹಣ್ಣಿನ ಪಲ್ಪ್: 1ಕಪ್"
+        ],
+        [
+          "copra",
+          "ಒಣಕೊಬ್ಬರಿ ತುರಿ: 1ಕಪ್"
+        ],
+        [
+          "jaggery",
+          "ಬೆಲ್ಲ: 1/4ಕಪ್"
+        ],
+        [
+          "cardamom",
+          "ಎಲಕ್ಕಿ ಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "salt-filling",
+          "ಉಪ್ಪು (ಹೂರಣಕ್ಕೆ): ಚಿಟಿಕೆ"
+        ],
+        [
+          "peni",
+          "ಪೇಣಿ ರವೆ: 1/2ಕಪ್"
+        ],
+        [
+          "wheat",
+          "ಗೋಧಿಹಿಟ್ಟು: 1/2ಕಪ್"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಶಿನ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "oil",
+          "ಎಣ್ಣೆ: 2ಚಮಚ"
+        ],
+        [
+          "salt-dough",
+          "ಉಪ್ಪು (ಕಣಕಕ್ಕೆ): ಸ್ವಲ್ಪ"
+        ],
+        [
+          "water-filling",
+          "ನೀರು (ಹೂರಣಕ್ಕೆ): 1ಚಮಚ"
+        ],
+        [
+          "water-dough",
+          "ನೀರು (ಕಣಕಕ್ಕೆ): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣ: ಸ್ವಲ್ಪ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "copra-powdered",
+          "inputs": [
+            "copra"
+          ],
+          "action": "ಕೊಬ್ಬರಿಯನ್ನು ನುಣ್ಣಗೆ ಪುಡಿಮಾಡಿಕೊಂಡು"
+        },
+        {
+          "id": "blended",
+          "inputs": [
+            "copra-powdered",
+            "pulp"
+          ],
+          "action": "ಅದಕ್ಕೆ ಮಾವಿನ ಹಣ್ಣಿನ ಪಲ್ಪ್ ಅನ್ನು ಒಂದು ಸುತ್ತು ರುಬ್ಬಿಹಾಕಿ"
+        },
+        {
+          "id": "filling-heated",
+          "inputs": [
+            "blended",
+            "jaggery",
+            "salt-filling",
+            "cardamom",
+            "water-filling"
+          ],
+          "action": "ಬೆಲ್ಲ ಚಿಟಿಕೆ ಉಪ್ಪು, ಎಲಕ್ಕಿ ಪುಡಿ ಹಾಕಿ ಒಲೆಯ ಮೇಲೆ ಇಟ್ಟು 1ಚಮಚ ನೀರು ಹಾಕಿ ಮಗುಚಿ"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "filling-heated"
+          ],
+          "action": "ಗಟ್ಟಿಯಾದಾಗ ಇಳಿಸಿ. ಹೂರಣ ರೆಡಿ."
+        },
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "wheat",
+            "peni",
+            "salt-dough",
+            "turmeric",
+            "water-dough"
+          ],
+          "action": "ಗೋಧಿಹಿಟ್ಟು, ಪೇಣಿ ರವೆ, ಉಪ್ಪು, ಅರಿಶಿನ ಎಲ್ಲವನ್ನು ಹಾಕಿ ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ಕಲೆಸಿ ಚಪಾತಿ ಹಿಟ್ಟಿನ ಹದಕ್ಕೆ ಇರಲಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "dough-mix",
+            "oil"
+          ],
+          "action": "ಎಣ್ಣೆ ಹಾಕಿ ನಾದಿ 2ಗಂಟೆ ಮುಚ್ಚಿಡಿ. ಕಣಕ ರೆಡಿ."
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "filling",
+            "dough"
+          ],
+          "action": "ಕಣಕವನ್ನು ಸ್ವಲ್ಪ ತೆಗೆದು ಕೊಂಡು ಕೈಯಲ್ಲಿ ಅಗಲಮಾಡಿ ಹೂರಣದ ಉಂಡೆ ಇಟ್ಟು ಮುಚ್ಚಿ"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed"
+          ],
+          "action": "ಹೋಳಿಗೆ ಶೀಟ್‌ನಲ್ಲಿ ಲಟ್ಟಿಸಿ"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ಕಾದ ತವಾದ ಮೇಲೆ ಹಾಕಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಬೇಯಿಸಿ ತೆಗೆಯಿರಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "The list has two salt entries (ಚಿಟಿಕೆ ಉಪ್ಪು and ಉಪ್ಪು ಸ್ವಲ್ಪ); they are assigned to the filling and dough respectively, matching the method.",
+        "Source does not say how the filling is formed into balls ('ಹೂರಣದ ಉಂಡೆ') or their size.",
+        "ಎಣ್ಣೆ (2ಚಮಚ) is only mentioned as 'ಎಣ್ಣೆ ಹಾಕಿ' in the dough; greasing the sheet or tava is not mentioned.",
+        "Dough water is only ಸ್ವಲ್ಪ; no cooking time, no side count, heat level only 'ಸಣ್ಣ ಉರಿ'; the final step does not say to cook both sides.",
+        "Whether the pulp is fresh or canned (and whether sweetened) is not stated; ಒಂದು ಸುತ್ತು ರುಬ್ಬಿ means 'one round of grinding' with no device named.",
+        "Yield and total time absent. Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-gasagase",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಗಸಗಸೆಯ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Poppy seed holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "poppy",
+          "ಗಸಗಸೆ: 1 ಕಪ್"
+        ],
+        [
+          "copra",
+          "ಒಣ ಕೊಬ್ಬರಿ ತುರಿ: 1ಕಪ್"
+        ],
+        [
+          "jaggery",
+          "ಬೆಲ್ಲ: 3/4ಕಪ್"
+        ],
+        [
+          "cardamom",
+          "ಎಲಕ್ಕಿ ಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "peni",
+          "ಪೇಣಿ ರವೆ: 1/2ಕಪ್"
+        ],
+        [
+          "wheat",
+          "ಗೋಧಿಹಿಟ್ಟು: 1/2ಕಪ್"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಶಿನ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "oil-dough",
+          "ಎಣ್ಣೆ (ಕಣಕಕ್ಕೆ): ಮೂರು ಚಮಚ"
+        ],
+        [
+          "water-filling",
+          "ನೀರು (ಹೂರಣಕ್ಕೆ): ಎರಡು ಚಮಚ"
+        ],
+        [
+          "water-dough",
+          "ನೀರು (ಕಣಕಕ್ಕೆ): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣ: ಸ್ವಲ್ಪ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "ground",
+          "inputs": [
+            "poppy",
+            "copra"
+          ],
+          "action": "ಗಸಗಸೆ, ಕೊಬ್ಬರಿತುರಿ ಎರಡನ್ನು ನುಣ್ಣಗೆ ಪುಡಿ ಮಾಡಿಕೊಂಡು"
+        },
+        {
+          "id": "filling-heated",
+          "inputs": [
+            "ground",
+            "jaggery",
+            "cardamom",
+            "water-filling"
+          ],
+          "action": "ದಪ್ಪ ತಳದ ಪಾತ್ರ‍್ರೆಗೆ ಹಾಕಿ ಬೆಲ್ಲ ಎಲ್ಲಕ್ಕಿಪುಡಿ ಹಾಕಿ ನೀರು ಎರಡು ಚಮಚ ಹಾಕಿ ಒಲೆಯ ಮೇಲೆ ಇಟ್ಟು ಮಗುಚಿ"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "filling-heated"
+          ],
+          "action": "ಗಟ್ಟಿಯಾದ ನಂತರ ಇಳಿಸಿ ಹೂರಣ ರೆಡಿ. ಹೂರಣದಲ್ಲಿ ನೀರಿನಂಶ ಉಳಿಯದಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "peni",
+            "wheat",
+            "salt",
+            "turmeric",
+            "water-dough"
+          ],
+          "action": "ಪೇಣಿರವೆ, ಗೋಧಿ ಹಿಟ್ಟು, ಸ್ವಲ್ಪ ಉಪ್ಪು, ಅರಿಶಿನ ಹಾಕಿ ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ಚಪಾತಿ ಹಿಟ್ಟಿನಂತೆ ಕಲೆಸಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "dough-mix",
+            "oil-dough"
+          ],
+          "action": "ಮೂರು ಚಮಚ ಎಣ್ಣೆಹಾಕಿ ನಾದಿ ಎರಡು ಗಂಟೆಕಾಲ ಮುಚ್ಚಿ ಇಡಿ. ಕಣಕ ಮೆದುವಾದಷ್ಟೂ ಹೋಳಿಗೆ ತೀಡುವುದು ಸುಲಭವಾಗುತ್ತದೆ."
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "filling",
+            "dough"
+          ],
+          "action": "ಉಳಿದ ಹೋಳಿಗೆಗಳಂತೆಯೇ ಕಣಕಕ್ಕೆ ಹೂರಣ ತುಂಬಿಸಿ"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed"
+          ],
+          "action": "ಲಟ್ಟಿಸಿ"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ಕೊಬ್ಬರಿಯ ಘಮ ಹರಡುವಾಗ ಕಾವಲಿಯಿಂದ ತೆಗೆಯಿರಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "ಎಣ್ಣೆ is listed as 4 ಚಮಚ but only 3 ಚಮಚ is used (dough); the remaining 1 ಚಮಚ use (greasing sheet/tava?) is not stated and no remainder was computed.",
+        "Method refers to 'ಉಳಿದ ಹೋಳಿಗೆಗಳಂತೆಯೇ' (as in the other holige) for stuffing/rolling; actual details are in the other recipes, so no cooking medium, time or heat is given here.",
+        "Source spells cardamom as ಎಲಕ್ಕಿ and ಎಲ್ಲಕ್ಕಿ in different places; kept verbatim (also ಪಾತ್ರ‍್ರೆಗೆ typo).",
+        "Dough water is only ಸ್ವಲ್ಪ; the doneness cue is 'when the coconut aroma spreads' with no time.",
+        "Source quotes the 'ಕಣಕ ಮೆದುವಾದಷ್ಟೂ...' tip and a moisture warning for the filling; placed inside the dough and filling operations respectively.",
+        "Yield and total time absent. Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-hesarubele",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಹೆಸರುಬೇಳೆ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Moong dal holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "dal",
+          "ಹೆಸರುಬೇಳೆ: 1ಕಪ್"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 1/2ಕಪ್"
+        ],
+        [
+          "cardamom",
+          "ಎಲಕ್ಕಿ ಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: 2ಚಮಚ"
+        ],
+        [
+          "milk",
+          "ಹಾಲು: 2ಚಮಚ"
+        ],
+        [
+          "peni",
+          "ಪೇಣಿ ರವೆ: 1/2ಕಪ್"
+        ],
+        [
+          "wheat",
+          "ಗೋಧಿಹಿಟ್ಟು: 1/2ಕಪ್"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಶಿನ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "oil-dough",
+          "ಎಣ್ಣೆ (ಕಣಕಕ್ಕೆ): ಮೂರು ಚಮಚ"
+        ],
+        [
+          "oil-sheet",
+          "ಎಣ್ಣೆ (ಹೋಳಿಗೆ ಶೀಟಿಗೆ ಹಚ್ಚಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "water-dough",
+          "ನೀರು (ಕಣಕಕ್ಕೆ): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣ: ಸ್ವಲ್ಪ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "dal-powder",
+          "inputs": [
+            "dal"
+          ],
+          "action": "ಹೆಸರುಬೇಳೆಯನ್ನು ಬಣ್ಣ ಸ್ವಲ್ಪ ಬದಲಾಗುವವರೆಗೆ ಹುರಿದುಕೊಂಡು ನುಣ್ಣಗೆ ಪುಡಿಮಾಡಿಕೊಳ್ಳಬೇಕು"
+        },
+        {
+          "id": "sugar-powder",
+          "inputs": [
+            "sugar"
+          ],
+          "action": "ಸಕ್ಕರೆಯನ್ನು ಪುಡಿಮಾಡಿಕೊಂಡು"
+        },
+        {
+          "id": "mix",
+          "inputs": [
+            "dal-powder",
+            "sugar-powder",
+            "ghee",
+            "cardamom"
+          ],
+          "action": "ಎರಡನ್ನು ಪಾತ್ರೆಗೆ ಹಾಕಿ ತುಪ್ಪಹಾಕಿ ಕಲೆಸಿ"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "mix",
+            "milk"
+          ],
+          "action": "ಹಾಲನ್ನು ಹಾಕಿ ಮೃದುಮಾಡಿಕೊಳ್ಳಬೇಕು. ಹೂರಣ ರೆಡಿ."
+        },
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "peni",
+            "wheat",
+            "salt",
+            "turmeric",
+            "water-dough"
+          ],
+          "action": "ಪೇಣಿರವೆ, ಗೋಧಿ ಹಿಟ್ಟು, ಸ್ವಲ್ಪ ಉಪ್ಪು, ಅರಿಶಿನ ಹಾಕಿ ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ಚಪಾತಿ ಹಿಟ್ಟಿನಂತೆ ಕಲೆಸಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "dough-mix",
+            "oil-dough"
+          ],
+          "action": "ಮೂರು ಚಮಚ ಎಣ್ಣೆಹಾಕಿ ನಾದಿ ಎರಡು ಗಂಟೆಕಾಲ ಮುಚ್ಚಿ ಇಡಿ. ಕಣಕ ರೆಡಿ."
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "filling",
+            "dough"
+          ],
+          "action": "ಕಣಕವನ್ನು ಕೈಯಲ್ಲಿ ತಟ್ಟಿ ಅಗಲವಾಗಿಸಿ, ಹೂರಣದ ಉಂಡೆ ಇಟ್ಟು ಮುಚ್ಚಿ"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed",
+            "oil-sheet"
+          ],
+          "action": "ಹೋಳಿಗೆ ಶೀಟಿಗೆ ಎಣ್ಣೆಹಚ್ಚಿಕೊಂಡು ತುಂಬಿದ ಉಂಡೆ ಇಟ್ಟು ಲಟ್ಟಿಸಿ"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ಕಾದ ತವಾದ ಮೇಲೆ ಹಾಕಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಬೇಯಿಸಿ ತೆಗೆಯಿರಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "ಎಲಕ್ಕಿ ಪುಡಿ is listed but not mentioned in the method; it is attached to the filling mixing step only as a placeholder. Source does not say when it is added.",
+        "ಎಣ್ಣೆ is listed as 4 ಚಮಚ; the method quotes 3 ಚಮಚ for the dough and an unquantified amount for greasing the sheet. Remainder not computed.",
+        "Roasting time/heat for the dal and the target fineness are not stated beyond 'until colour changes slightly'.",
+        "The method says 'ತುಪ್ಪಹಾಕಿ' without quantity; assumed to be the listed 2ಚಮಚ (single use).",
+        "Dough water is only ಸ್ವಲ್ಪ; no cooking time, no side count (source does not say to cook both sides).",
+        "Yield and total time absent. Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-paneer",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಪನ್ನಿರ್ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Paneer holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "paneer",
+          "ಪನ್ನಿರ್ ತುರಿದಿದ್ದು: 1ಬಟ್ಟಲು"
+        ],
+        [
+          "khova",
+          "ಸಪ್ಪೆಕೋವಾ: 1/4ಬಟ್ಟಲು"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆಪುಡಿ: 1/4ಬಟ್ಟಲು"
+        ],
+        [
+          "cardamom",
+          "ಎಲಕ್ಕಿಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "peni",
+          "ಪೇಣಿ ರವೆ: 1/2ಕಪ್"
+        ],
+        [
+          "wheat",
+          "ಗೋಧಿಹಿಟ್ಟು: 1/2ಕಪ್"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಶಿನ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "oil-dough",
+          "ಎಣ್ಣೆ (ಕಣಕಕ್ಕೆ): ಮೂರು ಚಮಚ"
+        ],
+        [
+          "oil-sheet",
+          "ಎಣ್ಣೆ (ಹೋಳಿಗೆ ಶೀಟಿಗೆ ಹಚ್ಚಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "water-dough",
+          "ನೀರು (ಕಣಕಕ್ಕೆ): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣ: ಸ್ವಲ್ಪ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "filling",
+          "inputs": [
+            "paneer",
+            "khova",
+            "sugar",
+            "cardamom"
+          ],
+          "action": "ಒಂದು ಪಾತ್ರೆಗೆ ತುರಿದು ಪನ್ನಿರ್, ಕೋವಾ,ಸಕ್ಕರೆಪುಡಿ, ಎಲ್ಲಕ್ಕಿಪುಡಿ ಹಾಕಿ ಚನ್ನಾಗಿ ಕಲೆಸಿಕೊಳ್ಳಿ. ಹೂರಣ ರೆಡಿ."
+        },
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "peni",
+            "wheat",
+            "salt",
+            "turmeric",
+            "water-dough"
+          ],
+          "action": "ಪೇಣಿರವೆ, ಗೋಧಿ ಹಿಟ್ಟು, ಸ್ವಲ್ಪ ಉಪ್ಪು, ಅರಿಶಿನ ಹಾಕಿ ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ಚಪಾತಿ ಹಿಟ್ಟಿನಂತೆ ಕಲೆಸಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "dough-mix",
+            "oil-dough"
+          ],
+          "action": "ಮೂರು ಚಮಚ ಎಣ್ಣೆಹಾಕಿ ನಾದಿ ಎರಡು ಗಂಟೆಕಾಲ ಮುಚ್ಚಿ ಇಡಿ. ಕಣಕ ರೆಡಿ."
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "filling",
+            "dough"
+          ],
+          "action": "ಕಣಕವನ್ನು ಅಗಲ ಮಾಡಿಕೊಂಡು, ಹೂರಣ ತುಂಬಿ, ಹೂದಳದಂತೆ ಕಣಕವನ್ನು ಮಡಚುತ್ತ ಉಂಡೆ ಮಾಡಿ"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed",
+            "oil-sheet"
+          ],
+          "action": "ಇದನ್ನು ಹೋಳಿಗೆ ಶೀಟಿಗೆ ಎಣ್ಣೆಹಚ್ಚಿ ಲಟ್ಟಿಸಿ. ತುದಿ ತೆಳುವಾಗುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ಉಳಿದ ಹೋಳಿಗೆಗಳಂತೆಯೇ ಬೇಯಿಸಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "ಎಣ್ಣೆ is listed as 4 ಚಮಚ; the method quotes 3 ಚಮಚ for the dough and an unquantified amount for greasing the sheet. Remainder not computed.",
+        "Cooking is described only as 'ಉಳಿದ ಹೋಳಿಗೆಗಳಂತೆಯೇ' (like the other holige); no heat, time or cooking fat given here.",
+        "Source spells cardamom as ಎಲಕ್ಕಿ and ಎಲ್ಲಕ್ಕಿ; list says ಸಪ್ಪೆಕೋವಾ (unsweetened khova) while method says ಕೋವಾ; kept verbatim.",
+        "Whether the paneer is fresh and how finely grated is not stated; the filling is not cooked.",
+        "Dough water is only ಸ್ವಲ್ಪ; yield and total time absent.",
+        "Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-khova",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಕೋವಾ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Khova holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "khova",
+          "ಸಪ್ಪೆಕೋವಾ: 1ಬಟ್ಟಲು"
+        ],
+        [
+          "jaggery",
+          "ಬೆಲ್ಲ: 1/4ಬಟ್ಟಲು"
+        ],
+        [
+          "wheat-filling",
+          "ಗೋಧಿಹಿಟ್ಟು (ಹೂರಣಕ್ಕೆ): 2ಚಮಚ"
+        ],
+        [
+          "cardamom",
+          "ಎಲಕ್ಕಿ ಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "ghee-roast",
+          "ತುಪ್ಪ (ಗೋಧಿಹಿಟ್ಟು ಹುರಿಯಲು): ಒಂದು ಚಮಚ"
+        ],
+        [
+          "ghee-khova",
+          "ತುಪ್ಪ (ಕೋವಾ ಹುರಿಯಲು): ಒಂದು ಚಮಚ"
+        ],
+        [
+          "peni",
+          "ಪೇಣಿ ರವೆ: 1/2ಕಪ್"
+        ],
+        [
+          "wheat-dough",
+          "ಗೋಧಿಹಿಟ್ಟು (ಕಣಕಕ್ಕೆ): 1/2ಕಪ್"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಶಿನ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "oil-dough",
+          "ಎಣ್ಣೆ (ಕಣಕಕ್ಕೆ): ಮೂರು ಚಮಚ"
+        ],
+        [
+          "water-dough",
+          "ನೀರು (ಕಣಕಕ್ಕೆ): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣ: ಸ್ವಲ್ಪ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "hot-ghee-1",
+          "inputs": [
+            "ghee-roast"
+          ],
+          "action": "ದಪ್ಪತಳದ ಪಾತ್ರೆಯನ್ನು ಒಲೆಯ ಮೇಲೆ ಇಟ್ಟು ಬಿಸಿಯಾದ ಮೇಲೆ ಒಂದು ಚಮಚ ತುಪ್ಪಹಾಕಿ"
+        },
+        {
+          "id": "wheat-roasted",
+          "inputs": [
+            "hot-ghee-1",
+            "wheat-filling"
+          ],
+          "action": "ಗೋಧಿಹಿಟ್ಟು ಹಾಕಿ ಪರಿಮಳ ಬರುವವರೆಗೆ ಹುರಿದು ತೆಗೆದು ಇಟ್ಟುಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "khova-fried",
+          "inputs": [
+            "ghee-khova",
+            "khova"
+          ],
+          "action": "ಅದೇ ಪಾತ್ರೆಗೆ ಒಂದು ಚಮಚ ತುಪ್ಪಹಾಕಿ ಕೋವಾಹಾಕಿ ಮಗುಚಿ"
+        },
+        {
+          "id": "jaggery-added",
+          "inputs": [
+            "khova-fried",
+            "jaggery",
+            "cardamom"
+          ],
+          "action": "ಬೆಲ್ಲ, ಎಲಕ್ಕಿಪುಡಿ ಹಾಕಿ ಮಗುಚಿ ಹುರಿದಿಟ್ಟು"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "jaggery-added",
+            "wheat-roasted"
+          ],
+          "action": "ಗೋಧಿಹಿಟ್ಟು ಹಾಕಿ ಚೆನ್ನಾಗಿ ಮಗುಚಿ ಸ್ವಲ್ಪ ಗಟ್ಟಿಯಾದ ಮೇಲೆ ಇಳಿಸಿ. ಹೂರಣ ರೆಡಿ."
+        },
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "peni",
+            "wheat-dough",
+            "salt",
+            "turmeric",
+            "water-dough"
+          ],
+          "action": "ಪೇಣಿರವೆ, ಗೋಧಿ ಹಿಟ್ಟು, ಸ್ವಲ್ಪ ಉಪ್ಪು, ಅರಿಶಿನ ಹಾಕಿ ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ಚಪಾತಿ ಹಿಟ್ಟಿನಂತೆ ಕಲೆಸಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "dough-mix",
+            "oil-dough"
+          ],
+          "action": "ಮೂರು ಚಮಚ ಎಣ್ಣೆಹಾಕಿ ನಾದಿ ಎರಡು ಗಂಟೆಕಾಲ ಮುಚ್ಚಿ ಇಡಿ. ಕಣಕ ರೆಡಿ."
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "filling",
+            "dough"
+          ],
+          "action": "ಕಣಕದೊಳಗೆ ಕೊವಾ ಇಡುವಾಗ ಅದು ಉಂಡೆಯಾಕಾರದಲ್ಲಿಯೇ ಇಡಬೇಕು. ಇಲ್ಲದಿದ್ದಲ್ಲಿ ಲಟ್ಟಿಸುವಾಗ ತುದಿಯವರೆಗೂ ಹೂರಣ ಬರುವುದಿಲ್ಲ."
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed"
+          ],
+          "action": "ಇದನ್ನು ಎಚ್ಚರದಿಂದ ಗಮನಿಸಿ, ಲಟ್ಟಿಸಿ"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ಕಾದ ಹಂಚಿಗೆ ಹಾಕಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಬೇಯಿಸಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "The ingredient line repeats ಗೋಧಿಹಿಟ್ಟು (2ಚಮಚ and 1/2ಕಪ್); assigned to filling (roasted, per method) and dough respectively, but the source does not label them.",
+        "ತುಪ್ಪ is listed as 2ಚಮಚ; the method quotes one ಚಮಚ for roasting the wheat flour and one ಚಮಚ for the khova. Matches in total but recorded as the method states, no reconciliation done.",
+        "ಎಣ್ಣೆ is listed as 4 ಚಮಚ but only 3 ಚಮಚ is used (dough); the remaining 1 ಚಮಚ use is not stated.",
+        "Sheet greasing and cooking fat for the tava not mentioned; no cooking time or side count.",
+        "Method says ಕೊವಾ ಇಡುವಾಗ (when placing the khova) whereas the list says ಸಪ್ಪೆಕೋವಾ and the filling is a cooked mixture; unclear whether the whole filling or only khova is meant; kept verbatim.",
+        "Source spells khova as ಕೋವಾ and ಕೊವಾ and ಸಪ್ಪೆಕೋವಾ (unsweetened) in the list; cardamom as ಎಲಕ್ಕಿ; kept verbatim.",
+        "Yield and total time absent. Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    },
+    {
+      "id": "pv-holige-instant-shenga",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ದಿಢೀರ್ ಶೇಂಗಾ ಹೋಳಿಗೆ",
+      "workingEnglishTitle": "Instant peanut holige",
+      "sourceStoryId": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "peanut",
+          "ಶೇಂಗಾ: ತಲಾ 2 ದೊಡ್ಡ ಚಮಚ"
+        ],
+        [
+          "sesame",
+          "ಬಿಳಿಎಳ್ಳು: ತಲಾ 2 ದೊಡ್ಡ ಚಮಚ"
+        ],
+        [
+          "poppy",
+          "ಗಸಗಸೆ: ತಲಾ 2 ದೊಡ್ಡ ಚಮಚ"
+        ],
+        [
+          "almond",
+          "ಬಾದಾಮಿ: ತಲಾ 2 ದೊಡ್ಡ ಚಮಚ"
+        ],
+        [
+          "cashew",
+          "ಗೋಡಂಬಿ: ತಲಾ 2 ದೊಡ್ಡ ಚಮಚ"
+        ],
+        [
+          "copra",
+          "ಒಣಕೊಬ್ಬರಿ ತುರಿ: ತಲಾ 2 ದೊಡ್ಡ ಚಮಚ"
+        ],
+        [
+          "gram",
+          "ಹುರಿಗಡಲೆ: ತಲಾ 2 ದೊಡ್ಡ ಚಮಚ"
+        ],
+        [
+          "rice-flour",
+          "ಅಕ್ಕಿಹಿಟ್ಟು: ತಲಾ 1ಚಮಚ"
+        ],
+        [
+          "wheat-filling",
+          "ಗೋಧಿಹಿಟ್ಟು (ಹೂರಣಕ್ಕೆ): ತಲಾ 1ಚಮಚ"
+        ],
+        [
+          "jaggery",
+          "ಬೆಲ್ಲದ ಪುಡಿ: ರುಚಿಗೆ ತಕ್ಕಷ್ಟು"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿ ಪುಡಿ: 1/2ಚಮಚ"
+        ],
+        [
+          "ghee-filling",
+          "ತುಪ್ಪ (ಹೂರಣಕ್ಕೆ): 1ಚಮಚ"
+        ],
+        [
+          "water-syrup",
+          "ನೀರು (ಪಾಕಕ್ಕೆ): ಸ್ವಲ್ಪವೇ (ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ)"
+        ],
+        [
+          "maida",
+          "ಮೈದಾ: 1ಕಪ್"
+        ],
+        [
+          "rava",
+          "ಹೋಳಿಗೆ ರವೆ: 1/2ಕಪ್"
+        ],
+        [
+          "ghee-dough",
+          "ತುಪ್ಪ (ಕಣಕಕ್ಕೆ): 3ರಿಂದ 4 ಚಮಚ"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಶಿಣ: ಚಿಟಿಕೆ"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ಚಿಟಿಕೆ"
+        ],
+        [
+          "oil",
+          "ಎಣ್ಣೆ: ಸ್ವಲ್ಪ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "maida",
+            "rava",
+            "turmeric",
+            "salt",
+            "ghee-dough"
+          ],
+          "action": "ಮೈದಾ, ರವೆ, ಅರಿಶಿಣ, ಉಪ್ಪು, ತುಪ್ಪ ಸೇರಿಸಿ ಚಪಾತಿ ಹಿಟ್ಟಿನಂತೆ ಮೃದುವಾಗಿ ಕಲಸಿ ಕಣಕ ತಯಾರಿಸಿ"
+        },
+        {
+          "id": "dough-rested",
+          "inputs": [
+            "dough-mix",
+            "oil"
+          ],
+          "action": "ಸ್ವಲ್ಪ ಎಣ್ಣೆ ಹಾಕಿ ಅರ್ಧ ಘಂಟೆ ನೆನೆಯಲು ಬಿಡಿ"
+        },
+        {
+          "id": "roasted-seeds",
+          "inputs": [
+            "peanut",
+            "sesame",
+            "poppy"
+          ],
+          "action": "ಶೇಂಗಾ, ಬಿಳಿಎಳ್ಳು, ಗಸಗಸೆ ಹದವಾಗಿ ಹುರಿದುಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "warmed-nuts",
+          "inputs": [
+            "almond",
+            "cashew"
+          ],
+          "action": "ಬಾದಾಮಿ, ಗೋಡಂಬಿಯನ್ನು ಬೆಚ್ಚಗೆ ಮಾಡಿ"
+        },
+        {
+          "id": "powder",
+          "inputs": [
+            "roasted-seeds",
+            "warmed-nuts",
+            "gram",
+            "copra"
+          ],
+          "action": "ತಣಿದ ಮೇಲೆ ಹುರಿಗಡಲೆ, ಒಣ ಕೊಬ್ಬರಿತುರಿಯೊಂದಿಗೆ ಎಲ್ಲವನ್ನೂ ಸೇರಿಸಿ ನುಣ್ಣಗೆ ಪುಡಿಮಾಡಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "powder-flours",
+          "inputs": [
+            "powder",
+            "wheat-filling",
+            "rice-flour"
+          ],
+          "action": "ಅದಕ್ಕೆ ಹುರಿದ ಗೋಧಿಹಿಟ್ಟು, ಅಕ್ಕಿಹಿಟ್ಟನ್ನೂ ಸೇರಿಸಿ"
+        },
+        {
+          "id": "syrup",
+          "inputs": [
+            "jaggery",
+            "water-syrup"
+          ],
+          "action": "ಪುಡಿ ಎಷ್ಟಿದೆಯೋ ಅಷ್ಟು ಬೆಲ್ಲವನ್ನು ತೆಗೆದುಕೊಂಡು ಸ್ವಲ್ಪವೇ ನೀರು ಹಾಕಿ ಒಲೆಯ ಮೇಲಿಡಿ"
+        },
+        {
+          "id": "filling-mix",
+          "inputs": [
+            "syrup",
+            "powder-flours"
+          ],
+          "action": "ಎಳೆಯ ಪಾಕ ಬಂದ ಮೇಲೆ ಮಾಡಿಟ್ಟುಕೊಂಡ ಪುಡಿ ಹಾಕಿ. ಗಂಟಿಲ್ಲದಂತೆ ಚೆನ್ನಾಗಿ ಕೈಯಾಡಿಸಿ ಹೂರಣ ತಯಾರಿಸಿ, ಒಲೆ ಆರಿಸಿ"
+        },
+        {
+          "id": "filling",
+          "inputs": [
+            "filling-mix",
+            "cardamom",
+            "ghee-filling"
+          ],
+          "action": "ಏಲಕ್ಕಿ ಪುಡಿ, 1ಚಮಚ ತುಪ್ಪ ಸೇರಿಸಿ"
+        },
+        {
+          "id": "dough",
+          "inputs": [
+            "dough-rested"
+          ],
+          "action": "ಕಲಸಿಟ್ಟ ಕಣಕವನ್ನು ಮತ್ತೊಮ್ಮೆ ಚೆನ್ನಾಗಿ ನಾದಿಕೊಳ್ಳಿ"
+        },
+        {
+          "id": "stuffed",
+          "inputs": [
+            "filling",
+            "dough"
+          ],
+          "action": "ನಿಂಬೆಗಾತ್ರದ ಹೂರಣ ತೆಗೆದುಕೊಂಡು ಕಣಕದಲ್ಲಿ ತುಂಬಿ"
+        },
+        {
+          "id": "rolled",
+          "inputs": [
+            "stuffed"
+          ],
+          "action": "ಹೋಳಿಗೆ ಪೇಪರ್ ಮೇಲೆ ಎಣ್ಣೆ ಹಚ್ಚಿ ತೆಳ್ಳಗೆ ತಟ್ಟಿ ಅಥವಾ ಲಟ್ಟಿಸಿ"
+        },
+        {
+          "id": "cooked",
+          "inputs": [
+            "rolled"
+          ],
+          "action": "ತವಾ ಮೇಲೆ ಎಣ್ಣೆ ಹಾಕಿ ಲಟ್ಟಿಸಿದ ಹೋಳಿಗೆಯನ್ನು ಎರಡೂ ಕಡೆ ಹದವಾಗಿ ಗರಿಗರಿಯಾಗಿ ಬೇಯಿಸಿ"
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "cooked"
+          ],
+          "action": "ತುಪ್ಪದೊಂದಿಗೆ ಸವಿಯಿರಿ. ಈ ಹೋಳಿಗೆಯನ್ನು ಎಂಟು ದಿನಗಳವರೆಗೆ ಇಡಬಹುದು."
+        }
+      ],
+      "editorialQuestions": [
+        "'ತಲಾ' (each) quantities: the first seven filling items are '2 ದೊಡ್ಡ ಚಮಚ' each; ಅಕ್ಕಿಹಿಟ್ಟು and ಗೋಧಿಹಿಟ್ಟು '1ಚಮಚ' each; ಅರಿಶಿಣ and ಉಪ್ಪು share 'ಚಿಟಿಕೆ'. Each row carries the shared quantity phrase as printed.",
+        "ತುಪ್ಪ is listed as 3ರಿಂದ 4 ಚಮಚ under the dough, but the method also adds 1ಚಮಚ ತುಪ್ಪ to the filling; unclear whether that is included in the 3-4 ಚಮಚ. Dough ghee quantity in the method is not stated.",
+        "Dough method lists no water; the source says it is kneaded 'like chapati dough' with the listed ingredients only. Dough water absent.",
+        "ಎಣ್ಣೆ is listed as ಸ್ವಲ್ಪ and used for the dough, greasing the holige paper and the tava; no portion is quoted for any use, so it is assigned to the dough only. Greasing/tava oil has no separate input.",
+        "ಬೆಲ್ಲದ ಪುಡಿ is ರುಚಿಗೆ ತಕ್ಕಷ್ಟು in the list but the method says 'as much jaggery as the powder' (equal to powder quantity); no ratio computed.",
+        "Water for the syrup is only 'ಸ್ವಲ್ಪವೇ'; the 'ಹುರಿದ ಗೋಧಿಹಿಟ್ಟು' (roasted wheat flour) roasting step is not described; ಹುರಿಗಡಲೆ is already roasted.",
+        "Nut warming temperature/time and 'ಹದವಾಗಿ' roasting level not stated; ಹೋಳಿಗೆ ಪೇಪರ್ is not in the ingredient list.",
+        "The source gives the filling as 'ತಲಾ' items without separating nuts from seeds; powder fineness is only 'ನುಣ್ಣಗೆ'.",
+        "Yield and total time absent. Headline says 10 types while the URL says nine; the article text contains ten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1154 @@
+{
+  "status": "Editorial drafts; not cooking-tested or publication approved",
+  "recipes": [
+    {
+      "id": "pv-badam-halwa",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಬಾದಾಮಿ ಹಲ್ವ",
+      "workingEnglishTitle": "Almond halwa (wheat-milk base)",
+      "sourceStoryId": "3a51e167-9552-48a1-99e2-949cb8a5eb8b",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "wheat",
+          "ಗೋಧಿ: ಅರ್ಧಕೆ .ಜಿ."
+        ],
+        [
+          "milk",
+          "ಹಾಲು: ಅರ್ಧ ಲೀಟರ್"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: 1/4 ಕೆ.ಜಿ"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 3/4 ಕೆ.ಜಿ"
+        ],
+        [
+          "almond-powder",
+          "ಬಾದಾಮಿಪುಡಿ: 1/4 ಕೆ.ಜಿ"
+        ],
+        [
+          "almonds",
+          "ಬಾದಾಮಿ: 20"
+        ],
+        [
+          "saffron",
+          "ಕೇಸರಿ ದಳ: 1/2 ಚಮಚ"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿಪುಡಿ: 1 ಚಮಚ"
+        ],
+        [
+          "nutmeg",
+          "ಜಾಕಾಯಿಪುಡಿ: 1/4 ಚಮಚ"
+        ],
+        [
+          "soak-water",
+          "ನೀರು (ಗೋಧಿ ನೆನೆಸಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "saffron-milk",
+          "ಬಿಸಿ ಹಾಲು (ಕೇಸರಿ ನೆನೆಸಲು): 2 ಚಮಚ"
+        ],
+        [
+          "hot-water",
+          "ಬಿಸಿನೀರು: ಕೊಂಚ"
+        ],
+        [
+          "tray-ghee",
+          "ತಟ್ಟೆಗೆ ಸವರಲು ತುಪ್ಪ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "soak-wheat",
+          "inputs": [
+            "wheat",
+            "soak-water"
+          ],
+          "action": "ಆರಿಸಿದ ಶುದ್ಧ ಗೋಧಿಯನ್ನು 3 ದಿನ ನಿತ್ಯ ನೀರು ಬದಲಾಯಿಸುತ್ತ ನೆನೆಸಿಡಬೇಕು."
+        },
+        {
+          "id": "saffron-soak",
+          "inputs": [
+            "saffron",
+            "saffron-milk"
+          ],
+          "action": "ಕೇಸರಿ ದಳಗಳನ್ನು 2 ಚಮಚ ಬಿಸಿ ಹಾಲಿನಲ್ಲಿ 15 ನಿಮಿಷ ನೆನೆಸಿ ರುಬ್ಬಿರಿ."
+        },
+        {
+          "id": "grind-wheat",
+          "inputs": [
+            "soak-wheat"
+          ],
+          "action": "ಈಗ ಗೋಧಿಯನ್ನು ಬಸಿದು ನೀರು ಬೆರೆಸದೇ ರುಬ್ಬಿ ಸೋಸಿಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "wheat-milk-rest",
+          "inputs": [
+            "grind-wheat",
+            "hot-water"
+          ],
+          "action": "ಇದಕ್ಕೆ ಕೊಂಚ ಬಿಸಿನೀರು ಬೆರೆಸಿ ,ಕಲಸಿ ಬಂದ ಹಾಲನ್ನು 12 ಗಂಟೆ ಕಾಲ ಮುಚ್ಚಿಡಿ."
+        },
+        {
+          "id": "hang-mixture",
+          "inputs": [
+            "wheat-milk-rest"
+          ],
+          "action": "ಮರುದಿನ ಹಾಲಿನ ಮೇಲೆ ಇರುವ ನೀರನ್ನು ಚೆಲ್ಲಿ ಉಳಿದ ಗಟ್ಟಿ ಮಿಶ್ರಣವನ್ನು ಬಟ್ಟೆಯಲ್ಲಿ ಕಟ್ಟಿ ಗೂಟಕ್ಕೆ ನೇತುಹಾಕಿ."
+        },
+        {
+          "id": "syrup",
+          "inputs": [
+            "sugar",
+            "milk"
+          ],
+          "action": "ಪಾತ್ರೆಯಲ್ಲಿ ಸಕ್ಕರೆ ಹಾಗೂ ಹಾಲು ಕುದಿಸಿ ಪಾಕ ಸಿದ್ಧವಾಗಿರಲಿ."
+        },
+        {
+          "id": "cook-halwa",
+          "inputs": [
+            "syrup",
+            "hang-mixture"
+          ],
+          "action": "ಈಗ ಪಾಕಕ್ಕೆ ಗೋಧಿ ಹಾಲಿನ ಮಿಶ್ರಣವನ್ನು ಸೇರಿಸಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ತಿರುವುತ್ತಿರಿ."
+        },
+        {
+          "id": "add-almond-ghee",
+          "inputs": [
+            "cook-halwa",
+            "almond-powder",
+            "ghee"
+          ],
+          "action": "ಹಲ್ವ ಗಟ್ಟಿಯಾದ ನಂತರ ಬಾದಾಮಿಪುಡಿ, ಸ್ವಲ್ಪ ತುಪ್ಪ ಹಾಕಿ ಐದು ನಿಮಿಷ ಬಿಟ್ಟು"
+        },
+        {
+          "id": "add-flavours",
+          "inputs": [
+            "add-almond-ghee",
+            "cardamom",
+            "nutmeg",
+            "saffron-soak"
+          ],
+          "action": "ಏಲಕ್ಕಿ, ಜಾಕಾಯಿಪುಡಿ ,ಕೇಸರಿ ಸೇರಿಸಿ."
+        },
+        {
+          "id": "set-tray",
+          "inputs": [
+            "add-flavours",
+            "tray-ghee"
+          ],
+          "action": "ತುಪ್ಪ ಸವರಿದ ತಟ್ಟೆಗೆ ಸುರಿದು ಸಮವಾಗಿ ತಟ್ಟಿ"
+        },
+        {
+          "id": "top-almonds",
+          "inputs": [
+            "set-tray",
+            "almonds"
+          ],
+          "action": "ಅದರ ಮೇಲೆ ಬಾದಾಮಿ ಚೂರುಗಳನ್ನು ಉದುರಿಸಿ ."
+        },
+        {
+          "id": "shape",
+          "inputs": [
+            "top-almonds"
+          ],
+          "action": "ತಣ್ಣಗಾದ ನಂತರ ಬೇಕಾದ ಆಕಾರಕ್ಕೆ ತನ್ನಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Source ingredient line reads \"ಗೋಧಿ ಅರ್ಧಕೆ .ಜಿ.\" (typo, likely half a kg but not confirmed); wheat quantity kept verbatim.",
+        "Wheat appears to be the base but the 'almond halwa' title and 1/4 kg almond powder suggest almond is the star; confirm intended proportions.",
+        "No yield or total time stated (method includes 3 days soaking and 12 hours resting, but no cooking time).",
+        "Milk listed as 'ಅರ್ಧ ಲೀಟರ್'; method also quotes '2 ಚಮಚ ಬಿಸಿ ಹಾಲು' for saffron. Split into two rows per the method quote; unclear whether the 2 tbsp is part of the half litre.",
+        "Ghee: 1/4 kg listed; method only says 'ಸ್ವಲ್ಪ ತುಪ್ಪ' for the halwa and 'ತುಪ್ಪ ಸವರಿದ ತಟ್ಟೆ' for the tray; how the 1/4 kg is divided is unstated. Whole listed ghee assigned to the halwa step.",
+        "Almonds: '20 ಬಾದಾಮಿ' used as chopped topping; no mention of chopping/peeling beyond 'ಬಾದಾಮಿ ಚೂರುಗಳು'.",
+        "Saffron: ground in hot milk, then added later; the method says 'ಕೇಸರಿ ಸೇರಿಸಿ' at the end without saying it is the ground saffron milk (assumed).",
+        "Method adds 'ಕೊಂಚ ಬಿಸಿನೀರು' (no quantity); 'ಹಾಲಿನ ಮೇಲೆ ಇರುವ ನೀರು' is thrown away but which water this is (added hot water vs. settled water) is not stated, so no 'discarded' entry was made.",
+        "Wheat soaking water is not in the ingredient list and is discarded by draining ('ಬಸಿದು'); water quantity unspecified.",
+        "Sugar syrup: 'ಸಕ್ಕರೆ ಹಾಗೂ ಹಾಲು ಕುದಿಸಿ ಪಾಕ'; no syrup consistency or time given. Source typo 'ಜಾಕಾಯಿಪುಡಿ' kept as in source."
+      ]
+    },
+    {
+      "id": "pv-mango-halwa",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಮಾವಿನ ಹಲ್ವ",
+      "workingEnglishTitle": "Mango halwa",
+      "sourceStoryId": "3a51e167-9552-48a1-99e2-949cb8a5eb8b",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "mango",
+          "ಚೆನ್ನಾಗಿ ಹಣ್ಣಾದ ಮಾವಿನಹಣ್ಣು: 5"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 6 ಚಮಚ"
+        ],
+        [
+          "milk",
+          "ಹಾಲು: 1/4 ಲಿ."
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: 4 ಚಮಚ"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿಪುಡಿ: 1 ಚಮಚ"
+        ],
+        [
+          "cashew",
+          "ಗೋಡಂಬಿ: 20- 25"
+        ],
+        [
+          "tray-ghee",
+          "ತಟ್ಟೆಗೆ ಸವರಲು ತುಪ್ಪ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರತ್ಯೇಕ ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "dissolve-sugar",
+          "inputs": [
+            "sugar",
+            "milk"
+          ],
+          "action": "ಬಿಸಿ ಹಾಲಿನಲ್ಲಿ ಸಕ್ಕರೆ ಕರಗಿಸಿ"
+        },
+        {
+          "id": "add-mango",
+          "inputs": [
+            "dissolve-sugar",
+            "mango"
+          ],
+          "action": "ಅದಕ್ಕೆ ಮಾವಿನ ಹಣ್ಣನ್ನು ಕಿವುಚಿ ರಸವನ್ನು ಸೇರಿಸಿ."
+        },
+        {
+          "id": "cook",
+          "inputs": [
+            "add-mango",
+            "ghee",
+            "cashew",
+            "cardamom"
+          ],
+          "action": "ಹಾಲು,ತುಪ್ಪ, ಗೋಡಂಬಿ, ಏಲಕ್ಕಿಪುಡಿ ಹಾಕಿ ಒಲೆಯ ಮೇಲೆ ಬೇಯಿಸಿ."
+        },
+        {
+          "id": "set-tray",
+          "inputs": [
+            "cook",
+            "tray-ghee"
+          ],
+          "action": "ಹಲ್ವ ಹದವಾಗಿ ಬೆಂದ ನಂತರ ತುಪ್ಪ ಸವರಿದ ತಟ್ಟೆಗೆ ಹಾಕಿ"
+        },
+        {
+          "id": "cut",
+          "inputs": [
+            "set-tray"
+          ],
+          "action": "ಬೇಕಾದ ಆಕಾರಕ್ಕೆ ಕತ್ತರಿಸಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "No yield or total time stated; no cooking time or doneness cue beyond 'ಹದವಾಗಿ ಬೆಂದ ನಂತರ'.",
+        "Milk is dissolved with sugar ('ಬಿಸಿ ಹಾಲಿನಲ್ಲಿ') and then 'ಹಾಲು' is listed again in the add-in step; only one milk quantity (1/4 ಲಿ.) given, so unclear if milk is added twice.",
+        "Ghee: 4 ಚಮಚ listed; method does not say how much, if any, is used for greasing the tray. Whole quantity assigned to the cooking step.",
+        "Cashew quantity is a range '20- 25'; no instruction whether nuts are chopped or fried.",
+        "Mango: '5 ಚೆನ್ನಾಗಿ ಹಣ್ಣಾದ ಮಾವಿನಹಣ್ಣು' is mashed ('ಕಿವುಚಿ') - no mention of peeling/stone removal, mango variety or pulp quantity.",
+        "Source gives no thickener (e.g. flour/semolina); confirm whether this halwa sets with only milk, mango and sugar."
+      ]
+    },
+    {
+      "id": "pv-godhi-halwa",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಗೋಧಿ ಹಲ್ವ",
+      "workingEnglishTitle": "Wheat halwa",
+      "sourceStoryId": "3a51e167-9552-48a1-99e2-949cb8a5eb8b",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "wheat",
+          "ಗೋಧಿ: 100 ಗ್ರಾಂ"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 150 ಗ್ರಾಂ"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: 75 ಗ್ರಾಂ"
+        ],
+        [
+          "cashew",
+          "ಗೋಡಂಬಿ: ತಲಾ 50 ಗ್ರಾಂ"
+        ],
+        [
+          "raisins",
+          "ದ್ರಾಕ್ಷಿ: ತಲಾ 50 ಗ್ರಾಂ"
+        ],
+        [
+          "saffron-petals",
+          "ಕೇಸರಿ ದಳ: 4-5"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿ ಪುಡಿ: 1/2 ಚಮಚ"
+        ],
+        [
+          "lime-juice",
+          "ನಿಂಬೆರಸ: 2 ಚಮಚ"
+        ],
+        [
+          "saffron-pinch",
+          "ಕೇಸರಿ: 1 ಚಿಟಿಕೆ"
+        ],
+        [
+          "water",
+          "ನೀರು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "soak-grind",
+          "inputs": [
+            "wheat"
+          ],
+          "action": "ಗೋಧಿಯನ್ನು ದಿನವಿಡೀ ನೆನೆಸಿಟ್ಟು ನುಣ್ಣಗೆ ರುಬ್ಬಿ,"
+        },
+        {
+          "id": "wheat-milk",
+          "inputs": [
+            "soak-grind"
+          ],
+          "action": "ಅದರ ಹಾಲನ್ನು ಸೋಸಿ ಅದನ್ನು ಒಂದು ಗಂಟೆ ಕಾಲ ಮುಚ್ಚಿಡಿ."
+        },
+        {
+          "id": "fry-nuts",
+          "inputs": [
+            "ghee",
+            "raisins",
+            "cashew"
+          ],
+          "action": "ಒಲೆಯ ಮೇಲೆ ಕಾದ ತುಪ್ಪಕ್ಕೆ ದ್ರಾಕ್ಷಿ, ಗೋಡಂಬಿ ಹುರಿದು ತೆಗೆದಿಡಿ."
+        },
+        {
+          "id": "syrup",
+          "inputs": [
+            "fry-nuts",
+            "water",
+            "sugar"
+          ],
+          "action": "ಅದೇ ತುಪ್ಪಕ್ಕೆ ನೀರು, ಸಕ್ಕರೆ ಬೆರೆಸಿ ಗಟ್ಟಿಪಾಕ ಮಾಡಿಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "pour-wheat-milk",
+          "inputs": [
+            "syrup",
+            "wheat-milk"
+          ],
+          "action": "ಈಗ ಗೋಧಿ ಹಾಲಿನ ಮೇಲಿನ ನೀರನ್ನು ಬಗ್ಗಿಸಿ ತೆಗೆದು ಉಳಿದ ಹಾಲನ್ನು ಕಲಕಿ ಸಕ್ಕರೆ ಪಾಕಕ್ಕೆ ಸುರಿದು ಅದು ಗಂಟಾಗದಂತೆ ಕಲಕುತ್ತಿರಿ."
+        },
+        {
+          "id": "add-flavours",
+          "inputs": [
+            "pour-wheat-milk",
+            "saffron-petals",
+            "saffron-pinch",
+            "lime-juice",
+            "cardamom"
+          ],
+          "action": "ಅದು ಗಟ್ಟಿಯಾದ ನಂತರ ಕೇಸರಿ, ನಿಂಬೆರಸ, ದ್ರಾಕ್ಷಿ, ಗೋಡಂಬಿ ಹಾಕಿ ಕಲಸಿ 5 ನಿಮಿಷ ಬೇಯಿಸಿ."
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "add-flavours"
+          ],
+          "action": "ಹಲ್ವ ಪಾತ್ರೆಗೆ ಅಂಟದೇ ಬಿಟ್ಟ ನಂತರ ತಟ್ಟೆಗೆ ಹಾಕಿದರೆ ಗೋಧಿ ಹಲ್ವ ಸವಿಯಲು ಸಿದ್ಧ."
+        }
+      ],
+      "editorialQuestions": [
+        "No yield or total time stated (method has an overnight soak and 1 hour rest).",
+        "Saffron appears in two forms: '4-5 ಕೇಸರಿ ದಳ' and '1 ಚಿಟಿಕೆ ಕೇಸರಿ'; the method only says 'ಕೇಸರಿ' once, so which form (or both) is added is unclear. Both rows kept and both consumed in the add-flavours step.",
+        "'ಏಲಕ್ಕಿ ಪುಡಿ 1/2 ಚಮಚ' is listed but never mentioned in the method; placed in the add-flavours step only to keep it in the graph - confirm where it is added.",
+        "'ತಲಾ 50 ಗ್ರಾಂ ಗೋಡಂಬಿ, ದ್ರಾಕ್ಷಿ' means 50 g each; kept verbatim as one 'ತಲಾ' quantity per row.",
+        "Ghee (75 g) is used to fry raisins and cashews, then 'ಅದೇ ತುಪ್ಪಕ್ಕೆ' water and sugar are added for the syrup; the nuts are taken out and re-added later. The graph cannot branch, so the syrup step consumes the fry-nuts step and the later add step lists nuts only in its action text.",
+        "Water for the syrup is only in the method, no quantity; wheat soaking water is not listed or quantified; 'ಗೋಧಿ ಹಾಲಿನ ಮೇಲಿನ ನೀರು' is poured off but not a listed ingredient (no 'discarded' entry).",
+        "'ಗಟ್ಟಿಪಾಕ' (thick syrup) consistency is not defined; no heat level or timings other than 5 minutes after adding flavours.",
+        "No tray greasing mentioned in this recipe, unlike the other two halwas in the story."
+      ]
+    },
+    {
+      "id": "pv-bakery-style-badusha",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಬೇಕರಿ ಶೈಲಿಯ ಬಾದುಷಾ",
+      "workingEnglishTitle": "Bakery-style badusha",
+      "sourceStoryId": "2f5700a0-4bd8-4e0c-bb70-e9e228c7790e",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-bakery-style-badusha-recipe-at-home-4355654",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "maida",
+          "ಮೈದಾ ಹಿಟ್ಟು: 2 ಕಪ್"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: ಅರ್ಧ ಕಪ್"
+        ],
+        [
+          "baking-powder",
+          "ಬೇಕಿಂಗ್ ಪೌಡರ್: ಅರ್ಧ ಚಮಚ"
+        ],
+        [
+          "curd",
+          "ಮೊಸರು: ಅರ್ಧ ಕಪ್"
+        ],
+        [
+          "baking-soda",
+          "ಬೇಕಿಂಗ್ ಸೋಡಾ: 1 ಚಮಚ"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 2 ಕಪ್"
+        ],
+        [
+          "nuts",
+          "ಬಾದಾಮಿ, ಪಿಸ್ತಾ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿ ಪುಡಿ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "saffron",
+          "ಕೇಸರಿ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಒಂದು ಚಿಟಿಕೆ"
+        ],
+        [
+          "water",
+          "ನೀರು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಅರ್ಧ ಕಪ್"
+        ],
+        [
+          "frying-fat",
+          "ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ (ಕರಿಯಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "dough-mix",
+          "inputs": [
+            "maida",
+            "baking-powder",
+            "baking-soda",
+            "salt",
+            "ghee",
+            "curd"
+          ],
+          "action": "ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಮೈದಾ ಹಿಟ್ಟು, ಬೇಕಿಂಗ್ ಪೌಡರ್, ಬೇಕಿಂಗ್ ಸೋಡಾ ಮತ್ತು ಒಂದು ಚಿಟಿಕೆ ಉಪ್ಪು, ಅರ್ಧ ಕಪ್ ತುಪ್ಪ ಮತ್ತು ತಣ್ಣಗಿನ ಮೊಸರನ್ನು ಹಾಕಿ."
+        },
+        {
+          "id": "dough-rest",
+          "inputs": [
+            "dough-mix"
+          ],
+          "action": "ಹಿಟ್ಟನ್ನು ಸ್ವಲ್ಪ ನಾದಿಕೊಂಡು 30 ನಿಮಿಷ ಹಾಗೇ ಬಿಡಿ."
+        },
+        {
+          "id": "syrup",
+          "inputs": [
+            "sugar",
+            "water"
+          ],
+          "action": "ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ 2 ಕಪ್ ಸಕ್ಕರೆ ಮತ್ತು ಅರ್ಧ ಕಪ್ ನೀರು ಹಾಕಿ ಕುದಿಯಲು ಇಡಿ."
+        },
+        {
+          "id": "syrup-flavour",
+          "inputs": [
+            "syrup",
+            "cardamom",
+            "saffron"
+          ],
+          "action": "ಸಕ್ಕರೆ ಕರಗಿ, ಪಾಕದ ಹದಕ್ಕೆ ಬಂದಾಗ ಅದಕ್ಕೆ ಏಲಕ್ಕಿ ಪುಡಿ ಮತ್ತು ಕೇಸರಿ ಹಾಕಿ."
+        },
+        {
+          "id": "shape",
+          "inputs": [
+            "dough-rest"
+          ],
+          "action": "ಬಳಿಕ ನಾದಿಕೊಂಡ ಹಿಟ್ಟನ್ನು ಉಂಡೆಯ ಆಕಾರ ಮಾಡಿ, ಅಂಗೈಯಲ್ಲಿ ಇಟ್ಟುಕೊಂಡು ಸ್ವಲ್ಪ ಒತ್ತಿ, ಮಧ್ಯದಲ್ಲಿ ಬೆರಳಿನಿಂದ ಒಂದು ಚಿಕ್ಕ ರಂಧ್ರ ಮಾಡಿ."
+        },
+        {
+          "id": "fry",
+          "inputs": [
+            "shape",
+            "frying-fat"
+          ],
+          "action": "ಇದಾದ ಬಳಿಕ ಬಾಣಲೆಯಲ್ಲಿ ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪವನ್ನು ಬಿಸಿ ಮಾಡಿ ಒಂದೊಂದಾಗಿ ಬಾದುಷಾಗಳನ್ನು ಹಾಕಿ. ಉಂಡೆಗಳು ಗೋಲ್ಡನ್ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುವವರೆಗೆ ಸಣ್ಣ ಉರಿಯಲ್ಲಿಯೇ ಬೇಯಿಸಿ."
+        },
+        {
+          "id": "soak-in-syrup",
+          "inputs": [
+            "fry",
+            "syrup-flavour"
+          ],
+          "action": "ಬಳಿಕ ಎಣ್ಣೆಯಲ್ಲಿ ಬೆಂದ ಬಾದುಷಾಗಳನ್ನು ನೇರವಾಗಿ ಬೆಚ್ಚಗಿರುವ ಸಕ್ಕರೆ ಪಾಕಕ್ಕೆ ಹಾಕಿ. ಎರಡೂ ಕಡೆ ಪಾಕ ಹಿಡಿಯುವಂತೆ 5 ನಿಮಿಷ ಪಾಕದಲ್ಲಿ ನೆನೆಯಲು ಬಿಡಿ."
+        },
+        {
+          "id": "garnish",
+          "inputs": [
+            "soak-in-syrup",
+            "nuts"
+          ],
+          "action": "ನಂತರ ಹೊರತೆಗೆದು ಬಾದುಷಾ ಮೇಲೆ ಸಣ್ಣಗೆ ಕತ್ತರಿಸಿದ ಬಾದಾಮಿ, ಪಿಸ್ತಾ ಹಾಕಿ ಅಲಂಕರಿಸಿ. ಈಗ ಬಾದುಷಾ ಸವಿಯಲು ಸಿದ್ಧ."
+        }
+      ],
+      "editorialQuestions": [
+        "No yield (number of badushas) or total time stated.",
+        "Salt ('ಒಂದು ಚಿಟಿಕೆ ಉಪ್ಪು') and water ('ಅರ್ಧ ಕಪ್ ನೀರು') appear only in the method, not the ingredient list.",
+        "Almonds, pistachios, cardamom powder and saffron are listed with no quantity.",
+        "Ghee: '1/2 cup' is listed for the dough; frying uses 'ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ' with no quantity or depth, kept as a separate row; unclear whether the frying ghee is meant to come from the listed ghee.",
+        "Dough instruction says to put ingredients in a vessel but only later says 'ನಾದಿಕೊಂಡು'; the order (knead, then rest 30 minutes) is as in source; no water for the dough is mentioned.",
+        "Syrup consistency is only 'ಪಾಕದ ಹದ' (no string-consistency or time); syrup is described as 'ಬೆಚ್ಚಗಿರುವ' when the badushas are added with no temperature given.",
+        "Frying temperature/time not given beyond 'ಸಣ್ಣ ಉರಿ' and golden colour.",
+        "Source typo: stray '.' after 'ಬಾದುಷಾ ಮೇಲೆ' removed; 'ಬೇಕಿಂಗ್ ಸೋಡಾ 1 ಚಮಚ' is double the baking powder - confirm this is correct.",
+        "Intro says Diwali date 'ನವೆಂಬರ್ 8' - date-dependent, may need updating."
+      ]
+    },
+    {
+      "id": "pv-haalu-kheeru",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಹಾಲು ಖೀರು",
+      "workingEnglishTitle": "Milk kheer (vermicelli)",
+      "sourceStoryId": "db5d12e2-b993-4d8e-b74b-3e5019233665",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/ruchi-ruchi-payasa-pachana-anaayasa-recipe-4349366",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "vermicelli",
+          "ಶ್ಯಾವಿಗೆ: ಒಂದು ಕಪ್"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 2 ಕಪ್"
+        ],
+        [
+          "milk",
+          "ಹಾಲು: 2 ಕಪ್"
+        ],
+        [
+          "almond-powder",
+          "ಬಾದಾಮಿಪುಡಿ: 3 ಚಮಚ"
+        ],
+        [
+          "raisins",
+          "ದ್ರಾಕ್ಷಿ: 10"
+        ],
+        [
+          "cashew",
+          "ಗೋಡಂಬಿ: 10"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿ ಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: 1 ಚಮಚ"
+        ],
+        [
+          "water",
+          "ನೀರು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಎರಡು ಕಪ್"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "fry",
+          "inputs": [
+            "raisins",
+            "cashew",
+            "vermicelli",
+            "ghee"
+          ],
+          "action": "ದ್ರಾಕ್ಷಿ, ಗೋಡಂಬಿ ಹಾಗೂ ಶ್ಯಾವಿಗೆಯನ್ನು ತುಪ್ಪದಲ್ಲಿ ಹುರಿದಿಟ್ಟುಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "base",
+          "inputs": [
+            "water",
+            "milk",
+            "sugar",
+            "almond-powder",
+            "cardamom"
+          ],
+          "action": "ನಂತರ ಎರಡು ಕಪ್ ನೀರು ಹಾಕಿ ಕುದಿಯುವಾಗ ಹಾಲು, ಸಕ್ಕರೆ, ಬಾದಾಮಿಪುಡಿ, ಏಲಕ್ಕಿಪುಡಿ ಹಾಕಿ. ಚೆನ್ನಾಗಿ ಬೆಂದ ನಂತರ"
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "base",
+            "fry"
+          ],
+          "action": "ತುಪ್ಪದಲ್ಲಿ ಹುರಿದ ದ್ರಾಕ್ಷಿ, ಗೋಡಂಬಿಯನ್ನು ಸೇರಿಸಿದರೆ ಹಾಲು ಖೀರು ಸವಿಯಲು ಸಿದ್ಧ."
+        }
+      ],
+      "editorialQuestions": [
+        "No yield or total time stated.",
+        "Vermicelli is fried in ghee in step 1, but the method never says when it is added to the milk; the final step adds only the fried raisins and cashews. Vermicelli is consumed via the fry step; confirm where it is added.",
+        "Water ('ಎರಡು ಕಪ್ ನೀರು') appears only in the method; no cooking time or heat level given.",
+        "Only 1 tbsp ghee for frying vermicelli, 10 raisins and 10 cashews together - confirm quantity.",
+        "Cardamom powder listed as 'ಸ್ವಲ್ಪ' (no measure).",
+        "Story ends with bullet tips for making payasa (not modelled as recipes)."
+      ]
+    },
+    {
+      "id": "pv-sabbakki-payasa",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಸಬ್ಬಕ್ಕಿ ಪಾಯಸ",
+      "workingEnglishTitle": "Sabbakki (sago) payasa",
+      "sourceStoryId": "db5d12e2-b993-4d8e-b74b-3e5019233665",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/ruchi-ruchi-payasa-pachana-anaayasa-recipe-4349366",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "sabbakki",
+          "ಸಬ್ಬಕ್ಕಿ: ಒಂದು ಕಪ್"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 1 ಕಪ್"
+        ],
+        [
+          "jaggery",
+          "ಬೆಲ್ಲ: 1 ಅಚ್ಚು"
+        ],
+        [
+          "moong-rice",
+          "ಹೆಸರುಬೇಳೆ ಮತ್ತು ಅಕ್ಕಿ: 1 ಕಪ್"
+        ],
+        [
+          "almond-powder",
+          "ಬಾದಾಮಿ ಪುಡಿ: 2 ಚಮಚ"
+        ],
+        [
+          "poppy",
+          "ಗಸೆಗಸೆ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "coconut",
+          "ತೆಂಗಿನಕಾಯಿ: ಅರ್ಧ ಹೋಳು"
+        ],
+        [
+          "milk",
+          "ಹಾಲು: 1ಕಪ್"
+        ],
+        [
+          "raisins",
+          "ದ್ರಾಕ್ಷಿ: 10"
+        ],
+        [
+          "cashew",
+          "ಗೋಡಂಬಿ: 10"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿ ಪುಡಿ: ಸ್ವಲ್ಪ"
+        ],
+        [
+          "water",
+          "ನೀರು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "roast-sabbakki",
+          "inputs": [
+            "sabbakki"
+          ],
+          "action": "ಸಬ್ಬಕ್ಕಿಯನ್ನು ಬೇರೆ ಬೇರೆಯಾಗಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಹುರಿದಿಡಿ."
+        },
+        {
+          "id": "roast-moong-rice",
+          "inputs": [
+            "moong-rice"
+          ],
+          "action": "ಅಕ್ಕಿ, ಹೆಸರುಬೇಳೆಯನ್ನು ಬೇರೆ ಬೇರೆಯಾಗಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಹುರಿದಿಡಿ."
+        },
+        {
+          "id": "roast-poppy",
+          "inputs": [
+            "poppy"
+          ],
+          "action": "ಗಸೆಗಸೆಯನ್ನು ಬೇರೆ ಬೇರೆಯಾಗಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಹುರಿದಿಡಿ."
+        },
+        {
+          "id": "coconut-milk",
+          "inputs": [
+            "coconut",
+            "roast-poppy"
+          ],
+          "action": "ತೆಂಗಿನಕಾಯಿ ಮತ್ತು ಗಸೆಗಸೆಯನ್ನು ರುಬ್ಬಿ ಹಾಲನ್ನು ಸೋಸಿಟ್ಟುಕೊಳ್ಳಿ,"
+        },
+        {
+          "id": "moong-rice-rava",
+          "inputs": [
+            "roast-moong-rice"
+          ],
+          "action": "ಹೆಸರುಬೇಳೆ ಮತ್ತು ಅಕ್ಕಿಯನ್ನು ತರಿತರಿಯಾಗಿ ಪುಡಿ ಮಾಡಿ."
+        },
+        {
+          "id": "boil-rava",
+          "inputs": [
+            "water",
+            "moong-rice-rava"
+          ],
+          "action": "ಪಾತ್ರೆಗೆ ನೀರು ಹಾಕಿ ಕುದಿಯುವಾಗ ಹೆಸರುಬೇಳೆ - ಅಕ್ಕಿ ತರಿಯನ್ನು ನಿಧಾನವಾಗಿ ಹಾಕಿ ಗಂಟು ಬೀಳದ ರೀತಿ ಗೊಟಾಯಿಸಿ."
+        },
+        {
+          "id": "add-sabbakki",
+          "inputs": [
+            "boil-rava",
+            "roast-sabbakki"
+          ],
+          "action": "ಸಬ್ಬಕ್ಕಿಯನ್ನು ಹಾಕಿ ಬೇಯಿಸಿ"
+        },
+        {
+          "id": "sweeten",
+          "inputs": [
+            "add-sabbakki",
+            "jaggery",
+            "coconut-milk",
+            "milk",
+            "sugar",
+            "almond-powder",
+            "cardamom"
+          ],
+          "action": "ಬೆಲ್ಲ, ಕಾಯಿ ಹಾಲು, ಹಾಲು, ಸಕ್ಕರೆ, ಬಾದಾಮಿ ಪುಡಿ, ಏಲಕ್ಕಿಪುಡಿ ಹಾಕಿ ಬೇಯಿಸಿ."
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "sweeten",
+            "raisins",
+            "cashew",
+            "ghee"
+          ],
+          "action": "ನಂತರ ತುಪ್ಪದಲ್ಲಿ ಹುರಿದ ದ್ರಾಕ್ಷಿ, ಗೋಡಂಬಿಯನ್ನು ಸೇರಿಸಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "No yield or total time stated; no cooking time for sabbakki or final boil.",
+        "'ಹೆಸರುಬೇಳೆ ಮತ್ತು ಅಕ್ಕಿ 1 ಕಪ್' is a single combined quantity; split between dal and rice not stated. Kept as one row.",
+        "Roasting step in source is one sentence covering sabbakki, rice, moong dal and poppy 'ಬೇರೆ ಬೇರೆಯಾಗಿ'; split into three operations with the same wording to fit the graph.",
+        "Ghee is not in the ingredient list but the final step says raisins/cashews are fried in ghee; frying itself is not described and no ghee quantity given.",
+        "Water appears only in the method with no quantity.",
+        "Jaggery listed as '1 ಅಚ್ಚು' (a mould/block, size not defined).",
+        "Coconut: '1/2 ಹೋಳು' (half a piece) - size not defined; 'ಕಾಯಿ ಹಾಲು' is thick or thin not stated.",
+        "Milk written '1ಕಪ್' (no space); used both as plain milk in the final step and coconut milk is separate - no overlap in source.",
+        "Source typo/dialect words kept as written: 'ಗಸೆಗಸೆ', 'ಗೊಟಾಯಿಸಿ'.",
+        "Story ends with bullet tips for payasa (not modelled as recipes); tip says sugar/jaggery should be added after the rice/dal cook, consistent with this method."
+      ]
+    },
+    {
+      "id": "pv-macaroni-payasa",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಮ್ಯಾಕ್ರೋನಿ ಪಾಯಸ",
+      "workingEnglishTitle": "Macaroni payasa",
+      "sourceStoryId": "db5d12e2-b993-4d8e-b74b-3e5019233665",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/ruchi-ruchi-payasa-pachana-anaayasa-recipe-4349366",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "macaroni",
+          "ಮ್ಯಾಕ್ರೋನಿ: 50 ಗ್ರಾಂ"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 1 ಲೋಟ"
+        ],
+        [
+          "water",
+          "ನೀರು: 1 ಲೋಟ"
+        ],
+        [
+          "milk",
+          "ಹಾಲು: 1 ಲೋಟ"
+        ],
+        [
+          "moong-dal",
+          "ಹೆಸರುಬೇಳೆ: 1 ಕಪ್"
+        ],
+        [
+          "cardamom",
+          "ಏಲಕ್ಕಿ: 4"
+        ],
+        [
+          "almond-powder",
+          "ಬಾದಾಮಿಪುಡಿ: 4 ಚಮಚ"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "raisins",
+          "ದ್ರಾಕ್ಷಿ: 15"
+        ],
+        [
+          "cashew",
+          "ಗೋಡಂಬಿ: 10"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "roast-powder",
+          "inputs": [
+            "cardamom",
+            "moong-dal"
+          ],
+          "action": "ಏಲಕ್ಕಿ ಮತ್ತು ಹೆಸರುಬೇಳೆಯನ್ನು ಹುರಿದು ಪುಡಿ ಮಾಡಿಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "fry-macaroni",
+          "inputs": [
+            "ghee",
+            "macaroni"
+          ],
+          "action": "ಬಾಣಲೆಗೆ ತುಪ್ಪ ಹಾಕಿ, ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಮ್ಯಾಕ್ರೋನಿಯನ್ನು ಕಂದು ಬಣ್ಣ ಬರುವವರೆಗೂ ಹುರಿದಿಟ್ಟುಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "fry-nuts",
+          "inputs": [
+            "raisins",
+            "cashew"
+          ],
+          "action": "ದ್ರಾಕ್ಷಿ ಮತ್ತು ಗೋಡಂಬಿಯನ್ನು ತುಪ್ಪದಲ್ಲಿ ಕರಿದಿಡಿ."
+        },
+        {
+          "id": "boil-powder",
+          "inputs": [
+            "water",
+            "roast-powder"
+          ],
+          "action": "ಪಾತ್ರೆಗೆ ನೀರು ಹಾಕಿದ ನಂತರ ಏಲಕ್ಕಿ ಮತ್ತು ಹೆಸರುಬೇಳೆ ಪುಡಿಯನ್ನು ಹಾಕಿ ಕುದಿಸಿದ ಮೇಲೆ"
+        },
+        {
+          "id": "add-milk-sugar",
+          "inputs": [
+            "boil-powder",
+            "milk",
+            "sugar"
+          ],
+          "action": "ಹಾಲು ಮತ್ತು ಸಕ್ಕರೆಯನ್ನು ಹಾಕಿ"
+        },
+        {
+          "id": "add-macaroni",
+          "inputs": [
+            "add-milk-sugar",
+            "fry-macaroni"
+          ],
+          "action": "ಚೆನ್ನಾಗಿ ಕುದಿಯುವಾಗ ಹುರಿದ ಮ್ಯಾಕ್ರೋನಿಯನ್ನು ಹಾಕಿ. ಬೇಯುವ ತನಕ ಕೈಯಾಡಿಸುತ್ತಾ ಇರಿ."
+        },
+        {
+          "id": "finish",
+          "inputs": [
+            "add-macaroni",
+            "almond-powder",
+            "fry-nuts"
+          ],
+          "action": "ಮ್ಯಾಕ್ರೋನಿ ಬೆಂದ ಮೇಲೆ ಅದಕ್ಕೆ ಬಾದಾಮಿ ಪುಡಿಯನ್ನು ಹಾಕಿ ಒಂದೆರಡು ನಿಮಿಷ ಕುದಿಸಿ ಕೆಳಗಿಳಿಸಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "No yield or total time stated.",
+        "Fried raisins and cashews ('ಕರಿದಿಡಿ') are never added back to the payasa in the method; they are placed in the final step only to keep them in the graph. Confirm where they are added.",
+        "'ಏಲಕ್ಕಿ 4' is a count (4 cardamoms), not powder; units are mixed (ಲೋಟ for sugar/water/milk, ಕಪ್ for moong dal).",
+        "Ghee has no quantity, and it is used for frying macaroni and for frying raisins/cashews (only the macaroni step lists it as an input; no portion quoted per use).",
+        "'ನೀರು 1 ಲೋಟ' is listed; method says 'ಪಾತ್ರೆಗೆ ನೀರು ಹಾಕಿದ' without restating quantity.",
+        "Moong dal (1 cup) is roasted and powdered along with cardamom; no mention whether the dal is whole/split or soaked; no cooking times given.",
+        "Dish name uses the word 'ಮ್ಯಾಕ್ರೋನಿ'; no indication of macaroni type/size.",
+        "Story ends with bullet tips for payasa (not modelled as recipes)."
+      ]
+    },
+    {
+      "id": "pv-andhra-nellikayi-pachadi",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಆಂಧ್ರ ಶೈಲಿಯ ನೆಲ್ಲಿಕಾಯಿ ಪಚಡಿ",
+      "workingEnglishTitle": "Andhra-style gooseberry (amla) pachadi",
+      "sourceStoryId": "e0caf692-c24f-4f43-a5be-4758c00528b3",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/andhra-style-amla-pachadi-recipe-in-kannada-4336762",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "amla",
+          "ನೆಲ್ಲಿಕಾಯಿ: ಅರ್ಧ ಕೆಜಿ"
+        ],
+        [
+          "tamarind",
+          "ಹುಣಸೆಹಣ್ಣು: 100 ಗ್ರಾಂ"
+        ],
+        [
+          "chilli-powder",
+          "ಖಾರದ ಪುಡಿ: 100 ಗ್ರಾಂ"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: 100 ಗ್ರಾಂ"
+        ],
+        [
+          "mustard-powder",
+          "ಸಾಸಿವೆ ಪುಡಿ: 30 ಗ್ರಾಂ"
+        ],
+        [
+          "fenugreek-powder",
+          "ಮೆಂತ್ಯ ಪುಡಿ: 2 ಚಮಚ"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಸಿನ ಪುಡಿ: 1 ಚಮಚ"
+        ],
+        [
+          "oil",
+          "ಎಣ್ಣೆ: ಅಗತ್ಯಕ್ಕೆ ಬೇಕಾದಷ್ಟು"
+        ],
+        [
+          "garlic",
+          "ಬೆಳ್ಳುಳ್ಳಿ: 2 ಪೂರ್ತಿ ಗೆಡ್ಡೆ"
+        ],
+        [
+          "dry-chilli",
+          "ಒಣ ಮೆಣಸಿನಕಾಯಿ: 10"
+        ],
+        [
+          "curry-leaves",
+          "ಕರಿಬೇವು: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "asafoetida",
+          "ಇಂಗು: 2 ಚಮಚ"
+        ],
+        [
+          "hot-water",
+          "ಬಿಸಿ ನೀರು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; 2 ಕಪ್"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "wash-amla",
+          "inputs": [
+            "amla"
+          ],
+          "action": "ಮೊದಲು ನೆಲ್ಲಿಕಾಯಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ತೊಳೆದು ಬಟ್ಟೆಯಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಒರೆಸಿಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "soak-tamarind",
+          "inputs": [
+            "tamarind",
+            "hot-water"
+          ],
+          "action": "ಹುಣಸೆಹಣ್ಣನ್ನು 2 ಕಪ್ ಬಿಸಿ ನೀರಿನಲ್ಲಿ 10 ನಿಮಿಷ ನೆನೆಸಿಡಿ."
+        },
+        {
+          "id": "cook-amla",
+          "inputs": [
+            "wash-amla",
+            "oil"
+          ],
+          "action": "ಒಂದು ಬಾಣಲೆಯಲ್ಲಿ ಎಣ್ಣೆ ಹಾಕಿ. ನಂತರ ಬೀಜ ತೆಗೆದು ಸಣ್ಣದಾಗಿ ಹೆಚ್ಚಿಕೊಂಡ ನೆಲ್ಲಿಕಾಯಿಗಳನ್ನು ಹಾಕಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಚೆನ್ನಾಗಿ ಬೇಯಿಸಿ."
+        },
+        {
+          "id": "masala-mix",
+          "inputs": [
+            "cook-amla",
+            "chilli-powder",
+            "salt",
+            "mustard-powder",
+            "fenugreek-powder",
+            "turmeric",
+            "soak-tamarind"
+          ],
+          "action": "ನಂತರ ಎಣ್ಣೆಯಲ್ಲಿ ಬೇಯಿಸಿಕೊಂಡ ನೆಲ್ಲಿಕಾಯಿ ತುಂಡುಗಳಿರುವ ಪಾತ್ರೆಗೆ ಖಾರದ ಪುಡಿ, ಉಪ್ಪು, ಸಾಸಿವೆ, ಮೆಂತ್ಯ, ಅರಿಸಿನ ಪುಡಿ ಮತ್ತು ಹುಣಸೆಹಣ್ಣಿನ ರಸವನ್ನು ಹಾಕಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ."
+        },
+        {
+          "id": "tempering",
+          "inputs": [
+            "dry-chilli",
+            "asafoetida",
+            "curry-leaves"
+          ],
+          "action": "ಇದಾದ ಬಳಿಕ ನೆಲ್ಲಿಕಾಯಿ ಬೇಯಿಸಿದ ಎಣ್ಣೆಯಲ್ಲೇ ಸಾಸಿವೆ, ಮೆಂತ್ಯ, ಒಣ ಮೆಣಸಿನಕಾಯಿ, ಇಂಗು ಮತ್ತು ಕರಿಬೇವು ಹಾಕಿ ಒಗ್ಗರಣೆ ಕೊಡಿ."
+        },
+        {
+          "id": "fry-garlic",
+          "inputs": [
+            "tempering",
+            "garlic"
+          ],
+          "action": "ಇದಕ್ಕೆ ಬೆಳ್ಳುಳ್ಳಿ ಸೇರಿಸಿ, ಅವು ಬಣ್ಣ ಬದಲಾಗುವವರೆಗೆ ಹುರಿದುಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "masala-mix",
+            "fry-garlic"
+          ],
+          "action": "ಈ ಒಗ್ಗರಣೆ ಸಂಪೂರ್ಣವಾಗಿ ತಣ್ಣಗಾದ ನಂತರ, ಅದನ್ನು ನೆಲ್ಲಿಕಾಯಿ ಮಸಾಲೆ ಮಿಶ್ರಣಕ್ಕೆ ಸುರಿದು ಚೆನ್ನಾಗಿ ಕಲಸಿ. ಈಗ ಆಂಧ್ರ ಶೈಲಿಯ ನೆಲ್ಲಿಕಾಯಿ ಪಚಡಿ ಸವಿಯಲು ಸಿದ್ಧ. ಇದನ್ನು ಬಿಳಿ ಅನ್ನ, ದೋಸೆ, ಚಪಾತಿ, ರೊಟ್ಟಿ ಜೊತೆಗೆ ತುಪ್ಪದೊಂದಿಗೆ ಸವಿಯಬಹುದು."
+        }
+      ],
+      "editorialQuestions": [
+        "Intro claims it can be made in 'ಕೇವಲ 10 ನಿಮಿಷಗಳಲ್ಲಿ'; this is an intro claim only, not a verified total time (method has a 10-minute tamarind soak, no cooking time for the amla). totalTime left null. Intro also says it keeps 'ದೀರ್ಘಕಾಲದವರೆಗೆ' with no storage duration.",
+        "No yield stated.",
+        "Salt 100 g and chilli powder 100 g are quantities as written; kept verbatim (salt quantity looks high relative to 500 g amla - confirm).",
+        "'ಸಾಸಿವೆ ಪುಡಿ' and 'ಮೆಂತ್ಯ ಪುಡಿ' are powders in the list, but the method says 'ಸಾಸಿವೆ, ಮೆಂತ್ಯ' in both the masala-mix step and the tempering; unclear whether tempering uses whole seeds (not listed) or the same powders. Powders assigned to the masala-mix step only.",
+        "Tempering uses 'ನೆಲ್ಲಿಕಾಯಿ ಬೇಯಿಸಿದ ಎಣ್ಣೆಯಲ್ಲೇ' (the same oil the amla cooked in) but the amla is moved to another vessel; the graph consumes the oil in the amla step and cannot show the reuse. Oil quantity 'ಅಗತ್ಯಕ್ಕೆ ಬೇಕಾದಷ್ಟು'.",
+        "Garlic '2 ಪೂರ್ತಿ ಗೆಡ್ಡೆ' (whole bulbs): no peeling/chopping instruction. Curry leaves have no quantity.",
+        "Amla: seeds are removed and amla is chopped small before cooking ('ಬೀಜ ತೆಗೆದು ಸಣ್ಣದಾಗಿ ಹೆಚ್ಚಿ'); this appears after the wash/wipe, not as a separate step; no 'discarded' entry for seeds.",
+        "Method says amla is cooked 'ಚೆನ್ನಾಗಿ' on low heat with no time; tamarind water quantity is 2 cups but 'ಹುಣಸೆಹಣ್ಣಿನ ರಸ' is added with no quantity stated (whole soaking liquid vs. extract).",
+        "Ghee mentioned only in intro serving line ('ತುಪ್ಪದೊಂದಿಗೆ'); not an ingredient row."
+      ]
+    },
+    {
+      "id": "pv-malnad-chicken-sambar",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಮಲ್ನಾಡ್ ಚಿಕನ್ ರೆಸಿಪಿ",
+      "workingEnglishTitle": "Malnad-style chicken sambar",
+      "sourceStoryId": "906294c5-13db-4bda-88b9-5a9214366a66",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/malnad-style-chicken-sambar-recipe-home-made-4362861",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "chicken",
+          "ಚಿಕನ್: 1 ಕೆಜಿ"
+        ],
+        [
+          "onion",
+          "ಈರುಳ್ಳಿ: 4 ರಿಂದ 5"
+        ],
+        [
+          "garlic",
+          "ಬೆಳ್ಳುಳ್ಳಿ: 1 ಹಿಡಿ"
+        ],
+        [
+          "chilli-powder",
+          "ಖಾರದ ಪುಡಿ ಅಥವಾ ಮಟನ್ ಸಾಂಬಾರ್ ಪುಡಿ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "coriander-powder",
+          "ಧನಿಯಾ ಪುಡಿ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "turmeric",
+          "ಅರಿಶಿನ ಪುಡಿ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "green-chilli",
+          "ಹಸಿಮೆಣಸಿನಕಾಯಿ: 3 ರಿಂದ 4"
+        ],
+        [
+          "coriander-leaves",
+          "ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "salt-marinade",
+          "ಉಪ್ಪು (ಚಿಕನ್ ನೆನೆಸಲು): ಸ್ವಲ್ಪ"
+        ],
+        [
+          "salt",
+          "ಉಪ್ಪು: ರುಚಿಗೆ ತಕ್ಕಷ್ಟು"
+        ],
+        [
+          "oil",
+          "ಎಣ್ಣೆ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "marinate",
+          "inputs": [
+            "chicken",
+            "salt-marinade",
+            "turmeric"
+          ],
+          "action": "ಮೊದಲು ಚಿಕನ್ ತುಂಡುಗಳಿಗೆ ಸ್ವಲ್ಪ ಉಪ್ಪು ಮತ್ತು ಅರಿಶಿನ ಪುಡಿ ಹಾಕಿ ಚೆನ್ನಾಗಿ ಬೆರೆಸಿ, 15 ರಿಂದ 20 ನಿಮಿಷ ನೆನೆಯಲು ಬಿಡಿ."
+        },
+        {
+          "id": "fry-base",
+          "inputs": [
+            "oil",
+            "onion",
+            "garlic",
+            "green-chilli"
+          ],
+          "action": "ಬಳಿಕ ಬಾಣಲೆಯಲ್ಲಿ ಎಣ್ಣೆ ಕಾಯಿಸಿ, ಸಣ್ಣಗೆ ಹೆಚ್ಚಿದ ಈರುಳ್ಳಿ, ಜಜ್ಜಿದ ಬೆಳ್ಳುಳ್ಳಿ ಹಾಗೂ ಹಸಿಮೆಣಸಿನಕಾಯಿ ಹಾಕಿ ಹುರಿಯಿರಿ."
+        },
+        {
+          "id": "add-chicken",
+          "inputs": [
+            "fry-base",
+            "marinate",
+            "salt"
+          ],
+          "action": "ನಂತರ ಚಿಕನ್, ರುಚಿಗೆ ತಕ್ಕಷ್ಟು ಉಪ್ಪು ಸೇರಿಸಿ ಹಸಿವಾಸನೆ ಹೋಗುವವರೆಗೆ ಬಾಡಿಸಿ."
+        },
+        {
+          "id": "add-spices",
+          "inputs": [
+            "add-chicken",
+            "chilli-powder",
+            "coriander-powder"
+          ],
+          "action": "ಬಳಿಕ ಖಾರದ ಪುಡಿ ಅಥವಾ ಮಟನ್ ಸಾಂಬಾರ್ ಪುಡಿ ಮತ್ತು ಧನಿಯಾ ಪುಡಿ ಸೇರಿಸಿ, ಕಡಿಮೆ ಉರಿಯಲ್ಲಿ ಎಣ್ಣೆ ಬಿಡುವವರೆಗು ಚೆನ್ನಾಗಿ ಕುದಿಸಿ."
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "add-spices",
+            "coriander-leaves"
+          ],
+          "action": "ಕೊನೆಯಲ್ಲಿ ಸಣ್ಣಗೆ ಹೆಚ್ಚಿದ ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು ಉದುರಿಸಿದರೆ ನಾಲಿಗೆಗೆ ರುಚಿ ಕೊಡುವ ಮಲ್ನಾಡ್ ಶೈಲಿಯ ಚಿಕನ್ ರೆಸಿಪಿ ಸಿದ್ಧ. ಇದನ್ನು ಚಪಾತಿ, ಅನ್ನ, ದೋಸೆ ಅಥವಾ ರೊಟ್ಟಿಯೊಂದಿಗೆ ಸವಿಯಬಹುದು."
+        }
+      ],
+      "editorialQuestions": [
+        "No yield or total time stated; the 15 to 20 minute marination is the only time given.",
+        "Headline/intro call it 'ಚಿಕನ್ ಸಾಂಬಾರ್' but the method adds no water, coconut, tamarind or dal and never boils in liquid ('ಕುದಿಸಿ' is for the masala until oil separates), so the result may be a dry/semi-gravy masala; confirm whether water is missing.",
+        "Spice quantities (chilli powder or mutton sambar powder, coriander powder, turmeric), garlic ('1 ಹಿಡಿ'), coriander leaves, oil and salt have no measure.",
+        "Ingredient list says 'ಉಪ್ಪು ಹಾಗೂ ಎಣ್ಣೆ' without quantities; split into rows. Salt is used twice with quoted portions in the method ('ಸ್ವಲ್ಪ ಉಪ್ಪು' for marinade, 'ರುಚಿಗೆ ತಕ್ಕಷ್ಟು ಉಪ್ಪು' later), so two rows; how they relate is unclear.",
+        "'ಖಾರದ ಪುಡಿ ಅಥವಾ ಮಟನ್ ಸಾಂಬಾರ್ ಪುಡಿ' is an either/or choice kept in one row.",
+        "Onion and green chilli are given as ranges ('4 ರಿಂದ 5', '3 ರಿಂದ 4'); onion is chopped fine, garlic crushed - per method only.",
+        "Marinated chicken is added in a step that says only 'ಚಿಕನ್'; assumed to be the marinated chicken.",
+        "Intro mentions 'ಖಾರವಾದ' (spicy) but no spice level is given. Source title uses 'ಮಲ್ನಾಡ್' in the heading while body text uses 'ಮಲೆನಾಡು' (spelling inconsistency)."
+      ]
+    }
+  ]
+}

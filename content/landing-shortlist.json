@@ -1,0 +1,2403 @@
+{
+  "retrievedAt": "2026-11-16T06:40:54.590Z",
+  "notes": [
+    "Editorial shortlist, not an automatic feed. Recipe metadata must be checked against full body.",
+    "Video-only recipe stories remain watch cards until transcribed.",
+    "Collection membership alone is not evidence of relevance."
+  ],
+  "dh": [
+    {
+      "id": "4682d526-b3b9-4e87-ab0d-d48f29440488",
+      "brand": "DH",
+      "headline": "Kadhi chronicles: A culinary journey through regional variations and history ",
+      "subheadline": "From Gujarat's fajeto to Bihar's phulauri and Andhra's majjiga pulusu, the yogurt-based curry finds a place on most Indian plates.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/kadhi-chronicles-a-culinary-journey-through-regional-variations-and-history-4217287",
+      "slug": "lifestyle/food-and-drink/kadhi-chronicles-a-culinary-journey-through-regional-variations-and-history-4217287",
+      "publishedAt": 1794697200000,
+      "updatedAt": 1794697200000,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-11-13/45ohlcg0/file88e6m7mfwuv408n59wm.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>A popular way to relish kadhi is to add pakoda to it.&nbsp;</p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "tarang-sinha",
+          "social": {},
+          "name": "Tarang Sinha",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 2451475,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        },
+        {
+          "domain-slug": null,
+          "slug": "features",
+          "name": "Features",
+          "section-url": "https://www.deccanherald.com/features",
+          "id": 56892,
+          "parent-id": null,
+          "display-name": "Features",
+          "collection": {
+            "slug": "features",
+            "name": "Features",
+            "id": 133498
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6147042,
+          "name": "Features",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "features",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6182100,
+          "name": "cravings",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "cravings",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6220697,
+          "name": "kadhi",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "kadhi",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "812d9cb4-c05f-4d2c-a5c5-80211b34e1b1",
+      "brand": "DH",
+      "headline": "A taste of winter: Gajjak, Sandesh, Malaiyo & more",
+      "subheadline": "Swatee Jog pens five traditional Indian winter delicacies that bring together seasonal ingredients, comforting flavours, and age-old culinary traditions",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/a-taste-of-winter-gajjak-sandesh-malaiyo-more-4218055",
+      "slug": "lifestyle/food-and-drink/a-taste-of-winter-gajjak-sandesh-malaiyo-more-4218055",
+      "publishedAt": 1794626406777,
+      "updatedAt": 1794626406777,
+      "template": "text",
+      "imageKey": "deccanherald/2026-11-14/yk6xvlqb/Nolen-Gur-Sandesh.jpeg",
+      "imageCaption": "<div class=\"paragraphs\"><p>Nolen Gur Sandesh</p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "swatee-jog",
+          "social": {},
+          "name": "Swatee Jog",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1794499,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139719,
+          "name": "lifestyle",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "lifestyle",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6145834,
+          "name": "weekend",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "weekend",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "20cd2245-66b7-47e8-a134-db69056f5a16",
+      "brand": "DH",
+      "headline": "Karunadotsava | Darshinis, military hotels, bakeries: A food lover's guide to Bengaluru's iconic eateries and flavours",
+      "subheadline": "These iconic eateries offer a taste of the city’s enduring food traditions and also have a history that one can learn and be proud of.",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/karunadotsava-darshinis-military-hotels-bakeries-a-food-lovers-guide-to-bengalurus-iconic-eateries-and-flavours-4198188",
+      "slug": "india/karnataka/bengaluru/karunadotsava-darshinis-military-hotels-bakeries-a-food-lovers-guide-to-bengalurus-iconic-eateries-and-flavours-4198188",
+      "publishedAt": 1794115429776,
+      "updatedAt": 1794115429776,
+      "template": "text",
+      "imageKey": "deccanherald/2026-10-29/vy6qgns7/GeminiGeneratedImagee1mchfe1mchfe1mc.png",
+      "imageCaption": "<div class=\"paragraphs\"><p>AI-generated image for representational use.&nbsp;</p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "ankita-kulkarni",
+          "social": {},
+          "name": "Ankita Kulkarni",
+          "contributor-role": {
+            "id": 7163,
+            "name": "Author"
+          },
+          "avatar-url": "https://lh3.googleusercontent.com/a/ACg8ocIL2HuS4CeJtpCmesqKq_eZD2eFqjIkfb2pV4E5iDUViuPlQA=s96-c",
+          "bio": null,
+          "id": 2416199,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "bengaluru",
+          "name": "Bengaluru",
+          "section-url": "https://www.deccanherald.com/india/karnataka/bengaluru",
+          "id": 56913,
+          "parent-id": 56784,
+          "display-name": "Bengaluru",
+          "collection": {
+            "slug": "bengaluru-karnataka-india",
+            "name": "Bengaluru (Karnataka, India)",
+            "id": 133519
+          },
+          "data": null
+        },
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139733,
+          "name": "Bengaluru",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "bengaluru",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6139800,
+          "name": "Bengaluru news",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "bengaluru-news",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6140008,
+          "name": "Karnataka",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "karnataka",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6154189,
+          "name": "Eatery",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "eatery",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6168769,
+          "name": "bakery",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "bakery",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 16288476,
+          "name": "Karunadotsava",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "karunadotsava",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "c8fa8b9e-518d-45ec-a7c5-453d66a7ff69",
+      "brand": "DH",
+      "headline": "Partition, food & Memory: Echoes from an undivided kitchen",
+      "subheadline": "When refugees arrived in Calcutta, food was not the first thing on their minds. Many had fled with whatever little they could carry, leaving behind familiar ways of life.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/partition-food-memory-echoes-from-an-undivided-kitchen-4210069",
+      "slug": "lifestyle/food-and-drink/partition-food-memory-echoes-from-an-undivided-kitchen-4210069",
+      "publishedAt": 1794087000000,
+      "updatedAt": 1794087000000,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-11-06/l84h3828/file88bro25sdpj1cuj505zu.jpeg",
+      "imageCaption": "<div class=\"paragraphs\"><p>Mochar (banana flower) paturi. </p></div>",
+      "imageAttribution": "<div class=\"paragraphs\"><p>(Pic courtesy: Pritha Dutta)</p></div>",
+      "authors": [
+        {
+          "slug": "pranati-a-s",
+          "social": {},
+          "name": "Pranati A S",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1800611,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6147042,
+          "name": "Features",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "features",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6148662,
+          "name": "partition",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "partition",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6177087,
+          "name": "Indian Cuisine",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "indian-cuisine",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 15281001,
+          "name": "Premium",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "premium",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "05caadb6-97c2-44b9-afbd-5312ea7d6962",
+      "brand": "DH",
+      "headline": "Let the good times fizz! Four easy-to-make mocktails to liven up your festive parties",
+      "subheadline": "Swatee Jog shares four easy-to-make mocktail recipes featuring jamun, mango, blueberry and green apple to keep your celebrations bubbling with flavour.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/let-the-good-times-fizz-4211004",
+      "slug": "lifestyle/food-and-drink/let-the-good-times-fizz-4211004",
+      "publishedAt": 1794031146299,
+      "updatedAt": 1794031146299,
+      "template": "text",
+      "imageKey": "deccanherald/2026-11-07/3tfplb0d/iStock-1319973261.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>File photo for representational purposes.</p></div>",
+      "imageAttribution": "<div class=\"paragraphs\"><p>Credit: iStock Photo</p></div>",
+      "authors": [
+        {
+          "slug": "swatee-jog",
+          "social": {},
+          "name": "Swatee Jog",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1794499,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139719,
+          "name": "lifestyle",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "lifestyle",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6149427,
+          "name": "Drinks",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "drinks",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6154078,
+          "name": "Mocktails",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "mocktails",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "e672dfd8-d6ad-42d7-a6ae-958c2d9cf1ec",
+      "brand": "DH",
+      "headline": "Steamed to perfection: The secret behind Palakkad's famous Ramassery idli",
+      "subheadline": "The selection of rice is very important in making Ramassery idlis. The taste depends on the boiling of paddy.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/soft-fluffy-idlis-from-ramassery-4192810",
+      "slug": "lifestyle/food-and-drink/soft-fluffy-idlis-from-ramassery-4192810",
+      "publishedAt": 1792915148981,
+      "updatedAt": 1792915148981,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-10-25/cagxcke8/file883hi24ty1d2k6rdqvr.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>Soft Ramassery idlis. </p></div>",
+      "imageAttribution": "<div class=\"paragraphs\"><p>Credit: Shusheela Nair</p></div>",
+      "authors": [
+        {
+          "slug": "susheela-nair",
+          "social": {},
+          "name": "Susheela Nair",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1794397,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139719,
+          "name": "lifestyle",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "lifestyle",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6139850,
+          "name": "Tamil Nadu",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "tamil-nadu",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6140008,
+          "name": "Karnataka",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "karnataka",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6141686,
+          "name": "idli",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "idli",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 15503543,
+          "name": "keralam",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "keralam",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "1da988a7-e639-409d-8c3a-e000ae9dfb14",
+      "brand": "DH",
+      "headline": "The obbattu: Tracing the layered history of Karnataka’s festive sweet",
+      "subheadline": "From medieval culinary texts to regional variations made with lentils, coconut, peanuts and sweet potato, obbattu has evolved over centuries, reflecting Karnataka’s diverse food traditions.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/the-obbattu-tracing-the-layered-history-of-karnatakas-festive-sweet-4185218",
+      "slug": "lifestyle/food-and-drink/the-obbattu-tracing-the-layered-history-of-karnatakas-festive-sweet-4185218",
+      "publishedAt": 1792275795598,
+      "updatedAt": 1792275795598,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-10-17/kir7qt6e/file880cieyccza18b631rwz.jpg",
+      "imageCaption": "The holige or obbattu is Karnataka's sought-after sweet. ",
+      "imageAttribution": "<div class=\"paragraphs\"><p>Credit: Special arrangement</p></div>",
+      "authors": [
+        {
+          "slug": "savitha-karthik",
+          "social": {},
+          "name": "Savitha Karthik",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1795423,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139719,
+          "name": "lifestyle",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "lifestyle",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "719198e4-8bae-46a0-859b-488eabb6f7d6",
+      "brand": "DH",
+      "headline": "Odisha on a platter: Exploring the traditions, flavours and culinary heritage of Odia cuisine",
+      "subheadline": "Odia cuisine is not shaped by a single tradition — its many flavours have been defined from the region's forests, sea and rivers, apart from temples and royal kitchens.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/odisha-on-a-platter-exploring-the-traditions-flavours-and-culinary-heritage-of-odia-cuisine-4185229",
+      "slug": "lifestyle/food-and-drink/odisha-on-a-platter-exploring-the-traditions-flavours-and-culinary-heritage-of-odia-cuisine-4185229",
+      "publishedAt": 1792275724365,
+      "updatedAt": 1792275724365,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-10-17/kmwipmgk/file880deydukhw1e5currwz.jpg",
+      "imageCaption": "A typical Odia thaali, with the pakhala bhat, cooked rice lightly fermented in waer. ",
+      "imageAttribution": "<div class=\"paragraphs\"><p>Credit: Special arrangement</p></div>",
+      "authors": [
+        {
+          "slug": "sandip-das",
+          "social": {},
+          "name": "Sandip Das",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1797418,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        },
+        {
+          "slug": "alka-jena",
+          "social": {},
+          "name": "Alka Jena",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 2635625,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        },
+        {
+          "slug": "pallavi-das",
+          "social": {},
+          "name": "Pallavi Das",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 2635626,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139719,
+          "name": "lifestyle",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "lifestyle",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 15281001,
+          "name": "Premium",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "premium",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "c4887139-bc21-4ccc-bd12-0f0c61032227",
+      "brand": "DH",
+      "headline": "Breaking bread: A taste of tradition in Georgia",
+      "subheadline": "The classic Imeruli khachapuri, originating in Imereti, is round and filled with cheese. Megruli khachapuri from Samegrelo has cheese stuffed inside as well as melted over the top.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/breaking-bread-a-taste-of-tradition-in-georgia-4176328",
+      "slug": "lifestyle/food-and-drink/breaking-bread-a-taste-of-tradition-in-georgia-4176328",
+      "publishedAt": 1791681696124,
+      "updatedAt": 1791681696124,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-10-11/0ji6n2hy/insets-19.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>Adrajuli khachapuri.</p></div>",
+      "imageAttribution": "<div class=\"paragraphs\"><p>Credit: Author</p></div>",
+      "authors": [
+        {
+          "slug": "ketki-gadre",
+          "social": {},
+          "name": "Ketki Gadre",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1800798,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139719,
+          "name": "lifestyle",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "lifestyle",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "dbde44bf-eb30-449c-8891-52a62f51ef81",
+      "brand": "DH",
+      "headline": "Floral cocktails: Bars give traditional flowers a modern twist",
+      "subheadline": "Beyond the decorative rim, flowers have become the new flavour baseline in contemporary mixology.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/floral-cocktails-bars-give-traditional-flowers-a-modern-twist-4176266",
+      "slug": "lifestyle/food-and-drink/floral-cocktails-bars-give-traditional-flowers-a-modern-twist-4176266",
+      "publishedAt": 1791680623208,
+      "updatedAt": 1791680623208,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-10-11/c4tuvcyc/insets-18.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>The drink, Mehrauli, which on Sidecar's signature Dear Delhi menu.&nbsp;</p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "madhulika-dash",
+          "social": {},
+          "name": "Madhulika Dash",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1796421,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139719,
+          "name": "lifestyle",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "lifestyle",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6147042,
+          "name": "Features",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "features",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6149427,
+          "name": "Drinks",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "drinks",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 15281001,
+          "name": "Premium",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "premium",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "4e85ebc5-3eb1-403e-ac2f-ab1c18134168",
+      "brand": "DH",
+      "headline": "Vegetarian, but make it fancy: Bengaluru's new-age dining scene",
+      "subheadline": "More spaces in South Bengaluru now serve experimental food beyond paneer and mushroom.",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/vegetarian-but-make-it-fancy-bengalurus-new-age-dining-scene-4175540",
+      "slug": "india/karnataka/bengaluru/vegetarian-but-make-it-fancy-bengalurus-new-age-dining-scene-4175540",
+      "publishedAt": 1791502175015,
+      "updatedAt": 1791502175015,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-10-08/oslhpg4a/BeFunky-collage-97.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>At Eatinn Love Trattoria in Jayanagar the focus is on vegetarian Italian food. </p></div>",
+      "imageAttribution": "<div class=\"paragraphs\"><p>Credit: DH Photo</p></div>",
+      "authors": [
+        {
+          "slug": "rashmi-rajagopal",
+          "social": {},
+          "name": "Rashmi Rajagopal",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1800491,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "bengaluru",
+          "name": "Bengaluru",
+          "section-url": "https://www.deccanherald.com/india/karnataka/bengaluru",
+          "id": 56913,
+          "parent-id": 56784,
+          "display-name": "Bengaluru",
+          "collection": {
+            "slug": "bengaluru-karnataka-india",
+            "name": "Bengaluru (Karnataka, India)",
+            "id": 133519
+          },
+          "data": null
+        },
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6139733,
+          "name": "Bengaluru",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "bengaluru",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6139779,
+          "name": "Karnataka News",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "karnataka-news",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6149672,
+          "name": "Metrolife",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "metrolife",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6177642,
+          "name": "vegetarian food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "vegetarian-food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 15281001,
+          "name": "Premium",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "premium",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "8949c12b-0dab-4944-ab6c-9c65643af666",
+      "brand": "DH",
+      "headline": "A spoonful, but with context: Why urban India is hungry for food history and science",
+      "subheadline": "A guava that tastes off, rice that smells of its soil, a pickle that makes one wonder about caste history: curiosity about food is taking urban Indian diners far beyond the plate. They are reading, tasting, questioning and discovering that every bite has its own backstory.",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/a-spoonful-but-with-context-why-urban-india-is-hungry-for-food-history-and-science-4150892",
+      "slug": "lifestyle/food-and-drink/a-spoonful-but-with-context-why-urban-india-is-hungry-for-food-history-and-science-4150892",
+      "publishedAt": 1789855789336,
+      "updatedAt": 1789855789336,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-09-19/p3ive4fb/564802684.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>Urban Indians are looking at their plates with renewed curiosity.&nbsp;</p></div>",
+      "imageAttribution": "<div class=\"paragraphs\"><p>Credit: Special Arrangement</p></div>",
+      "authors": [
+        {
+          "slug": "ruth-dsouza-prabhu",
+          "social": {},
+          "name": "Ruth Dsouza Prabhu",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1794456,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6142951,
+          "name": "Covid",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "covid",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6193930,
+          "name": "fruit",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "fruit",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 15281001,
+          "name": "Premium",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "premium",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "a6e3b87d-8a97-498f-b6da-15f102d7a6ef",
+      "brand": "DH",
+      "headline": "A kadubu by any other name…",
+      "subheadline": "From jackfruit stuffing to modern-day fillings made of dates, chocolate and rose flavours, the dish has lent itself to creativity rather well. ",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/a-kadubu-by-any-other-name-4143062",
+      "slug": "lifestyle/food-and-drink/a-kadubu-by-any-other-name-4143062",
+      "publishedAt": 1789255296251,
+      "updatedAt": 1789255296251,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-09-12/9yqq2q83/file87hy7fpjvyenr4by9g9.jpg",
+      "imageCaption": "Modakas are an invariable part of a festive meal during Ganesha Chaturthi.",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "savitha-karthik",
+          "social": {},
+          "name": "Savitha Karthik",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1795423,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6143409,
+          "name": "Specials",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "specials",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6158846,
+          "name": "feature",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "feature",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6171400,
+          "name": "Modak",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "modak",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "461d32f1-728c-499b-9384-c26a29011714",
+      "brand": "DH",
+      "headline": "Before Biryani, there was Khichadi: The ancient story of India’s one-pot meals",
+      "subheadline": "From simple rice and lentil dishes to pulao, tehari and the layered biryani, one-pot meals are nutrition-rich, convenient and flavourful. Zubin D'Souza writes about the layered history of one pot meals, some of which appear in ancient texts",
+      "url": "https://www.deccanherald.com/lifestyle/food-and-drink/before-biryani-there-was-khichadi-the-ancient-story-of-indias-one-pot-meals-4135087",
+      "slug": "lifestyle/food-and-drink/before-biryani-there-was-khichadi-the-ancient-story-of-indias-one-pot-meals-4135087",
+      "publishedAt": 1788668335321,
+      "updatedAt": 1788668335321,
+      "template": "syndicated",
+      "imageKey": "deccanherald/2026-09-05/7aase92q/file87ecqiverxf1i4b5iupk.jpg",
+      "imageCaption": "Tehari, a one-pot meal made of rice and vegetables, is considered a frugal meal. ",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "zubin-d-souza",
+          "social": {},
+          "name": "Zubin D’Souza",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 2586706,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "food-and-drink",
+          "name": "Food & Drink",
+          "section-url": "https://www.deccanherald.com/lifestyle/food-and-drink",
+          "id": 56901,
+          "parent-id": 56899,
+          "display-name": "Food & Drink",
+          "collection": {
+            "slug": "food-and-drink-lifestyle",
+            "name": "Food & Drink (Lifestyle)",
+            "id": 133507
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 6141660,
+          "name": "Food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6145403,
+          "name": "biryani",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "biryani",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6153176,
+          "name": "Indian food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "indian-food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 6154573,
+          "name": "Cuisine",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "cuisine",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 15281001,
+          "name": "Premium",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "premium",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    }
+  ],
+  "pv": [
+    {
+      "id": "2c572aeb-138f-4837-ae88-94307008a673",
+      "brand": "PV",
+      "headline": "ಸಬ್ಬಸಿಗೆ ಸವಿರುಚಿ: ಬಗೆ ಬಗೆ ಸಬ್ಬಸಿಗೆ ರೆಸಿಪಿಗಳು",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/dill-leaves-healthy-recipes-kannada-4394286",
+      "slug": "health/recipe/dill-leaves-healthy-recipes-kannada-4394286",
+      "publishedAt": 1794625897010,
+      "updatedAt": 1794625897010,
+      "template": "text",
+      "imageKey": "prajavani/2026-11-14/q43m9cfp/file88a3ky9k4l5fclbrnpe.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p><strong>ಸಬ್ಬಸಿಗೆ ತಂಬುಳಿ</strong></p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "prajavani-varthe",
+          "social": {},
+          "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+          "bio": null,
+          "id": 1745292,
+          "avatar-s3-key": "prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5523113,
+          "name": "food recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food-recipe",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "ead07ed7-c10f-451a-be27-756913ff957b",
+      "brand": "PV",
+      "headline": "ಕ್ಲೌಡ್ ಕಿಚನ್‌ನಿಂದ ಬದುಕು ಕಂಡುಕೊಂಡ ಬೆಂಗಳೂರಿನ ರಾಕೇಶ್, ಯಾಮಿನಿ ದಂಪತಿ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/bengaluru-couple-cloud-kitchen-success-story-rakoos-kitchen-4385679",
+      "slug": "health/recipe/bengaluru-couple-cloud-kitchen-success-story-rakoos-kitchen-4385679",
+      "publishedAt": 1794277860000,
+      "updatedAt": 1794277860000,
+      "template": "text",
+      "imageKey": "prajavani/2026-11-09/8mgrgwvv/8f2cb098-b365-4ecc-ac32-2a7457a98ae8.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>ರಾಕೇಶ್, ಯಾಮಿನಿ ದಂಪತಿ</p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "venugopala-k",
+          "social": {},
+          "name": "ವೇಣುಗೋಪಾಲ ಕೆ. ",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2026-02-07/a3ikj869/Venu.jpeg",
+          "bio": "18 ವರ್ಷಗಳ ಪತ್ರಿಕೋದ್ಯಮದ ಅನುಭವ. ಸುದ್ದಿ ಮನೆಯ ಯಾವುದೇ ವಿಭಾಗಗಳಲ್ಲೂ ಕೆಲಸ ಮಾಡಬಲ್ಲ ನೈಪುಣ್ಯ. ಷೇರುಪೇಟೆ, ಸಿನಿಮಾ, ರಾಜಕೀಯ, ಕ್ರಿಕೆಟ್ ಆಸಕ್ತಿ ಕ್ಷೇತ್ರಗಳು. ಸುವರ್ಣ ನ್ಯೂಸ್, ನ್ಯೂಸ್ 18 ಕನ್ನಡ, ಟೈಮ್ಸ್ ಆಫ್ ಇಂಡಿಯಾ, ವೆಬ್ ದುನಿಯಾ ಸೇರಿದಂತೆ ಸುದ್ದಿ ವಾಹಿನಿ ಮತ್ತು ಸುದ್ದಿ ಜಾಲತಾಣಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದ್ದಾರೆ.  ಸದ್ಯಕ್ಕೆ ಪ್ರಜಾವಾಣಿಯಲ್ಲಿ ಹಿರಿಯ ಉಪಸಂಪಾದಕ.",
+          "id": 1754433,
+          "avatar-s3-key": "prajavani/2026-02-07/a3ikj869/Venu.jpeg",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        },
+        {
+          "domain-slug": null,
+          "slug": "karnataka-news",
+          "name": "ರಾಜ್ಯ",
+          "section-url": "https://www.prajavani.net/news/karnataka-news",
+          "id": 51339,
+          "parent-id": 51336,
+          "display-name": "ರಾಜ್ಯ",
+          "collection": {
+            "slug": "karnataka-news-news",
+            "name": "ರಾಜ್ಯ",
+            "id": 125615
+          },
+          "data": null
+        },
+        {
+          "domain-slug": null,
+          "slug": "bengaluru-city",
+          "name": "ಬೆಂಗಳೂರು",
+          "section-url": "https://www.prajavani.net/district/bengaluru-city",
+          "id": 51342,
+          "parent-id": 51341,
+          "display-name": "ಬೆಂಗಳೂರು",
+          "collection": {
+            "slug": "bengaluru-city-district",
+            "name": "ಬೆಂಗಳೂರು",
+            "id": 125618
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5509681,
+          "name": "bengaluru",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "bengaluru",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5509738,
+          "name": "Hotel",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "hotel",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510253,
+          "name": "Biriyani",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "biriyani",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510372,
+          "name": "Chicken",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "chicken",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5512336,
+          "name": "Non veg",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "non-veg",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5514429,
+          "name": "mutton",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "mutton",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5524157,
+          "name": "Kitchen Tips",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "kitchen-tips",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 16288415,
+          "name": "Karunadotsava Story",
+          "meta-description": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ವಿಶೇಷ ಸಂಭ್ರಮದಲ್ಲಿ ಕರ್ನಾಟಕದ ಇತಿಹಾಸ, ಕನ್ನಡ ಭಾಷೆಯ ಶ್ರೀಮಂತಿಕೆ, ನಾಡಿನ ಸಂಸ್ಕೃತಿ, ಪರಂಪರೆ ಹಾಗೂ ಕನ್ನಡಿಗರ ಹೆಮ್ಮೆಯ ಸಾಧನೆಗಳ ಕುರಿತ ವಿಶೇಷ ಲೇಖನಗಳನ್ನು ಪ್ರಜಾವಾಣಿಯಲ್ಲಿ ಓದಿ.",
+          "meta-title": "Kannada Rajyotsava Stories: ಕರುನಾಡೋತ್ಸವದ ವಿಶೇಷ ಕಥನಗಳು | Prajavani",
+          "slug": "karunadotsava-story",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "f80d5b16-3f38-4310-a39b-9541df12eedf",
+      "brand": "PV",
+      "headline": "ಬಳ್ಳಾರಿ| ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಸಿಹಿ, ಖಾರದ ಖಾದ್ಯಗಳ ಮೆರುಗು",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/district/ballari/deepavali-festival-sweets-snacks-kurugodu-ballari-4384443",
+      "slug": "district/ballari/deepavali-festival-sweets-snacks-kurugodu-ballari-4384443",
+      "publishedAt": 1794207008392,
+      "updatedAt": 1794207008392,
+      "template": "syndicated-print",
+      "imageKey": "prajavani/2026-11-09/7ae835vl/720fd7e91a4dd09b91f6665975404e4513fa4ceb9836575ffae4f440ffc2c1bb_t3.jpg",
+      "imageCaption": "ಹೋಳಿಗೆ",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "vaagiish-kurugooddu",
+          "social": {},
+          "name": "ವಾಗೀಶ ಕುರುಗೋಡು",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": null,
+          "bio": null,
+          "id": 1751354,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "ballari",
+          "name": "ಬಳ್ಳಾರಿ",
+          "section-url": "https://www.prajavani.net/district/ballari",
+          "id": 51367,
+          "parent-id": 51341,
+          "display-name": "ಬಳ್ಳಾರಿ",
+          "collection": {
+            "slug": "ballari-district",
+            "name": "ಬಳ್ಳಾರಿ (ಜಿಲ್ಲೆ)",
+            "id": 125643
+          },
+          "data": null
+        },
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509575,
+          "name": "Karnataka",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "karnataka",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5511256,
+          "name": "Ballari",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "ballari",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5511618,
+          "name": "festival",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "festival",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "771dec9b-b168-48f6-9aaf-39b3c6b7e3e1",
+      "brand": "PV",
+      "headline": "ಕರುನಾಡ ಸವಿಯೂಟ| ಹೀರೆಕಾಯಿಯಿಂದ ಇಂತಹ ರುಚಿಯಾದ ಸ್ನ್ಯಾಕ್ಸ್ ಮಾಡಿದ್ದೀರಾ ?",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/ridge-gourd-snacks-recipe-kannada-4383398",
+      "slug": "health/recipe/ridge-gourd-snacks-recipe-kannada-4383398",
+      "publishedAt": 1794112240396,
+      "updatedAt": 1794112240396,
+      "template": "video",
+      "imageKey": "prajavani/2026-11-08/i8ol7f4p/f9ccfc24-bdd2-42dd-977e-b4bacaff2b6c.jpg",
+      "imageCaption": null,
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "prajavani-varthe",
+          "social": {},
+          "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+          "bio": null,
+          "id": 1745292,
+          "avatar-s3-key": "prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5528110,
+          "name": "Food Making",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food-making",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "c3ad070a-382c-4fe6-b413-8bfbc559ff3c",
+      "brand": "PV",
+      "headline": "ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಸಿಹಿ ಸಿಹಿ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/diwali-special-sweets-and-snacks-recipes-4381329",
+      "slug": "health/recipe/diwali-special-sweets-and-snacks-recipes-4381329",
+      "publishedAt": 1794026135871,
+      "updatedAt": 1794026135871,
+      "template": "text",
+      "imageKey": "prajavani/2026-11-07/ofg3fixa/file88b47gj0rn91m4mg9gfn.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p><strong>ರಾಜಸ್ಥಾನಿ ಕಜಾ</strong></p><p></p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "viinnaa-shnkr",
+          "social": {},
+          "name": "ವೀಣಾ ಶಂಕರ್",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": null,
+          "bio": null,
+          "id": 1751609,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5516233,
+          "name": "Sweets",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "sweets",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5519454,
+          "name": "Deepavali",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "deepavali",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5523108,
+          "name": "snacks",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "snacks",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "14d99b28-92ca-4641-8e77-adc6e451e63e",
+      "brand": "PV",
+      "headline": "ದೀಪಾವಳಿ ಸ್ವಾದ: 10 ಬಗೆಯ ವಿಶೇಷ ಹೋಳಿಗೆ ಮಾಡುವ ವಿಧಾನ ಇಲ್ಲಿದೆ ನೋಡಿ...",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "slug": "health/recipe/diwali-special-nine-types-of-holige-recipes-4374091",
+      "publishedAt": 1793785698019,
+      "updatedAt": 1793785698019,
+      "template": "text",
+      "imageKey": "prajavani/2026-11-04/zy6h5cbd/png",
+      "imageCaption": "<div class=\"paragraphs\"><p>ಹೋಳಿಗೆ</p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "prajavani-web-desk",
+          "social": {},
+          "name": "ಪ್ರಜಾವಾಣಿ ವೆಬ್‌ ಡೆಸ್ಕ್‌ ",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2023-12/515fbdad-7148-4db5-a87f-74e3cc364217/PV_App_Icon_Logo.png",
+          "bio": null,
+          "id": 1763151,
+          "avatar-s3-key": "prajavani/2023-12/515fbdad-7148-4db5-a87f-74e3cc364217/PV_App_Icon_Logo.png",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510495,
+          "name": "Recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5516233,
+          "name": "Sweets",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "sweets",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5519454,
+          "name": "Deepavali",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "deepavali",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5520796,
+          "name": "festival season",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "festival-season",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5523092,
+          "name": "holige",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "holige",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5535329,
+          "name": "Special Sweets",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "special-sweets",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5878943,
+          "name": "Festival Sweet Recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "festival-sweet-recipe",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "872ecd31-ff0d-420c-932d-cd917b6b8587",
+      "brand": "PV",
+      "headline": "ರೆಸಿಪಿ: ಈ ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಮನೆಯಲ್ಲೇ ತಯಾರಿಸಿ ವಿಶೇಷ ಸೆವೆನ್ ಕಪ್ ಬರ್ಫಿ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/diwali-special-seven-cup-barfi-recipe-kannada-4371802",
+      "slug": "health/recipe/diwali-special-seven-cup-barfi-recipe-kannada-4371802",
+      "publishedAt": 1793709188645,
+      "updatedAt": 1793709188645,
+      "template": "text",
+      "imageKey": "prajavani/2026-11-03/5q4x1h3m/file.webp",
+      "imageCaption": null,
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "veenashree",
+          "social": {},
+          "name": "Veenashree",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+          "bio": "ಐದು ವರ್ಷಗಳ ವೆಬ್ ಪತ್ರಿಕೋದ್ಯಮದ ಅನುಭವ. ಸಿನಿಮಾ, ಟಿವಿ, ಧಾರಾವಾಹಿ, ಲೈಫ್ ಸ್ಟೈಲ್, ಆರೋಗ್ಯ, ಅಡುಗೆ, ಫ್ಯಾಷನ್‌, ನೃತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ. ಪ್ರಸ್ತುತ ಪ್ರಜಾವಾಣಿ ಡಿಜಿಟಲ್‌ ವಿಭಾಗದಲ್ಲಿ ಉಪ ಸಂಪಾದಕಿ",
+          "id": 2343550,
+          "avatar-s3-key": "prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510495,
+          "name": "Recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5519454,
+          "name": "Deepavali",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "deepavali",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5528371,
+          "name": "Food Festival",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food-festival",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5535329,
+          "name": "Special Sweets",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "special-sweets",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "3a51e167-9552-48a1-99e2-949cb8a5eb8b",
+      "brand": "PV",
+      "headline": "ರೆಸಿಪಿ: ಬಾಯಲ್ಲಿ ನೀರೂರಿಸುವ ಹಲ್ವ‌ ವೈವಿಧ್ಯ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+      "slug": "health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+      "publishedAt": 1793425576479,
+      "updatedAt": 1793425576479,
+      "template": "syndicated-print",
+      "imageKey": "prajavani/2026-10-31/2xew2kgr/1e4d9f9add911e58a998c1f2766f7c898b79d5df2eda21a116c9ac0e3a9d1023_t3.jpg",
+      "imageCaption": "ಬಾದಾಮಿ ಹಲ್ವಾ",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "prajavani-varthe",
+          "social": {},
+          "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+          "bio": null,
+          "id": 1745292,
+          "avatar-s3-key": "prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509575,
+          "name": "Karnataka",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "karnataka",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510495,
+          "name": "Recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5524473,
+          "name": "Reciep",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "reciep",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "906294c5-13db-4bda-88b9-5a9214366a66",
+      "brand": "PV",
+      "headline": "ಕೇವಲ ಈರುಳ್ಳಿ, ಬೆಳ್ಳುಳ್ಳಿ ಹಾಕಿ ಮನೆಯಲ್ಲೇ ತಯಾರಿಸಿ ಮಲ್ನಾಡ್ ಚಿಕನ್ ರೆಸಿ‍ಪಿ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/malnad-style-chicken-sambar-recipe-home-made-4362861",
+      "slug": "health/recipe/malnad-style-chicken-sambar-recipe-home-made-4362861",
+      "publishedAt": 1793359560627,
+      "updatedAt": 1793359560627,
+      "template": "text",
+      "imageKey": "prajavani/2026-10-30/8olfqoj9/file.webp",
+      "imageCaption": null,
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "prajavani-web-desk",
+          "social": {},
+          "name": "ಪ್ರಜಾವಾಣಿ ವೆಬ್‌ ಡೆಸ್ಕ್‌ ",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2023-12/515fbdad-7148-4db5-a87f-74e3cc364217/PV_App_Icon_Logo.png",
+          "bio": null,
+          "id": 1763151,
+          "avatar-s3-key": "prajavani/2023-12/515fbdad-7148-4db5-a87f-74e3cc364217/PV_App_Icon_Logo.png",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510372,
+          "name": "Chicken",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "chicken",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5511018,
+          "name": "Chicken Recipes",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "chicken-recipes",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5523034,
+          "name": "chicken recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "chicken-recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5528110,
+          "name": "Food Making",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food-making",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "2f5700a0-4bd8-4e0c-bb70-e9e228c7790e",
+      "brand": "PV",
+      "headline": "ರೆಸಿಪಿ: ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಮನೆಯಲ್ಲೇ ತಯಾರಿಸಿ ಬೇಕರಿ ಶೈಲಿಯ ಬಾದುಷಾ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/diwali-special-bakery-style-badusha-recipe-at-home-4355654",
+      "slug": "health/recipe/diwali-special-bakery-style-badusha-recipe-at-home-4355654",
+      "publishedAt": 1793101448652,
+      "updatedAt": 1793101448652,
+      "template": "text",
+      "imageKey": "prajavani/2026-10-27/kf2q9zkf/file.webp",
+      "imageCaption": null,
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "veenashree",
+          "social": {},
+          "name": "Veenashree",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+          "bio": "ಐದು ವರ್ಷಗಳ ವೆಬ್ ಪತ್ರಿಕೋದ್ಯಮದ ಅನುಭವ. ಸಿನಿಮಾ, ಟಿವಿ, ಧಾರಾವಾಹಿ, ಲೈಫ್ ಸ್ಟೈಲ್, ಆರೋಗ್ಯ, ಅಡುಗೆ, ಫ್ಯಾಷನ್‌, ನೃತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ. ಪ್ರಸ್ತುತ ಪ್ರಜಾವಾಣಿ ಡಿಜಿಟಲ್‌ ವಿಭಾಗದಲ್ಲಿ ಉಪ ಸಂಪಾದಕಿ",
+          "id": 2343550,
+          "avatar-s3-key": "prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5510495,
+          "name": "Recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5519454,
+          "name": "Deepavali",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "deepavali",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5523113,
+          "name": "food recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food-recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5878943,
+          "name": "Festival Sweet Recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "festival-sweet-recipe",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "db5d12e2-b993-4d8e-b74b-3e5019233665",
+      "brand": "PV",
+      "headline": "ರೆಸಿಪಿ | ರುಚಿ ರುಚಿ ಪಾಯಸ; ಪಚನ ಅನಾಯಾಸ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/ruchi-ruchi-payasa-pachana-anaayasa-recipe-4349366",
+      "slug": "health/recipe/ruchi-ruchi-payasa-pachana-anaayasa-recipe-4349366",
+      "publishedAt": 1792816239419,
+      "updatedAt": 1792816239419,
+      "template": "syndicated-print",
+      "imageKey": "prajavani/2026-02-13/f8p196bj/Sabudana-Kheer.jpg",
+      "imageCaption": "<div class=\"paragraphs\"><p>ಸಬ್ಬಕ್ಕಿ ಪಾಯಸ </p></div>",
+      "imageAttribution": "<div class=\"paragraphs\"><p>ಎಐ ಚಿತ್ರ</p></div>",
+      "authors": [
+        {
+          "slug": "en-es-dhrmeendr",
+          "social": {},
+          "name": "ಎಂ.ಎಸ್.ಧರ್ಮೇಂದ್ರ",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": null,
+          "bio": null,
+          "id": 1746151,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509575,
+          "name": "Karnataka",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "karnataka",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510494,
+          "name": "sweet",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "sweet",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "e0caf692-c24f-4f43-a5be-4758c00528b3",
+      "brand": "PV",
+      "headline": "ಅನ್ನ, ದೋಸೆಯೊಂದಿಗೆ ಅದ್ಭುತ ರುಚಿ ಕೊಡುತ್ತೆ ಈ ಆಂಧ್ರ ಶೈಲಿಯ ನೆಲ್ಲಿಕಾಯಿ ಪಚಡಿ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/andhra-style-amla-pachadi-recipe-in-kannada-4336762",
+      "slug": "health/recipe/andhra-style-amla-pachadi-recipe-in-kannada-4336762",
+      "publishedAt": 1792298400000,
+      "updatedAt": 1792298400000,
+      "template": "text",
+      "imageKey": "prajavani/2026-10-17/48utdkd8/file.webp",
+      "imageCaption": "<div class=\"paragraphs\"><p> ಆಂಧ್ರ ಶೈಲಿಯ ನೆಲ್ಲಿಕಾಯಿ ಪಚಡಿ</p></div>",
+      "imageAttribution": "<div class=\"paragraphs\"><p>ಎಐ ಚಿತ್ರ</p></div>",
+      "authors": [
+        {
+          "slug": "veenashree",
+          "social": {},
+          "name": "Veenashree",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+          "bio": "ಐದು ವರ್ಷಗಳ ವೆಬ್ ಪತ್ರಿಕೋದ್ಯಮದ ಅನುಭವ. ಸಿನಿಮಾ, ಟಿವಿ, ಧಾರಾವಾಹಿ, ಲೈಫ್ ಸ್ಟೈಲ್, ಆರೋಗ್ಯ, ಅಡುಗೆ, ಫ್ಯಾಷನ್‌, ನೃತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ. ಪ್ರಸ್ತುತ ಪ್ರಜಾವಾಣಿ ಡಿಜಿಟಲ್‌ ವಿಭಾಗದಲ್ಲಿ ಉಪ ಸಂಪಾದಕಿ",
+          "id": 2343550,
+          "avatar-s3-key": "prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5510385,
+          "name": "Dosa recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "dosa-recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510495,
+          "name": "Recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5523113,
+          "name": "food recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food-recipe",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    },
+    {
+      "id": "ccd56f47-8323-408e-bcd0-76f8a8adc688",
+      "brand": "PV",
+      "headline": "ರೆಸಿಪಿ: ಸಂಜೆ ಟೀ, ಕಾಫಿ ಜೊತೆ ತಿನ್ನಬಹುದಾದ ಸಾಬುದಾನ ವಡೆ ಹೀಗೆ ಮಾಡಿಕೊಳ್ಳಿ",
+      "subheadline": "",
+      "url": "https://www.prajavani.net/health/recipe/sabudana-vada-recipe-evening-snacks-kannada-4329492",
+      "slug": "health/recipe/sabudana-vada-recipe-evening-snacks-kannada-4329492",
+      "publishedAt": 1792053000000,
+      "updatedAt": 1792053000000,
+      "template": "text",
+      "imageKey": "prajavani/2026-10-14/af1jabsy/file.webp",
+      "imageCaption": "<div class=\"paragraphs\"><p>ಸಾಬುದಾನ ವಡೆ</p></div>",
+      "imageAttribution": null,
+      "authors": [
+        {
+          "slug": "veenashree",
+          "social": {},
+          "name": "Veenashree",
+          "contributor-role": {
+            "id": 7161,
+            "name": "Author"
+          },
+          "avatar-url": "https://cf-images.assettype.com/prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+          "bio": "ಐದು ವರ್ಷಗಳ ವೆಬ್ ಪತ್ರಿಕೋದ್ಯಮದ ಅನುಭವ. ಸಿನಿಮಾ, ಟಿವಿ, ಧಾರಾವಾಹಿ, ಲೈಫ್ ಸ್ಟೈಲ್, ಆರೋಗ್ಯ, ಅಡುಗೆ, ಫ್ಯಾಷನ್‌, ನೃತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ. ಪ್ರಸ್ತುತ ಪ್ರಜಾವಾಣಿ ಡಿಜಿಟಲ್‌ ವಿಭಾಗದಲ್ಲಿ ಉಪ ಸಂಪಾದಕಿ",
+          "id": 2343550,
+          "avatar-s3-key": "prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+          "twitter-handle": null
+        }
+      ],
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "recipe",
+          "name": "ರೆಸಿಪಿ",
+          "section-url": "https://www.prajavani.net/health/recipe",
+          "id": 51545,
+          "parent-id": 51445,
+          "display-name": "ರೆಸಿಪಿ",
+          "collection": {
+            "slug": "recipe-food",
+            "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+            "id": 125821
+          },
+          "data": null
+        }
+      ],
+      "tags": [
+        {
+          "id": 5509578,
+          "name": "food",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5510495,
+          "name": "Recipe",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "recipe",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5513710,
+          "name": "Food Department",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food-department",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5523108,
+          "name": "snacks",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "snacks",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5528110,
+          "name": "Food Making",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "food-making",
+          "tag-type": "Tag"
+        }
+      ],
+      "selectionStatus": "candidate; editorial review required"
+    }
+  ]
+}

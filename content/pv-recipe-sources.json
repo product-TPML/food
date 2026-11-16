@@ -1,0 +1,1516 @@
+{
+  "fetchedAt": "2026-11-16T06:38:07.690Z",
+  "source": "https://www.prajavani.net",
+  "responses": [
+    {
+      "path": "/api/v1/stories/872ecd31-ff0d-420c-932d-cd917b6b8587",
+      "status": 200,
+      "data": {
+        "story": {
+          "updated-at": 1793709185075,
+          "seo": {
+            "meta-title": "Seven Cup Barfi: ರೆಸಿಪಿ: ಈ ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಮನೆಯಲ್ಲೇ ತಯಾರಿಸಿ ವಿಶೇಷ ಸೆವೆನ್ ಕಪ್ ಬರ್ಫಿ",
+            "meta-description": "Diwali Sweet Recipe: ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಕಡಲೆಹಿಟ್ಟು, ತೆಂಗಿನಕಾಯಿ, ಸಕ್ಕರೆ ಮತ್ತು ತುಪ್ಪ ಬಳಸಿ ಸುಲಭವಾಗಿ ರುಚಿಕರವಾದ ಸೆವೆನ್ ಕಪ್ ಬರ್ಫಿ ತಯಾರಿಸುವ ವಿಧಾನ ಇಲ್ಲಿದೆ.",
+            "meta-keywords": [
+              "Recipe",
+              "food",
+              "Food Festival",
+              "Deepavali",
+              "Special Sweets"
+            ],
+            "claim-reviews": {
+              "story": null
+            }
+          },
+          "assignee-id": 2343550,
+          "author-name": "ವೀಣಾಶ್ರೀ ",
+          "tags": [
+            {
+              "id": 5509578,
+              "name": "food",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "food",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5510495,
+              "name": "Recipe",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "recipe",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5519454,
+              "name": "Deepavali",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "deepavali",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5528371,
+              "name": "Food Festival",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "food-festival",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5535329,
+              "name": "Special Sweets",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "special-sweets",
+              "tag-type": "Tag"
+            }
+          ],
+          "headline": "ರೆಸಿಪಿ: ಈ ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಮನೆಯಲ್ಲೇ ತಯಾರಿಸಿ ವಿಶೇಷ ಸೆವೆನ್ ಕಪ್ ಬರ್ಫಿ",
+          "storyline-id": null,
+          "votes": {},
+          "story-content-id": "872ecd31-ff0d-420c-932d-cd917b6b8587",
+          "slug": "health/recipe/diwali-special-seven-cup-barfi-recipe-kannada-4371802",
+          "linked-stories": {
+            "75c85433-8c07-40d1-9b20-392753d83221": {
+              "author-name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+              "headline": "ವಿಡಿಯೊ | ಮೊಟ್ಟೆಯ ವಿಭಿನ್ನ ರೆಸಿಪಿ: ರುಚಿಯಾದ ಎಗ್ ಚಾಪ್ಸ್ ",
+              "story-content-id": "75c85433-8c07-40d1-9b20-392753d83221",
+              "slug": "health/recipe/egg-chops-recipe-kannada-style-4367043",
+              "alternative": {},
+              "sections": [
+                {
+                  "domain-slug": null,
+                  "slug": "recipe",
+                  "name": "ರೆಸಿಪಿ",
+                  "section-url": "https://www.prajavani.net/health/recipe",
+                  "id": 51545,
+                  "parent-id": 51445,
+                  "display-name": "ರೆಸಿಪಿ",
+                  "collection": {
+                    "slug": "recipe-food",
+                    "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+                    "id": 125821
+                  },
+                  "data": null
+                }
+              ],
+              "hero-image-metadata": {
+                "width": 1280,
+                "height": 720,
+                "mime-type": "image/jpeg",
+                "file-size": 170535,
+                "file-name": "WhatsApp-Image-2026-11-01-at-9.37.19-AM.jpeg"
+              },
+              "hero-image-s3-key": "prajavani/2026-11-01/atov427c/WhatsApp-Image-2026-11-01-at-9.37.19-AM.jpeg",
+              "url": "https://www.prajavani.net/health/recipe/egg-chops-recipe-kannada-style-4367043",
+              "content-updated-at": 1793506911436,
+              "author-id": 1745292,
+              "first-published-at": 1793506910636,
+              "authors": [
+                {
+                  "slug": "prajavani-varthe",
+                  "social": {},
+                  "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                  "contributor-role": {
+                    "id": 7161,
+                    "name": "Author"
+                  },
+                  "avatar-url": "https://cf-images.assettype.com/prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+                  "bio": null,
+                  "id": 1745292,
+                  "avatar-s3-key": "prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+                  "twitter-handle": null
+                }
+              ]
+            },
+            "3a51e167-9552-48a1-99e2-949cb8a5eb8b": {
+              "author-name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+              "headline": "ರೆಸಿಪಿ: ಬಾಯಲ್ಲಿ ನೀರೂರಿಸುವ ಹಲ್ವ‌ ವೈವಿಧ್ಯ",
+              "story-content-id": "3a51e167-9552-48a1-99e2-949cb8a5eb8b",
+              "slug": "health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+              "alternative": {},
+              "sections": [
+                {
+                  "domain-slug": null,
+                  "slug": "recipe",
+                  "name": "ರೆಸಿಪಿ",
+                  "section-url": "https://www.prajavani.net/health/recipe",
+                  "id": 51545,
+                  "parent-id": 51445,
+                  "display-name": "ರೆಸಿಪಿ",
+                  "collection": {
+                    "slug": "recipe-food",
+                    "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+                    "id": 125821
+                  },
+                  "data": null
+                }
+              ],
+              "hero-image-metadata": {
+                "original-url": "https://prajavani-print-images-vartasetu-staging.s3.amazonaws.com/images/2026-10-31/1e/4d/1e4d9f9add911e58a998c1f2766f7c898b79d5df2eda21a116c9ac0e3a9d1023-t3.jpg",
+                "file-size": 73472,
+                "mime-type": "image/jpeg",
+                "width": 867,
+                "height": 723
+              },
+              "hero-image-s3-key": "prajavani/2026-10-31/2xew2kgr/1e4d9f9add911e58a998c1f2766f7c898b79d5df2eda21a116c9ac0e3a9d1023_t3.jpg",
+              "url": "https://www.prajavani.net/health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+              "content-updated-at": 1793425576786,
+              "author-id": 1745292,
+              "first-published-at": 1793408100000,
+              "authors": [
+                {
+                  "slug": "prajavani-varthe",
+                  "social": {},
+                  "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                  "contributor-role": {
+                    "id": 7161,
+                    "name": "Author"
+                  },
+                  "avatar-url": "https://cf-images.assettype.com/prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+                  "bio": null,
+                  "id": 1745292,
+                  "avatar-s3-key": "prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+                  "twitter-handle": null
+                }
+              ]
+            }
+          },
+          "last-published-at": 1793709188645,
+          "public-identifier": "4371802",
+          "subheadline": null,
+          "alternative": {},
+          "sections": [
+            {
+              "domain-slug": null,
+              "slug": "recipe",
+              "name": "ರೆಸಿಪಿ",
+              "section-url": "https://www.prajavani.net/health/recipe",
+              "id": 51545,
+              "parent-id": 51445,
+              "display-name": "ರೆಸಿಪಿ",
+              "collection": {
+                "slug": "recipe-food",
+                "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+                "id": 125821
+              },
+              "data": null
+            }
+          ],
+          "read-time": 1,
+          "access-level-value": null,
+          "content-created-at": 1793705193892,
+          "is-embargoed": false,
+          "owner-name": "ವೀಣಾಶ್ರೀ ",
+          "custom-slug": "diwali-special-seven-cup-barfi-recipe-kannada",
+          "push-notification": null,
+          "publisher-id": 4234,
+          "hero-image-metadata": {
+            "width": 1920,
+            "height": 1280,
+            "mime-type": "image/webp",
+            "file-size": 663608,
+            "file-name": "file.webp",
+            "focus-point": [
+              1185,
+              544
+            ]
+          },
+          "comments": null,
+          "word-count": 126,
+          "story-features": {
+            "push-notification": {
+              "is-scheduled": false,
+              "publish-at": null,
+              "linked-with-story-fields-status": {
+                "title": null,
+                "message": null
+              }
+            }
+          },
+          "entities": {},
+          "published-at": 1793709188645,
+          "embargoed-till": null,
+          "breaking-news-linked-story-id": null,
+          "storyline-title": null,
+          "summary": null,
+          "push-notification-title": null,
+          "external-id": null,
+          "canonical-url": null,
+          "hero-image-hyperlink": null,
+          "autotags": [],
+          "linked-entities": [],
+          "status": "published",
+          "hero-image-attribution": null,
+          "bullet-type": "123",
+          "hero-image-alt-text": null,
+          "id": "872ecd31-ff0d-420c-932d-cd917b6b8587",
+          "hero-image-s3-key": "prajavani/2026-11-03/5q4x1h3m/file.webp",
+          "contributors": null,
+          "associated-series-collection-ids": [],
+          "cards": [
+            {
+              "story-elements": [
+                {
+                  "description": "",
+                  "page-url": "/story/872ecd31-ff0d-420c-932d-cd917b6b8587/element/3dc7d7c6-46c9-44c4-8c1a-8f09149ada12",
+                  "type": "text",
+                  "family-id": "23a69626-8db9-45d8-87e9-3213f04f4f7f",
+                  "title": "",
+                  "id": "3dc7d7c6-46c9-44c4-8c1a-8f09149ada12",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<p>ದೀಪಾವಳಿ ಹಬ್ಬದ ಸಂಭ್ರಮಕ್ಕೆ ಮನೆಯಲ್ಲಿಯೇ ಸುಲಭವಾಗಿ ಹಾಗೂ ರುಚಿಕರವಾಗಿ ಸೆವೆನ್ ಕಪ್ ಬರ್ಫಿ ತಯಾರಿಸಬಹುದು. ಕೇವಲ ಏಳು ಕಪ್ ಅಳತೆಯ ಸರಳ ಪದಾರ್ಥಗಳನ್ನು ಬಳಸಿ ಮಾಡುವ ಸಿಹಿ ಖಾದ್ಯವಾಗಿದೆ.</p>"
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/872ecd31-ff0d-420c-932d-cd917b6b8587/element/27e08b1f-da5d-4d71-aaea-60d17279c9b6",
+                  "type": "text",
+                  "family-id": "93043dbc-09ed-45a9-8add-2d55329bacf2",
+                  "title": "",
+                  "id": "27e08b1f-da5d-4d71-aaea-60d17279c9b6",
+                  "metadata": {
+                    "linked-story-id": "75c85433-8c07-40d1-9b20-392753d83221",
+                    "linked-story": {
+                      "updated-at": 1793506908839,
+                      "author-name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                      "headline": "ವಿಡಿಯೊ | ಮೊಟ್ಟೆಯ ವಿಭಿನ್ನ ರೆಸಿಪಿ: ರುಚಿಯಾದ ಎಗ್ ಚಾಪ್ಸ್ ",
+                      "story-content-id": "75c85433-8c07-40d1-9b20-392753d83221",
+                      "is-published": true,
+                      "slug": "health/recipe/egg-chops-recipe-kannada-style-4367043",
+                      "highlighted-external-id": null,
+                      "last-published-at": 1793506910636,
+                      "highlighted-text": null,
+                      "alternative": {},
+                      "sections": [
+                        {
+                          "id": 51545,
+                          "name": "ರೆಸಿಪಿ",
+                          "slug": "recipe",
+                          "data": null
+                        }
+                      ],
+                      "highlighted-slug": null,
+                      "public-preview-url": "https://www.prajavani.net/preview/story/JRu_WdxwhMFp_ThtAWFj-szFfBLkHf5ep9ksT99DWQC7YQmp1ErnyewY_zdhAB3g",
+                      "published-at": 1793506910636,
+                      "status": "published",
+                      "id": "75c85433-8c07-40d1-9b20-392753d83221",
+                      "content-type": "story",
+                      "frontend-url": "https://www.prajavani.net/health/recipe/egg-chops-recipe-kannada-style-4367043",
+                      "author-id": 1745292,
+                      "highlighted-headline": null,
+                      "story-template": "video",
+                      "authors": [
+                        {
+                          "id": 1745292,
+                          "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                          "email": "author_pv.9107@prajavani.co.in",
+                          "contributor-role": {
+                            "name": "Author",
+                            "id": 7161
+                          }
+                        }
+                      ],
+                      "metadata": {},
+                      "highlighted-public-identifier": null,
+                      "public-preview-key": "JRu_WdxwhMFp_ThtAWFj-szFfBLkHf5ep9ksT99DWQC7YQmp1ErnyewY_zdhAB3g",
+                      "publish-at": null
+                    }
+                  },
+                  "subtype": "also-read",
+                  "text": "ವಿಡಿಯೊ | ಮೊಟ್ಟೆಯ ವಿಭಿನ್ನ ರೆಸಿಪಿ: ರುಚಿಯಾದ ಎಗ್ ಚಾಪ್ಸ್ "
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/872ecd31-ff0d-420c-932d-cd917b6b8587/element/3b22f92e-a81e-4efe-8b9e-29640a9223b3",
+                  "type": "text",
+                  "family-id": "abbfce32-af54-4c59-8bf3-2ca3a5e2672e",
+                  "title": "",
+                  "id": "3b22f92e-a81e-4efe-8b9e-29640a9223b3",
+                  "metadata": {
+                    "linked-story-id": "3a51e167-9552-48a1-99e2-949cb8a5eb8b",
+                    "linked-story": {
+                      "updated-at": 1793425573878,
+                      "author-name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                      "headline": "ರೆಸಿಪಿ: ಬಾಯಲ್ಲಿ ನೀರೂರಿಸುವ ಹಲ್ವ‌ ವೈವಿಧ್ಯ",
+                      "story-content-id": "3a51e167-9552-48a1-99e2-949cb8a5eb8b",
+                      "is-published": true,
+                      "slug": "health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+                      "highlighted-external-id": null,
+                      "last-published-at": 1793425576479,
+                      "highlighted-text": null,
+                      "alternative": {},
+                      "sections": [
+                        {
+                          "id": 51545,
+                          "name": "ರೆಸಿಪಿ",
+                          "slug": "recipe",
+                          "data": null
+                        }
+                      ],
+                      "highlighted-slug": null,
+                      "public-preview-url": "https://www.prajavani.net/preview/story/mS0bPYtXizpNlQ8ehJsJTfIA2jgIOcU8OLtn6onvVSXer1kj5qzOmTjp2tXkK6jX",
+                      "published-at": 1793425576479,
+                      "status": "published",
+                      "id": "3a51e167-9552-48a1-99e2-949cb8a5eb8b",
+                      "content-type": "story",
+                      "frontend-url": "https://www.prajavani.net/health/recipe/badam-halwa-recipe-sweet-dish-preparation-guide-4364602",
+                      "author-id": 1745292,
+                      "highlighted-headline": null,
+                      "story-template": "syndicated-print",
+                      "authors": [
+                        {
+                          "id": 1745292,
+                          "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                          "email": "author_pv.9107@prajavani.co.in",
+                          "contributor-role": {
+                            "name": "Author",
+                            "id": 7161
+                          }
+                        }
+                      ],
+                      "metadata": {
+                        "imported-card-is-read-only": null,
+                        "story-attributes": {
+                          "syndicatedfrom": [
+                            "Vartasetu-PV"
+                          ],
+                          "syndicated-categories": [
+                            "ಉಡುಪಿ"
+                          ]
+                        },
+                        "imported-card-id": "d421b4c3-6050-4321-9542-af969dd52de0",
+                        "byline-no-author-page": "ಕೆ.ಲೀಲಾ ಶ್ರೀನಿವಾಸ್, ಹರಪನಹಳ್ಳಿ"
+                      },
+                      "highlighted-public-identifier": null,
+                      "public-preview-key": "mS0bPYtXizpNlQ8ehJsJTfIA2jgIOcU8OLtn6onvVSXer1kj5qzOmTjp2tXkK6jX",
+                      "publish-at": null
+                    }
+                  },
+                  "subtype": "also-read",
+                  "text": "ರೆಸಿಪಿ: ಬಾಯಲ್ಲಿ ನೀರೂರಿಸುವ ಹಲ್ವ‌ ವೈವಿಧ್ಯ"
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/872ecd31-ff0d-420c-932d-cd917b6b8587/element/f82c04a8-f0a2-4cfc-883e-22d85aaaa183",
+                  "type": "text",
+                  "family-id": "53a417b6-3595-4ea0-87c3-d7e0d75fd510",
+                  "title": "",
+                  "id": "f82c04a8-f0a2-4cfc-883e-22d85aaaa183",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": " <p><strong>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿ...</strong></p><p>ಕಡಲೆ ಹಿಟ್ಟು: 1 ಕಪ್</p><p>ತುರಿದ ತೆಂಗಿನಕಾಯಿ: 1 ಕಪ್</p><p>ಸಕ್ಕರೆ: 3 ಕಪ್</p><p>ಹಾಲು: 1 ಕಪ್</p><p>ತುಪ್ಪ: 1 ಕಪ್</p><p>ಗೋಡಂಬಿ, ಬಾದಾಮಿ: ಅಗತ್ಯಕ್ಕೆ ತಕ್ಕಷ್ಟು</p><p><strong>ಮಾಡುವ ವಿಧಾನ:</strong></p><p>ಮೊದಲು ಒಂದು ಬಾಣಲೆಯಲ್ಲಿ ಕಡಲೆಹಿಟ್ಟನ್ನು ಹಾಕಿ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಸುವಾಸನೆ ಬರುವವರೆಗೆ ಹುರಿದುಕೊಳ್ಳಿ. ನಂತರ ಇದಕ್ಕೆ ತುರಿದ ತೆಂಗಿನಕಾಯಿ, ಸಕ್ಕರೆ, ಹಾಲು ಹಾಗೂ ತುಪ್ಪವನ್ನು ಸೇರಿಸಿ ಗಂಟುಗಳಾಗದಂತೆ ಚೆನ್ನಾಗಿ ಬೆರೆಸಿ.</p><p>ಇನ್ನೊಂದೆಡೆ ಗೋಡಂಬಿ ಮತ್ತು ಬಾದಾಮಿಯನ್ನು ಮಿಕ್ಸಿ ಜಾರಿಗೆ ಹಾಕಿ ತರಿತರಿಯಾಗಿ ಪುಡಿಮಾಡಿಕೊಂಡು ಮಿಶ್ರಣಕ್ಕೆ ಸೇರಿಸಿ. ಬಳಿಕ ಮಧ್ಯಮ ಉರಿಯಲ್ಲಿ ಈ ಮಿಶ್ರಣವು ತಳ ಹಿಡಿಯದಂತೆ ಸತತವಾಗಿ ತಿರುಗಿಸುತ್ತಾ ಇರಿ.</p><p>ಮಿಶ್ರಣವು ಗಟ್ಟಿಯಾಗಿ ಬಾಣಲೆಯ ತಳ ಬಿಡಲು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಮುಂಚಿತವಾಗಿಯೇ ತುಪ್ಪ ಸವರಿಟ್ಟ ತಟ್ಟೆಗೆ ಅದನ್ನು ಸುರಿಯಿರಿ. ಮಿಶ್ರಣವು ಸ್ವಲ್ಪ ಆರಿದ ನಂತರ ನಿಮಗಿಷ್ಟವಾದ ಆಕಾರಕ್ಕೆ ಚಾಕುವಿನಿಂದ ಗೆರೆ ಹಾಕಿ ಕತ್ತರಿಸಿ. ಸಂಪೂರ್ಣವಾಗಿ ತಣ್ಣಗಾದ ಬಳಿಕ ಬರ್ಫಿ ತುಂಡುಗಳನ್ನು ಬೇರ್ಪಡಿಸಿದರೆ ಸವಿಯಲು ರುಚಿಕರವಾದ ಸೆವೆನ್ ಕಪ್ ಬರ್ಫಿ ಸಿದ್ಧ.</p>"
+                },
+                {
+                  "id": "00000000-0000-0000-0000-000000000000",
+                  "description": "",
+                  "title": "",
+                  "subtype": null,
+                  "type": "text",
+                  "text": "<div><p><strong>ಪ್ರಜಾವಾಣಿ ಆ್ಯಪ್ ಇಲ್ಲಿದೆ: <a href=\"https://play.google.com/store/apps/details?id&#61;com.tpml.pv\">ಆಂಡ್ರಾಯ್ಡ್ </a>| <a href=\"https://apps.apple.com/in/app/prajavani-kannada-news-app/id1535764933\">ಐಒಎಸ್</a> | <a href=\"https://whatsapp.com/channel/0029Va94OfB1dAw2Z4q5mK40\">ವಾಟ್ಸ್ಆ್ಯಪ್</a>, <a href=\"https://www.twitter.com/prajavani\">ಎಕ್ಸ್</a>, <a href=\"https://www.fb.com/prajavani.net\">ಫೇಸ್‌ಬುಕ್</a> ಮತ್ತು <a href=\"https://www.instagram.com/prajavani\">ಇನ್‌ಸ್ಟಾಗ್ರಾಂ</a>ನಲ್ಲಿ ಪ್ರಜಾವಾಣಿ ಫಾಲೋ ಮಾಡಿ.</strong></p></div>",
+                  "metadata": {
+                    "promotional-message": true
+                  }
+                }
+              ],
+              "card-updated-at": 1793709184107,
+              "content-version-id": "4141944a-75a8-425e-ba20-1fabf9dd4f05",
+              "card-added-at": 1793705193898,
+              "status": "draft",
+              "id": "12e9c3a0-a9de-4f02-b28f-5d0dff26a8a7",
+              "content-id": "12e9c3a0-a9de-4f02-b28f-5d0dff26a8a7",
+              "version": 29,
+              "metadata": {
+                "social-share": {
+                  "shareable": false,
+                  "title": "ರೆಸಿಪಿ: ಈ ದೀಪಾವಳಿ ಹಬ್ಬಕ್ಕೆ ಮನೆಯಲ್ಲೇ ತಯಾರಿಸಿ ವಿಶೇಷ ಸೆವೆನ್ ಕಪ್ ಬರ್ಫಿ",
+                  "message": null,
+                  "image": {
+                    "key": "prajavani/2026-11-03/5q4x1h3m/file.webp",
+                    "url": null,
+                    "attribution": null,
+                    "alt-text": null,
+                    "caption": null,
+                    "metadata": {
+                      "width": 1920,
+                      "height": 1280,
+                      "mime-type": "image/webp",
+                      "file-size": 663608,
+                      "file-name": "file.webp",
+                      "focus-point": [
+                        1185,
+                        544
+                      ]
+                    }
+                  }
+                },
+                "attributes": {}
+              }
+            }
+          ],
+          "url": "https://www.prajavani.net/health/recipe/diwali-special-seven-cup-barfi-recipe-kannada-4371802",
+          "story-version-id": "8397e769-5870-4617-9bb4-3f0a00557973",
+          "content-type": "story",
+          "content-updated-at": 1793709189572,
+          "author-id": 2343550,
+          "owner-id": 2343550,
+          "linked-story-ids": [
+            "75c85433-8c07-40d1-9b20-392753d83221",
+            "3a51e167-9552-48a1-99e2-949cb8a5eb8b"
+          ],
+          "access": "login",
+          "promotional-message": "<div><p><strong>ಪ್ರಜಾವಾಣಿ ಆ್ಯಪ್ ಇಲ್ಲಿದೆ: <a href=\"https://play.google.com/store/apps/details?id&#61;com.tpml.pv\">ಆಂಡ್ರಾಯ್ಡ್ </a>| <a href=\"https://apps.apple.com/in/app/prajavani-kannada-news-app/id1535764933\">ಐಒಎಸ್</a> | <a href=\"https://whatsapp.com/channel/0029Va94OfB1dAw2Z4q5mK40\">ವಾಟ್ಸ್ಆ್ಯಪ್</a>, <a href=\"https://www.twitter.com/prajavani\">ಎಕ್ಸ್</a>, <a href=\"https://www.fb.com/prajavani.net\">ಫೇಸ್‌ಬುಕ್</a> ಮತ್ತು <a href=\"https://www.instagram.com/prajavani\">ಇನ್‌ಸ್ಟಾಗ್ರಾಂ</a>ನಲ್ಲಿ ಪ್ರಜಾವಾಣಿ ಫಾಲೋ ಮಾಡಿ.</strong></p></div>",
+          "asana-project-id": null,
+          "first-published-at": 1793709188645,
+          "hero-image-caption": null,
+          "version": 29,
+          "story-template": "text",
+          "sequence-no": null,
+          "created-at": 1793709184084,
+          "authors": [
+            {
+              "slug": "veenashree",
+              "social": {},
+              "name": "Veenashree",
+              "contributor-role": {
+                "id": 7161,
+                "name": "Author"
+              },
+              "avatar-url": "https://cf-images.assettype.com/prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+              "bio": "ಐದು ವರ್ಷಗಳ ವೆಬ್ ಪತ್ರಿಕೋದ್ಯಮದ ಅನುಭವ. ಸಿನಿಮಾ, ಟಿವಿ, ಧಾರಾವಾಹಿ, ಲೈಫ್ ಸ್ಟೈಲ್, ಆರೋಗ್ಯ, ಅಡುಗೆ, ಫ್ಯಾಷನ್‌, ನೃತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ. ಪ್ರಸ್ತುತ ಪ್ರಜಾವಾಣಿ ಡಿಜಿಟಲ್‌ ವಿಭಾಗದಲ್ಲಿ ಉಪ ಸಂಪಾದಕಿ",
+              "id": 2343550,
+              "avatar-s3-key": "prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+              "twitter-handle": null
+            }
+          ],
+          "metadata": {
+            "byline-no-author-page": "",
+            "card-share": {
+              "shareable": false
+            }
+          },
+          "subscription-metadata": null,
+          "publish-at": null,
+          "assignee-name": "ವೀಣಾಶ್ರೀ "
+        }
+      }
+    },
+    {
+      "path": "/api/v1/stories/ccd56f47-8323-408e-bcd0-76f8a8adc688",
+      "status": 200,
+      "data": {
+        "story": {
+          "updated-at": 1792061058294,
+          "seo": {
+            "meta-title": "Sabudana Vada Recipe: ರೆಸಿಪಿ: ಸಂಜೆ ಟೀ, ಕಾಫಿ ಜೊತೆ ತಿನ್ನಬಹುದಾದ ಸಾಬುದಾನ ವಡಾ ಹೀಗೆ ಮಾಡಿಕೊಳ್ಳಿ",
+            "meta-description": "Evening Snacks: ಸಂಜೆ ಟೀ ಅಥವಾ ಕಾಫಿ ಸಮಯದಲ್ಲಿ ಸವಿಯಲು ನೆನೆಸಿದ ಸಾಬುದಾನ, ಬೇಯಿಸಿದ ಆಲೂಗಡ್ಡೆ ಮತ್ತು ಕಡಲೆಕಾಯಿ ಬಳಸಿ ಗರಿಗರಿಯಾದ ಸಾಬುದಾನ ವಡೆಯನ್ನು ಸುಲಭವಾಗಿ ತಯಾರಿಸುವ ವಿಧಾನ.",
+            "meta-keywords": [
+              "Recipe",
+              "snacks",
+              "food",
+              "Food Making",
+              "Food Department",
+              "how to make sabudana vada",
+              "kannada food recipes",
+              "sago vada",
+              "sabudana recipes",
+              "tea time snacks",
+              "easy home cooking",
+              "indian snacks",
+              "sabakki vada",
+              "crispy sabudana vada",
+              "vegetarian snacks",
+              "healthy evening snacks",
+              "potato sabudana vada",
+              "prajavani food"
+            ],
+            "claim-reviews": {
+              "story": null
+            }
+          },
+          "assignee-id": 2343550,
+          "author-name": "ವೀಣಾಶ್ರೀ ",
+          "tags": [
+            {
+              "id": 5509578,
+              "name": "food",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "food",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5510495,
+              "name": "Recipe",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "recipe",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5513710,
+              "name": "Food Department",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "food-department",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5523108,
+              "name": "snacks",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "snacks",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5528110,
+              "name": "Food Making",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "food-making",
+              "tag-type": "Tag"
+            }
+          ],
+          "headline": "ರೆಸಿಪಿ: ಸಂಜೆ ಟೀ, ಕಾಫಿ ಜೊತೆ ತಿನ್ನಬಹುದಾದ ಸಾಬುದಾನ ವಡೆ ಹೀಗೆ ಮಾಡಿಕೊಳ್ಳಿ",
+          "storyline-id": null,
+          "votes": {},
+          "story-content-id": "ccd56f47-8323-408e-bcd0-76f8a8adc688",
+          "slug": "health/recipe/sabudana-vada-recipe-evening-snacks-kannada-4329492",
+          "linked-stories": {
+            "c5b8326d-b18f-49d9-9881-67c2dffa01d4": {
+              "author-name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+              "headline": "ರೆಸಿಪಿ: ಬಾಳೆಮೋತೆ ಆಂಬೊಡೆ ಕುರ್‌ಕುರೆ",
+              "story-content-id": "c5b8326d-b18f-49d9-9881-67c2dffa01d4",
+              "slug": "health/banana-flower-ambode-kurkure-recipe-kannada-4304520",
+              "alternative": {},
+              "sections": [
+                {
+                  "domain-slug": null,
+                  "slug": "health",
+                  "name": "ಆರೋಗ್ಯ–ಆಹಾರ",
+                  "section-url": "https://www.prajavani.net/health",
+                  "id": 51445,
+                  "parent-id": null,
+                  "display-name": "ಆರೋಗ್ಯ–ಆಹಾರ",
+                  "collection": {
+                    "slug": "health",
+                    "name": "ಆರೋಗ್ಯ",
+                    "id": 125721
+                  },
+                  "data": null
+                }
+              ],
+              "hero-image-metadata": {
+                "original-url": "https://prajavani-print-images-vartasetu-staging.s3.amazonaws.com/images/2026-10-03/f4/31/f4313ecae2e34b81015245673cc63d905e8f4a0bccf6a8fe6316170bcfc47d1a-t3.jpg",
+                "file-size": 79673,
+                "mime-type": "image/jpeg",
+                "width": 1199,
+                "height": 515
+              },
+              "hero-image-s3-key": "prajavani/2026-10-03/kpmslmv8/f4313ecae2e34b81015245673cc63d905e8f4a0bccf6a8fe6316170bcfc47d1a_t3.jpg",
+              "url": "https://www.prajavani.net/health/banana-flower-ambode-kurkure-recipe-kannada-4304520",
+              "content-updated-at": 1791005623425,
+              "author-id": 1745292,
+              "first-published-at": 1790988900000,
+              "authors": [
+                {
+                  "slug": "prajavani-varthe",
+                  "social": {},
+                  "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                  "contributor-role": {
+                    "id": 7161,
+                    "name": "Author"
+                  },
+                  "avatar-url": "https://cf-images.assettype.com/prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+                  "bio": null,
+                  "id": 1745292,
+                  "avatar-s3-key": "prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+                  "twitter-handle": null
+                }
+              ]
+            },
+            "e19f67e7-5c87-4eb3-8abe-7193c2d5a891": {
+              "author-name": "ವೀಣಾಶ್ರೀ ",
+              "headline": "ರೆಸಿಪಿ: ಬೂದು ಕುಂಬಳಕಾಯಿಂದ ಮನೆಯಲ್ಲೇ ಮಾಡಿ ಮೃದುವಾದ ದೋಸೆ",
+              "story-content-id": "e19f67e7-5c87-4eb3-8abe-7193c2d5a891",
+              "slug": "health/recipe/ash-gourd-soft-dosa-recipe-at-home-4327060",
+              "alternative": {},
+              "sections": [
+                {
+                  "domain-slug": null,
+                  "slug": "recipe",
+                  "name": "ರೆಸಿಪಿ",
+                  "section-url": "https://www.prajavani.net/health/recipe",
+                  "id": 51545,
+                  "parent-id": 51445,
+                  "display-name": "ರೆಸಿಪಿ",
+                  "collection": {
+                    "slug": "recipe-food",
+                    "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+                    "id": 125821
+                  },
+                  "data": null
+                }
+              ],
+              "hero-image-metadata": {
+                "width": 1920,
+                "height": 1280,
+                "mime-type": "image/webp",
+                "file-size": 681942,
+                "file-name": "file.webp",
+                "focus-point": [
+                  924,
+                  533
+                ]
+              },
+              "hero-image-s3-key": "prajavani/2026-10-13/hg047ult/file.webp",
+              "url": "https://www.prajavani.net/health/recipe/ash-gourd-soft-dosa-recipe-at-home-4327060",
+              "content-updated-at": 1791950400885,
+              "author-id": 2343550,
+              "first-published-at": 1791950400000,
+              "authors": [
+                {
+                  "slug": "veenashree",
+                  "social": {},
+                  "name": "Veenashree",
+                  "contributor-role": {
+                    "id": 7161,
+                    "name": "Author"
+                  },
+                  "avatar-url": "https://cf-images.assettype.com/prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+                  "bio": "ಐದು ವರ್ಷಗಳ ವೆಬ್ ಪತ್ರಿಕೋದ್ಯಮದ ಅನುಭವ. ಸಿನಿಮಾ, ಟಿವಿ, ಧಾರಾವಾಹಿ, ಲೈಫ್ ಸ್ಟೈಲ್, ಆರೋಗ್ಯ, ಅಡುಗೆ, ಫ್ಯಾಷನ್‌, ನೃತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ. ಪ್ರಸ್ತುತ ಪ್ರಜಾವಾಣಿ ಡಿಜಿಟಲ್‌ ವಿಭಾಗದಲ್ಲಿ ಉಪ ಸಂಪಾದಕಿ",
+                  "id": 2343550,
+                  "avatar-s3-key": "prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+                  "twitter-handle": null
+                }
+              ]
+            }
+          },
+          "last-published-at": 1792053000000,
+          "public-identifier": "4329492",
+          "subheadline": null,
+          "alternative": {},
+          "sections": [
+            {
+              "domain-slug": null,
+              "slug": "recipe",
+              "name": "ರೆಸಿಪಿ",
+              "section-url": "https://www.prajavani.net/health/recipe",
+              "id": 51545,
+              "parent-id": 51445,
+              "display-name": "ರೆಸಿಪಿ",
+              "collection": {
+                "slug": "recipe-food",
+                "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+                "id": 125821
+              },
+              "data": null
+            }
+          ],
+          "read-time": 1,
+          "access-level-value": null,
+          "content-created-at": 1791976151730,
+          "is-embargoed": false,
+          "owner-name": "ವೀಣಾಶ್ರೀ ",
+          "custom-slug": "sabudana-vada-recipe-evening-snacks-kannada",
+          "push-notification": null,
+          "publisher-id": 4234,
+          "hero-image-metadata": {
+            "width": 1920,
+            "height": 1280,
+            "mime-type": "image/webp",
+            "file-size": 730672,
+            "file-name": "file.webp",
+            "focus-point": [
+              867,
+              569
+            ]
+          },
+          "comments": null,
+          "word-count": 139,
+          "story-features": {
+            "push-notification": {
+              "is-scheduled": false,
+              "publish-at": null,
+              "linked-with-story-fields-status": {
+                "title": null,
+                "message": null
+              }
+            }
+          },
+          "entities": {},
+          "published-at": 1792053000000,
+          "embargoed-till": null,
+          "breaking-news-linked-story-id": null,
+          "storyline-title": null,
+          "last-correction-published-at": 1792061061457,
+          "summary": null,
+          "push-notification-title": null,
+          "external-id": null,
+          "canonical-url": null,
+          "hero-image-hyperlink": null,
+          "autotags": [],
+          "linked-entities": [],
+          "status": "published",
+          "hero-image-attribution": null,
+          "bullet-type": "123",
+          "hero-image-alt-text": null,
+          "id": "ccd56f47-8323-408e-bcd0-76f8a8adc688",
+          "hero-image-s3-key": "prajavani/2026-10-14/af1jabsy/file.webp",
+          "contributors": [],
+          "associated-series-collection-ids": [],
+          "cards": [
+            {
+              "story-elements": [
+                {
+                  "description": "",
+                  "page-url": "/story/ccd56f47-8323-408e-bcd0-76f8a8adc688/element/1d132c09-374b-4508-b791-09133ae19dae",
+                  "type": "text",
+                  "family-id": "df0e0434-db04-4d85-885a-6df1f00d0f64",
+                  "title": "",
+                  "id": "1d132c09-374b-4508-b791-09133ae19dae",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<p>ಸಂಜೆ ವೇಳೆ ಟೀ ಹಾಗೂ ಕಾಫಿ ಜೊತೆಗೆ ಸಾಬುದಾನ ವಡೆ ಮನೆಯಲ್ಲೇ ಮಾಡಿಕೊಂಡು ತಿನ್ನಬಹುದು. ಸಾಬುದಾನ ವಡೆ ಮಾಡಲು ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು ಮತ್ತು ಮಾಡುವ ವಿಧಾನದ ವಿವರ ಈ ಕೆಳಗಿದೆ.</p>"
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/ccd56f47-8323-408e-bcd0-76f8a8adc688/element/4c397e68-cd68-4540-bc46-721a1b9917a2",
+                  "type": "text",
+                  "family-id": "f8fd957c-1ef4-4b4b-a436-4755818f4026",
+                  "title": "",
+                  "id": "4c397e68-cd68-4540-bc46-721a1b9917a2",
+                  "metadata": {
+                    "linked-story-id": "e19f67e7-5c87-4eb3-8abe-7193c2d5a891",
+                    "linked-story": {
+                      "updated-at": 1791891322833,
+                      "author-name": "ವೀಣಾಶ್ರೀ ",
+                      "headline": "ರೆಸಿಪಿ: ಬೂದು ಕುಂಬಳಕಾಯಿಂದ ಮನೆಯಲ್ಲೇ ಮಾಡಿ ಮೃದುವಾದ ದೋಸೆ",
+                      "story-content-id": "e19f67e7-5c87-4eb3-8abe-7193c2d5a891",
+                      "is-published": true,
+                      "slug": "health/recipe/ash-gourd-soft-dosa-recipe-at-home-4327060",
+                      "highlighted-external-id": null,
+                      "last-published-at": 1791950400000,
+                      "highlighted-text": null,
+                      "alternative": {},
+                      "sections": [
+                        {
+                          "id": 51545,
+                          "name": "ರೆಸಿಪಿ",
+                          "slug": "recipe",
+                          "data": null
+                        }
+                      ],
+                      "highlighted-slug": null,
+                      "public-preview-url": "https://www.prajavani.net/preview/story/yvy73Cjlmy4idhCT1o4fRg3cwcydvZv-aHHDY3cin9v9mApyffGGtfuhueD6hFgf",
+                      "published-at": 1791950400000,
+                      "status": "published",
+                      "id": "e19f67e7-5c87-4eb3-8abe-7193c2d5a891",
+                      "content-type": "story",
+                      "frontend-url": "https://www.prajavani.net/health/recipe/ash-gourd-soft-dosa-recipe-at-home-4327060",
+                      "author-id": 2343550,
+                      "highlighted-headline": null,
+                      "story-template": "text",
+                      "authors": [
+                        {
+                          "id": 2343550,
+                          "name": "ವೀಣಾಶ್ರೀ ",
+                          "email": "veenashree@prajavani.co.in",
+                          "contributor-role": {
+                            "name": "Author",
+                            "id": 7161
+                          }
+                        }
+                      ],
+                      "metadata": {
+                        "byline-no-author-page": ""
+                      },
+                      "highlighted-public-identifier": null,
+                      "public-preview-key": "yvy73Cjlmy4idhCT1o4fRg3cwcydvZv-aHHDY3cin9v9mApyffGGtfuhueD6hFgf",
+                      "publish-at": 1791950400000
+                    }
+                  },
+                  "subtype": "also-read",
+                  "text": "ರೆಸಿಪಿ: ಬೂದು ಕುಂಬಳಕಾಯಿಂದ ಮನೆಯಲ್ಲೇ ಮಾಡಿ ಮೃದುವಾದ ದೋಸೆ"
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/ccd56f47-8323-408e-bcd0-76f8a8adc688/element/e40dd66c-5743-4539-a6a4-46c89869782f",
+                  "type": "text",
+                  "family-id": "a5e1134e-2f2c-4530-80e4-4ebba0556b6d",
+                  "title": "",
+                  "id": "e40dd66c-5743-4539-a6a4-46c89869782f",
+                  "metadata": {
+                    "linked-story-id": "c5b8326d-b18f-49d9-9881-67c2dffa01d4",
+                    "linked-story": {
+                      "updated-at": 1791005620514,
+                      "author-name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                      "headline": "ರೆಸಿಪಿ: ಬಾಳೆಮೋತೆ ಆಂಬೊಡೆ ಕುರ್‌ಕುರೆ",
+                      "story-content-id": "c5b8326d-b18f-49d9-9881-67c2dffa01d4",
+                      "is-published": true,
+                      "slug": "health/banana-flower-ambode-kurkure-recipe-kannada-4304520",
+                      "highlighted-external-id": null,
+                      "last-published-at": 1791005623111,
+                      "highlighted-text": null,
+                      "alternative": {},
+                      "sections": [
+                        {
+                          "id": 51445,
+                          "name": "ಆರೋಗ್ಯ–ಆಹಾರ",
+                          "slug": "health",
+                          "data": null
+                        }
+                      ],
+                      "highlighted-slug": null,
+                      "public-preview-url": "https://www.prajavani.net/preview/story/jvj1XDZv27ojklphcKjS77-vUMyS_hGyjZXBo9FTXWiHmBVyec3foSE6tAxuVOqh",
+                      "published-at": 1791005623111,
+                      "status": "published",
+                      "id": "c5b8326d-b18f-49d9-9881-67c2dffa01d4",
+                      "content-type": "story",
+                      "frontend-url": "https://www.prajavani.net/health/banana-flower-ambode-kurkure-recipe-kannada-4304520",
+                      "author-id": 1745292,
+                      "highlighted-headline": null,
+                      "story-template": "syndicated-print",
+                      "authors": [
+                        {
+                          "id": 1745292,
+                          "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+                          "email": "author_pv.9107@prajavani.co.in",
+                          "contributor-role": {
+                            "name": "Author",
+                            "id": 7161
+                          }
+                        }
+                      ],
+                      "metadata": {
+                        "imported-card-is-read-only": null,
+                        "story-attributes": {
+                          "syndicatedfrom": [
+                            "Vartasetu-PV"
+                          ],
+                          "syndicated-categories": [
+                            "ಉಡುಪಿ"
+                          ]
+                        },
+                        "imported-card-id": "35eae03e-461a-40fd-b29c-7f0fe0208f6f",
+                        "byline-no-author-page": "ಪ್ರಭಾ ಪಿ. ಶಾಸ್ತ್ರಿ"
+                      },
+                      "highlighted-public-identifier": null,
+                      "public-preview-key": "jvj1XDZv27ojklphcKjS77-vUMyS_hGyjZXBo9FTXWiHmBVyec3foSE6tAxuVOqh",
+                      "publish-at": null
+                    }
+                  },
+                  "subtype": "also-read",
+                  "text": "ರೆಸಿಪಿ: ಬಾಳೆಮೋತೆ ಆಂಬೊಡೆ ಕುರ್‌ಕುರೆ"
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/ccd56f47-8323-408e-bcd0-76f8a8adc688/element/4ad2d91f-20d5-4153-9120-3f826a3a2b10",
+                  "type": "text",
+                  "family-id": "477afa20-482d-411d-9cac-5940ff0162ae",
+                  "title": "",
+                  "id": "4ad2d91f-20d5-4153-9120-3f826a3a2b10",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<p><strong>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿಗಳು...</strong></p><p>• ಸಾಬುದಾನ: 1 ಕಪ್ </p><p>• ಆಲೂಗಡ್ಡೆ: 2 </p><p>• ಕಡಲೆಕಾಯಿ: ಅರ್ಧ ಕಪ್ </p><p>• ಹಸಿಮೆಣಸಿನಕಾಯಿ: 2  </p><p>• ಜೀರಿಗೆ: 1 ಚಮಚ</p><p>• ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು</p><p>• ನಿಂಬೆ ರಸ: 1 ಚಮಚ</p><p>• ರುಚಿಗೆ ತಕ್ಕಷ್ಟು ಉಪ್ಪು</p><p>• ಎಣ್ಣೆ</p>"
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/ccd56f47-8323-408e-bcd0-76f8a8adc688/element/24c7b84c-b947-4af9-9d1a-c06768bbb8f2",
+                  "type": "text",
+                  "family-id": "01bea84c-5146-458d-af4d-8e9071ffabb2",
+                  "title": "",
+                  "id": "24c7b84c-b947-4af9-9d1a-c06768bbb8f2",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<p><strong>ಮಾಡುವ ವಿಧಾನ...</strong></p><p>ಮೊದಲು 1 ಕಪ್ ಸಾಬುದಾನವನ್ನು ನೀರಿನಲ್ಲಿ 4 ರಿಂದ 5 ಗಂಟೆಗಳ ಕಾಲ ನೆನೆಸಿಡಿ. ನಂತರ ನೀರನ್ನೆಲ್ಲಾ ಸಂಪೂರ್ಣವಾಗಿ ಸೋಸಿಕೊಳ್ಳಿ. ಬಳಿಕ ಒಂದು ದೊಡ್ಡ ಪಾತ್ರೆಯಲ್ಲಿ ನೆನೆಸಿದ ಸಾಬುದಾನ, ಬೇಯಿಸಿ ಹಿಸುಕಿದ ಆಲೂಗಡ್ಡೆ, ಹುರಿದ ಕಡಲೆಕಾಯಿ ಪುಡಿ, ಹಸಿಮೆಣಸಿನಕಾಯಿ, ಜೀರಿಗೆ, ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು, ನಿಂಬೆ ರಸ ಮತ್ತು ಉಪ್ಪು ಹಾಕಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ.</p><p>ಈ ಮಿಶ್ರಣದಿಂದ ಸ್ವಲ್ಪ ಭಾಗವನ್ನು ತೆಗೆದುಕೊಂಡು ಚಪ್ಪಟೆಯಾದ ವಡೆಯಾಕಾರಕ್ಕೆ ತಟ್ಟಿ. ಬಳಿಕ ಬಾಣಲೆಯಲ್ಲಿ ಎಣ್ಣೆಯನ್ನು ಬಿಸಿ ಮಾಡಿ. ಮಧ್ಯಮ ಉರಿಯಲ್ಲಿ ವಡೆಗಳನ್ನು ಹಾಕಿ, ಎರಡೂ ಬದಿ ಗೋಲ್ಡನ್ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ ಗರಿಗರಿಯಾಗುವವರೆಗೆ ಕರಿಯಿರಿ. ಬಳಿಕ ತಯಾರಾದ ಗರಿಗರಿಯಾದ ಸಾಬುದಾನ ವಡೆಯನ್ನು ತಟ್ಟೆಗೆ ಹಾಕಿ. ಈಗ ಚಟ್ನಿ ಅಥವಾ ಮೊಸರಿನೊಂದಿಗೆ ಸಾಬುದಾನ ವಡೆ ಸವಿಯಿರಿ.</p>"
+                },
+                {
+                  "description": "",
+                  "embed-js": "PGRpdiBjbGFzcz0iZGgtaW5saW5lLWluZm9ncmFwaGljIj48c3R5bGU+QGZvbnQtZmFjZXtmb250LWZhbWlseTonUHJhamF2YW5pVGV4dFJlZ3VsYXInO3NyYzp1cmwoJ2h0dHBzOi8vZmVhLmFzc2V0dHlwZS5jb20vdHBtbC9hc3NldHMvUHJhamF2YW5pVGV4dFJlZ3VsYXIud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7Zm9udC13ZWlnaHQ6NDAwO2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtZGlzcGxheTpzd2FwO31AZm9udC1mYWNle2ZvbnQtZmFtaWx5OidQdkhlYWRsaW5lU2VtaWJvbGQzJztzcmM6dXJsKCdodHRwczovL2ZlYS5hc3NldHR5cGUuY29tL3RwbWwvYXNzZXRzL1B2SGVhZGxpbmVTZW1pYm9sZDMud29mZjInKSBmb3JtYXQoJ3dvZmYyJyk7Zm9udC13ZWlnaHQ6NjAwO2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtZGlzcGxheTpzd2FwO30NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGlje21heC13aWR0aDo5MDBweDttYXJnaW46MCBhdXRvO2JhY2tncm91bmQtY29sb3I6I2ZmZmZmZjtib3JkZXItcmFkaXVzOjhweDtib3gtc2hhZG93OjAgMnB4IDhweCByZ2JhKDAsMCwwLDAuMSk7b3ZlcmZsb3c6aGlkZGVuO2ZvbnQtZmFtaWx5OidQcmFqYXZhbmlUZXh0UmVndWxhcicsc2VyaWY7dGV4dC1hbGlnbjpsZWZ0O3Bvc2l0aW9uOnJlbGF0aXZlfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmVtYmVkLWhlYWRlcntiYWNrZ3JvdW5kLWNvbG9yOiNCODI4MzE7Y29sb3I6I2ZmZmZmZjtwYWRkaW5nOjE4cHg7dGV4dC1hbGlnbjpjZW50ZXJ9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZW1iZWQtaGVhZGVyIGgye21hcmdpbjowO2ZvbnQtZmFtaWx5OidQdkhlYWRsaW5lU2VtaWJvbGQzJyxzZXJpZjtmb250LXNpemU6MjAuMDJweDtsaW5lLWhlaWdodDoxLjN9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAubWFpbi1jb25jZXB0e3BhZGRpbmc6MTRweCAxOHB4O2JvcmRlci1sZWZ0OjRweCBzb2xpZCAjRkZDMzE0O21hcmdpbjoxMnB4IDE4cHggNHB4O2JhY2tncm91bmQtY29sb3I6I0ZGRjREQjtmb250LXNpemU6MTguMnB4fQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLm1haW4tY29uY2VwdC10aXRsZXtmb250LXdlaWdodDpib2xkO21hcmdpbi1ib3R0b206NHB4O3RleHQtdHJhbnNmb3JtOnVwcGVyY2FzZTtsZXR0ZXItc3BhY2luZzowO2ZvbnQtc2l6ZToxNS42MDAwMDAwMDAwMDAwMDFweDtjb2xvcjojQTMyNTMwfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLm1haW4tY29uY2VwdC10ZXh0e2ZvbnQtc2l6ZToxOC4ycHg7bGluZS1oZWlnaHQ6MS41fQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLnNlY3Rpb24tbGFiZWx7cGFkZGluZzo0cHggMThweCAwO2ZvbnQtc2l6ZToxNS42MDAwMDAwMDAwMDAwMDFweDt0ZXh0LXRyYW5zZm9ybTp1cHBlcmNhc2U7bGV0dGVyLXNwYWNpbmc6MDtjb2xvcjojNjY2fQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLnNlY3Rpb24tbGFiZWwuc3RhdHMtc2VjdGlvbntwYWRkaW5nOjAgMThweCAwO21hcmdpbi10b3A6LTEwcHh9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuc3RhdHMtZ3JpZHtkaXNwbGF5OmZsZXg7ZmxleC13cmFwOndyYXA7Z2FwOjZweDtwYWRkaW5nOjRweCAxOHB4IDRweDtiYWNrZ3JvdW5kLWNvbG9yOiNmZmZmZmY7bWFyZ2luLWJvdHRvbTowfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLnN0YXQtY2FyZHtmbGV4OjEgMSBjYWxjKDIwJSAtIDZweCk7bWluLXdpZHRoOjEyMHB4O2JhY2tncm91bmQ6bGluZWFyLWdyYWRpZW50KDkwZGVnLCNCODI4MzEgMCUsIzhCMUYyOSAxMDAlKTtjb2xvcjojZmZmZmZmO2JvcmRlci1yYWRpdXM6NnB4O3BhZGRpbmc6OHB4IDhweDt0ZXh0LWFsaWduOmNlbnRlcjtib3gtc2hhZG93OjAgMnB4IDZweCByZ2JhKDE4NCw0MCw0OSwwLjIyKTt0cmFuc2l0aW9uOnRyYW5zZm9ybSAwLjJzIGVhc2UsYm94LXNoYWRvdyAwLjJzIGVhc2V9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuc3RhdC12YWx1ZXtmb250LXNpemU6MjZweDtmb250LXdlaWdodDo3MDA7Zm9udC1mYW1pbHk6J1B2SGVhZGxpbmVTZW1pYm9sZDMnLHNlcmlmO21hcmdpbi1ib3R0b206MnB4O2xpbmUtaGVpZ2h0OjEuMX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5zdGF0LWxhYmVse2ZvbnQtc2l6ZToxMS43MDAwMDAwMDAwMDAwMDFweDt0ZXh0LXRyYW5zZm9ybTp1cHBlcmNhc2U7bGV0dGVyLXNwYWNpbmc6MDtjb2xvcjpyZ2JhKDI1NSwyNTUsMjU1LDAuOSk7b3BhY2l0eToxO2xpbmUtaGVpZ2h0OjEuMn0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5zdGF0LWNhcmQ6aG92ZXJ7dHJhbnNmb3JtOnRyYW5zbGF0ZVkoLTFweCk7Ym94LXNoYWRvdzowIDNweCA4cHggcmdiYSgxODQsNDAsNDksMC4yNil9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWRpc2NsYWltZXJ7cGFkZGluZzowIDE4cHggMDt0ZXh0LWFsaWduOmNlbnRlcjtmb250LXNpemU6MTFweDtjb2xvcjojOTk5O2ZvbnQtc3R5bGU6aXRhbGljfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1jb2xsYXBzaWJsZXtib3JkZXI6MnB4IHNvbGlkICNCODI4MzE7Ym9yZGVyLXJhZGl1czo4cHg7bWFyZ2luOjA7cGFkZGluZzowO2Rpc3BsYXk6YmxvY2s7b3ZlcmZsb3c6aGlkZGVuO2JhY2tncm91bmQtY29sb3I6I2ZmZmZmZn0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtY29sbGFwc2libGU6bm90KFtvcGVuXSl7Ym9yZGVyLWNvbG9yOnRyYW5zcGFyZW50O2JhY2tncm91bmQ6bGluZWFyLWdyYWRpZW50KCNmZmZmZmYsI2ZmZmZmZikgcGFkZGluZy1ib3gsbGluZWFyLWdyYWRpZW50KDkwZGVnLCNCODI4MzEsI0ZGQzMxNCwjQjgyODMxLCNGRkMzMTQsI0I4MjgzMSkgYm9yZGVyLWJveDtiYWNrZ3JvdW5kLXNpemU6MTAwJSAxMDAlLDMwMCUgMzAwJTthbmltYXRpb246aW5mLWJvcmRlci1tb3ZlIDZzIGxpbmVhciBpbmZpbml0ZX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtY29sbGFwc2libGVbb3Blbl17Ym9yZGVyLWNvbG9yOiNCODI4MzE7YmFja2dyb3VuZDojZmZmZmZmO2FuaW1hdGlvbjpub25lfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1zdW1tYXJ5e2xpc3Qtc3R5bGU6bm9uZTtjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmJsb2NrO21hcmdpbjowO3BhZGRpbmc6MDt3aWR0aDoxMDAlfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1zdW1tYXJ5Ojotd2Via2l0LWRldGFpbHMtbWFya2Vye2Rpc3BsYXk6bm9uZX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtc3VtbWFyeTo6bWFya2Vye2NvbnRlbnQ6IiJ9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC1jYXJke2Rpc3BsYXk6ZmxleDthbGlnbi1pdGVtczpzdHJldGNoO2p1c3RpZnktY29udGVudDpmbGV4LXN0YXJ0O2dhcDowO3BhZGRpbmc6MDtiYWNrZ3JvdW5kOmxpbmVhci1ncmFkaWVudCgxMzVkZWcsI0ZGRjREQiAwJSwjRkZGOEUxIDEwMCUpO2JvcmRlci1ib3R0b206MXB4IHNvbGlkIHJnYmEoMCwwLDAsMC4wNil9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC10aXRsZXtmb250LWZhbWlseTonUHZIZWFkbGluZVNlbWlib2xkMycsc2VyaWY7Zm9udC1zaXplOjIwLjAycHg7Y29sb3I6IzhCMUYyOTtsZXR0ZXItc3BhY2luZzowO3RleHQtdHJhbnNmb3JtOnVwcGVyY2FzZTttYXJnaW46MCAwIDRweH0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtY29sbGFwc2VkLXN1YnRpdGxle2ZvbnQtZmFtaWx5OidQcmFqYXZhbmlUZXh0UmVndWxhcicsc2VyaWY7Zm9udC1zaXplOjE0LjU1OTk5OTk5OTk5OTk5OXB4O2NvbG9yOiM0YjRiNGJ9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC10ZXh0e21pbi13aWR0aDowO2ZsZXg6MSAxIGF1dG87cGFkZGluZzoxNHB4IDE4cHh9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC10aXRsZSwuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtY29sbGFwc2VkLXN1YnRpdGxle292ZXJmbG93LXdyYXA6YW55d2hlcmV9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLXRvZ2dsZS1zaGVsbHtmbGV4OjAgMCA1OHB4O21pbi13aWR0aDo1OHB4O2Rpc3BsYXk6ZmxleDthbGlnbi1pdGVtczpjZW50ZXI7anVzdGlmeS1jb250ZW50OmNlbnRlcjtiYWNrZ3JvdW5kLWNvbG9yOiNGRkY0REI7Ym9yZGVyLWxlZnQ6MXB4IHNvbGlkIHJnYmEoMjU1LDE5NSwyMCwwLjI1KX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtY29sbGFwc2VkLWJ0bntiYWNrZ3JvdW5kLWNvbG9yOnRyYW5zcGFyZW50O2NvbG9yOiM4QjFGMjk7cGFkZGluZzowO2JvcmRlci1yYWRpdXM6MDtmb250LXNpemU6MTZweDtsaW5lLWhlaWdodDoxO2xldHRlci1zcGFjaW5nOjAuMDJlbTtmbGV4OjEgMSBhdXRvO3RleHQtYWxpZ246Y2VudGVyO21pbi13aWR0aDowO2Rpc3BsYXk6aW5saW5lLWZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO2p1c3RpZnktY29udGVudDpjZW50ZXI7dHJhbnNpdGlvbjpiYWNrZ3JvdW5kLWNvbG9yIDAuMnMgZWFzZSx0cmFuc2Zvcm0gMC4ycyBlYXNlfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1sZXNze2Rpc3BsYXk6bm9uZX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIGRldGFpbHNbb3Blbl0gLmluZi1tb3Jle2Rpc3BsYXk6bm9uZX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIGRldGFpbHNbb3Blbl0gLmluZi1sZXNze2Rpc3BsYXk6aW5saW5lfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1ib2R5e3BhZGRpbmctYm90dG9tOjRweH0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtc3VtbWFyeTpmb2N1cy12aXNpYmxle291dGxpbmU6M3B4IHNvbGlkICNGRkMzMTQ7b3V0bGluZS1vZmZzZXQ6LTNweH0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtYXJyb3d7d2lkdGg6MTRweDtoZWlnaHQ6MTRweDtkaXNwbGF5OmJsb2NrO3N0cm9rZTpjdXJyZW50Q29sb3I7c3Ryb2tlLXdpZHRoOjIuMjtmaWxsOm5vbmU7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3RyYW5zZm9ybS1vcmlnaW46NTAlIDUwJTt0cmFuc2l0aW9uOnRyYW5zZm9ybSAwLjNzIGVhc2UsZmlsdGVyIDAuM3MgZWFzZSxzdHJva2Utd2lkdGggMC4zcyBlYXNlLHdpZHRoIDAuM3MgZWFzZSxoZWlnaHQgMC4zcyBlYXNlfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1zdW1tYXJ5OmhvdmVyIC5pbmYtY29sbGFwc2VkLWNhcmR7YmFja2dyb3VuZDpsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCNGRkVFQjMgMCUsI0ZGRjREQiAxMDAlKX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtc3VtbWFyeTpob3ZlciAuaW5mLXRvZ2dsZS1zaGVsbHtiYWNrZ3JvdW5kLWNvbG9yOiNGRkU5QTB9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLXN1bW1hcnk6aG92ZXIgLmluZi1hcnJvd3t0cmFuc2Zvcm06dHJhbnNsYXRlWSgycHgpfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1oZWFkZXItdG9nZ2xle2Rpc3BsYXk6bm9uZX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtc3VtbWFyeSAuZW1iZWQtaGVhZGVye2Rpc3BsYXk6bm9uZX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIGRldGFpbHNbb3Blbl0gLmluZi1jb2xsYXBzZWQtY2FyZHtkaXNwbGF5Om5vbmV9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyBkZXRhaWxzW29wZW5dIC5pbmYtc3VtbWFyeXtkaXNwbGF5OmdyaWQ7Z3JpZC10ZW1wbGF0ZS1jb2x1bW5zOm1pbm1heCgwLDFmcikgNThweDthbGlnbi1pdGVtczpzdHJldGNoO21hcmdpbjowO3BhZGRpbmc6MH0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIGRldGFpbHNbb3Blbl0gLmluZi1zdW1tYXJ5IC5lbWJlZC1oZWFkZXJ7ZGlzcGxheTpibG9jaztncmlkLWNvbHVtbjoxO2dyaWQtcm93OjE7cGFkZGluZy1yaWdodDoxOHB4fQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgZGV0YWlsc1tvcGVuXSAuaW5mLWhlYWRlci10b2dnbGV7ZGlzcGxheTppbmxpbmUtZmxleDtncmlkLWNvbHVtbjoyO2dyaWQtcm93OjE7cG9zaXRpb246c3RhdGljO3otaW5kZXg6NTthbGlnbi1zZWxmOnN0cmV0Y2g7d2lkdGg6NThweDtoZWlnaHQ6YXV0bzttaW4taGVpZ2h0OjEwMCU7YWxpZ24taXRlbXM6Y2VudGVyO2p1c3RpZnktY29udGVudDpjZW50ZXI7Ym9yZGVyLXJhZGl1czowO2JhY2tncm91bmQtY29sb3I6I0I4MjgzMTtib3JkZXItbGVmdDoycHggc29saWQgcmdiYSgyNTUsMTk1LDIwLDAuMjUpO2NvbG9yOiNmZmZmZmY7Ym94LXNoYWRvdzppbnNldCAwIDAgMCAxcHggcmdiYSgyNTUsMjU1LDI1NSwwLjEpO3RyYW5zaXRpb246YWxsIDAuM3MgZWFzZX0NCiAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIGRldGFpbHNbb3Blbl0gLmluZi1oZWFkZXItdG9nZ2xlOmhvdmVye2JhY2tncm91bmQtY29sb3I6I0I4MjgzMTtib3JkZXItbGVmdC1jb2xvcjpyZ2JhKDI1NSwxOTUsMjAsMC4zNSk7Ym94LXNoYWRvdzppbnNldCAwIDAgMCAxcHggcmdiYSgyNTUsMjU1LDI1NSwwLjIpfQ0KICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgZGV0YWlsc1tvcGVuXSAuaW5mLWhlYWRlci10b2dnbGUgLmluZi1hcnJvd3t0cmFuc2Zvcm06cm90YXRlKDE4MGRlZyk7d2lkdGg6MTZweDtoZWlnaHQ6MTZweDtzdHJva2Utd2lkdGg6Mi41O2ZpbHRlcjpkcm9wLXNoYWRvdygwIDFweCAycHggcmdiYSgwLDAsMCwwLjE1KSl9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyBkZXRhaWxzW29wZW5dIC5pbmYtaGVhZGVyLXRvZ2dsZTpob3ZlciAuaW5mLWFycm93e3RyYW5zZm9ybTpyb3RhdGUoMTgwZGVnKSB0cmFuc2xhdGVZKDJweCl9DQogICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZmFxLWxpc3R7ZGlzcGxheTpmbGV4O2ZsZXgtZGlyZWN0aW9uOmNvbHVtbjtwYWRkaW5nOjhweCAxOHB4IDZweDtnYXA6MTJweDtiYWNrZ3JvdW5kLWNvbG9yOiNmZmZmZmY7bWFyZ2luOjAgMCAxOHB4fS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1pdGVte2JvcmRlci1yYWRpdXM6OHB4O2JhY2tncm91bmQtY29sb3I6I0ZGRjhFMTtib3gtc2hhZG93OjAgMXB4IDRweCByZ2JhKDAsMCwwLDAuMDYpO292ZXJmbG93OmhpZGRlbjt0cmFuc2l0aW9uOnRyYW5zZm9ybSAwLjJzIGVhc2UsYm94LXNoYWRvdyAwLjJzIGVhc2UsYmFja2dyb3VuZC1jb2xvciAwLjJzIGVhc2V9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZmFxLWl0ZW06aG92ZXJ7YmFja2dyb3VuZC1jb2xvcjojRkZFRUIzO3RyYW5zZm9ybTp0cmFuc2xhdGVZKC0ycHgpO2JveC1zaGFkb3c6MCAycHggNnB4IHJnYmEoMCwwLDAsMC4xMil9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZmFxLXJvd3tsaXN0LXN0eWxlOm5vbmU7ZGlzcGxheTpncmlkO2dyaWQtdGVtcGxhdGUtY29sdW1uczptaW5tYXgoMCwxZnIpIDI0cHg7Z2FwOjEwcHg7YWxpZ24taXRlbXM6c3RhcnQ7cGFkZGluZzoxMnB4IDEycHggOHB4O2N1cnNvcjpwb2ludGVyfS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1yb3c6Oi13ZWJraXQtZGV0YWlscy1tYXJrZXJ7ZGlzcGxheTpub25lfS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1yb3c6Om1hcmtlcntjb250ZW50OiIifS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1jb3B5e21pbi13aWR0aDowfS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1xdWVzdGlvbnttYXJnaW46MDtmb250LWZhbWlseTonUHZIZWFkbGluZVNlbWlib2xkMycsc2VyaWY7Zm9udC1zaXplOjE5LjVweDtsaW5lLWhlaWdodDoxLjMyO2NvbG9yOiM4QjFGMjk7b3ZlcmZsb3ctd3JhcDphbnl3aGVyZTt3b3JkLWJyZWFrOmJyZWFrLXdvcmR9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZmFxLXRvZ2dsZXtkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO2p1c3RpZnktY29udGVudDpjZW50ZXI7YWxpZ24tc2VsZjpzdGFydDtjb2xvcjojQTMyNTMwO3dpZHRoOjI0cHg7aGVpZ2h0OjI0cHh9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZmFxLWFycm93e3dpZHRoOjE2cHg7aGVpZ2h0OjE2cHg7ZGlzcGxheTpibG9jaztzdHJva2U6Y3VycmVudENvbG9yO3N0cm9rZS13aWR0aDoyLjI7ZmlsbDpub25lO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDt0cmFuc2l0aW9uOnRyYW5zZm9ybSAwLjI1cyBlYXNlfS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1pdGVtW29wZW5dIC5mYXEtYXJyb3d7dHJhbnNmb3JtOnJvdGF0ZSgxODBkZWcpfS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1hbnN3ZXItc2hlbGx7cGFkZGluZzowIDEycHggMTJweH0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5mYXEtYW5zd2Vye21hcmdpbjowO2ZvbnQtc2l6ZToxNi45MDAwMDAwMDAwMDAwMDJweDtsaW5lLWhlaWdodDoxLjY7Y29sb3I6IzIzNDI0YTtvdmVyZmxvdy13cmFwOmFueXdoZXJlO3dvcmQtYnJlYWs6YnJlYWstd29yZH0NCiAgICBAa2V5ZnJhbWVzIGluZi1ib3JkZXItbW92ZXswJXtiYWNrZ3JvdW5kLXBvc2l0aW9uOjAgMCwwJSA1MCV9MTAwJXtiYWNrZ3JvdW5kLXBvc2l0aW9uOjAgMCwxMDAlIDUwJX19DQogICAgQG1lZGlhIChwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyayl7DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGlje2JhY2tncm91bmQtY29sb3I6IzFhMWExYTtib3gtc2hhZG93OjAgMnB4IDhweCByZ2JhKDAsMCwwLDAuNSk7Y29sb3I6I2UwZTBlMH0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmVtYmVkLWhlYWRlcntiYWNrZ3JvdW5kLWNvbG9yOiM4QjFGMjl9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5tYWluLWNvbmNlcHR7YmFja2dyb3VuZC1jb2xvcjojMmEyNDE4O2JvcmRlci1sZWZ0LWNvbG9yOiNGRkMzMTR9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5tYWluLWNvbmNlcHQtdGl0bGV7Y29sb3I6I0ZGNTA1NX0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLm1haW4tY29uY2VwdC10ZXh0e2NvbG9yOiNlMGUwZTB9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5zZWN0aW9uLWxhYmVse2NvbG9yOiNhYWF9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5zdGF0cy1ncmlke2JhY2tncm91bmQtY29sb3I6IzFhMWExYX0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLnN0YXQtY2FyZHtiYWNrZ3JvdW5kOmxpbmVhci1ncmFkaWVudCg5MGRlZywjQjg5MTFBIDAlLCM4QjFGMjkgMTAwJSk7Ym94LXNoYWRvdzowIDJweCA2cHggcmdiYSgwLDAsMCwwLjQpfQ0KICAgICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWRpc2NsYWltZXJ7Y29sb3I6Izc3N30NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1jb2xsYXBzaWJsZXtiYWNrZ3JvdW5kLWNvbG9yOiMxYTFhMWE7Ym9yZGVyLWNvbG9yOiM4QjFGMjl9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtY29sbGFwc2libGVbb3Blbl17YmFja2dyb3VuZDojMWExYTFhO2JvcmRlci1jb2xvcjojOEIxRjI5fQ0KICAgICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC1jYXJke2JhY2tncm91bmQ6bGluZWFyLWdyYWRpZW50KDEzNWRlZywjMmEyNDE4IDAlLCMyMjIwMWEgMTAwJSk7Ym9yZGVyLWJvdHRvbS1jb2xvcjpyZ2JhKDI1NSwyNTUsMjU1LDAuMDgpfQ0KICAgICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC10aXRsZXtjb2xvcjojRkY1MDU1fQ0KICAgICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC1zdWJ0aXRsZXtjb2xvcjojYmJifQ0KICAgICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLXRvZ2dsZS1zaGVsbHtiYWNrZ3JvdW5kLWNvbG9yOiMyYTI0MTg7Ym9yZGVyLWxlZnQtY29sb3I6IzhCNjkxNH0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1jb2xsYXBzZWQtYnRue2NvbG9yOiNGRkMzMTR9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIGRldGFpbHNbb3Blbl0gLmluZi1oZWFkZXItdG9nZ2xle2JhY2tncm91bmQtY29sb3I6IzhCMUYyOX0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1zdW1tYXJ5OmhvdmVyIC5pbmYtY29sbGFwc2VkLWNhcmR7YmFja2dyb3VuZDpsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCMzYTJmMWYgMCUsIzJhMjQxOCAxMDAlKX0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1zdW1tYXJ5OmhvdmVyIC5pbmYtdG9nZ2xlLXNoZWxse2JhY2tncm91bmQtY29sb3I6IzNhMmYxZn0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1saXN0e2JhY2tncm91bmQtY29sb3I6IzFhMWExYX0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5mYXEtaXRlbXtiYWNrZ3JvdW5kLWNvbG9yOiMyZDJkMmQ7Ym94LXNoYWRvdzowIDFweCA0cHggcmdiYSgwLDAsMCwwLjMpO2JvcmRlcjoxcHggc29saWQgcmdiYSgyNTUsMjU1LDI1NSwwLjA2KX0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5mYXEtcXVlc3Rpb257Y29sb3I6I0ZGNTA1NX0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5mYXEtdG9nZ2xle2NvbG9yOiNGRjUwNTV9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZmFxLWFuc3dlcntjb2xvcjojZTBlMGUwfS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1pdGVtOmhvdmVye2JhY2tncm91bmQtY29sb3I6IzM4MzgzODtib3gtc2hhZG93OjAgMnB4IDZweCByZ2JhKDAsMCwwLDAuNCl9DQogICAgfQ0KICAgIEBtZWRpYSAobWF4LXdpZHRoOjcwMHB4KXsNCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLm1haW4tY29uY2VwdHttYXJnaW4tbGVmdDoxMnB4O21hcmdpbi1yaWdodDoxMnB4O3BhZGRpbmctbGVmdDoxMnB4O3BhZGRpbmctcmlnaHQ6MTJweH0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLnNlY3Rpb24tbGFiZWwsLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuc2VjdGlvbi1sYWJlbC5zdGF0cy1zZWN0aW9uLC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLnN0YXRzLWdyaWQsLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWRpc2NsYWltZXJ7cGFkZGluZy1sZWZ0OjEycHg7cGFkZGluZy1yaWdodDoxMnB4fQ0KICAgICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuc3RhdC1jYXJke2ZsZXg6MSAxIGNhbGMoMzMuMzMzJSAtIDZweCk7bWluLXdpZHRoOjEwMHB4fQ0KICAgICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC1jYXJke2dhcDowO3BhZGRpbmc6MH0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmluZi1jb2xsYXBzZWQtdGV4dHtwYWRkaW5nOjEycHh9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtY29sbGFwc2VkLXRpdGxle2ZvbnQtc2l6ZToxNy45NHB4fQ0KICAgICAgLmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuaW5mLWNvbGxhcHNlZC1zdWJ0aXRsZXtmb250LXNpemU6MTMuNTIwMDAwMDAwMDAwMDAxcHh9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5pbmYtdG9nZ2xlLXNoZWxse2ZsZXgtYmFzaXM6NTBweDttaW4td2lkdGg6NTBweH0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgZGV0YWlsc1tvcGVuXSAuaW5mLXN1bW1hcnl7Z3JpZC10ZW1wbGF0ZS1jb2x1bW5zOm1pbm1heCgwLDFmcikgNTBweH0NCiAgICAgIC5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgZGV0YWlsc1tvcGVuXSAuaW5mLXN1bW1hcnkgLmVtYmVkLWhlYWRlcntwYWRkaW5nLXJpZ2h0OjEycHh9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIGRldGFpbHNbb3Blbl0gLmluZi1oZWFkZXItdG9nZ2xle3dpZHRoOjUwcHh9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5mYXEtbGlzdHtwYWRkaW5nLWxlZnQ6MTJweDtwYWRkaW5nLXJpZ2h0OjEycHh9DQogICAgICAuZGgtaW5saW5lLWluZm9ncmFwaGljIC5tYWluLWNvbmNlcHR7bWFyZ2luLWxlZnQ6MTBweDttYXJnaW4tcmlnaHQ6MTBweDtwYWRkaW5nOjEycHggMTJweCAxMnB4IDE0cHh9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAubWFpbi1jb25jZXB0LXRpdGxle2ZvbnQtc2l6ZToxNC4zcHh9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAubWFpbi1jb25jZXB0LXRleHR7Zm9udC1zaXplOjE2LjkwMDAwMDAwMDAwMDAwMnB4O2xpbmUtaGVpZ2h0OjEuNTV9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuc2VjdGlvbi1sYWJlbHtwYWRkaW5nLXRvcDo4cHg7cGFkZGluZy1ib3R0b206NHB4fS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1saXN0e2dhcDoxMHB4O3BhZGRpbmctbGVmdDoxMHB4O3BhZGRpbmctcmlnaHQ6MTBweH0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5mYXEtaXRlbXtib3JkZXItcmFkaXVzOjEwcHh9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZmFxLXJvd3tncmlkLXRlbXBsYXRlLWNvbHVtbnM6bWlubWF4KDAsMWZyKSAyMnB4O2dhcDo4cHg7cGFkZGluZzoxMXB4IDExcHggNnB4fS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1xdWVzdGlvbntmb250LXNpemU6MTkuNXB4O2xpbmUtaGVpZ2h0OjEuMjh9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuZmFxLXRvZ2dsZXt3aWR0aDoyMnB4O2hlaWdodDoyMnB4fS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1hcnJvd3t3aWR0aDoxNHB4O2hlaWdodDoxNHB4fS5kaC1pbmxpbmUtaW5mb2dyYXBoaWMgLmZhcS1hbnN3ZXItc2hlbGx7cGFkZGluZzowIDExcHggMTFweH0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5mYXEtYW5zd2Vye2ZvbnQtc2l6ZToxNi4yNXB4O2xpbmUtaGVpZ2h0OjEuNTh9LmRoLWlubGluZS1pbmZvZ3JhcGhpYyAuc3RhdHMtZ3JpZHtwYWRkaW5nLWxlZnQ6MTBweDtwYWRkaW5nLXJpZ2h0OjEwcHg7Z2FwOjhweH0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5zdGF0LWNhcmR7ZmxleDoxIDEgMTAwJTttaW4td2lkdGg6MDtwYWRkaW5nOjEwcHggMTBweH0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5zdGF0LXZhbHVle2ZvbnQtc2l6ZToyMy40MDAwMDAwMDAwMDAwMDJweH0uZGgtaW5saW5lLWluZm9ncmFwaGljIC5zdGF0LWxhYmVse2ZvbnQtc2l6ZToxMS43MDAwMDAwMDAwMDAwMDFweH0NCiAgICB9PC9zdHlsZT48ZGV0YWlscyBjbGFzcz0iaW5mLWNvbGxhcHNpYmxlIj48c3VtbWFyeSBjbGFzcz0iaW5mLXN1bW1hcnkiIGRhdGEtZWRpdC1ndWFyZD0idHJ1ZSI+PGRpdiBjbGFzcz0iaW5mLWNvbGxhcHNlZC1jYXJkIj48ZGl2IGNsYXNzPSJpbmYtY29sbGFwc2VkLXRleHQiPjxkaXYgY2xhc3M9ImluZi1jb2xsYXBzZWQtdGl0bGUiPuCyuOCyguCyleCzjeCyt+Cyv+CyquCzjeCypCDgsq7gsr7gsrngsr/gsqTgsr8g4oCTIOCyquCzguCysOCzjeCyoyDgsrXgsr/gsrXgsrDgsqPgs4bgspfgs4Yg4LKV4LON4LKy4LK/4LKV4LONIOCyruCyvuCyoeCyvzwvZGl2PjxkaXYgY2xhc3M9ImluZi1jb2xsYXBzZWQtc3VidGl0bGUiPuCyquCzjeCysOCyruCzgeCyliDgsq7gs4Hgspbgs43gsq/gsr7gsoLgsrbgspfgsrMg4LK44LKC4LKV4LON4LK34LK/4LKq4LON4LKkIOCyuOCyvuCysOCyvuCyguCytjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImluZi10b2dnbGUtc2hlbGwiPjxzcGFuIGNsYXNzPSJpbmYtY29sbGFwc2VkLWJ0biI+PHNwYW4gY2xhc3M9ImluZi1tb3JlIj48c3ZnIGNsYXNzPSJpbmYtYXJyb3ciIHZpZXdCb3g9IjAgMCAxNiAxNiIgYXJpYS1oaWRkZW49InRydWUiIGZvY3VzYWJsZT0iZmFsc2UiPjxwYXRoIGQ9Ik0zIDYgTDggMTEgTDEzIDYiPjwvcGF0aD48L3N2Zz48L3NwYW4+PHNwYW4gY2xhc3M9ImluZi1sZXNzIj48c3ZnIGNsYXNzPSJpbmYtYXJyb3ciIHZpZXdCb3g9IjAgMCAxNiAxNiIgYXJpYS1oaWRkZW49InRydWUiIGZvY3VzYWJsZT0iZmFsc2UiPjxwYXRoIGQ9Ik0zIDYgTDggMTEgTDEzIDYiPjwvcGF0aD48L3N2Zz48L3NwYW4+PC9zcGFuPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImVtYmVkLWhlYWRlciI+PGgyPuCysOCzhuCyuOCyv+CyquCyvzog4LK44LKC4LKc4LOGIOCyn+CzgCwg4LKV4LK+4LKr4LK/IOCynOCziuCypOCzhiDgsqTgsr/gsqjgs43gsqjgsqzgsrngs4Hgsqbgsr7gsqYg4LK44LK+4LKs4LOB4LKm4LK+4LKoIOCyteCyoeCzhiDgsrngs4Dgspfgs4Yg4LKu4LK+4LKh4LK/4LKV4LOK4LKz4LON4LKz4LK/PC9oMj48L2Rpdj48c3BhbiBjbGFzcz0iaW5mLWhlYWRlci10b2dnbGUiPjxzdmcgY2xhc3M9ImluZi1hcnJvdyIgdmlld0JveD0iMCAwIDE2IDE2IiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI+PHBhdGggZD0iTTMgNiBMOCAxMSBMMTMgNiI+PC9wYXRoPjwvc3ZnPjwvc3Bhbj48L3N1bW1hcnk+PGRpdiBjbGFzcz0iaW5mLWJvZHkiPjxkaXYgY2xhc3M9Im1haW4tY29uY2VwdCI+PGRpdiBjbGFzcz0ibWFpbi1jb25jZXB0LXRpdGxlIj7gspLgsoLgsqbgs4Eg4LK44LK+4LKy4LK/4LKo4LKy4LON4LKy4LK/PC9kaXY+PGRpdiBjbGFzcz0ibWFpbi1jb25jZXB0LXRleHQiPuCyruCyqOCzhuCyr+CysuCzjeCysuCzhyDgsrjgs4HgsrLgsq3gsrXgsr7gspfgsr8g4LKu4LKk4LON4LKk4LOBIOCysOCzgeCymuCyv+CyleCysOCyteCyvuCyl+CyvyDgsrjgsr7gsqzgs4Hgsqbgsr7gsqgg4LK14LKh4LOG4LKv4LKo4LON4LKo4LOBIOCypOCyr+CyvuCysOCyv+CyuOCyvyDgsrjgsoLgspzgs4bgsq8g4LKf4LOAIOCyheCypeCyteCyviDgspXgsr7gsqvgsr8g4LKc4LOK4LKk4LOG4LKX4LOGIOCyuOCyteCyv+Cyr+Cyv+CysOCyvy48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJzZWN0aW9uLWxhYmVsIj7gso/gsqjgs4E/IOCyj+CyleCzhj8g4LK54LOH4LKX4LOGPzwvZGl2PjxkaXYgY2xhc3M9ImZhcS1saXN0Ij48ZGV0YWlscyBjbGFzcz0iZmFxLWl0ZW0iIG9wZW49IiIgc3R5bGU9InBvc2l0aW9uOiByZWxhdGl2ZTsiPjxzdW1tYXJ5IGNsYXNzPSJmYXEtcm93IiBkYXRhLWVkaXQtZ3VhcmQ9InRydWUiPjxkaXYgY2xhc3M9ImZhcS1jb3B5Ij48aDMgY2xhc3M9ImZhcS1xdWVzdGlvbiI+4LK44LK+4LKs4LOB4LKm4LK+4LKoIOCyteCyoeCzhiDgsq7gsr7gsqHgsrLgs4Eg4LKs4LOH4LKV4LK+4LKX4LOB4LK1IOCyruCzgeCyluCzjeCyryDgsrjgsr7gsq7gspfgs43gsrDgsr/gspfgsrPgs4Eg4LKv4LK+4LK14LOB4LK14LOBPzwvaDM+PC9kaXY+PHNwYW4gY2xhc3M9ImZhcS10b2dnbGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48c3ZnIGNsYXNzPSJmYXEtYXJyb3ciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZm9jdXNhYmxlPSJmYWxzZSI+PHBhdGggZD0iTTMgNiBMOCAxMSBMMTMgNiI+PC9wYXRoPjwvc3ZnPjwvc3Bhbj48L3N1bW1hcnk+PGRpdiBjbGFzcz0iZmFxLWFuc3dlci1zaGVsbCI+PHAgY2xhc3M9ImZhcS1hbnN3ZXIiPuCyuOCyvuCyrOCzgeCypuCyvuCyqCDgsrXgsqHgs4Yg4LKk4LKv4LK+4LKw4LK/4LK44LKy4LOBIOCyuOCyvuCyrOCzgeCypuCyvuCyqCwg4LKG4LKy4LOC4LKX4LKh4LON4LKh4LOGLCDgspXgsqHgsrLgs4bgspXgsr7gsq/gsr8g4LKq4LOB4LKh4LK/LCDgsrngsrjgsr/gsq7gs4bgsqPgsrjgsr/gsqjgspXgsr7gsq/gsr8sIOCynOCzgOCysOCyv+Cyl+Czhiwg4LKV4LOK4LKk4LON4LKk4LKC4LKs4LKw4LK/IOCyuOCziuCyquCzjeCyquCzgSwg4LKo4LK/4LKC4LKs4LOGIOCysOCyuCwg4LKJ4LKq4LON4LKq4LOBIOCyruCypOCzjeCypOCzgSDgso7gsqPgs43gsqPgs4bgsq8g4LKF4LKX4LKk4LON4LKv4LK14LK/4LKm4LOGLjwvcD48L2Rpdj48L2RldGFpbHM+PGRldGFpbHMgY2xhc3M9ImZhcS1pdGVtIiBzdHlsZT0icG9zaXRpb246IHJlbGF0aXZlOyI+PHN1bW1hcnkgY2xhc3M9ImZhcS1yb3ciIGRhdGEtZWRpdC1ndWFyZD0idHJ1ZSI+PGRpdiBjbGFzcz0iZmFxLWNvcHkiPjxoMyBjbGFzcz0iZmFxLXF1ZXN0aW9uIj7gsrjgsr7gsqzgs4Hgsqbgsr7gsqjgsrXgsqjgs43gsqjgs4Eg4LK14LKh4LOGIOCyruCyvuCyoeCysuCzgSDgsrngs4fgspfgs4Yg4LK44LK/4LKm4LON4LKn4LKq4LKh4LK/4LK44LK/4LKV4LOK4LKz4LON4LKz4LKs4LOH4LKV4LOBPzwvaDM+PC9kaXY+PHNwYW4gY2xhc3M9ImZhcS10b2dnbGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48c3ZnIGNsYXNzPSJmYXEtYXJyb3ciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZm9jdXNhYmxlPSJmYWxzZSI+PHBhdGggZD0iTTMgNiBMOCAxMSBMMTMgNiI+PC9wYXRoPjwvc3ZnPjwvc3Bhbj48L3N1bW1hcnk+PGRpdiBjbGFzcz0iZmFxLWFuc3dlci1zaGVsbCI+PHAgY2xhc3M9ImZhcS1hbnN3ZXIiPuCyruCziuCypuCysuCzgSDgspLgsoLgsqbgs4Eg4LKV4LKq4LONIOCyuOCyvuCyrOCzgeCypuCyvuCyqOCyteCyqOCzjeCyqOCzgSDgsqjgs4DgsrDgsr/gsqjgsrLgs43gsrLgsr8gNCDgsrDgsr/gsoLgsqYgNSDgspfgsoLgsp/gs4bgspfgsrMg4LKV4LK+4LKyIOCyqOCzhuCyqOCzhuCyuOCyv+Cyn+CzjeCyn+CzgSwg4LKo4LKC4LKk4LKwIOCyqOCzgOCysOCyqOCzjeCyqOCzhuCysuCzjeCysuCyviDgsrjgsoLgsqrgs4LgsrDgs43gsqPgsrXgsr7gspfgsr8g4LK44LOL4LK44LK/IOCyuOCyv+CypuCzjeCyp+CyquCyoeCyv+CyuOCyv+CyleCziuCys+CzjeCys+CyrOCzh+CyleCzgS48L3A+PC9kaXY+PC9kZXRhaWxzPjxkZXRhaWxzIGNsYXNzPSJmYXEtaXRlbSIgc3R5bGU9InBvc2l0aW9uOiByZWxhdGl2ZTsiPjxzdW1tYXJ5IGNsYXNzPSJmYXEtcm93IiBkYXRhLWVkaXQtZ3VhcmQ9InRydWUiPjxkaXYgY2xhc3M9ImZhcS1jb3B5Ij48aDMgY2xhc3M9ImZhcS1xdWVzdGlvbiI+4LK14LKh4LOG4LKvIOCyruCyv+CytuCzjeCysOCyo+CyteCyqOCzjeCyqOCzgSDgsqTgsq/gsr7gsrDgsr/gsrjgs4HgsrUg4LK14LK/4LKn4LK+4LKo4LK14LOH4LKo4LOBPzwvaDM+PC9kaXY+PHNwYW4gY2xhc3M9ImZhcS10b2dnbGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48c3ZnIGNsYXNzPSJmYXEtYXJyb3ciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZm9jdXNhYmxlPSJmYWxzZSI+PHBhdGggZD0iTTMgNiBMOCAxMSBMMTMgNiI+PC9wYXRoPjwvc3ZnPjwvc3Bhbj48L3N1bW1hcnk+PGRpdiBjbGFzcz0iZmFxLWFuc3dlci1zaGVsbCI+PHAgY2xhc3M9ImZhcS1hbnN3ZXIiPuCyqOCzhuCyqOCzhuCyuOCyv+CypiDgsrjgsr7gsqzgs4Hgsqbgsr7gsqjgsqbgs4rgsoLgsqbgsr/gspfgs4Yg4LKs4LOH4LKv4LK/4LK44LK/IOCyueCyv+CyuOCzgeCyleCyv+CypiDgsobgsrLgs4LgspfgsqHgs43gsqHgs4YsIOCyueCzgeCysOCyv+CypiDgspXgsqHgsrLgs4bgspXgsr7gsq/gsr8g4LKq4LOB4LKh4LK/IOCyueCyvuCyl+CzgiDgsofgsqTgsrAg4LKu4LK44LK+4LKy4LOGIOCyquCypuCyvuCysOCzjeCypeCyl+Cys+CyqOCzjeCyqOCzgSDgsrjgs4fgsrDgsr/gsrjgsr8g4LKa4LOG4LKo4LON4LKo4LK+4LKX4LK/IOCyruCyv+CytuCzjeCysOCyoyDgsq7gsr7gsqHgsr/gspXgs4rgsrPgs43gsrPgsqzgs4fgspXgs4EuPC9wPjwvZGl2PjwvZGV0YWlscz48ZGV0YWlscyBjbGFzcz0iZmFxLWl0ZW0iIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7Ij48c3VtbWFyeSBjbGFzcz0iZmFxLXJvdyIgZGF0YS1lZGl0LWd1YXJkPSJ0cnVlIj48ZGl2IGNsYXNzPSJmYXEtY29weSI+PGgzIGNsYXNzPSJmYXEtcXVlc3Rpb24iPuCyteCyoeCzhuCyr+CyqOCzjeCyqOCzgSDgspXgsrDgsr/gsq/gs4HgsrXgs4Hgsqbgs4Eg4LK54LOH4LKX4LOGPzwvaDM+PC9kaXY+PHNwYW4gY2xhc3M9ImZhcS10b2dnbGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48c3ZnIGNsYXNzPSJmYXEtYXJyb3ciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZm9jdXNhYmxlPSJmYWxzZSI+PHBhdGggZD0iTTMgNiBMOCAxMSBMMTMgNiI+PC9wYXRoPjwvc3ZnPjwvc3Bhbj48L3N1bW1hcnk+PGRpdiBjbGFzcz0iZmFxLWFuc3dlci1zaGVsbCI+PHAgY2xhc3M9ImZhcS1hbnN3ZXIiPuCyuOCyv+CypuCzjeCyp+CyquCyoeCyv+CyuOCyv+CypiDgsq7gsr/gsrbgs43gsrDgsqPgsrXgsqjgs43gsqjgs4Eg4LKa4LKq4LON4LKq4LKf4LOG4LKv4LK+4LKmIOCyteCyoeCzhuCyr+CyvuCyleCyvuCysOCyleCzjeCyleCzhiDgsqTgsp/gs43gsp/gsr8sIOCyrOCyv+CyuOCyv+Cyr+CyvuCypiDgso7gsqPgs43gsqPgs4bgsq/gsrLgs43gsrLgsr8g4LKu4LKn4LON4LKv4LKuIOCyieCysOCyv+Cyr+CysuCzjeCysuCyvyDgso7gsrDgsqHgs4Ig4LKV4LKh4LOGIOCyl+Czi+CysuCzjeCyoeCyqOCzjSDgsqzgsqPgs43gsqMg4LKs4LKw4LOB4LK14LK14LKw4LOG4LKX4LOGIOCyl+CysOCyv+Cyl+CysOCyv+Cyr+CyvuCyl+CyvyDgspXgsrDgsr/gsq/gsqzgs4fgspXgs4EuPC9wPjwvZGl2PjwvZGV0YWlscz48ZGV0YWlscyBjbGFzcz0iZmFxLWl0ZW0iIHN0eWxlPSJwb3NpdGlvbjogcmVsYXRpdmU7Ij48c3VtbWFyeSBjbGFzcz0iZmFxLXJvdyIgZGF0YS1lZGl0LWd1YXJkPSJ0cnVlIj48ZGl2IGNsYXNzPSJmYXEtY29weSI+PGgzIGNsYXNzPSJmYXEtcXVlc3Rpb24iPuCyuOCyvuCyrOCzgeCypuCyvuCyqCDgsrXgsqHgs4bgsq/gsqjgs43gsqjgs4Eg4LKv4LK+4LK14LOB4LKm4LKwIOCynOCziuCypOCzhuCyl+CzhiDgsrjgs4fgsrXgsr/gsrjgsqzgsrngs4Hgsqbgs4E/PC9oMz48L2Rpdj48c3BhbiBjbGFzcz0iZmFxLXRvZ2dsZSIgYXJpYS1oaWRkZW49InRydWUiPjxzdmcgY2xhc3M9ImZhcS1hcnJvdyIgdmlld0JveD0iMCAwIDE2IDE2IiBmb2N1c2FibGU9ImZhbHNlIj48cGF0aCBkPSJNMyA2IEw4IDExIEwxMyA2Ij48L3BhdGg+PC9zdmc+PC9zcGFuPjwvc3VtbWFyeT48ZGl2IGNsYXNzPSJmYXEtYW5zd2VyLXNoZWxsIj48cCBjbGFzcz0iZmFxLWFuc3dlciI+4LKk4LKv4LK+4LKw4LK+4LKmIOCyl+CysOCyv+Cyl+CysOCyv+Cyr+CyvuCypiDgsrjgsr7gsqzgs4Hgsqbgsr7gsqgg4LK14LKh4LOG4LKv4LKo4LON4LKo4LOBIOCymuCyn+CzjeCyqOCyvyDgsoXgsqXgsrXgsr4g4LKu4LOK4LK44LKw4LK/4LKo4LOK4LKC4LKm4LK/4LKX4LOGIOCyuOCyteCyv+Cyr+CyrOCyueCzgeCypuCzgS48L3A+PC9kaXY+PC9kZXRhaWxzPjwvZGl2PjxzY3JpcHQ+KGZ1bmN0aW9uKCl7dmFyIHNjcmlwdD1kb2N1bWVudC5jdXJyZW50U2NyaXB0O3ZhciBsaXN0PXNjcmlwdCYmc2NyaXB0LnByZXZpb3VzRWxlbWVudFNpYmxpbmc7aWYoIWxpc3R8fGxpc3QuX19mYXFBY2NvcmRpb25Cb3VuZClyZXR1cm47bGlzdC5fX2ZhcUFjY29yZGlvbkJvdW5kPXRydWU7bGlzdC5hZGRFdmVudExpc3RlbmVyKCJ0b2dnbGUiLGZ1bmN0aW9uKGV2ZW50KXt2YXIgaXRlbT1ldmVudC50YXJnZXQ7aWYoIWl0ZW18fCFpdGVtLmNsYXNzTGlzdHx8IWl0ZW0uY2xhc3NMaXN0LmNvbnRhaW5zKCJmYXEtaXRlbSIpfHwhaXRlbS5vcGVuKXJldHVybjt2YXIgaXRlbXM9bGlzdC5xdWVyeVNlbGVjdG9yQWxsKCIuZmFxLWl0ZW1bb3Blbl0iKTtmb3IodmFyIGk9MDtpPGl0ZW1zLmxlbmd0aDtpKz0xKXtpZihpdGVtc1tpXSE9PWl0ZW0pe2l0ZW1zW2ldLm9wZW49ZmFsc2U7fX19LHRydWUpO30pKCk7PC9zY3JpcHQ+PGRpdiBjbGFzcz0iaW5mLWRpc2NsYWltZXIiPuCyjuCykCDgsqzgsrPgsrjgsr8g4LK44LKC4LK44LON4LKV4LKw4LK/4LK44LKy4LK+4LKX4LK/4LKm4LOGLiDgsqrgsr/gsrXgsr8g4LKh4LK/4LKc4LK/4LKf4LKy4LONIOCypOCyguCyoSDgsqrgsrDgsr/gsrbgs4DgsrLgsr/gsrjgsr/gsqbgs4Y8L2Rpdj48L2Rpdj48L2RldGFpbHM+PC9kaXY+",
+                  "page-url": "/story/ccd56f47-8323-408e-bcd0-76f8a8adc688/element/fb05779b-8bdd-42ad-ba21-c8222a118ed5",
+                  "type": "jsembed",
+                  "family-id": "8ab90a0e-cc47-4820-b4df-d0a00a766b8e",
+                  "title": "",
+                  "id": "fb05779b-8bdd-42ad-ba21-c8222a118ed5",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "id": "00000000-0000-0000-0000-000000000000",
+                  "description": "",
+                  "title": "",
+                  "subtype": null,
+                  "type": "text",
+                  "text": "<div><p><strong>ಪ್ರಜಾವಾಣಿ ಆ್ಯಪ್ ಇಲ್ಲಿದೆ: <a href=\"https://play.google.com/store/apps/details?id&#61;com.tpml.pv\">ಆಂಡ್ರಾಯ್ಡ್ </a>| <a href=\"https://apps.apple.com/in/app/prajavani-kannada-news-app/id1535764933\">ಐಒಎಸ್</a> | <a href=\"https://whatsapp.com/channel/0029Va94OfB1dAw2Z4q5mK40\">ವಾಟ್ಸ್ಆ್ಯಪ್</a>, <a href=\"https://www.twitter.com/prajavani\">ಎಕ್ಸ್</a>, <a href=\"https://www.fb.com/prajavani.net\">ಫೇಸ್‌ಬುಕ್</a> ಮತ್ತು <a href=\"https://www.instagram.com/prajavani\">ಇನ್‌ಸ್ಟಾಗ್ರಾಂ</a>ನಲ್ಲಿ ಪ್ರಜಾವಾಣಿ ಫಾಲೋ ಮಾಡಿ.</strong></p></div>",
+                  "metadata": {
+                    "promotional-message": true
+                  }
+                }
+              ],
+              "card-updated-at": 1792061050788,
+              "content-version-id": "80893137-7e2e-4bdd-93e7-ab9acdf1e08e",
+              "card-added-at": 1791976151738,
+              "status": "draft",
+              "id": "3005f88d-eba0-4cd6-a34e-c03b0a48721d",
+              "content-id": "3005f88d-eba0-4cd6-a34e-c03b0a48721d",
+              "version": 15,
+              "metadata": {
+                "social-share": {
+                  "shareable": false,
+                  "title": "ರೆಸಿಪಿ: ಸಂಜೆ ಟೀ, ಕಾಫಿ ಜೊತೆ ತಿನ್ನಬಹುದಾದ ಸಾಬುದಾನ ವಡೆ ಹೀಗೆ ಮಾಡಿಕೊಳ್ಳಿ",
+                  "message": null,
+                  "image": {
+                    "key": "prajavani/2026-10-14/af1jabsy/file.webp",
+                    "url": null,
+                    "attribution": null,
+                    "alt-text": null,
+                    "caption": "<div class=\"paragraphs\"><p>ಸಾಬುದಾನ ವಡೆ</p></div>",
+                    "metadata": {
+                      "width": 1920,
+                      "height": 1280,
+                      "mime-type": "image/webp",
+                      "file-size": 730672,
+                      "file-name": "file.webp",
+                      "focus-point": [
+                        867,
+                        569
+                      ]
+                    }
+                  }
+                },
+                "attributes": {}
+              }
+            }
+          ],
+          "url": "https://www.prajavani.net/health/recipe/sabudana-vada-recipe-evening-snacks-kannada-4329492",
+          "story-version-id": "276f5630-316d-476a-a0aa-6a3d041f5d98",
+          "content-type": "story",
+          "content-updated-at": 1792061062457,
+          "author-id": 2343550,
+          "owner-id": 2343550,
+          "linked-story-ids": [
+            "e19f67e7-5c87-4eb3-8abe-7193c2d5a891",
+            "c5b8326d-b18f-49d9-9881-67c2dffa01d4"
+          ],
+          "access": "login",
+          "promotional-message": "<div><p><strong>ಪ್ರಜಾವಾಣಿ ಆ್ಯಪ್ ಇಲ್ಲಿದೆ: <a href=\"https://play.google.com/store/apps/details?id&#61;com.tpml.pv\">ಆಂಡ್ರಾಯ್ಡ್ </a>| <a href=\"https://apps.apple.com/in/app/prajavani-kannada-news-app/id1535764933\">ಐಒಎಸ್</a> | <a href=\"https://whatsapp.com/channel/0029Va94OfB1dAw2Z4q5mK40\">ವಾಟ್ಸ್ಆ್ಯಪ್</a>, <a href=\"https://www.twitter.com/prajavani\">ಎಕ್ಸ್</a>, <a href=\"https://www.fb.com/prajavani.net\">ಫೇಸ್‌ಬುಕ್</a> ಮತ್ತು <a href=\"https://www.instagram.com/prajavani\">ಇನ್‌ಸ್ಟಾಗ್ರಾಂ</a>ನಲ್ಲಿ ಪ್ರಜಾವಾಣಿ ಫಾಲೋ ಮಾಡಿ.</strong></p></div>",
+          "asana-project-id": null,
+          "first-published-at": 1792053000000,
+          "hero-image-caption": "<div class=\"paragraphs\"><p>ಸಾಬುದಾನ ವಡೆ</p></div>",
+          "version": 15,
+          "story-template": "text",
+          "sequence-no": null,
+          "created-at": 1792061050773,
+          "authors": [
+            {
+              "slug": "veenashree",
+              "social": {},
+              "name": "Veenashree",
+              "contributor-role": {
+                "id": 7161,
+                "name": "Author"
+              },
+              "avatar-url": "https://cf-images.assettype.com/prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+              "bio": "ಐದು ವರ್ಷಗಳ ವೆಬ್ ಪತ್ರಿಕೋದ್ಯಮದ ಅನುಭವ. ಸಿನಿಮಾ, ಟಿವಿ, ಧಾರಾವಾಹಿ, ಲೈಫ್ ಸ್ಟೈಲ್, ಆರೋಗ್ಯ, ಅಡುಗೆ, ಫ್ಯಾಷನ್‌, ನೃತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ. ಪ್ರಸ್ತುತ ಪ್ರಜಾವಾಣಿ ಡಿಜಿಟಲ್‌ ವಿಭಾಗದಲ್ಲಿ ಉಪ ಸಂಪಾದಕಿ",
+              "id": 2343550,
+              "avatar-s3-key": "prajavani/2026-07-08/3xfwyrej/WhatsApp_Image_2026_07_08_at_4_39_39_PM.jpeg",
+              "twitter-handle": null
+            }
+          ],
+          "metadata": {
+            "card-share": {
+              "shareable": false
+            }
+          },
+          "subscription-metadata": null,
+          "publish-at": null,
+          "assignee-name": "ವೀಣಾಶ್ರೀ "
+        }
+      }
+    },
+    {
+      "path": "/api/v1/stories/2c572aeb-138f-4837-ae88-94307008a673",
+      "status": 200,
+      "data": {
+        "story": {
+          "updated-at": 1794625895068,
+          "seo": {
+            "meta-keywords": [
+              "food",
+              "food recipe"
+            ],
+            "meta-title": "Dill Leaves Recipes: ಸಬ್ಬಸಿಗೆ ಸವಿರುಚಿ: ಬಗೆ ಬಗೆ ಸಬ್ಬಸಿಗೆ ರೆಸಿಪಿಗಳು",
+            "meta-description": "Nutritious Dill Leaves: ಪೌಷ್ಟಿಕಾಂಶಯುಕ್ತ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪಿನಿಂದ ತಂಬುಳಿ, ಅಕ್ಕಿ ರೊಟ್ಟಿ, ಮಸಾಲೆ ಕಡುಬು ಮತ್ತು ದಾಲ್ ಮಾಡುವ ವಿಧಾನ ಹಾಗೂ ಈ ಸೊಪ್ಪಿನ ಆರೋಗ್ಯಕರ ಪ್ರಯೋಜನಗಳ ಮಾಹಿತಿ ಇಲ್ಲಿದೆ.",
+            "claim-reviews": {
+              "story": null
+            }
+          },
+          "assignee-id": 2284424,
+          "author-name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+          "tags": [
+            {
+              "id": 5509578,
+              "name": "food",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "food",
+              "tag-type": "Tag"
+            },
+            {
+              "id": 5523113,
+              "name": "food recipe",
+              "meta-description": null,
+              "meta-title": null,
+              "slug": "food-recipe",
+              "tag-type": "Tag"
+            }
+          ],
+          "headline": "ಸಬ್ಬಸಿಗೆ ಸವಿರುಚಿ: ಬಗೆ ಬಗೆ ಸಬ್ಬಸಿಗೆ ರೆಸಿಪಿಗಳು",
+          "storyline-id": null,
+          "votes": {},
+          "story-content-id": "2c572aeb-138f-4837-ae88-94307008a673",
+          "slug": "health/recipe/dill-leaves-healthy-recipes-kannada-4394286",
+          "last-published-at": 1794625897010,
+          "public-identifier": "4394286",
+          "subheadline": null,
+          "alternative": {},
+          "sections": [
+            {
+              "domain-slug": null,
+              "slug": "recipe",
+              "name": "ರೆಸಿಪಿ",
+              "section-url": "https://www.prajavani.net/health/recipe",
+              "id": 51545,
+              "parent-id": 51445,
+              "display-name": "ರೆಸಿಪಿ",
+              "collection": {
+                "slug": "recipe-food",
+                "name": "ರೆಸಿಪಿ (ಆಹಾರ)",
+                "id": 125821
+              },
+              "data": null
+            }
+          ],
+          "read-time": 2,
+          "access-level-value": null,
+          "content-created-at": 1794625538923,
+          "is-embargoed": false,
+          "owner-name": "Sanjay G M",
+          "custom-slug": "dill-leaves-healthy-recipes-kannada",
+          "push-notification": null,
+          "publisher-id": 4234,
+          "hero-image-metadata": {
+            "width": 945,
+            "height": 1200,
+            "mime-type": "image/jpeg",
+            "file-size": 145278,
+            "file-name": "file88a3ky9k4l5fclbrnpe.jpg",
+            "focus-point": [
+              468,
+              638
+            ]
+          },
+          "comments": null,
+          "word-count": 325,
+          "story-features": {
+            "push-notification": {
+              "is-scheduled": false,
+              "publish-at": null,
+              "linked-with-story-fields-status": {
+                "title": null,
+                "message": null
+              }
+            }
+          },
+          "entities": {},
+          "published-at": 1794625897010,
+          "embargoed-till": null,
+          "breaking-news-linked-story-id": null,
+          "storyline-title": null,
+          "summary": null,
+          "push-notification-title": null,
+          "external-id": null,
+          "canonical-url": null,
+          "hero-image-hyperlink": null,
+          "autotags": [],
+          "linked-entities": [],
+          "status": "published",
+          "hero-image-attribution": null,
+          "bullet-type": "123",
+          "hero-image-alt-text": null,
+          "id": "2c572aeb-138f-4837-ae88-94307008a673",
+          "hero-image-s3-key": "prajavani/2026-11-14/q43m9cfp/file88a3ky9k4l5fclbrnpe.jpg",
+          "contributors": null,
+          "associated-series-collection-ids": [],
+          "cards": [
+            {
+              "story-elements": [
+                {
+                  "description": "",
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/65bf7818-a2c9-4780-8981-ad76c6e6c26b",
+                  "type": "text",
+                  "family-id": "3f196f87-13a2-48db-9a75-f72feac9ca54",
+                  "title": "",
+                  "id": "65bf7818-a2c9-4780-8981-ad76c6e6c26b",
+                  "metadata": {
+                    "content": "ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು ಪೌಷ್ಟಿಕಾಂಶಗಳ ಆಗರ. ಇದರಿಂದ ಬಗೆ ಬಗೆಯ ತಿಂಡಿ–ತಿನಿಸು ಮಾಡುವ ವಿಧಾನವನ್ನು ಹರ್ಷಾ ಕಾಮತ್ ತಿಳಿಸಿಕೊಟ್ಟಿದ್ದಾರೆ‌.."
+                  },
+                  "subtype": "blurb",
+                  "text": "<blockquote>ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು ಪೌಷ್ಟಿಕಾಂಶಗಳ ಆಗರ. ಇದರಿಂದ ಬಗೆ ಬಗೆಯ ತಿಂಡಿ–ತಿನಿಸು ಮಾಡುವ ವಿಧಾನವನ್ನು ಹರ್ಷಾ ಕಾಮತ್ ತಿಳಿಸಿಕೊಟ್ಟಿದ್ದಾರೆ‌..</blockquote>"
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/b3f91fa4-90ef-4d7e-80b7-e8ad8375b874",
+                  "type": "text",
+                  "family-id": "ec221b88-af25-497f-8236-9102f442ff21",
+                  "title": "",
+                  "id": "b3f91fa4-90ef-4d7e-80b7-e8ad8375b874",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<h3>ಸಬ್ಬಸಿಗೆ ತಂಬುಳಿ</h3><p><strong>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿ:</strong> ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು ಹೆಚ್ಚಿದ್ದು ಒಂದು ಕಪ್, ಮೊಸರು ಒಂದು ಕಪ್‌, ತೆಂಗಿನಕಾಯಿ ತುರಿ ಎರಡು ಚಮಚ, ಹಸಿ ಮೆಣಸಿನಕಾಯಿ 2, ಜೀರಿಗೆ ಅರ್ಧ ಚಮಚ, ಶುಂಠಿ ಅರ್ಧ ಇಂಚು, ಉಪ್ಪು ರುಚಿಗೆ, ನೀರು ಅರ್ಧ ಕಪ್.</p><p><strong>ಮಾಡುವ ವಿಧಾನ:</strong> ಮಿಕ್ಸಿಗೆ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು, ತೆಂಗಿನಕಾಯಿ ತುರಿ, ಹಸಿ ಮೆಣಸಿನಕಾಯಿ, ಶುಂಠಿ, ಜೀರಿಗೆ, ಉಪ್ಪು ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ನುಣ್ಣಗೆ ರುಬ್ಬಿ. ಈ ಮಿಶ್ರಣವನ್ನು ಒಂದು ಬೌಲ್‌ಗೆ ಹಾಕಿ ಮೊಸರು, ಬೇಕಾದಷ್ಟು ನೀರು ಹಾಕಿ. ಒಗ್ಗರಣೆಗೆ ಸಣ್ಣ ಪಾತ್ರೆಯಲ್ಲಿ ಎಣ್ಣೆ ಬಿಸಿ ಮಾಡಿ ಸಾಸಿವೆ, ಕರಿಬೇವಿನ ಎಲೆ, ಇಂಗು ಹಾಕಿ ಒಗ್ಗರಣೆ ಮಾಡಿ ಅನ್ನದ ಜೊತೆ ಸವಿಯಿರಿ.</p>"
+                }
+              ],
+              "card-updated-at": 1794625864327,
+              "content-version-id": "b8f07f79-bd3a-45e1-9724-ee01e6c24444",
+              "card-added-at": 1794625538939,
+              "status": "draft",
+              "id": "9caf5089-9951-4a6f-99e4-3df3582c3b8d",
+              "content-id": "9caf5089-9951-4a6f-99e4-3df3582c3b8d",
+              "version": 10,
+              "metadata": {
+                "social-share": {
+                  "shareable": false,
+                  "title": "ಸಬ್ಬಸಿಗೆ ಸವಿರುಚಿ: ಬಗೆ ಬಗೆ ಸಬ್ಬಸಿಗೆ ರೆಸಿಪಿಗಳು",
+                  "message": null,
+                  "image": {
+                    "key": "prajavani/2026-11-14/q43m9cfp/file88a3ky9k4l5fclbrnpe.jpg",
+                    "url": null,
+                    "attribution": null,
+                    "alt-text": null,
+                    "caption": "<div class=\"paragraphs\"><p><strong>ಸಬ್ಬಸಿಗೆ ತಂಬುಳಿ</strong></p></div>",
+                    "metadata": {
+                      "width": 945,
+                      "height": 1200,
+                      "mime-type": "image/jpeg",
+                      "file-size": 145278,
+                      "file-name": "file88a3ky9k4l5fclbrnpe.jpg",
+                      "focus-point": [
+                        468,
+                        638
+                      ]
+                    }
+                  }
+                },
+                "attributes": {}
+              }
+            },
+            {
+              "story-elements": [
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 900,
+                    "height": 1200,
+                    "focus-point": [
+                      508,
+                      698
+                    ]
+                  },
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/84931e31-301c-4de3-b5b6-5c2e3e475e0f",
+                  "type": "image",
+                  "family-id": "83ae645a-298b-4e4c-b7b0-713a568284d1",
+                  "image-attribution": "",
+                  "title": "<div class=\"paragraphs\"><p><strong>ಸಬ್ಬಸಿಗೆ ರೊಟ್ಟಿ</strong></p></div>",
+                  "id": "84931e31-301c-4de3-b5b6-5c2e3e475e0f",
+                  "alt-text": "",
+                  "hyperlink": null,
+                  "image-s3-key": "prajavani/2026-11-14/0aswivj0/file88a3ll2sfb87ydxen8q.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/8f4c1d21-d5e6-43ec-a413-acc5a5c3b20d",
+                  "type": "text",
+                  "family-id": "4ac93be6-e8e1-46d5-9f84-1638ea923802",
+                  "title": "",
+                  "id": "8f4c1d21-d5e6-43ec-a413-acc5a5c3b20d",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<h3>ಅಕ್ಕಿ ರೊಟ್ಟಿ</h3><p><strong>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿ:</strong> ಅಕ್ಕಿ ಹಿಟ್ಟು ಒಂದು ಕಪ್, ಸಣ್ಣದಾಗಿ ಹೆಚ್ಚಿದ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು ಅರ್ಧ ಕಪ್, ಈರುಳ್ಳಿ ಒಂದು, ಸಣ್ಣದಾಗಿ ಹೆಚ್ಚಿದ ಹಸಿಮೆಣಸಿನಕಾಯಿ ಎರಡು, ಉಪ್ಪು ರುಚಿಗೆ, ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು ಸ್ವಲ್ಪ.</p><p><strong>ಮಾಡುವ ವಿಧಾನ:</strong> ಒಂದು ಬೌಲ್‌ಗೆ ಅಕ್ಕಿ ಹಿಟ್ಟು, ಉಪ್ಪು, ಹೆಚ್ಚಿದ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು, ಈರುಳ್ಳಿ, ಹಸಿಮೆಣಸಿನಕಾಯಿ, ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು ಹಾಕಿ. ನೀರನ್ನು ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಹಾಕಿ ಹಿಟ್ಟನ್ನು ಮೆದುವಾಗಿ ಕಲಸಿ. ಬಾಳೆ ಎಲೆ ಅಥವಾ ಪ್ಲಾಸ್ಟಿಕ್ ಕವರ್‌ಗೆ ಎಣ್ಣೆ ಸವರಿ ಉಂಡೆ ಮಾಡಿ ಅದನ್ನು ಕೈಯಲ್ಲಿ ತೆಳ್ಳಗೆ ಒತ್ತಿ ತವಾಕ್ಕೆ ಹಾಕಿ. ಮೇಲಿಂದ ಸ್ವಲ್ಪ ಎಣ್ಣೆ ಸುರಿದು ಎರಡೂ ಕಡೆ ಬೇಯಿಸಿ.</p>"
+                }
+              ],
+              "card-updated-at": 1794625864327,
+              "content-version-id": "ef8cfd4c-d289-4a19-b263-64a8926a82e5",
+              "card-added-at": 1794625674687,
+              "status": "draft",
+              "id": "e38f3fdb-fdbe-4b4a-a299-6493ed26a5e0",
+              "content-id": "e38f3fdb-fdbe-4b4a-a299-6493ed26a5e0",
+              "version": 6,
+              "metadata": {
+                "social-share": {
+                  "shareable": false,
+                  "title": "ಸಬ್ಬಸಿಗೆ ಸವಿರುಚಿ: ಬಗೆ ಬಗೆ ಸಬ್ಬಸಿಗೆ ರೆಸಿಪಿಗಳು",
+                  "message": null,
+                  "image": {
+                    "key": "prajavani/2026-11-14/0aswivj0/file88a3ll2sfb87ydxen8q.jpg",
+                    "url": null,
+                    "attribution": "",
+                    "caption": null,
+                    "alt-text": "",
+                    "metadata": {
+                      "width": 900,
+                      "height": 1200,
+                      "focus-point": [
+                        508,
+                        698
+                      ]
+                    }
+                  }
+                },
+                "attributes": {}
+              }
+            },
+            {
+              "story-elements": [
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1200,
+                    "height": 900,
+                    "focus-point": [
+                      602,
+                      419
+                    ]
+                  },
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/3d0dd663-7134-4b68-8fb6-b50c9ee0653a",
+                  "type": "image",
+                  "family-id": "b4afcb4d-a246-47f3-b54d-8e4b23ed00f2",
+                  "image-attribution": "",
+                  "title": "<div class=\"paragraphs\"><p><strong>ಸಬ್ಬಸಿಗೆ ಕಡುಬು</strong></p></div>",
+                  "id": "3d0dd663-7134-4b68-8fb6-b50c9ee0653a",
+                  "alt-text": "",
+                  "hyperlink": null,
+                  "image-s3-key": "prajavani/2026-11-14/hjhrbmk2/file88a3l7ky5n717yvtxq6n.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/b8a5b41b-d666-4a48-bfb3-ec0d0dbf6862",
+                  "type": "text",
+                  "family-id": "52368e1c-f887-432e-8bb5-038648ae3bb4",
+                  "title": "",
+                  "id": "b8a5b41b-d666-4a48-bfb3-ec0d0dbf6862",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<h3>ಮಸಾಲೆ ಕಡುಬು</h3><p><strong>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿ:</strong> ಮೂರು ಗಂಟೆ ನೆನೆಸಿದ ಕಡಲೆಬೇಳೆ ಒಂದು ಕಪ್, ಸಣ್ಣದಾಗಿ ಹೆಚ್ಚಿದ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು ಮುಕ್ಕಾಲು ಕಪ್, ದೊಡ್ಡ ಈರುಳ್ಳಿ ಒಂದು, ಹಸಿಮೆಣಸಿನಕಾಯಿ 3-4, ಶುಂಠಿ, ಉಪ್ಪು ರುಚಿಗೆ ತಕ್ಕಷ್ಟು.</p><p><strong>ಮಾಡುವ ವಿಧಾನ:‌</strong> ನೆನೆಸಿದ ಕಡಲೆಬೇಳೆಯ ಮಿಕ್ಸಿಗೆ ಹಾಕಿ. ಹಸಿಮೆಣಸಿನಕಾಯಿ, ಶುಂಠಿ ನೀರು ಹಾಕದೆ ತರಿತರಿಯಾಗಿ ರುಬ್ಬಿ. ಈ ಮಿಶ್ರಣಕ್ಕೆ ಹೆಚ್ಚಿದ ಈರುಳ್ಳಿ, ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು, ಉಪ್ಪು ಹಾಕಿ ಕೈಯಿಂದ ಚೆನ್ನಾಗಿ ಕಲಸಿ. ಉಂಡೆ ಮಾಡಿ ಹಬೆಯಲ್ಲಿ 15 ನಿಮಿಷ ಬೇಯಿಸಿದರೆ ಸಬ್ಬಸಿಗೆ ಕಡಬು ರೆಡಿ. ತೆಂಗಿನ ಚಟ್ನಿ, ಟೊಮೆಟೊ ಚಟ್ನಿ ಜೊತೆ ಸವಿಯಿರಿ.</p>"
+                }
+              ],
+              "card-updated-at": 1794625864327,
+              "content-version-id": "a8641dab-8fcc-48ea-8d12-259c6fd585a1",
+              "card-added-at": 1794625674687,
+              "status": "draft",
+              "id": "28050d16-dace-4364-bfff-09a04a70c187",
+              "content-id": "28050d16-dace-4364-bfff-09a04a70c187",
+              "version": 6,
+              "metadata": {
+                "social-share": {
+                  "shareable": false,
+                  "title": "ಸಬ್ಬಸಿಗೆ ಸವಿರುಚಿ: ಬಗೆ ಬಗೆ ಸಬ್ಬಸಿಗೆ ರೆಸಿಪಿಗಳು",
+                  "message": null,
+                  "image": {
+                    "key": "prajavani/2026-11-14/hjhrbmk2/file88a3l7ky5n717yvtxq6n.jpg",
+                    "url": null,
+                    "attribution": "",
+                    "caption": null,
+                    "alt-text": "",
+                    "metadata": {
+                      "width": 1200,
+                      "height": 900,
+                      "focus-point": [
+                        602,
+                        419
+                      ]
+                    }
+                  }
+                },
+                "attributes": {}
+              }
+            },
+            {
+              "story-elements": [
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1200,
+                    "height": 784,
+                    "focus-point": [
+                      578,
+                      337
+                    ]
+                  },
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/8c5f8fda-6a81-40fd-b552-04deba0d4490",
+                  "type": "image",
+                  "family-id": "06d30bd6-d08b-4849-93f7-471b0796d936",
+                  "image-attribution": "",
+                  "title": "<div class=\"paragraphs\"><p><strong>ಸಬ್ಬಸಿಗೆ ದಾಲ್</strong></p></div>",
+                  "id": "8c5f8fda-6a81-40fd-b552-04deba0d4490",
+                  "alt-text": "",
+                  "hyperlink": null,
+                  "image-s3-key": "prajavani/2026-11-14/3blpf4k6/file88a3mfyo22t1gctplpun.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/ffa00eb1-6456-45af-a3d7-d2060e56a245",
+                  "type": "text",
+                  "family-id": "5337ac36-2c52-44c9-9fb1-c40c68151f18",
+                  "title": "",
+                  "id": "ffa00eb1-6456-45af-a3d7-d2060e56a245",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<h3>ಸಬ್ಬಸಿಗೆ ದಾಲ್&nbsp;</h3><p><strong>ಬೇಕಾಗುವ ಸಾಮಗ್ರಿ:</strong>&nbsp;ತೊಗರಿ ಬೇಳೆ ಅರ್ಧ ಕಪ್,&nbsp; ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು ಒಂದು ಕಟ್ಟು, ಹೆಚ್ಚಿದ ಈರುಳ್ಳಿ ಒಂದು, ಟೊಮೆಟೊ ಒಂದು, ಹಸಿಮೆಣಸಿನಕಾಯಿ ಎರಡು, ಬೆಳ್ಳುಳ್ಳಿ 3-4 ಎಸಳು, ಅರಿಶಿನ ಕಾಲು ಚಮಚ, ಉಪ್ಪು ರುಚಿಗೆ ತಕ್ಕಷ್ಟು, ಹುಣಸೆ ರಸ ಒಂದು ಚಮಚ. ಒಗ್ಗರಣೆಗೆ ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ, ಸಾಸಿವೆ, ಜೀರಿಗೆ, ಚಿಟಿಕೆ ಇಂಗು, ಎರಡು ಒಣಮೆಣಸಿನಕಾಯಿ, ಕರಿಬೇವಿನ ಎಲೆ.</p><p><strong>ಮಾಡುವ ವಿಧಾನ:</strong> ತೊಗರಿ ಬೇಳೆಗೆ ಎರಡು ಕಪ್ ನೀರು, ಅರಿಶಿನ, ಸ್ವಲ್ಪ ಉಪ್ಪು ಹಾಕಿ ಬೇಯಿಸಿ. ಇದಕ್ಕೆ ಹೆಚ್ಚಿದ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು, ಈರುಳ್ಳಿ, ಟೊಮೆಟೊ, ಹಸಿಮೆಣಸಿನಕಾಯಿ, ಬೆಳ್ಳುಳ್ಳಿ ಹಾಕಿ ಇನ್ನೂ ಐದು ನಿಮಿಷ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಕುದಿಸಿ. ಬೇಳೆ ಚೆನ್ನಾಗಿ ಮೆತ್ತಗಾದ ಮೇಲೆ ಹುಣಸೆ ರಸ ಹಾಕಿ. ನಂತರ ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಒಗ್ಗರಣೆ ಮಾಡಿಕೊಂಡು ಬೇಯಿಸಿದ ಬೇಳೆ ಮಿಶ್ರಣಕ್ಕೆ ಹಾಕಿ.&nbsp;ಬಿಸಿ ಅನ್ನ ಜೊತೆ, ತುಪ್ಪ ಹಾಕಿ ಸವಿಯಿರಿ.</p>"
+                }
+              ],
+              "card-updated-at": 1794625864327,
+              "content-version-id": "d4db3a62-3e4e-4fa4-b67e-c8d71c9653a4",
+              "card-added-at": 1794625674687,
+              "status": "draft",
+              "id": "95a15de0-19d3-4de0-8618-f4050fbc41ac",
+              "content-id": "95a15de0-19d3-4de0-8618-f4050fbc41ac",
+              "version": 6,
+              "metadata": {
+                "social-share": {
+                  "shareable": false,
+                  "title": "ಸಬ್ಬಸಿಗೆ ಸವಿರುಚಿ: ಬಗೆ ಬಗೆ ಸಬ್ಬಸಿಗೆ ರೆಸಿಪಿಗಳು",
+                  "message": null,
+                  "image": {
+                    "key": "prajavani/2026-11-14/3blpf4k6/file88a3mfyo22t1gctplpun.jpg",
+                    "url": null,
+                    "attribution": "",
+                    "caption": null,
+                    "alt-text": "",
+                    "metadata": {
+                      "width": 1200,
+                      "height": 784,
+                      "focus-point": [
+                        578,
+                        337
+                      ]
+                    }
+                  }
+                },
+                "attributes": {}
+              }
+            },
+            {
+              "story-elements": [
+                {
+                  "description": "",
+                  "page-url": "/story/2c572aeb-138f-4837-ae88-94307008a673/element/9d3df05b-4e16-43d4-acb8-a53c6afebd16",
+                  "type": "text",
+                  "family-id": "df419606-0ed5-417f-b981-d6bc70b549c5",
+                  "title": "",
+                  "id": "9d3df05b-4e16-43d4-acb8-a53c6afebd16",
+                  "metadata": {},
+                  "subtype": null,
+                  "text": "<p>l ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು ಔಷಧೀಯ ಗುಣಗಳಿಂದ ಕೂಡಿದೆ.</p><p>l ಜೀರ್ಣಕ್ರಿಯೆಗೆ ಒಳ್ಳೆಯದು.</p><p>l ಕಬ್ಬಿಣದ ಅಂಶ ಜಾಸ್ತಿ ಇದೆ.</p><p>l ರಕ್ತಹೀನತೆ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.</p><p>l ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಮಟ್ಟವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ.</p><p>l ಮೂಳೆ, ಕೂದಲಿಗೆ ಒಳ್ಳೆಯದು.</p><p>l ನಾರಿನಂಶ ಹೆಚ್ಚು ಇದೆ.</p>"
+                },
+                {
+                  "id": "00000000-0000-0000-0000-000000000000",
+                  "description": "",
+                  "title": "",
+                  "subtype": null,
+                  "type": "text",
+                  "text": "<div><p><strong>ಪ್ರಜಾವಾಣಿ ಆ್ಯಪ್ ಇಲ್ಲಿದೆ: <a href=\"https://play.google.com/store/apps/details?id&#61;com.tpml.pv\">ಆಂಡ್ರಾಯ್ಡ್ </a>| <a href=\"https://apps.apple.com/in/app/prajavani-kannada-news-app/id1535764933\">ಐಒಎಸ್</a> | <a href=\"https://whatsapp.com/channel/0029Va94OfB1dAw2Z4q5mK40\">ವಾಟ್ಸ್ಆ್ಯಪ್</a>, <a href=\"https://www.twitter.com/prajavani\">ಎಕ್ಸ್</a>, <a href=\"https://www.fb.com/prajavani.net\">ಫೇಸ್‌ಬುಕ್</a> ಮತ್ತು <a href=\"https://www.instagram.com/prajavani\">ಇನ್‌ಸ್ಟಾಗ್ರಾಂ</a>ನಲ್ಲಿ ಪ್ರಜಾವಾಣಿ ಫಾಲೋ ಮಾಡಿ.</strong></p></div>",
+                  "metadata": {
+                    "promotional-message": true
+                  }
+                }
+              ],
+              "card-updated-at": 1794625864327,
+              "content-version-id": "1818751b-6a3b-4374-8702-7e488bc737fd",
+              "card-added-at": 1794625674687,
+              "status": "draft",
+              "id": "98175160-7020-4bd8-8c24-014988a3f16f",
+              "content-id": "98175160-7020-4bd8-8c24-014988a3f16f",
+              "version": 6,
+              "metadata": {
+                "social-share": {
+                  "shareable": false,
+                  "title": "ಸಬ್ಬಸಿಗೆ ಸವಿರುಚಿ: ಬಗೆ ಬಗೆ ಸಬ್ಬಸಿಗೆ ರೆಸಿಪಿಗಳು",
+                  "message": null,
+                  "image": {
+                    "key": "prajavani/2026-11-14/q43m9cfp/file88a3ky9k4l5fclbrnpe.jpg",
+                    "url": null,
+                    "attribution": null,
+                    "alt-text": null,
+                    "caption": "<div class=\"paragraphs\"><p><strong>ಸಬ್ಬಸಿಗೆ ತಂಬುಳಿ</strong></p></div>",
+                    "metadata": {
+                      "width": 945,
+                      "height": 1200,
+                      "mime-type": "image/jpeg",
+                      "file-size": 145278,
+                      "file-name": "file88a3ky9k4l5fclbrnpe.jpg",
+                      "focus-point": [
+                        468,
+                        638
+                      ]
+                    }
+                  }
+                },
+                "attributes": {}
+              }
+            }
+          ],
+          "url": "https://www.prajavani.net/health/recipe/dill-leaves-healthy-recipes-kannada-4394286",
+          "story-version-id": "a6f09ea4-6f39-4f03-8409-90d79bbf8016",
+          "content-type": "story",
+          "content-updated-at": 1794625897297,
+          "author-id": 1745292,
+          "owner-id": 2284424,
+          "linked-story-ids": [],
+          "access": "login",
+          "promotional-message": "<div><p><strong>ಪ್ರಜಾವಾಣಿ ಆ್ಯಪ್ ಇಲ್ಲಿದೆ: <a href=\"https://play.google.com/store/apps/details?id&#61;com.tpml.pv\">ಆಂಡ್ರಾಯ್ಡ್ </a>| <a href=\"https://apps.apple.com/in/app/prajavani-kannada-news-app/id1535764933\">ಐಒಎಸ್</a> | <a href=\"https://whatsapp.com/channel/0029Va94OfB1dAw2Z4q5mK40\">ವಾಟ್ಸ್ಆ್ಯಪ್</a>, <a href=\"https://www.twitter.com/prajavani\">ಎಕ್ಸ್</a>, <a href=\"https://www.fb.com/prajavani.net\">ಫೇಸ್‌ಬುಕ್</a> ಮತ್ತು <a href=\"https://www.instagram.com/prajavani\">ಇನ್‌ಸ್ಟಾಗ್ರಾಂ</a>ನಲ್ಲಿ ಪ್ರಜಾವಾಣಿ ಫಾಲೋ ಮಾಡಿ.</strong></p></div>",
+          "asana-project-id": null,
+          "first-published-at": 1794625897010,
+          "hero-image-caption": "<div class=\"paragraphs\"><p><strong>ಸಬ್ಬಸಿಗೆ ತಂಬುಳಿ</strong></p></div>",
+          "version": 10,
+          "story-template": "text",
+          "sequence-no": null,
+          "created-at": 1794625864307,
+          "authors": [
+            {
+              "slug": "prajavani-varthe",
+              "social": {},
+              "name": "​ಪ್ರಜಾವಾಣಿ ವಾರ್ತೆ",
+              "contributor-role": {
+                "id": 7161,
+                "name": "Author"
+              },
+              "avatar-url": "https://cf-images.assettype.com/prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+              "bio": null,
+              "id": 1745292,
+              "avatar-s3-key": "prajavani/2023-05/0d1967a7-f928-4305-b4a7-bab7e5e3b9e0/Prajavani_Transparent_Rounded.png",
+              "twitter-handle": null
+            }
+          ],
+          "metadata": {
+            "byline-no-author-page": "ಹರ್ಷಾ ಕಾಮತ್",
+            "card-share": {
+              "shareable": false
+            }
+          },
+          "subscription-metadata": null,
+          "publish-at": null,
+          "assignee-name": "Sanjay G M"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+/* Food section · DH and PV. Brand colours and logos follow Common Design/style-guide.html (DH #0091AC, PV #B82831).
+   Fonts: Bricolage Grotesque (headlines) + Inter (text), Noto Sans Kannada for Kannada glyphs on PV.
+   Images are placeholders with per-card aspect ratios (.ar-*); card rows become swipeable carousels on mobile. */
+
+:root{
+  --brand-primary:#0091ac;--brand-secondary:#00a9c7;--brand-highlight:#ee9b00;
+  --font-headline:"Bricolage Grotesque","Noto Sans Kannada",system-ui,sans-serif;
+  --font-subhead:"Inter","Noto Sans Kannada",system-ui,sans-serif;
+  --font-body:"Inter","Noto Sans Kannada",system-ui,sans-serif;
+  --head-weight:700;--sub-weight:600;--body-weight:400;
+  --ink:#1b1f21;--muted:#5f6b70;--paper:#fffaf3;--card:#fff;--line:#dde3e6;
+  --wrap:1180px;--pad:clamp(16px,4vw,40px);--gap:clamp(16px,2.4vw,28px)
+}
+.brand-pv{
+  --brand-primary:#b82831;--brand-secondary:#b82831;--brand-highlight:#f08c44
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:130px}
+[hidden]{display:none!important}
+/* Derived brand tokens live on body, next to the brand class, so each brand recomputes them from its own primary. */
+body{--accent-ink:color-mix(in srgb,var(--brand-primary) 72%,#000);--chip-bg:color-mix(in srgb,var(--brand-primary) 12%,#fff);--band:color-mix(in srgb,var(--brand-primary) 14%,#fff);--band-warm:color-mix(in srgb,var(--brand-highlight) 22%,#fff);--deep:color-mix(in srgb,var(--brand-primary) 80%,#000);
+  margin:0;background:var(--paper);color:var(--ink);font:var(--body-weight) 16px/1.6 var(--font-body);-webkit-font-smoothing:antialiased;overflow-wrap:anywhere}
+body.brand-pv{line-height:1.75}
+img{max-width:100%;height:auto;display:block}
+a{color:inherit}
+h1,h2,h3,h4,p,ul,ol,dl,dd{margin:0}
+ul,ol{padding:0}
+button{font:inherit}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 var(--pad)}
+.visually-hidden{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.skip-link{position:absolute;left:8px;top:-64px;z-index:300;background:#fff;color:var(--ink);padding:10px 16px;font-family:var(--font-subhead);font-weight:var(--sub-weight);text-decoration:none}
+.skip-link:focus{top:8px}
+a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visible{outline:3px solid var(--brand-highlight);outline-offset:3px;border-radius:2px}
+[data-food-root]:focus{outline:none}
+
+/* Header: white bar with the approved logo, then a black uppercase nav strip (Bon Appetit). */
+.top{position:sticky;top:0;z-index:100;background:#fff}
+.top-inner{max-width:var(--wrap);margin:0 auto;padding:4px var(--pad);display:flex;align-items:center;gap:0 20px;min-height:56px}
+.publisher{display:inline-flex;align-items:center;min-height:48px}
+.publisher img{height:44px;width:auto}
+.brand-pv .publisher img{height:34px}
+.section-name{font:var(--sub-weight) 15px/1 var(--font-subhead);text-transform:uppercase;padding-left:20px;border-left:1px solid var(--line);color:var(--accent-ink)}
+.brand-pv .section-name{text-transform:none;font-size:18px}
+.subnav{background:#111;border-bottom:4px solid var(--brand-primary)}
+.top-nav{display:flex;gap:2px;overflow-x:auto;max-width:var(--wrap);margin:0 auto;padding:0 calc(var(--pad) - 16px);scrollbar-width:none}
+.top-nav::-webkit-scrollbar{display:none}
+.top-nav a{display:inline-flex;align-items:center;min-height:44px;padding:0 16px;white-space:nowrap;color:#fff;text-decoration:none;font:var(--sub-weight) 13px var(--font-subhead);text-transform:uppercase;border-bottom:3px solid transparent}
+.brand-pv .top-nav a{text-transform:none;font-size:15px}
+.top-nav a:hover{border-bottom-color:var(--brand-highlight)}
+.top-nav a:focus-visible{outline-color:#fff}
+@media(max-width:700px){.section-name{display:none}}
+
+/* Masthead: slim photo bar under a dark overlay (photo set in the layout JSON), spice-toned gradient as fallback */
+.masthead{padding:clamp(16px,2.6vw,28px) 0;margin-bottom:clamp(20px,3vw,32px);color:#fff;background:linear-gradient(90deg,rgb(0 0 0/.72),rgb(0 0 0/.30)),var(--masthead-image,none) center/cover,linear-gradient(120deg,#7a1f2b,#b5541a 45%,#e9a93a);border-bottom:5px solid var(--brand-highlight)}
+.masthead h1{font:var(--head-weight) clamp(2rem,4.5vw,3rem)/1.15 var(--font-headline)}
+.brand-pv .masthead h1{line-height:1.3}
+.masthead p{margin-top:6px;max-width:52ch;color:#fff;opacity:.92;font-size:1.0625rem}
+
+/* Shared story parts */
+.tags{display:flex;flex-wrap:wrap;gap:6px 12px;margin-bottom:8px}
+.tag{font:var(--sub-weight) 11px/1.2 var(--font-subhead);text-transform:uppercase;color:var(--accent-ink)}
+.brand-pv .tag{text-transform:none;font-size:12px}
+.tag-video,.tag-premium{padding:4px 7px;border-radius:3px}
+.tag-video{background:var(--ink);color:#fff}
+.tag-premium{background:#fff;color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.headline{font:var(--head-weight) 1.25rem/1.25 var(--font-headline)}
+.brand-pv .headline{line-height:1.45}
+.headline a{text-decoration:none}
+.headline a:hover{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;text-decoration-color:var(--brand-primary)}
+.dek{margin-top:8px;color:#3f484c;font-size:.9375rem}
+.meta{margin-top:auto;padding-top:12px;display:flex;justify-content:space-between;gap:12px;font-size:13px;color:var(--muted)}
+.meta .date{margin-left:auto;white-space:nowrap}
+.caption{margin-top:10px;font-size:12px;color:var(--muted);font-style:italic}
+.art{display:block;position:relative;aspect-ratio:var(--ar,3/2);overflow:hidden;background:linear-gradient(145deg,var(--t1,#ddd),var(--t2,#bbb))}
+.art:after{content:"";position:absolute;inset:0;opacity:.32;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' fill='none' stroke='white' stroke-width='3'%3E%3Ccircle cx='32' cy='32' r='20'/%3E%3Ccircle cx='32' cy='32' r='12'/%3E%3C/svg%3E") center/28% no-repeat}
+.art img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:1}
+.art.has-img:after{display:none}
+.ar-wide{--ar:3/2}.ar-wide2{--ar:16/9}.ar-43{--ar:4/3}.ar-square{--ar:1/1}.ar-portrait{--ar:4/5}.ar-tall{--ar:2/3}
+.text-link{display:inline-flex;align-items:center;min-height:44px;font:var(--sub-weight) 15px var(--font-subhead);color:var(--accent-ink);text-decoration:underline;text-underline-offset:3px}
+.button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 20px;border-radius:999px;background:var(--brand-highlight);color:var(--ink);font:var(--sub-weight) 15px var(--font-subhead);text-decoration:none;border:0;cursor:pointer}
+.button:hover{background:color-mix(in srgb,var(--brand-highlight) 82%,#000)}
+.button-quiet{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 2px var(--ink)}
+.button-quiet:hover{background:var(--ink);color:#fff}
+
+/* Modules */
+.module{padding:clamp(24px,4vw,44px) 0;border-top:1px solid var(--line)}
+.module:first-child{border-top:0;padding-top:12px}
+/* Every second module sits on a full-width tinted band; the clip keeps the band from widening the page. */
+.module:nth-of-type(4n){--band:var(--band-warm)}
+.module:nth-of-type(even){border-top:0;background:var(--band);box-shadow:0 0 0 100vmax var(--band);clip-path:inset(0 -100vmax)}
+.module-head{margin-bottom:24px;padding-top:14px;border-top:4px solid var(--ink)}
+.module-head h2{font:var(--head-weight) clamp(2rem,5vw,3.5rem)/1.05 var(--font-headline)}
+.brand-dh .module-head h2{text-transform:uppercase;}
+.brand-pv .module-head h2{line-height:1.25}
+.module-head .intro{margin-top:8px;color:var(--muted);font-size:1.0625rem}
+
+/* Lead. Hero: a wide photo beside a light text panel, supporting stories in a row below.
+   Split: a 4:3 card beside a rail of square-thumbnail rows, used by the middle module for a different shape. */
+.lead{display:grid;gap:var(--gap)}
+.lead-main{display:flex;flex-direction:column}
+.lead-body{display:flex;flex-direction:column;flex:1;padding-top:16px}
+.lead .headline{font-size:clamp(1.65rem,3.4vw,2.5rem);line-height:1.12}
+.brand-pv .lead .headline{line-height:1.35}
+.lead .dek{font-size:1.0625rem}
+.lead-side{display:flex;flex-direction:column}
+/* Rail rows: text on the left, a square thumbnail on the right, hairline between rows. */
+.row{display:grid;grid-template-columns:minmax(0,1fr) minmax(88px,28%);grid-template-areas:"text art";gap:14px;align-items:start;padding:var(--gap) 0;border-bottom:1px solid var(--line)}
+.row:first-child{padding-top:0}
+.row:last-child{border-bottom:0;padding-bottom:0}
+.row .art{grid-area:art}
+.row-body{grid-area:text;display:flex;flex-direction:column;min-width:0}
+.lead .row .headline{font-size:1.125rem;line-height:1.25}
+.brand-pv .lead .row .headline{line-height:1.45}
+
+.lead--hero .lead-main{display:grid;grid-template-columns:minmax(0,1fr);background:var(--card);border-top:6px solid var(--brand-primary)}
+.lead--hero .lead-body{justify-content:center;padding:clamp(22px,4vw,52px)}
+.lead--hero .lead-main .headline{font-size:clamp(1.7rem,3vw,2.7rem);line-height:1.1}
+.brand-pv .lead--hero .lead-main .headline{line-height:1.3}
+.lead--hero .lead-side{gap:0}
+.lead--hero .row,.lead--hero .row:first-child{padding:16px 0 0;border:0;border-top:1px solid var(--ink);margin-bottom:var(--gap)}
+@media(min-width:641px){.lead--hero .lead-side{display:grid;grid-template-columns:1fr 1fr;column-gap:var(--gap)}}
+@media(min-width:1024px){.lead--hero .lead-main{grid-template-columns:minmax(0,1.45fr) minmax(0,1fr)}.lead--hero .lead-main .art{align-self:start}}
+@media(max-width:640px){.lead--hero .lead-main{margin:0 calc(-1*var(--pad))}}
+@media(max-width:1023px){.lead--split{grid-template-columns:1fr}.lead-side{margin-top:8px}.lead .row .headline{font-size:1rem}}
+@media(min-width:1024px){.lead--split{grid-template-columns:2fr 1fr}}
+
+/* Rails: a grid on desktop; below 1024px a swipeable scroll-snap carousel that bleeds to the screen edge. */
+.rail{display:grid;gap:var(--gap);align-items:start}
+.rail.cols-2{grid-template-columns:repeat(2,1fr)}.rail.cols-3{grid-template-columns:repeat(3,1fr)}
+.rail.cols-4{grid-template-columns:repeat(4,1fr)}.rail.cols-5{grid-template-columns:repeat(5,1fr)}
+.rail:focus-visible{outline-offset:-2px}
+@media(max-width:1023px){
+  .rail{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding:0 var(--pad);margin:0 calc(-1*var(--pad));padding:0 var(--pad) 10px;scrollbar-width:none;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
+  .rail::-webkit-scrollbar{display:none}
+  .rail>*{flex:0 0 min(72%,340px);scroll-snap-align:start}
+  .rail.pcards>*{flex-basis:min(56%,230px)}
+}
+
+/* Cards: borderless, image on top. */
+.card{display:flex;flex-direction:column}
+.card-body{padding:14px 0 0;display:flex;flex-direction:column;flex:1}
+
+/* Portrait cards (The Hindu style): full-bleed 2:3 image, text on a dark gradient at the bottom. */
+.pcard{position:relative;overflow:hidden;background:#000;color:#fff}
+.pcard-link{display:block;position:relative;color:inherit;text-decoration:none}
+.pcard-text{z-index:2;position:absolute;left:0;right:0;bottom:0;padding:72px 16px 16px;background:linear-gradient(to top,rgb(0 0 0/.86),rgb(0 0 0/.55) 55%,rgb(0 0 0/0));display:flex;flex-direction:column}
+.pcard .headline{font-size:1.15rem;line-height:1.2;color:#fff}
+.brand-pv .pcard .headline{line-height:1.4}
+.pcard .tag{color:#fff;background:var(--brand-primary);padding:4px 8px;border-radius:3px}
+.pcard .meta{color:#fff;opacity:.88;padding-top:10px}
+.pcard-link:hover .headline{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--brand-highlight)}
+.pcard-link:focus-visible{outline-offset:-4px;outline-color:#fff}
+
+/* Restaurant / experience labels on city cards */
+.tag-restaurant,.tag-experience{padding:4px 8px;border-radius:3px}
+.tag-restaurant{background:var(--brand-primary);color:#fff}
+.tag-experience{background:var(--brand-highlight);color:var(--ink)}
+
+/* City tabs: editorial underline tabs. Bold headline-font labels on a hairline; a heavy brand underline grows in under the active tab. */
+.tabs-wrap{display:grid;gap:24px}
+.tabs{display:flex;gap:clamp(20px,3vw,36px);border-bottom:2px solid var(--line);overflow-x:auto;scrollbar-width:none;max-width:100%}
+.tabs::-webkit-scrollbar{display:none}
+.tab{position:relative;flex:none;min-height:48px;padding:0 2px 6px;border:0;background:transparent;color:var(--muted);font:var(--head-weight) clamp(1.05rem,2vw,1.35rem)/1.2 var(--font-headline);cursor:pointer;white-space:nowrap;transition:color .2s}
+.brand-pv .tab{line-height:1.5}
+.tab:after{content:"";position:absolute;left:0;right:0;bottom:-2px;height:5px;background:var(--brand-primary);transform:scaleX(0);transform-origin:left;transition:transform .28s ease}
+.tab:hover{color:var(--ink)}
+.tab:hover:after{transform:scaleX(.35);background:var(--brand-highlight)}
+.tab[aria-selected="true"]{color:var(--ink)}
+.tab[aria-selected="true"]:after{transform:scaleX(1);background:var(--brand-primary)}
+.tab:focus-visible{outline:3px solid var(--brand-primary);outline-offset:2px}
+.tab-panel{display:grid;gap:12px;animation:panel-in .3s ease}
+@keyframes panel-in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media(max-width:640px){.tabs{margin:0 calc(-1*var(--pad));padding:0 var(--pad)}}
+
+/* Desktop hover effects (mouse only): photos zoom, headlines underline, portrait cards lift. */
+.art img{transition:transform .6s cubic-bezier(.2,.7,.2,1)}
+.pcard{transition:transform .3s ease,box-shadow .3s ease}
+.pcard-text{transition:padding-bottom .3s ease}
+.button,.text-link{transition:background .2s,color .2s,box-shadow .2s}
+@media(hover:hover) and (pointer:fine){
+  .card:hover .art img,.row:hover .art img,.pcard:hover .art img{transform:scale(1.07)}
+  .card:hover .headline a,.row:hover .headline a,.lead-main:hover .headline a,.more-list li:hover .headline a{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px;text-decoration-color:var(--brand-primary)}
+  .pcard:hover{transform:translateY(-6px);box-shadow:0 14px 28px rgb(0 0 0/.28)}
+  .pcard:hover .pcard-text{padding-bottom:22px}
+  .more-list li{transition:padding-left .25s ease}
+  .more-list li:hover{padding-left:10px}
+  .lead-main:hover .art img{transform:scale(1.04)}
+  .top-nav a{transition:background .2s,border-color .2s}
+  .top-nav a:hover{background:rgb(255 255 255/.1)}
+  .text-link:hover{color:var(--brand-primary);text-decoration-thickness:2px}
+  .button:hover{box-shadow:0 4px 12px rgb(0 0 0/.22)}
+}
+@media(prefers-reduced-motion:reduce){.tab,.tab:after,.tab-panel,.art img,.pcard,.pcard-text,.more-list li{transition:none;animation:none}}
+
+@media(prefers-reduced-motion:reduce){.rail{scroll-behavior:auto}}
+
+/* More list */
+.more-list{list-style:none;display:grid;gap:0}
+.more-list li{padding:14px 0;border-bottom:1px solid var(--line)}
+.more-list li:last-child{border-bottom:0}
+.more-list .meta{padding-top:6px}
+.archive{padding:32px 0 clamp(32px,5vw,64px);text-align:center;border-top:1px solid var(--line);margin-top:8px}
+.actions{display:flex;flex-wrap:wrap;align-items:center;gap:6px 20px;margin-top:16px}
+
+/* Mobile: every headline clamps to 3 lines (full text stays in the DOM for screen readers) */
+@media(max-width:767px){
+  .headline a,.pcard .headline{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;line-clamp:3;overflow:hidden}
+}
+
+/* Reserved ad positions. Empty until the publisher's ad integration is wired in. Never place inside a recipe grid. */
+.ad-slot{display:none;margin:8px auto;min-height:90px;align-items:center;justify-content:center;border:1px dashed var(--line);color:var(--muted);font-size:11px;text-transform:uppercase}
+body.show-ad-slots .ad-slot{display:flex}
+.loading,.load-error{padding:48px 0;color:var(--muted)}
+.load-error{color:#8c2314}
+.foot{border-top:1px solid var(--line);padding:20px 0 40px;color:var(--muted);font-size:13px}
+
+/* Recipe page */
+.recipe{padding-top:clamp(20px,4vw,40px);padding-bottom:64px}
+.recipe-head h1{font:var(--head-weight) clamp(2rem,5vw,3.2rem)/1.1 var(--font-headline);margin-top:8px}
+.brand-pv .recipe-head h1{line-height:1.3}
+.recipe-head .dek{font-style:italic}
+.facts{display:flex;flex-wrap:wrap;gap:4px 24px;margin-top:14px}
+.facts dt{font-size:12px;text-transform:uppercase;color:var(--muted)}
+.facts dd{font-family:var(--font-subhead);font-weight:var(--sub-weight);margin-bottom:4px}
+.draft-note{margin-top:16px;padding:10px 14px;background:#fff4d6;border-left:4px solid var(--brand-highlight);font-size:14px}
+.recipe h2{font:var(--head-weight) 1.5rem/1.2 var(--font-headline)}
+.recipe h3{font:var(--head-weight) 1.2rem/1.2 var(--font-headline);margin:20px 0 10px}
+.method{margin-top:28px}
+.method-head{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px}
+.toggle{display:flex;gap:6px;flex-wrap:wrap}
+.toggle button{min-height:44px;padding:0 16px;border:1px solid var(--ink);background:#fff;color:var(--ink);font:var(--sub-weight) 14px var(--font-subhead);cursor:pointer;border-radius:999px}
+.toggle button[aria-pressed="true"]{background:var(--ink);color:#fff}
+.toggle .print-btn{border-color:var(--line)}
+
+/* Recipe grid (Cooking for Engineers format): ingredients down the left, each operation a cell spanning the rows
+   it combines, columns running left to right in order. Scrolls sideways inside .table-wrap on narrow screens. */
+.table-wrap{overflow-x:auto;padding-bottom:4px}
+/* Separate borders (not collapsed) so the sticky ingredient column keeps its lines while scrolling. */
+table.recipe-grid{border-collapse:separate;border-spacing:0;background:var(--card);border:2px solid var(--brand-primary);min-width:100%}
+.recipe-grid th,.recipe-grid td{border:0;border-right:1px solid var(--brand-primary);border-bottom:1px solid var(--brand-primary);padding:8px 10px;vertical-align:middle;font-size:15px;line-height:1.35}
+.recipe-grid tr:last-child>*{border-bottom:0}
+.recipe-grid td:last-child{border-right:0}
+.recipe-grid .g-ingredient{text-align:left;font-weight:var(--body-weight);min-width:240px;max-width:360px;background:var(--card);position:sticky;left:0;z-index:1;box-shadow:2px 0 0 var(--brand-primary)}
+.scroll-hint{margin-top:8px;font-size:13px;color:var(--muted)}
+.recipe-grid .g-op{text-align:center;min-width:128px;max-width:200px;background:var(--chip-bg);font-family:var(--font-subhead);font-weight:var(--sub-weight);font-size:14px}
+.recipe-grid .g-empty{border-right-color:var(--line);border-bottom-color:var(--line);background:var(--card)}
+/* Recipe chooser (several recipes in one story, or every draft) */
+.picker-group{margin-top:28px}
+.picker-group h2{margin-bottom:12px}
+.recipe-picker{list-style:none;display:grid;gap:12px;grid-template-columns:1fr}
+.recipe-picker a{display:flex;flex-direction:column;gap:2px;min-height:44px;padding:14px 16px;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--brand-primary);text-decoration:none}
+.recipe-picker a:hover{border-color:var(--brand-primary)}
+.picker-title{font:var(--head-weight) 1.125rem/1.35 var(--font-headline)}
+.picker-sub{font-size:13px;color:var(--muted)}
+@media(min-width:641px){.recipe-picker{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:1024px){.recipe-picker{grid-template-columns:repeat(3,1fr)}}
+
+/* Phones: the same grid as nested boxes. Each box wraps what an operation combines; its action sits underneath. */
+.g-nested{display:none}
+.g-group{border:2px solid var(--brand-primary);background:var(--card)}
+.g-group .g-group{margin:8px 8px 0;border-width:1px}
+.g-leaf{padding:9px 12px;border-bottom:1px solid var(--line);font-size:15px;line-height:1.4}
+.g-group>.g-group+.g-leaf,.g-group>.g-group+.g-group{margin-top:8px}
+.g-action{padding:10px 12px;background:var(--chip-bg);font:var(--sub-weight) 14px/1.4 var(--font-subhead);border-top:1px solid var(--brand-primary)}
+.g-action:before{content:"↓";margin-right:8px;color:var(--accent-ink);font-weight:700}
+.g-group>.g-group:last-of-type{margin-bottom:8px}
+@media(max-width:700px){
+  .table-wrap{display:none}
+  .g-nested{display:block}
+}
+.ingredient-list{list-style:none;display:grid;gap:10px}
+.ingredient-list li{padding-bottom:10px;border-bottom:1px solid var(--line)}
+.ingredient-list li:last-child{border-bottom:0;padding-bottom:0}
+.discard{display:block;margin-top:6px;font-size:13px;font-weight:400;color:#8c2314}
+.method-list{margin:0;padding-left:1.4rem;display:grid;gap:16px}
+.method-list li::marker{font-weight:700;color:var(--accent-ink)}
+.method-action{display:block;font-family:var(--font-subhead);font-weight:var(--sub-weight)}
+.method-using{display:block;font-size:14px;color:var(--muted);margin-top:2px}
+.notes{margin-top:32px;background:var(--card);border:1px solid var(--line);padding:12px 16px}
+.notes summary{cursor:pointer;font-family:var(--font-subhead);font-weight:var(--sub-weight);min-height:44px;display:flex;align-items:center}
+.notes ul{padding-left:1.2rem;margin-top:8px;display:grid;gap:8px}
+
+@media print{
+  .top,.no-print,.skip-link,.foot{display:none!important}
+  body{background:#fff;font-size:12pt}
+  .table-wrap{overflow:visible}
+  .draft-note{border:1px solid #999;background:none}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

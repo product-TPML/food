@@ -1,0 +1,75 @@
+{
+  "brand": "PV",
+  "lang": "kn",
+  "locale": "kn-IN",
+  "status": "Editorial placement draft. Story ids are prefixes of ids in landing-shortlist.json. Kannada labels below are working text and need desk review. Eating-out and kitchen-advice modules are omitted until suitable PV stories are selected.",
+  "strings": {
+    "title": "ಸವಿರುಚಿ",
+    "descriptor": "ಪ್ರಜಾವಾಣಿಯ ರೆಸಿಪಿ ಮತ್ತು ಆಹಾರ ಬರಹಗಳು",
+    "skip": "ಬರಹಗಳಿಗೆ ಹೋಗಿ",
+    "navLabel": "ಆಹಾರ ವಿಭಾಗಗಳು",
+    "recipe": "ರೆಸಿಪಿ",
+    "video": "ವಿಡಿಯೊ",
+    "premium": "ಪ್ರೀಮಿಯಂ",
+    "by": "ಲೇಖಕರು:",
+    "stepByStep": "ಹಂತ ಹಂತದ ವಿಧಾನ",
+    "readStory": "ಬರಹ ಓದಿ",
+    "newTab": "(ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ)",
+    "allFood": "ಪ್ರಜಾವಾಣಿಯ ಎಲ್ಲ ರೆಸಿಪಿಗಳು",
+    "allFoodUrl": "https://www.prajavani.net/health/recipe",
+    "adLabel": "ಜಾಹೀರಾತು",
+    "loadError": "ಬರಹಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಪ್ರಯತ್ನಿಸಿ.",
+    "stepByStepMany": "{n} ಹಂತ ಹಂತದ ರೆಸಿಪಿಗಳು"
+  },
+  "modules": [
+    {
+      "id": "top",
+      "type": "lead",
+      "title": "ಮುಖ್ಯ ಬರಹ",
+      "hideTitle": true,
+      "stories": [
+        "2c572aeb",
+        "ead07ed7",
+        "14d99b28"
+      ],
+      "ad": "after-lead"
+    },
+    {
+      "id": "cook",
+      "type": "cards",
+      "nav": "ಮನೆಯಲ್ಲೇ ಮಾಡಿ",
+      "title": "ಮನೆಯಲ್ಲೇ ಮಾಡಿ",
+      "cols": 4,
+      "stories": [
+        "872ecd31",
+        "ccd56f47",
+        "db5d12e2",
+        "2f5700a0"
+      ],
+      "ad": "after-cook"
+    },
+    {
+      "id": "sweets",
+      "type": "split",
+      "nav": "ಹಬ್ಬದ ಸಿಹಿ",
+      "title": "ಹಬ್ಬದ ಸಿಹಿ",
+      "stories": [
+        "c3ad070a",
+        "f80d5b16",
+        "3a51e167"
+      ]
+    },
+    {
+      "id": "more",
+      "type": "cards",
+      "nav": "ಇನ್ನಷ್ಟು ರೆಸಿಪಿ",
+      "title": "ಇನ್ನಷ್ಟು ರೆಸಿಪಿ",
+      "stories": [
+        "771dec9b",
+        "906294c5",
+        "e0caf692"
+      ]
+    }
+  ],
+  "mastheadImage": "906294c5"
+}

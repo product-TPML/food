@@ -1,0 +1,494 @@
+{
+  "status": "Editorial drafts; not cooking-tested or publication approved",
+  "recipes": [
+    {
+      "id": "pv-dill-thambuli",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಸಬ್ಬಸಿಗೆ ತಂಬುಳಿ",
+      "workingEnglishTitle": "Dill leaf thambuli",
+      "sourceStoryId": "2c572aeb-138f-4837-ae88-94307008a673",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/dill-leaves-healthy-recipes-kannada-4394286",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        ["dill", "ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು ಹೆಚ್ಚಿದ್ದು: ಒಂದು ಕಪ್"],
+        ["curd", "ಮೊಸರು: ಒಂದು ಕಪ್"],
+        ["coconut", "ತೆಂಗಿನಕಾಯಿ ತುರಿ: ಎರಡು ಚಮಚ"],
+        ["chilli", "ಹಸಿ ಮೆಣಸಿನಕಾಯಿ: 2"],
+        ["cumin", "ಜೀರಿಗೆ: ಅರ್ಧ ಚಮಚ"],
+        ["ginger", "ಶುಂಠಿ: ಅರ್ಧ ಇಂಚು"],
+        ["salt", "ಉಪ್ಪು: ರುಚಿಗೆ"],
+        ["water", "ನೀರು: ಅರ್ಧ ಕಪ್ (ಪಟ್ಟಿಯಲ್ಲಿ ಒಟ್ಟು); ರುಬ್ಬಲು ವಿಧಾನದಲ್ಲಿ \"ಸ್ವಲ್ಪ ನೀರು\""],
+        ["water-add", "ನೀರು (ಮೊಸರಿನ ಮಿಶ್ರಣಕ್ಕೆ): ಬೇಕಾದಷ್ಟು"],
+        ["oil", "ಎಣ್ಣೆ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["mustard", "ಸಾಸಿವೆ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["curry-leaf", "ಕರಿಬೇವಿನ ಎಲೆ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["asafoetida", "ಇಂಗು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"]
+      ],
+      "operations": [
+        {
+          "id": "ground",
+          "inputs": ["dill", "coconut", "chilli", "ginger", "cumin", "salt", "water"],
+          "action": "ಮಿಕ್ಸಿಗೆ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು, ತೆಂಗಿನಕಾಯಿ ತುರಿ, ಹಸಿ ಮೆಣಸಿನಕಾಯಿ, ಶುಂಠಿ, ಜೀರಿಗೆ, ಉಪ್ಪು ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ನುಣ್ಣಗೆ ರುಬ್ಬಿ."
+        },
+        {
+          "id": "mixed",
+          "inputs": ["ground", "curd", "water-add"],
+          "action": "ಈ ಮಿಶ್ರಣವನ್ನು ಒಂದು ಬೌಲ್‌ಗೆ ಹಾಕಿ ಮೊಸರು, ಬೇಕಾದಷ್ಟು ನೀರು ಹಾಕಿ."
+        },
+        {
+          "id": "tempering",
+          "inputs": ["oil", "mustard", "curry-leaf", "asafoetida"],
+          "action": "ಒಗ್ಗರಣೆಗೆ ಸಣ್ಣ ಪಾತ್ರೆಯಲ್ಲಿ ಎಣ್ಣೆ ಬಿಸಿ ಮಾಡಿ ಸಾಸಿವೆ, ಕರಿಬೇವಿನ ಎಲೆ, ಇಂಗು ಹಾಕಿ ಒಗ್ಗರಣೆ ಮಾಡಿ."
+        },
+        {
+          "id": "serve",
+          "inputs": ["mixed", "tempering"],
+          "action": "ಅನ್ನದ ಜೊತೆ ಸವಿಯಿರಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Yield and total time are not stated.",
+        "Water is listed as half a cup in total, but the method says \"ಸ್ವಲ್ಪ ನೀರು\" for grinding and \"ಬೇಕಾದಷ್ಟು ನೀರು\" for the curd mixture; the split of the half cup is not given. Rows are split only by the method's own wording.",
+        "Oil, mustard, curry leaves and asafoetida appear only in the method (no quantities, not in the ingredient list).",
+        "The source does not say explicitly that the tempering is added to the thambuli; it only says to make it and serve with rice.",
+        "No quantity or time given for the tempering oil; no instruction on the final consistency of the thambuli."
+      ]
+    },
+    {
+      "id": "pv-dill-akki-rotti",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಅಕ್ಕಿ ರೊಟ್ಟಿ",
+      "workingEnglishTitle": "Dill rice-flour rotti",
+      "sourceStoryId": "2c572aeb-138f-4837-ae88-94307008a673",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/dill-leaves-healthy-recipes-kannada-4394286",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        ["rice-flour", "ಅಕ್ಕಿ ಹಿಟ್ಟು: ಒಂದು ಕಪ್"],
+        ["dill", "ಸಣ್ಣದಾಗಿ ಹೆಚ್ಚಿದ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು: ಅರ್ಧ ಕಪ್"],
+        ["onion", "ಈರುಳ್ಳಿ: ಒಂದು"],
+        ["chilli", "ಸಣ್ಣದಾಗಿ ಹೆಚ್ಚಿದ ಹಸಿಮೆಣಸಿನಕಾಯಿ: ಎರಡು"],
+        ["salt", "ಉಪ್ಪು: ರುಚಿಗೆ"],
+        ["coriander", "ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು: ಸ್ವಲ್ಪ"],
+        ["water", "ನೀರು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ (ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಹಾಕಿ); ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["leaf", "ಬಾಳೆ ಎಲೆ ಅಥವಾ ಪ್ಲಾಸ್ಟಿಕ್ ಕವರ್: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["oil-greasing", "ಎಣ್ಣೆ (ಎಲೆ/ಕವರ್‌ಗೆ ಸವರಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["oil-top", "ಎಣ್ಣೆ (ತವಾದ ಮೇಲೆ ಸುರಿಯಲು): ಸ್ವಲ್ಪ"]
+      ],
+      "operations": [
+        {
+          "id": "bowl-mix",
+          "inputs": ["rice-flour", "salt", "dill", "onion", "chilli", "coriander"],
+          "action": "ಒಂದು ಬೌಲ್‌ಗೆ ಅಕ್ಕಿ ಹಿಟ್ಟು, ಉಪ್ಪು, ಹೆಚ್ಚಿದ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು, ಈರುಳ್ಳಿ, ಹಸಿಮೆಣಸಿನಕಾಯಿ, ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು ಹಾಕಿ."
+        },
+        {
+          "id": "dough",
+          "inputs": ["bowl-mix", "water"],
+          "action": "ನೀರನ್ನು ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಹಾಕಿ ಹಿಟ್ಟನ್ನು ಮೆದುವಾಗಿ ಕಲಸಿ."
+        },
+        {
+          "id": "pressed",
+          "inputs": ["dough", "leaf", "oil-greasing"],
+          "action": "ಬಾಳೆ ಎಲೆ ಅಥವಾ ಪ್ಲಾಸ್ಟಿಕ್ ಕವರ್‌ಗೆ ಎಣ್ಣೆ ಸವರಿ ಉಂಡೆ ಮಾಡಿ ಅದನ್ನು ಕೈಯಲ್ಲಿ ತೆಳ್ಳಗೆ ಒತ್ತಿ ತವಾಕ್ಕೆ ಹಾಕಿ."
+        },
+        {
+          "id": "cooked",
+          "inputs": ["pressed", "oil-top"],
+          "action": "ಮೇಲಿಂದ ಸ್ವಲ್ಪ ಎಣ್ಣೆ ಸುರಿದು ಎರಡೂ ಕಡೆ ಬೇಯಿಸಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Yield and total time are not stated; no cooking time or heat level for the tava.",
+        "Water quantity for the dough is not given (only \"ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ\"); oil for greasing the leaf/cover has no quantity.",
+        "Onion size/preparation is not stated (chilli and dill are specified as finely chopped, onion is not); onion is listed as one without \"chopped\" but mixed into the dough.",
+        "Source does not say how many rottis the dough makes or the size of each ball.",
+        "Source gives no serving suggestion."
+      ]
+    },
+    {
+      "id": "pv-masale-kadubu",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಮಸಾಲೆ ಕಡುಬು",
+      "workingEnglishTitle": "Dill masala kadubu",
+      "sourceStoryId": "2c572aeb-138f-4837-ae88-94307008a673",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/dill-leaves-healthy-recipes-kannada-4394286",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        ["chana-dal", "ಮೂರು ಗಂಟೆ ನೆನೆಸಿದ ಕಡಲೆಬೇಳೆ: ಒಂದು ಕಪ್"],
+        ["dill", "ಸಣ್ಣದಾಗಿ ಹೆಚ್ಚಿದ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು: ಮುಕ್ಕಾಲು ಕಪ್"],
+        ["onion", "ದೊಡ್ಡ ಈರುಳ್ಳಿ: ಒಂದು"],
+        ["chilli", "ಹಸಿಮೆಣಸಿನಕಾಯಿ: 3-4"],
+        ["ginger", "ಶುಂಠಿ: ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["salt", "ಉಪ್ಪು: ರುಚಿಗೆ ತಕ್ಕಷ್ಟು"]
+      ],
+      "operations": [
+        {
+          "id": "ground",
+          "inputs": ["chana-dal", "chilli", "ginger"],
+          "action": "ನೆನೆಸಿದ ಕಡಲೆಬೇಳೆಯ ಮಿಕ್ಸಿಗೆ ಹಾಕಿ. ಹಸಿಮೆಣಸಿನಕಾಯಿ, ಶುಂಠಿ ನೀರು ಹಾಕದೆ ತರಿತರಿಯಾಗಿ ರುಬ್ಬಿ."
+        },
+        {
+          "id": "mixed",
+          "inputs": ["ground", "onion", "dill", "salt"],
+          "action": "ಈ ಮಿಶ್ರಣಕ್ಕೆ ಹೆಚ್ಚಿದ ಈರುಳ್ಳಿ, ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು, ಉಪ್ಪು ಹಾಕಿ ಕೈಯಿಂದ ಚೆನ್ನಾಗಿ ಕಲಸಿ."
+        },
+        {
+          "id": "steamed",
+          "inputs": ["mixed"],
+          "action": "ಉಂಡೆ ಮಾಡಿ ಹಬೆಯಲ್ಲಿ 15 ನಿಮಿಷ ಬೇಯಿಸಿದರೆ ಸಬ್ಬಸಿಗೆ ಕಡಬು ರೆಡಿ. ತೆಂಗಿನ ಚಟ್ನಿ, ಟೊಮೆಟೊ ಚಟ್ನಿ ಜೊತೆ ಸವಿಯಿರಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Yield is not stated; total time is not stated (only 15 minutes steaming).",
+        "Ginger quantity is not given.",
+        "Heading says ಕಡುಬು but the method says ಕಡಬು; spelling to be confirmed.",
+        "Title says ಮಸಾಲೆ but no spices/masala are listed; the only seasonings are green chilli, ginger and salt.",
+        "Source does not say whether the soaked dal is drained before grinding, or the size of the balls.",
+        "Onion is listed as a large onion without \"chopped\"; the method says chopped onion.",
+        "Coconut chutney and tomato chutney are serving suggestions only; not listed as ingredients and no recipes given."
+      ]
+    },
+    {
+      "id": "pv-dill-dal",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಸಬ್ಬಸಿಗೆ ದಾಲ್",
+      "workingEnglishTitle": "Dill dal",
+      "sourceStoryId": "2c572aeb-138f-4837-ae88-94307008a673",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/dill-leaves-healthy-recipes-kannada-4394286",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        ["toor-dal", "ತೊಗರಿ ಬೇಳೆ: ಅರ್ಧ ಕಪ್"],
+        ["dill", "ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು: ಒಂದು ಕಟ್ಟು"],
+        ["onion", "ಹೆಚ್ಚಿದ ಈರುಳ್ಳಿ: ಒಂದು"],
+        ["tomato", "ಟೊಮೆಟೊ: ಒಂದು"],
+        ["chilli", "ಹಸಿಮೆಣಸಿನಕಾಯಿ: ಎರಡು"],
+        ["garlic", "ಬೆಳ್ಳುಳ್ಳಿ: 3-4 ಎಸಳು"],
+        ["turmeric", "ಅರಿಶಿನ: ಕಾಲು ಚಮಚ"],
+        ["salt", "ಉಪ್ಪು: ರುಚಿಗೆ ತಕ್ಕಷ್ಟು (ಪಟ್ಟಿಯಲ್ಲಿ ಒಟ್ಟು); ಬೇಳೆ ಬೇಯಿಸಲು ವಿಧಾನದಲ್ಲಿ \"ಸ್ವಲ್ಪ ಉಪ್ಪು\""],
+        ["tamarind", "ಹುಣಸೆ ರಸ: ಒಂದು ಚಮಚ"],
+        ["water", "ನೀರು: ಎರಡು ಕಪ್ (ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ)"],
+        ["fat", "ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ (ಒಗ್ಗರಣೆಗೆ): ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["mustard", "ಸಾಸಿವೆ: ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["cumin", "ಜೀರಿಗೆ: ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["asafoetida", "ಇಂಗು: ಚಿಟಿಕೆ"],
+        ["dry-chilli", "ಒಣಮೆಣಸಿನಕಾಯಿ: ಎರಡು"],
+        ["curry-leaf", "ಕರಿಬೇವಿನ ಎಲೆ: ಪ್ರಮಾಣವಿಲ್ಲ"]
+      ],
+      "operations": [
+        {
+          "id": "boiled-dal",
+          "inputs": ["toor-dal", "water", "turmeric", "salt"],
+          "action": "ತೊಗರಿ ಬೇಳೆಗೆ ಎರಡು ಕಪ್ ನೀರು, ಅರಿಶಿನ, ಸ್ವಲ್ಪ ಉಪ್ಪು ಹಾಕಿ ಬೇಯಿಸಿ."
+        },
+        {
+          "id": "with-veg",
+          "inputs": ["boiled-dal", "dill", "onion", "tomato", "chilli", "garlic"],
+          "action": "ಇದಕ್ಕೆ ಹೆಚ್ಚಿದ ಸಬ್ಬಸಿಗೆ ಸೊಪ್ಪು, ಈರುಳ್ಳಿ, ಟೊಮೆಟೊ, ಹಸಿಮೆಣಸಿನಕಾಯಿ, ಬೆಳ್ಳುಳ್ಳಿ ಹಾಕಿ ಇನ್ನೂ ಐದು ನಿಮಿಷ ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಕುದಿಸಿ."
+        },
+        {
+          "id": "with-tamarind",
+          "inputs": ["with-veg", "tamarind"],
+          "action": "ಬೇಳೆ ಚೆನ್ನಾಗಿ ಮೆತ್ತಗಾದ ಮೇಲೆ ಹುಣಸೆ ರಸ ಹಾಕಿ."
+        },
+        {
+          "id": "tempering",
+          "inputs": ["fat", "mustard", "cumin", "asafoetida", "dry-chilli", "curry-leaf"],
+          "action": "ನಂತರ ಒಂದು ಪಾತ್ರೆಯಲ್ಲಿ ಒಗ್ಗರಣೆ ಮಾಡಿಕೊಂಡು."
+        },
+        {
+          "id": "serve",
+          "inputs": ["with-tamarind", "tempering"],
+          "action": "ಬೇಯಿಸಿದ ಬೇಳೆ ಮಿಶ್ರಣಕ್ಕೆ ಹಾಕಿ. ಬಿಸಿ ಅನ್ನ ಜೊತೆ, ತುಪ್ಪ ಹಾಕಿ ಸವಿಯಿರಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Yield and total time are not stated; the initial cooking time and method for the dal (pot, cooker, heat) are not given.",
+        "Salt: list says ರುಚಿಗೆ ತಕ್ಕಷ್ಟು, method says \"ಸ್ವಲ್ಪ ಉಪ್ಪು\" at the first step and no later salting step; assigned to the first use only.",
+        "Ghee: listed only as \"ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ\" for tempering; the method also says to serve with ghee (no quantity). Not split as no portion is quoted.",
+        "No quantities for mustard, cumin, curry leaves or the tempering fat; the tempering steps (order, heating) are not described beyond \"ಒಗ್ಗರಣೆ ಮಾಡಿಕೊಂಡು\".",
+        "Dill is listed as \"ಒಂದು ಕಟ್ಟು\" (a bunch) with no size; tomato and green chilli have no size/preparation noted.",
+        "Hot rice is a serving suggestion only and is not listed as an ingredient."
+      ]
+    },
+    {
+      "id": "pv-rajasthani-khaja",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ರಾಜಸ್ಥಾನಿ ಕಜಾ",
+      "workingEnglishTitle": "Rajasthani khaja",
+      "sourceStoryId": "c3ad070a-382c-4fe6-b413-8bfbc559ff3c",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-sweets-and-snacks-recipes-4381329",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        ["maida", "ಮೈದಾ ಹಿಟ್ಟು: ಒಂದು ಬಟ್ಟಲು"],
+        ["salt", "ಉಪ್ಪು: ಚಿಟಿಕೆ"],
+        ["ghee-dough", "ತುಪ್ಪ (ಹಿಟ್ಟಿಗೆ): ಎರಡು ಚಮಚ"],
+        ["ghee-sheets", "ತುಪ್ಪ: ಒಂದು ಬಟ್ಟಲು (ಪಟ್ಟಿಯಲ್ಲಿ ಒಟ್ಟು)"],
+        ["sugar", "ಸಕ್ಕರೆ: ಒಂದು ಬಟ್ಟಲು"],
+        ["water-dough", "ನೀರು: ಒಂದು ಬಟ್ಟಲು (ಪಟ್ಟಿಯಲ್ಲಿ ಒಟ್ಟು)"],
+        ["water-syrup", "ನೀರು (ಸಕ್ಕರೆ ಪಾಕಕ್ಕೆ): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["water-seal", "ನೀರು (ತುದಿ ಅಂಟಿಸಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["lemon", "ನಿಂಬೆರಸ: ಎರಡು ಚಮಚ"],
+        ["cornflour", "ಕಾರ್ನ್‌ಫ್ಲೋರ್: ಎರಡು ಚಮಚ"],
+        ["oil", "ಎಣ್ಣೆ: ಪ್ರಮಾಣವಿಲ್ಲ"]
+      ],
+      "operations": [
+        {
+          "id": "dough",
+          "inputs": ["maida", "ghee-dough", "salt", "water-dough"],
+          "action": "ಮೈದಾಹಿಟ್ಟು, ಎರಡು ಚಮಚ ತುಪ್ಪ, ಉಪ್ಪು ಹಾಕಿ ಚೆನ್ನಾಗಿ ಬೆರೆಸಿ ನೀರು ಹಾಕಿ ಗಟ್ಟಿಯಾಗಿ ಹಿಟ್ಟನ್ನು ಕಲಸಿ ಹತ್ತು ನಿಮಿಷ ನೆನೆಯಲು ಬಿಡಿ."
+        },
+        {
+          "id": "syrup",
+          "inputs": ["sugar", "water-syrup"],
+          "action": "ಸಕ್ಕರೆಗೆ ನೀರು ಹಾಕಿ ಕುದಿಸಿ ಕೆಳಗಿಳಿಸಿ"
+        },
+        {
+          "id": "lemon-syrup",
+          "inputs": ["syrup", "lemon"],
+          "action": "ನಿಂಬೆ ರಸ ಹಾಕಿ ಇಟ್ಟುಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "rolled",
+          "inputs": ["dough"],
+          "action": "ಹಿಟ್ಟನ್ನು ಐದು ಉಂಡೆಗಳನ್ನಾಗಿ ಮಾಡಿ ತೆಳುವಾಗಿ ಲಟ್ಟಿಸಿ."
+        },
+        {
+          "id": "brushed",
+          "inputs": ["rolled", "ghee-sheets", "cornflour"],
+          "action": "ತುಪ್ಪ ಕರಗಿಸಿಕೊಂಡು ಒಂದು ಹಾಳೆಯ ಮೇಲೆ ತೆಳುವಾಗಿ ಸವರಿ ಮೇಲೆ ತೆಳುವಾಗಿ ಕಾರ್ನ್‌ಫ್ಲೋರ್ ಉದುರಿಸಿ."
+        },
+        {
+          "id": "roll-up",
+          "inputs": ["brushed", "water-seal"],
+          "action": "ಐದು ಹಾಳೆಗಳನ್ನೂ ಒಂದರ ಮೇಲೆ ಒಂದರಂತೆ ಇಟ್ಟು ಹಗುರವಾಗಿ ಸುರುಳಿ ಸುತ್ತಿ ತುದಿಗೆ ನೀರು ಸವರಿ ಅಂಟಿಸಿ."
+        },
+        {
+          "id": "cut",
+          "inputs": ["roll-up"],
+          "action": "ಚಾಕುವಿನಿಂದ ಒಂದು ಸೆಂಟಿಮೀಟರ್‌ನಷ್ಟು ಕತ್ತರಿಸಿ"
+        },
+        {
+          "id": "fried",
+          "inputs": ["cut", "oil"],
+          "action": "ಕಾದ ಎಣ್ಣೆಯಲ್ಲಿ ಹೊಂಬಣ್ಣ ಬರುವವರೆಗೂ ಕರಿಯಿರಿ."
+        },
+        {
+          "id": "dipped",
+          "inputs": ["fried", "lemon-syrup"],
+          "action": "ಆರಿದ ನಂತರ ಸಕ್ಕರೆ ಪಾಕದಲ್ಲಿ ಅದ್ದಿ ತೆಗೆಯಿರಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Yield and total time are not stated; syrup boiling time and consistency are not given.",
+        "Ghee: list says one bowl total; method quotes 2 spoons for the dough. The remainder is not computed; the one-bowl row is attached to melting/brushing the sheets, and whether the full bowl is used there is unconfirmed.",
+        "Water: list says one bowl, but the method uses water for both the dough and the sugar syrup without quoting portions. The listed bowl is assigned to the dough; the syrup water is a separate method-only row with no quantity. Water for sealing the roll edge is also method-only.",
+        "Cornflour: 2 spoons listed; the method only says to sprinkle thinly on each sheet; split across five sheets is not stated.",
+        "Method says to make five balls and roll thin, then brush \"ಒಂದು ಹಾಳೆ\" and stack five sheets; the stacking order relative to brushing each sheet is slightly ambiguous.",
+        "Oil for frying is listed with no quantity; the number of pieces made is not stated.",
+        "The source says to dip in syrup after the pieces cool; the syrup is kept aside from the heat but its temperature when dipping is not specified.",
+        "Source ends with dipping; no serving suggestion given."
+      ]
+    },
+    {
+      "id": "pv-dry-fruits-karjikayi",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಡ್ರೈಫ್ರೂಟ್ಸ್ ಕರ್ಜಿಕಾಯಿ",
+      "workingEnglishTitle": "Dry-fruit karjikayi",
+      "sourceStoryId": "c3ad070a-382c-4fe6-b413-8bfbc559ff3c",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-sweets-and-snacks-recipes-4381329",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        ["maida", "ಮೈದಾ: ಒಂದು ಬಟ್ಟಲು"],
+        ["rava", "ಸಣ್ಣ ರವೆ: ಕಾಲು ಬಟ್ಟಲು"],
+        ["ghee", "ತುಪ್ಪ: ಎರಡು ಚಮಚ"],
+        ["milk", "ಹಾಲು: ಕಾಲು ಬಟ್ಟಲು"],
+        ["salt", "ಉಪ್ಪು: ಚಿಟಿಕೆ"],
+        ["copra", "ಕೊಬ್ಬರಿ ತುರಿ: ಒಂದು ಬಟ್ಟಲು"],
+        ["jaggery", "ಬೆಲ್ಲದ ಪುಡಿ: ಮುಕ್ಕಾಲು ಬಟ್ಟಲು"],
+        ["dates", "ಸಣ್ಣಗೆ ತುಂಡು ಮಾಡಿದ ಖರ್ಜೂರ: ಮುಕ್ಕಾಲು ಬಟ್ಟಲು"],
+        ["raisins", "ಒಣದ್ರಾಕ್ಷಿ: ಮೂರು ಚಮಚ"],
+        ["seeds-nuts", "ಕುಂಬಳ ಬೀಜ, ಕಲ್ಲಂಗಡಿ ಬೀಜ ಕರಬೂಜ ಬೀಜ, ಬಾದಾಮಿ, ಗೋಡಂಬಿ, ಪಿಸ್ತಾ: ಒಂದು ಬಟ್ಟಲು"],
+        ["sesame", "ಬಿಳಿ ಎಳ್ಳು: ಎರಡು ಚಮಚ"],
+        ["poppy", "ಗಸಗಸೆ: ಎರಡು ಚಮಚ"],
+        ["cardamom", "ಏಲಕ್ಕಿ: ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["water-seal", "ನೀರು (ಅಂಟಿಸಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["oil", "ಕರಿಯಲು ಎಣ್ಣೆ: ಪ್ರಮಾಣವಿಲ್ಲ"]
+      ],
+      "operations": [
+        {
+          "id": "dough",
+          "inputs": ["maida", "rava", "ghee", "salt", "milk"],
+          "action": "ಮೈದಾ, ರವೆ, ತುಪ್ಪ, ಉಪ್ಪು ಸೇರಿಸಿ ಹಾಲು ಹಾಕಿ ಮೆದುವಾಗಿ ಹಿಟ್ಟನ್ನು ಕಲಸಿ ಇಡಿ."
+        },
+        {
+          "id": "crushed",
+          "inputs": ["seeds-nuts", "sesame", "poppy"],
+          "action": "ದ್ರಾಕ್ಷಿ, ಖರ್ಜೂರ ಬಿಟ್ಟು ಉಳಿದ ಒಣ ಹಣ್ಣುಗಳನ್ನು ಸ್ವಲ್ಪ ಬಿಸಿ ಮಾಡಿ ಆರಿದ ನಂತರ ತರಿ ತರಿಯಾಗಿ ಪುಡಿ ಮಾಡಿ."
+        },
+        {
+          "id": "filling",
+          "inputs": ["crushed", "copra", "jaggery", "dates", "raisins", "cardamom"],
+          "action": "ಇದಕ್ಕೆ ಕೊಬ್ಬರಿ, ಬೆಲ್ಲದ ಪುಡಿ, ಖರ್ಜೂರ, ದ್ರಾಕ್ಷಿ, ಏಲಕ್ಕಿ ಪುಡಿ ಸೇರಿಸಿ ಹೂರಣ ತಯಾರಿಸಿ."
+        },
+        {
+          "id": "rolled",
+          "inputs": ["dough"],
+          "action": "ಮೈದಾ ಹಿಟ್ಟನ್ನು ಚೆನ್ನಾಗಿ ನಾದಿ ಸಣ್ಣ ಸಣ್ಣ ಉಂಡೆಗಳನ್ನು ಮಾಡಿ ತೆಳುವಾಗಿ ಲಟ್ಟಿಸಿ."
+        },
+        {
+          "id": "filled",
+          "inputs": ["rolled", "filling", "water-seal"],
+          "action": "ಇದನ್ನು ಕರ್ಜಿಕಾಯಿ ಮಾಡುವ ಅಚ್ಚಿನಲ್ಲಿ ಹಾಕಿ ಎರಡು ಚಮಚ ಹೂರಣವನ್ನೂ ಸೇರಿಸಿ ಸುತ್ತಲೂ ನೀರು ಸವರಿ ಅಂಟಿಸಿ."
+        },
+        {
+          "id": "fried",
+          "inputs": ["filled", "oil"],
+          "action": "ಈಗ ಅಚ್ಚಿನಿಂದ ತೆಗೆದು ಕಾದ ಎಣ್ಣೆಯಲ್ಲಿ ಹೊಂಬಣ್ಣ ಬರುವವರೆಗೆ ಕರಿಯಿರಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Yield and total time are not stated; the dough resting time is not given.",
+        "The seeds and nuts row (pumpkin, watermelon, muskmelon seeds, almond, cashew, pistachio) is given as a single \"ಒಂದು ಬಟ್ಟಲು\" in the source; unclear whether this is the total of all or each.",
+        "White sesame and poppy seeds are listed but never mentioned in the method; placed in the crushing step as an assumption, to be confirmed (they may be intended for the filling whole, or the \"ಉಳಿದ ಒಣ ಹಣ್ಣುಗಳು\" may not include them).",
+        "Heating of the dry fruits: no heat level or duration given (\"ಸ್ವಲ್ಪ ಬಿಸಿ ಮಾಡಿ\").",
+        "Cardamom has no quantity in the list; the method says ಏಲಕ್ಕಿ ಪುಡಿ.",
+        "Dates are listed as finely chopped; the method does not mention preparing them again. Raisins are mentioned as ದ್ರಾಕ್ಷಿ in the method.",
+        "Dough is described as ಮೆದುವಾಗಿ, with no resting time before kneading again (\"ಚೆನ್ನಾಗಿ ನಾದಿ\"); ball size is only \"ಸಣ್ಣ ಸಣ್ಣ\".",
+        "Method uses 2 spoons of filling per karjikayi; whether the filling quantity made matches the dough amount is not stated. Number of pieces is not given.",
+        "Water for sealing and frying oil have no quantities; no serving suggestion given."
+      ]
+    },
+    {
+      "id": "pv-beetroot-barfi",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಬೀಟ್ರೂಟ್ ಬರ್ಫಿ",
+      "workingEnglishTitle": "Beetroot barfi",
+      "sourceStoryId": "c3ad070a-382c-4fe6-b413-8bfbc559ff3c",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-sweets-and-snacks-recipes-4381329",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        ["beetroot", "ಬೀಟ್ರೂಟ್ ತುರಿ: ಒಂದು ಬಟ್ಟಲು"],
+        ["coconut", "ತೆಂಗಿನ ತುರಿ: ಒಂದು ಬಟ್ಟಲು"],
+        ["water", "ನೀರು (ರುಬ್ಬಲು): ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["cornflour", "ಕಾರ್ನ್‌ಫ್ಲೋರ್: ನಾಲ್ಕು ಚಮಚ"],
+        ["sugar", "ಸಕ್ಕರೆ: ಒಂದು ಬಟ್ಟಲು"],
+        ["ghee-mix", "ತುಪ್ಪ (ಬೆರೆಸಲು): ಒಂದು ಚಮಚ"],
+        ["ghee-tray", "ತುಪ್ಪ: ಎರಡು ಚಮಚ (ಪಟ್ಟಿಯಲ್ಲಿ ಒಟ್ಟು); ತಟ್ಟೆಗೆ ಸವರಲು ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ"]
+      ],
+      "operations": [
+        {
+          "id": "juice",
+          "inputs": ["beetroot", "coconut", "water"],
+          "action": "ಬೀಟ್ರೂಟ್ ತುರಿ ಮತ್ತು ತೆಂಗಿನ ತುರಿ ನೀರು ಸೇರಿಸಿ ರುಬ್ಬಿ ನಾಲ್ಕು ಬಟ್ಟಲು ರಸ ಮಾಡಿಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "boiling",
+          "inputs": ["juice", "sugar"],
+          "action": "ಮೂರು ಬಟ್ಟಲು ರಸವನ್ನು ಸಕ್ಕರೆ ಸೇರಿಸಿ ಪ್ಯಾನ್‌ಗೆ ಹಾಕಿ ಕುದಿಯಲು ಒಲೆಯ ಮೇಲೆ ಇಡಿ."
+        },
+        {
+          "id": "slurry",
+          "inputs": ["cornflour"],
+          "action": "ಒಂದು ಬಟ್ಟಲು ರಸಕ್ಕೆ ಕಾರ್ನ್‌ಫ್ಲೋರ್ ಹಾಕಿ ಗಂಟಿಲ್ಲದಂತೆ ಕಲಸಿ ಇಟ್ಟು ಕೊಳ್ಳಿ."
+        },
+        {
+          "id": "thickened",
+          "inputs": ["boiling", "slurry"],
+          "action": "ಚೆನ್ನಾಗಿ ಕುದಿ ಬಂದ ನಂತರ ಕಾರ್ನ್‌ಫ್ಲೋರ್ ಬೆರೆಸಿದ ರಸವನ್ನು ಹಾಕಿ ತಳ ಹಿಡಿಯದಂತೆ ಕೈಯಾಡಿಸುತ್ತಾ ಇರಿ."
+        },
+        {
+          "id": "with-ghee",
+          "inputs": ["thickened", "ghee-mix"],
+          "action": "ಹತ್ತು ನಿಮಿಷಕ್ಕೆ ಗಟ್ಟಿಯಾಗಿ ತಳ ಬಿಡುತ್ತಾ ಬಂದಾಗ ಒಂದು ಚಮಚ ತುಪ್ಪ ಹಾಕಿ ಚೆನ್ನಾಗಿ ಬೆರೆಸಿ"
+        },
+        {
+          "id": "set",
+          "inputs": ["with-ghee", "ghee-tray"],
+          "action": "ತುಪ್ಪ ಸವರಿದ ತಟ್ಟೆಗೆ ಹಾಕಿ ಆರಿದ ನಂತರ ಕತ್ತರಿಸಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Yield and total time are not stated.",
+        "Ghee: list says 2 spoons total; the method quotes 1 spoon for stirring in and an unquoted amount for greasing the plate. The remainder is not computed; the total row is attached to the greasing step.",
+        "Water for grinding has no quantity (source only says the juice should total four bowls).",
+        "The juice is split in the method (three bowls with sugar, one bowl for the cornflour slurry), which the tree notation cannot show; the slurry operation therefore has only cornflour as an input and its one bowl of juice comes from the juice step.",
+        "Whether the juice is strained after grinding is not stated.",
+        "The \"ten minutes\" refers to the time after adding the slurry; heat level is not given."
+      ]
+    },
+    {
+      "id": "pv-rava-chakkuli",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ರವೆ ಚಕ್ಕುಲಿ",
+      "workingEnglishTitle": "Rava chakkuli",
+      "sourceStoryId": "c3ad070a-382c-4fe6-b413-8bfbc559ff3c",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-sweets-and-snacks-recipes-4381329",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        ["rava", "ಚಿರೋಟಿ ರವೆ: ಒಂದು ಬಟ್ಟಲು"],
+        ["water", "ನೀರು: ಎರಡು ಬಟ್ಟಲು (ಪಟ್ಟಿಯಲ್ಲಿ ಒಟ್ಟು)"],
+        ["water-knead", "ನೀರು (ಹಿಟ್ಟು ಕಲಸಲು): ಸ್ವಲ್ಪ"],
+        ["rice-flour", "ಅಕ್ಕಿಹಿಟ್ಟು: ಎರಡು ಬಟ್ಟಲು"],
+        ["ghee", "ತುಪ್ಪ: ಎರಡು ಚಮಚ"],
+        ["cumin", "ಜೀರಿಗೆ: ಒಂದು ಚಮಚ"],
+        ["sesame", "ಎಳ್ಳು: ಎರಡು ಚಮಚ"],
+        ["asafoetida", "ಇಂಗು: ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["salt", "ಉಪ್ಪು: ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["chilli-powder", "ಖಾರದ ಪುಡಿ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"],
+        ["oil", "ಎಣ್ಣೆ: ಪ್ರಮಾಣವಿಲ್ಲ"]
+      ],
+      "operations": [
+        {
+          "id": "boiling-water",
+          "inputs": ["water"],
+          "action": "ಬಾಣಲೆಗೆ ನೀರು ಹಾಕಿ ಕುದಿಯಲು ಇಡಿ."
+        },
+        {
+          "id": "cooked-rava",
+          "inputs": ["boiling-water", "rava", "ghee"],
+          "action": "ನಂತರ ರವೆ ಹಾಕಿ ಗಂಟಿಲ್ಲದಂತೆ ಬೇಯಿಸಿ ತುಪ್ಪ ಹಾಕಿ ಆರಲು ಬಿಡಿ."
+        },
+        {
+          "id": "dry-mix",
+          "inputs": ["rice-flour", "chilli-powder", "cumin", "sesame", "salt", "asafoetida"],
+          "action": "ಒಂದು ಪಾತ್ರೆಗೆ ಅಕ್ಕಿ ಹಿಟ್ಟು, ಖಾರದ ಪುಡಿ, ಜೀರಿಗೆ, ಎಳ್ಳು, ಉಪ್ಪು ಹಾಕಿ ಚೆನ್ನಾಗಿ ಬೆರೆಸಿ."
+        },
+        {
+          "id": "dough",
+          "inputs": ["dry-mix", "cooked-rava", "water-knead"],
+          "action": "ಇದರ ಜೊತೆಗೆ ಬೇಯಿಸಿದ ರವೆ ಹಾಕಿ ಸ್ವಲ್ಪ ನೀರು ಹಾಕಿ ಕೊಂಡು ಚಪಾತಿ ಹಿಟ್ಟಿನ ಹದಕ್ಕೆ ಕಲಸಿ."
+        },
+        {
+          "id": "fried",
+          "inputs": ["dough", "oil"],
+          "action": "ಚಕ್ಕುಲಿ ಒರಳಿಗೆ ಹಾಕಿ ಚಕ್ಕುಲಿ ಒತ್ತಿ ಕಾದ ಎಣ್ಣೆಯಲ್ಲಿ ಕರಿಯಿರಿ."
+        }
+      ],
+      "editorialQuestions": [
+        "Yield and total time are not stated; cooking time for the rava is not given.",
+        "Asafoetida is listed (no quantity) but never mentioned in the method; placed in the dry mix as an assumption, to be confirmed.",
+        "Chilli powder (ಖಾರದ ಪುಡಿ) appears in the method but not in the ingredient list; no quantity.",
+        "Salt has no quantity in the list; oil has no quantity.",
+        "Water: list says 2 bowls (boiling the rava); the method separately says \"ಸ್ವಲ್ಪ ನೀರು\" for kneading, so a separate row is used without computing a remainder.",
+        "Ghee: 2 spoons listed once; the method uses it once (in the cooked rava). No other use stated.",
+        "Source calls the rava ಚಿರೋಟಿ ರವೆ in the list and ರವೆ in the method; assumed the same ingredient.",
+        "Source does not describe the chakkuli press plate or the number of chakkuli; no serving suggestion given."
+      ]
+    }
+  ]
+}

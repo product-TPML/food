@@ -1,0 +1,791 @@
+{
+ "note": "PLACEHOLDER content for layout review. Same stories on DH and PV; Kannada text is working copy for desk review. Not editorial content. Photos are borrowed from the publisher shortlist (rights unchecked); replace with approved images.",
+ "tones": [
+  [
+   "#e9a93a",
+   "#b5541a"
+  ],
+  [
+   "#7fa650",
+   "#3d6b3a"
+  ],
+  [
+   "#d9534f",
+   "#7a1f2b"
+  ],
+  [
+   "#f2c46d",
+   "#c9822b"
+  ],
+  [
+   "#8e6bbf",
+   "#4a2f7a"
+  ],
+  [
+   "#4fa3b8",
+   "#1d5f73"
+  ],
+  [
+   "#c98f6b",
+   "#6b3f2a"
+  ],
+  [
+   "#e8b4a0",
+   "#b5541a"
+  ]
+ ],
+ "strings": {
+  "en": {
+   "title": "Food",
+   "descriptor": "Recipes, regional kitchens, eating out and the stories behind what we eat.",
+   "navLabel": "Food sections",
+   "by": "By",
+   "adLabel": "Advertisement",
+   "loadError": "Stories could not be loaded. Please try again later.",
+   "seeAll": "See all in {city}",
+   "kinds": {
+    "restaurant": "Restaurant",
+    "experience": "Experience"
+   }
+  },
+  "kn": {
+   "title": "ಸವಿರುಚಿ",
+   "descriptor": "ಪ್ರಜಾವಾಣಿಯ ರೆಸಿಪಿ ಮತ್ತು ಆಹಾರ ಬರಹಗಳು",
+   "navLabel": "ಆಹಾರ ವಿಭಾಗಗಳು",
+   "by": "ಲೇಖಕರು:",
+   "adLabel": "ಜಾಹೀರಾತು",
+   "loadError": "ಬರಹಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಪ್ರಯತ್ನಿಸಿ.",
+   "seeAll": "{city}ಯ ಎಲ್ಲವನ್ನೂ ನೋಡಿ",
+   "kinds": {
+    "restaurant": "ರೆಸ್ಟೋರೆಂಟ್",
+    "experience": "ಅನುಭವ"
+   }
+  }
+ },
+ "modules": [
+  {
+   "id": "top",
+   "type": "lead",
+   "title": {
+    "en": "Top story",
+    "kn": "ಮುಖ್ಯ ಬರಹ"
+   },
+   "hideTitle": true,
+   "stories": [
+    "h1",
+    "h2",
+    "h3"
+   ],
+   "ad": "after-lead"
+  },
+  {
+   "id": "cook",
+   "type": "portrait",
+   "nav": {
+    "en": "Cook",
+    "kn": "ಮನೆಯಲ್ಲೇ ಮಾಡಿ"
+   },
+   "title": {
+    "en": "Cook something",
+    "kn": "ಮನೆಯಲ್ಲೇ ಮಾಡಿ"
+   },
+   "intro": {
+    "en": "Recipes worth the effort, from quick weeknights to festival feasts.",
+    "kn": "ವಾರದ ದಿನದ ಅಡುಗೆಯಿಂದ ಹಬ್ಬದ ಔತಣದವರೆಗೆ, ಪ್ರಯತ್ನಕ್ಕೆ ತಕ್ಕ ರೆಸಿಪಿಗಳು."
+   },
+   "stories": [
+    "c1",
+    "c2",
+    "c3",
+    "c4",
+    "c5"
+   ],
+   "ad": "after-cook"
+  },
+  {
+   "id": "regional",
+   "type": "split",
+   "nav": {
+    "en": "Regional tables",
+    "kn": "ಪ್ರಾದೇಶಿಕ ಊಟ"
+   },
+   "title": {
+    "en": "Regional tables",
+    "kn": "ಪ್ರಾದೇಶಿಕ ಊಟ"
+   },
+   "intro": {
+    "en": "Sweets, grains and heritage from across the country.",
+    "kn": "ದೇಶದ ಮೂಲೆಮೂಲೆಯ ಸಿಹಿ, ಧಾನ್ಯ ಮತ್ತು ಪರಂಪರೆ."
+   },
+   "stories": [
+    "r1",
+    "r2",
+    "r3"
+   ]
+  },
+  {
+   "id": "cities",
+   "type": "tabs",
+   "nav": {
+    "en": "Cities",
+    "kn": "ನಗರಗಳು"
+   },
+   "title": {
+    "en": "Eat out and experiences",
+    "kn": "ರೆಸ್ಟೋರೆಂಟ್ ಮತ್ತು ಅನುಭವಗಳು"
+   },
+   "intro": {
+    "en": "Restaurants and food experiences, city by city.",
+    "kn": "ನಗರದಿಂದ ನಗರಕ್ಕೆ ರೆಸ್ಟೋರೆಂಟ್ ಮತ್ತು ಆಹಾರ ಅನುಭವಗಳು."
+   },
+   "tabs": [
+    {
+     "id": "blr",
+     "label": {
+      "en": "Bengaluru",
+      "kn": "ಬೆಂಗಳೂರು"
+     },
+     "stories": [
+      "blr1",
+      "blr2",
+      "blr3"
+     ]
+    },
+    {
+     "id": "mys",
+     "label": {
+      "en": "Mysuru",
+      "kn": "ಮೈಸೂರು"
+     },
+     "stories": [
+      "mys1",
+      "mys2",
+      "mys3"
+     ]
+    },
+    {
+     "id": "bom",
+     "label": {
+      "en": "Mumbai",
+      "kn": "ಮುಂಬೈ"
+     },
+     "stories": [
+      "bom1",
+      "bom2",
+      "bom3"
+     ]
+    },
+    {
+     "id": "del",
+     "label": {
+      "en": "Delhi",
+      "kn": "ದೆಹಲಿ"
+     },
+     "stories": [
+      "del1",
+      "del2",
+      "del3"
+     ]
+    }
+   ],
+   "ad": "after-cities"
+  },
+  {
+   "id": "stories",
+   "type": "cards",
+   "nav": {
+    "en": "Food stories",
+    "kn": "ಆಹಾರ ಕಥೆಗಳು"
+   },
+   "title": {
+    "en": "Food stories",
+    "kn": "ಆಹಾರ ಕಥೆಗಳು"
+   },
+   "intro": {
+    "en": "People, history and travel on the plate.",
+    "kn": "ತಟ್ಟೆಯ ಮೇಲಿನ ಜನ, ಇತಿಹಾಸ ಮತ್ತು ಪ್ರಯಾಣ."
+   },
+   "stories": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ]
+  },
+  {
+   "id": "more",
+   "type": "list",
+   "title": {
+    "en": "More to read",
+    "kn": "ಇನ್ನಷ್ಟು ಓದಿ"
+   },
+   "stories": [
+    "m1",
+    "m2",
+    "m3"
+   ]
+  }
+ ],
+ "stories": {
+  "h1": {
+   "shape": "wide",
+   "tone": 0,
+   "date": "2026-11-14",
+   "en": {
+    "cat": "Feature",
+    "title": "Slow Sundays: the curries, breads and rice worth cooking this weekend",
+    "author": "Editorial Desk",
+    "dek": "A placeholder dek: two lines that set up the story and make you want to read on."
+   },
+   "kn": {
+    "cat": "ವಿಶೇಷ",
+    "title": "ಮೆಲ್ಲಗೆ ಬೇಯುವ ಭಾನುವಾರ: ಈ ವಾರಾಂತ್ಯ ಮಾಡಲೇಬೇಕಾದ ಸಾರು, ರೊಟ್ಟಿ, ಅನ್ನ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಮಾದರಿ ಉಪಶೀರ್ಷಿಕೆ: ಬರಹದ ಬಗ್ಗೆ ಎರಡು ಸಾಲುಗಳ ಪರಿಚಯ ಇಲ್ಲಿರುತ್ತದೆ."
+   },
+   "img": "deccanherald/2026-11-13/45ohlcg0/file88e6m7mfwuv408n59wm.jpg"
+  },
+  "h2": {
+   "shape": "square",
+   "tone": 1,
+   "date": "2026-11-13",
+   "en": {
+    "cat": "Guide",
+    "title": "Five pantry staples every kitchen should keep",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಮಾರ್ಗದರ್ಶಿ",
+    "title": "ಪ್ರತಿ ಅಡುಗೆಮನೆಯಲ್ಲೂ ಇರಬೇಕಾದ ಐದು ಪದಾರ್ಥಗಳು",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "deccanherald/2026-09-19/p3ive4fb/564802684.jpg"
+  },
+  "h3": {
+   "shape": "square",
+   "tone": 2,
+   "date": "2026-11-12",
+   "en": {
+    "cat": "Recipe",
+    "title": "A fifteen-minute dal that tastes like it took an hour",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ರೆಸಿಪಿ",
+    "title": "ಹದಿನೈದು ನಿಮಿಷದಲ್ಲಿ ಮಾಡಬಹುದಾದ ರುಚಿಕರ ಬೇಳೆ ಸಾರು",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "prajavani/2026-11-14/q43m9cfp/file88a3ky9k4l5fclbrnpe.jpg"
+  },
+  "c1": {
+   "shape": "tall",
+   "tone": 3,
+   "date": "2026-11-09",
+   "en": {
+    "cat": "Recipe",
+    "title": "Crisp dosa, soft centre: the batter that never fails",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ರೆಸಿಪಿ",
+    "title": "ಗರಿಗರಿ ದೋಸೆ, ಮೃದು ಮಧ್ಯ: ಎಂದೂ ಕೈಕೊಡದ ಹಿಟ್ಟು",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "deccanherald/2026-10-25/cagxcke8/file883hi24ty1d2k6rdqvr.jpg"
+  },
+  "c2": {
+   "shape": "tall",
+   "tone": 4,
+   "date": "2026-11-08",
+   "en": {
+    "cat": "Recipe",
+    "title": "Festival sweets you can make in one pan",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ರೆಸಿಪಿ",
+    "title": "ಒಂದೇ ಬಾಣಲೆಯಲ್ಲಿ ಮಾಡಬಹುದಾದ ಹಬ್ಬದ ಸಿಹಿಗಳು",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "prajavani/2026-11-03/5q4x1h3m/file.webp"
+  },
+  "c3": {
+   "shape": "tall",
+   "tone": 5,
+   "date": "2026-11-07",
+   "en": {
+    "cat": "Recipe",
+    "title": "Summer coolers with fruit, mint and soda",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ರೆಸಿಪಿ",
+    "title": "ಹಣ್ಣು, ಪುದೀನ, ಸೋಡಾ ಬೆರೆಸಿದ ತಂಪು ಪಾನೀಯಗಳು",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "deccanherald/2026-11-07/3tfplb0d/iStock-1319973261.jpg"
+  },
+  "c4": {
+   "shape": "tall",
+   "tone": 6,
+   "date": "2026-11-06",
+   "en": {
+    "cat": "Recipe",
+    "title": "Rice, but make it exciting: four one-pot ideas",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ರೆಸಿಪಿ",
+    "title": "ಅನ್ನವನ್ನೇ ವಿಶೇಷಗೊಳಿಸಿ: ಒಂದೇ ಪಾತ್ರೆಯ ನಾಲ್ಕು ಐಡಿಯಾ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "deccanherald/2026-09-05/7aase92q/file87ecqiverxf1i4b5iupk.jpg"
+  },
+  "c5": {
+   "shape": "tall",
+   "tone": 7,
+   "date": "2026-11-05",
+   "en": {
+    "cat": "Recipe",
+    "title": "Chutneys for every meal of the day",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ರೆಸಿಪಿ",
+    "title": "ದಿನದ ಪ್ರತಿ ಊಟಕ್ಕೂ ಚಟ್ನಿಗಳು",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "prajavani/2026-10-17/48utdkd8/file.webp"
+  },
+  "r1": {
+   "shape": "43",
+   "tone": 5,
+   "date": "2026-11-09",
+   "en": {
+    "cat": "Regional",
+    "title": "The festive sweet with a thousand layers",
+    "author": "Editorial Desk",
+    "dek": "Placeholder text for a short standfirst. Replace with the real summary."
+   },
+   "kn": {
+    "cat": "ಪ್ರಾದೇಶಿಕ",
+    "title": "ಸಾವಿರ ಪದರಗಳ ಹಬ್ಬದ ಸಿಹಿ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಚಿಕ್ಕ ಪರಿಚಯದ ಮಾದರಿ ಪಠ್ಯ. ನಿಜವಾದ ಸಾರಾಂಶದಿಂದ ಬದಲಿಸಿ."
+   },
+   "img": "deccanherald/2026-10-17/kir7qt6e/file880cieyccza18b631rwz.jpg"
+  },
+  "r2": {
+   "shape": "square",
+   "tone": 6,
+   "date": "2026-11-08",
+   "en": {
+    "cat": "Regional",
+    "title": "Steamed, soft and local: a rice-cake journey",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಪ್ರಾದೇಶಿಕ",
+    "title": "ಹಬೆಯಲ್ಲಿ ಬೆಂದ ಮೃದು ತಿನಿಸು: ಸ್ಥಳೀಯ ಅಕ್ಕಿ ತಿಂಡಿಯ ಪಯಣ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "deccanherald/2026-09-12/9yqq2q83/file87hy7fpjvyenr4by9g9.jpg"
+  },
+  "r3": {
+   "shape": "square",
+   "tone": 7,
+   "date": "2026-11-07",
+   "en": {
+    "cat": "Regional",
+    "title": "Coastal flavours, inland kitchens",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಪ್ರಾದೇಶಿಕ",
+    "title": "ಕರಾವಳಿಯ ರುಚಿ, ಒಳನಾಡಿನ ಅಡುಗೆಮನೆ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "deccanherald/2026-11-06/l84h3828/file88bro25sdpj1cuj505zu.jpeg"
+  },
+  "s1": {
+   "shape": "square",
+   "tone": 2,
+   "date": "2026-10-29",
+   "en": {
+    "cat": "Story",
+    "title": "The grandmother's recipe notebook",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಕಥೆ",
+    "title": "ಅಜ್ಜಿಯ ಅಡುಗೆ ಪುಸ್ತಕ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "prajavani/2026-10-31/2xew2kgr/1e4d9f9add911e58a998c1f2766f7c898b79d5df2eda21a116c9ac0e3a9d1023_t3.jpg"
+  },
+  "s2": {
+   "shape": "wide2",
+   "tone": 3,
+   "date": "2026-10-28",
+   "en": {
+    "cat": "Story",
+    "title": "Why we still eat with our hands",
+    "author": "Editorial Desk",
+    "dek": "Placeholder text for a short standfirst. Replace with the real summary."
+   },
+   "kn": {
+    "cat": "ಕಥೆ",
+    "title": "ನಾವು ಇನ್ನೂ ಕೈಯಲ್ಲಿ ಯಾಕೆ ಉಣ್ಣುತ್ತೇವೆ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಚಿಕ್ಕ ಪರಿಚಯದ ಮಾದರಿ ಪಠ್ಯ. ನಿಜವಾದ ಸಾರಾಂಶದಿಂದ ಬದಲಿಸಿ."
+   },
+   "img": "deccanherald/2026-10-17/kmwipmgk/file880deydukhw1e5currwz.jpg"
+  },
+  "s3": {
+   "shape": "square",
+   "tone": 4,
+   "date": "2026-10-27",
+   "en": {
+    "cat": "Story",
+    "title": "A short history of the humble pickle",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಕಥೆ",
+    "title": "ಉಪ್ಪಿನಕಾಯಿಯ ಸಣ್ಣ ಇತಿಹಾಸ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "prajavani/2026-10-17/48utdkd8/file.webp"
+  },
+  "s4": {
+   "shape": "square",
+   "tone": 5,
+   "date": "2026-10-26",
+   "en": {
+    "cat": "Story",
+    "title": "Markets at dawn: a photo essay",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಕಥೆ",
+    "title": "ಮುಂಜಾನೆಯ ಮಾರುಕಟ್ಟೆಗಳು: ಚಿತ್ರ ಲೇಖನ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "deccanherald/2026-09-19/p3ive4fb/564802684.jpg"
+  },
+  "m1": {
+   "shape": "square",
+   "tone": 1,
+   "date": "2026-10-19",
+   "en": {
+    "cat": "Tips",
+    "title": "Ten tips for a better tadka",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಸಲಹೆಗಳು",
+    "title": "ಉತ್ತಮ ಒಗ್ಗರಣೆಗೆ ಹತ್ತು ಸಲಹೆಗಳು",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   }
+  },
+  "m2": {
+   "shape": "square",
+   "tone": 2,
+   "date": "2026-10-18",
+   "en": {
+    "cat": "Tips",
+    "title": "How to store spices so they last",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಸಲಹೆಗಳು",
+    "title": "ಮಸಾಲೆಗಳನ್ನು ಹೆಚ್ಚು ಕಾಲ ಉಳಿಸುವ ವಿಧಾನ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   }
+  },
+  "m3": {
+   "shape": "square",
+   "tone": 3,
+   "date": "2026-10-17",
+   "en": {
+    "cat": "Tips",
+    "title": "Meal prep for a busy week",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "ಸಲಹೆಗಳು",
+    "title": "ಬ್ಯುಸಿ ವಾರಕ್ಕೆ ಊಟದ ಪೂರ್ವ ತಯಾರಿ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   }
+  },
+  "blr1": {
+   "shape": "portrait",
+   "tone": 4,
+   "date": "2026-11-06",
+   "kind": "restaurant",
+   "area": {
+    "en": "Indiranagar",
+    "kn": "ಇಂದಿರಾನಗರ"
+   },
+   "en": {
+    "cat": "",
+    "title": "The Corner Table",
+    "author": "Editorial Desk",
+    "dek": "Small plates and slow lunches"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ದಿ ಕಾರ್ನರ್ ಟೇಬಲ್",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಸಣ್ಣ ತಟ್ಟೆಗಳು, ನಿಧಾನದ ಊಟ"
+   },
+   "img": "deccanherald/2026-10-17/kmwipmgk/file880deydukhw1e5currwz.jpg"
+  },
+  "blr2": {
+   "shape": "portrait",
+   "tone": 5,
+   "date": "2026-11-06",
+   "kind": "experience",
+   "area": {
+    "en": "Old market quarter",
+    "kn": "ಹಳೆ ಮಾರುಕಟ್ಟೆ ಪ್ರದೇಶ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Sunrise market walk and breakfast",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಸೂರ್ಯೋದಯದ ಮಾರುಕಟ್ಟೆ ನಡಿಗೆ ಮತ್ತು ಉಪಾಹಾರ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "prajavani/2026-11-07/ofg3fixa/file88b47gj0rn91m4mg9gfn.jpg"
+  },
+  "blr3": {
+   "shape": "portrait",
+   "tone": 6,
+   "date": "2026-11-06",
+   "kind": "restaurant",
+   "area": {
+    "en": "Jayanagar",
+    "kn": "ಜಯನಗರ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Courtyard Kitchen",
+    "author": "Editorial Desk",
+    "dek": "Home-style meals in a leafy courtyard"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಕೋರ್ಟ್‌ಯಾರ್ಡ್ ಕಿಚನ್",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಹಸಿರು ಅಂಗಳದಲ್ಲಿ ಮನೆಯೂಟ"
+   },
+   "img": "prajavani/2026-10-31/2xew2kgr/1e4d9f9add911e58a998c1f2766f7c898b79d5df2eda21a116c9ac0e3a9d1023_t3.jpg"
+  },
+  "mys1": {
+   "shape": "portrait",
+   "tone": 7,
+   "date": "2026-11-06",
+   "kind": "restaurant",
+   "area": {
+    "en": "Near the palace",
+    "kn": "ಅರಮನೆ ಬಳಿ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Palace Road Tiffins",
+    "author": "Editorial Desk",
+    "dek": "Classic breakfasts, done right"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಪ್ಯಾಲೇಸ್ ರೋಡ್ ಟಿಫಿನ್ಸ್",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಕ್ಲಾಸಿಕ್ ಉಪಾಹಾರ, ಸರಿಯಾಗಿ"
+   },
+   "img": "deccanherald/2026-09-05/7aase92q/file87ecqiverxf1i4b5iupk.jpg"
+  },
+  "mys2": {
+   "shape": "portrait",
+   "tone": 0,
+   "date": "2026-11-06",
+   "kind": "experience",
+   "area": {
+    "en": "Main market",
+    "kn": "ಮುಖ್ಯ ಮಾರುಕಟ್ಟೆ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Spice market tasting trail",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಮಸಾಲೆ ಮಾರುಕಟ್ಟೆ ರುಚಿ ನಡಿಗೆ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "deccanherald/2026-11-14/yk6xvlqb/Nolen-Gur-Sandesh.jpeg"
+  },
+  "mys3": {
+   "shape": "portrait",
+   "tone": 1,
+   "date": "2026-11-06",
+   "kind": "restaurant",
+   "area": {
+    "en": "Old town",
+    "kn": "ಹಳೆ ಪಟ್ಟಣ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Green Leaf Mess",
+    "author": "Editorial Desk",
+    "dek": "Banana-leaf meals"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಗ್ರೀನ್ ಲೀಫ್ ಮೆಸ್",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಬಾಳೆಲೆ ಊಟ"
+   },
+   "img": "prajavani/2026-10-30/8olfqoj9/file.webp"
+  },
+  "bom1": {
+   "shape": "portrait",
+   "tone": 2,
+   "date": "2026-11-06",
+   "kind": "restaurant",
+   "area": {
+    "en": "Harbour side",
+    "kn": "ಬಂದರು ಬದಿ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Harbour Grill",
+    "author": "Editorial Desk",
+    "dek": "Seafood by the water"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಹಾರ್ಬರ್ ಗ್ರಿಲ್",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ನೀರಿನ ಪಕ್ಕದ ಸಮುದ್ರಾಹಾರ"
+   },
+   "img": "deccanherald/2026-10-11/0ji6n2hy/insets-19.jpg"
+  },
+  "bom2": {
+   "shape": "portrait",
+   "tone": 3,
+   "date": "2026-11-06",
+   "kind": "experience",
+   "area": {
+    "en": "Old city lanes",
+    "kn": "ಹಳೆ ನಗರದ ಗಲ್ಲಿಗಳು"
+   },
+   "en": {
+    "cat": "",
+    "title": "Street food after dark",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ರಾತ್ರಿಯ ಬೀದಿ ತಿಂಡಿ ನಡಿಗೆ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "prajavani/2026-10-27/kf2q9zkf/file.webp"
+  },
+  "bom3": {
+   "shape": "portrait",
+   "tone": 4,
+   "date": "2026-11-06",
+   "kind": "restaurant",
+   "area": {
+    "en": "Seafront",
+    "kn": "ಸಮುದ್ರ ತೀರ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Seafront Café",
+    "author": "Editorial Desk",
+    "dek": "Chai, toast and sea breeze"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಸೀಫ್ರಂಟ್ ಕೆಫೆ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಚಹಾ, ಟೋಸ್ಟ್, ಸಮುದ್ರದ ಗಾಳಿ"
+   },
+   "img": "deccanherald/2026-10-11/c4tuvcyc/insets-18.jpg"
+  },
+  "del1": {
+   "shape": "portrait",
+   "tone": 5,
+   "date": "2026-11-06",
+   "kind": "restaurant",
+   "area": {
+    "en": "Old Delhi",
+    "kn": "ಹಳೆ ದೆಹಲಿ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Lane 9 Kebabs",
+    "author": "Editorial Desk",
+    "dek": "Smoky skewers, soft rotis"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಲೇನ್ 9 ಕಬಾಬ್ಸ್",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಹೊಗೆಯ ಕಬಾಬ್, ಮೃದು ರೊಟ್ಟಿ"
+   },
+   "img": "prajavani/2026-10-14/af1jabsy/file.webp"
+  },
+  "del2": {
+   "shape": "portrait",
+   "tone": 6,
+   "date": "2026-11-06",
+   "kind": "experience",
+   "area": {
+    "en": "Old market lanes",
+    "kn": "ಹಳೆ ಮಾರುಕಟ್ಟೆ ಗಲ್ಲಿಗಳು"
+   },
+   "en": {
+    "cat": "",
+    "title": "Chaat and chai heritage walk",
+    "author": "Editorial Desk"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಚಾಟ್ ಮತ್ತು ಚಹಾ ಪಾರಂಪರಿಕ ನಡಿಗೆ",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ"
+   },
+   "img": "prajavani/2026-11-09/7ae835vl/720fd7e91a4dd09b91f6665975404e4513fa4ceb9836575ffae4f440ffc2c1bb_t3.jpg"
+  },
+  "del3": {
+   "shape": "portrait",
+   "tone": 7,
+   "date": "2026-11-06",
+   "kind": "restaurant",
+   "area": {
+    "en": "South Delhi",
+    "kn": "ದಕ್ಷಿಣ ದೆಹಲಿ"
+   },
+   "en": {
+    "cat": "",
+    "title": "Garden Thali House",
+    "author": "Editorial Desk",
+    "dek": "Regional thalis, one table"
+   },
+   "kn": {
+    "cat": "",
+    "title": "ಗಾರ್ಡನ್ ಥಾಲಿ ಹೌಸ್",
+    "author": "ಸಂಪಾದಕೀಯ ವಿಭಾಗ",
+    "dek": "ಪ್ರಾದೇಶಿಕ ಥಾಲಿ, ಒಂದೇ ಮೇಜು"
+   },
+   "img": "prajavani/2026-11-03/5q4x1h3m/file.webp"
+  }
+ },
+ "mastheadImage": "deccanherald/2026-09-19/p3ive4fb/564802684.jpg"
+}

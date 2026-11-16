@@ -1,0 +1,117 @@
+{
+  "status": "Editorial drafts; not cooking-tested or publication approved",
+  "recipes": [
+    {
+      "id": "dh-blueberry-orange-blossom-vanilla-fizz",
+      "brand": "DH",
+      "language": "en",
+      "title": "Blueberry, Orange Blossom and Vanilla Fizz",
+      "sourceStoryId": "05caadb6-97c2-44b9-afbd-5312ea7d6962",
+      "sourceUrl": "https://www.deccanherald.com/lifestyle/food-and-drink/let-the-good-times-fizz-4211004",
+      "yield": "Serves 4",
+      "totalTime": null,
+      "ingredients": [
+        ["blueberries", "250 g blueberries, fresh or frozen"],
+        ["water-simmer", "100 ml water, to simmer with the blueberries (quantity quoted in the method)"],
+        ["water-rest", "Remaining water, from the 400 ml chilled water listed"],
+        ["orange-juice", "80 ml fresh orange juice"],
+        ["lemon-juice", "40 ml fresh lemon juice"],
+        ["syrup", "60 ml sugar syrup"],
+        ["vanilla", "¼ tsp vanilla extract"],
+        ["blossom", "2–4 drops of food-grade orange blossom water"],
+        ["ice", "1 cup ice cubes"],
+        ["soda", "400 ml chilled soda"],
+        ["peel", "Orange peel twists, for garnish; amount unspecified"]
+      ],
+      "operations": [
+        { "id": "simmered", "inputs": ["blueberries", "water-simmer"], "action": "Simmer gently for five minutes, pressing the berries lightly to release their juice." },
+        { "id": "strained", "inputs": ["simmered"], "action": "Cool the mixture and strain it through a fine sieve, pressing gently to extract the liquid. Allow it to cool completely." },
+        { "id": "combined", "inputs": ["strained", "water-rest", "orange-juice", "lemon-juice", "syrup"], "action": "Combine the blueberry liquid with the remaining water, orange juice, lemon juice and sugar syrup." },
+        { "id": "flavoured", "inputs": ["combined", "vanilla", "blossom"], "action": "Add the vanilla extract and two drops of orange blossom water. Stir, taste and add another drop or two only if needed." },
+        { "id": "glasses", "inputs": ["flavoured", "ice"], "action": "Fill four glasses with ice and divide the blueberry mixture equally." },
+        { "id": "fizz", "inputs": ["glasses", "soda"], "action": "Top each glass with approximately 100 ml of soda." },
+        { "id": "serve", "inputs": ["fizz", "peel"], "action": "Twist a strip of orange peel over each glass to release its fragrant oils, then use it as a garnish." }
+      ],
+      "editorialQuestions": [
+        "The list gives 400 ml chilled water; the method uses 100 ml for simmering and then 'the remaining water'. Confirm the 100 ml comes out of the 400 ml.",
+        "No cooling time is given for the blueberry liquid, and no total preparation time is supplied.",
+        "Orange blossom water is listed as 2–4 drops; the method says two drops, then 'another drop or two only if needed'."
+      ]
+    },
+    {
+      "id": "dh-mango-passion-fruit-saffron-lime-cooler",
+      "brand": "DH",
+      "language": "en",
+      "title": "Mango, Passion Fruit, Saffron and Lime Cooler",
+      "sourceStoryId": "05caadb6-97c2-44b9-afbd-5312ea7d6962",
+      "sourceUrl": "https://www.deccanherald.com/lifestyle/food-and-drink/let-the-good-times-fizz-4211004",
+      "yield": "Serves 4",
+      "totalTime": null,
+      "ingredients": [
+        ["mango", "300 ml mango pulp or thick mango juice"],
+        ["passion", "150 ml passion fruit pulp or juice"],
+        ["lime", "50 ml fresh lime juice"],
+        ["saffron", "1 generous pinch of saffron strands"],
+        ["warm-water", "2 tbsp warm water"],
+        ["syrup", "30–45 ml sugar syrup, optional"],
+        ["water-adjust", "A little water, if required: mentioned in the method; amount not given"],
+        ["ice", "1 cup ice cubes"],
+        ["soda", "400 ml chilled soda"],
+        ["mint", "4 small mint sprigs, for garnish"],
+        ["seeds", "A few passion fruit seeds, for garnish"]
+      ],
+      "operations": [
+        { "id": "infusion", "inputs": ["saffron", "warm-water"], "action": "Place the saffron strands in two tablespoons of warm water and leave to infuse for 10–15 minutes." },
+        { "id": "base", "inputs": ["mango", "passion", "lime"], "action": "In a jug, combine the mango pulp, passion fruit pulp and lime juice." },
+        { "id": "mixed", "inputs": ["base", "infusion"], "action": "Add the saffron infusion, including the strands if desired, and mix well." },
+        { "id": "adjusted", "inputs": ["mixed", "syrup", "water-adjust"], "action": "Taste before adding sugar syrup. Adjust the consistency with a little water if required." },
+        { "id": "glasses", "inputs": ["adjusted", "ice"], "action": "Fill four glasses with ice and divide the fruit mixture equally." },
+        { "id": "fizz", "inputs": ["glasses", "soda"], "action": "Top each glass with approximately 100 ml of soda, stirring gently to combine." },
+        { "id": "serve", "inputs": ["fizz", "mint", "seeds"], "action": "Garnish with mint and a few passion fruit seeds." }
+      ],
+      "editorialQuestions": [
+        "No total preparation time is supplied; the saffron infusion takes 10–15 minutes.",
+        "Water for adjusting consistency is in the method only, with no amount given.",
+        "Sugar syrup is optional (30–45 ml) and the method says to taste first."
+      ]
+    },
+    {
+      "id": "dh-green-apple-cucumber-mint-chilli-refresh",
+      "brand": "DH",
+      "language": "en",
+      "title": "Green Apple, Cucumber, Mint and Chilli Refresh",
+      "sourceStoryId": "05caadb6-97c2-44b9-afbd-5312ea7d6962",
+      "sourceUrl": "https://www.deccanherald.com/lifestyle/food-and-drink/let-the-good-times-fizz-4211004",
+      "yield": "Serves 4",
+      "totalTime": null,
+      "ingredients": [
+        ["cucumber", "150 g cucumber, peeled and chopped"],
+        ["apple-blend", "100 ml of the green apple juice, to blend with the cucumber (quantity quoted in the method)"],
+        ["apple-rest", "Remaining green apple juice, from the 400 ml listed"],
+        ["lime", "40 ml fresh lime juice"],
+        ["mint-leaves", "15–20 mint leaves"],
+        ["chilli", "1 small green chilli, deseeded"],
+        ["syrup", "30–45 ml sugar syrup, optional"],
+        ["ice", "1 cup ice cubes"],
+        ["soda", "500 ml chilled soda"],
+        ["ribbons", "4 cucumber ribbons"],
+        ["mint-sprigs", "4 small mint sprigs, for garnish"]
+      ],
+      "operations": [
+        { "id": "puree", "inputs": ["cucumber", "apple-blend"], "action": "Blend the cucumber with 100 ml of the apple juice until smooth." },
+        { "id": "strained", "inputs": ["puree"], "action": "Strain through a fine sieve into a jug." },
+        { "id": "jug", "inputs": ["strained", "apple-rest", "lime", "mint-leaves"], "action": "Add the remaining apple juice, lime juice and mint leaves." },
+        { "id": "heat", "inputs": ["jug", "chilli"], "action": "Slice the deseeded chilli very thinly. Add one or two slices to the jug, stir and taste after two minutes. Remove them once the desired level of heat is achieved.", "discarded": ["chilli"] },
+        { "id": "sweetened", "inputs": ["heat", "syrup"], "action": "Add sugar syrup if needed, especially if the apple juice is particularly tart." },
+        { "id": "glasses", "inputs": ["sweetened", "ice"], "action": "Divide the mixture between four ice-filled glasses." },
+        { "id": "fizz", "inputs": ["glasses", "soda"], "action": "Top each with approximately 125 ml of soda and stir gently." },
+        { "id": "serve", "inputs": ["fizz", "ribbons", "mint-sprigs"], "action": "Garnish with a cucumber ribbon and a mint sprig." }
+      ],
+      "editorialQuestions": [
+        "The list gives 400 ml green apple juice; the method blends 100 ml with the cucumber and adds 'the remaining apple juice'. Confirm the 100 ml comes out of the 400 ml.",
+        "Only one or two chilli slices are added and then removed; the rest of the chilli is not accounted for in the method.",
+        "No total preparation time is supplied."
+      ]
+    }
+  ]
+}

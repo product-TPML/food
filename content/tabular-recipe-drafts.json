@@ -1,0 +1,333 @@
+{
+  "status": "Editorial drafts; not cooking-tested or publication approved",
+  "retrievedAt": "2026-11-16T06:41:54.326Z",
+  "notation": "Ingredients are source rows. Operations join those rows into shared cells, consuming earlier operation outputs; never duplicate the method in every ingredient row. Keep discarded ingredients and process media separate. Arrays are data, not page implementation.",
+  "recipes": [
+    {
+      "id": "dh-jamun-rosemary-lime",
+      "brand": "DH",
+      "language": "en",
+      "title": "Jamun, Rosemary and Lime Blast",
+      "sourceStoryId": "05caadb6-97c2-44b9-afbd-5312ea7d6962",
+      "sourceUrl": "https://www.deccanherald.com/lifestyle/food-and-drink/let-the-good-times-fizz-4211004",
+      "yield": "Serves 4",
+      "totalTime": null,
+      "ingredients": [
+        [
+          "jamun",
+          "2 cups ripe jamun, deseeded and pureed; OR 1 cup canned jamun juice"
+        ],
+        [
+          "lime",
+          "60 ml fresh lime juice"
+        ],
+        [
+          "syrup",
+          "60 ml sugar syrup, or to taste"
+        ],
+        [
+          "infusion-rosemary",
+          "4 small fresh rosemary sprigs, removed after infusion"
+        ],
+        [
+          "ice",
+          "1 cup ice cubes"
+        ],
+        [
+          "soda",
+          "600 ml chilled soda"
+        ],
+        [
+          "lime-garnish",
+          "Thin lime wheels, amount unspecified"
+        ],
+        [
+          "rosemary-garnish",
+          "4 small rosemary sprigs"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "base",
+          "inputs": [
+            "jamun",
+            "lime",
+            "syrup"
+          ],
+          "action": "Blend until smooth"
+        },
+        {
+          "id": "infused",
+          "inputs": [
+            "base",
+            "infusion-rosemary"
+          ],
+          "action": "Lightly bruise rosemary; infuse for 5 minutes; remove sprigs",
+          "discarded": [
+            "infusion-rosemary"
+          ]
+        },
+        {
+          "id": "glasses",
+          "inputs": [
+            "infused",
+            "ice"
+          ],
+          "action": "Divide mixture equally among 4 ice-filled glasses"
+        },
+        {
+          "id": "fizz",
+          "inputs": [
+            "glasses",
+            "soda"
+          ],
+          "action": "Top each glass with approximately 150 ml chilled soda; stir gently"
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "fizz",
+            "lime-garnish",
+            "rosemary-garnish"
+          ],
+          "action": "Garnish each glass with lime wheel and fresh rosemary sprig"
+        }
+      ],
+      "editorialQuestions": [
+        "Does 2 cups jamun measure whole fruit or prepared puree? Preserve original wording pending confirmation.",
+        "No total preparation time supplied. Canned juice is an alternative, not additional fruit."
+      ]
+    },
+    {
+      "id": "pv-seven-cup-barfi",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಸೆವೆನ್ ಕಪ್ ಬರ್ಫಿ",
+      "workingEnglishTitle": "Seven-cup barfi",
+      "sourceStoryId": "872ecd31-ff0d-420c-932d-cd917b6b8587",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/diwali-special-seven-cup-barfi-recipe-kannada-4371802",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "flour",
+          "ಕಡಲೆ ಹಿಟ್ಟು: 1 ಕಪ್"
+        ],
+        [
+          "coconut",
+          "ತುರಿದ ತೆಂಗಿನಕಾಯಿ: 1 ಕಪ್"
+        ],
+        [
+          "sugar",
+          "ಸಕ್ಕರೆ: 3 ಕಪ್"
+        ],
+        [
+          "milk",
+          "ಹಾಲು: 1 ಕಪ್"
+        ],
+        [
+          "ghee",
+          "ತುಪ್ಪ: 1 ಕಪ್"
+        ],
+        [
+          "nuts",
+          "ಗೋಡಂಬಿ, ಬಾದಾಮಿ: ಅಗತ್ಯಕ್ಕೆ ತಕ್ಕಷ್ಟು"
+        ],
+        [
+          "tray-ghee",
+          "ತಟ್ಟೆಗೆ ಸವರಲು ತುಪ್ಪ: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರತ್ಯೇಕ ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "roasted",
+          "inputs": [
+            "flour"
+          ],
+          "action": "ಸಣ್ಣ ಉರಿಯಲ್ಲಿ ಸುವಾಸನೆ ಬರುವವರೆಗೆ ಹುರಿಯಿರಿ"
+        },
+        {
+          "id": "mixture",
+          "inputs": [
+            "roasted",
+            "coconut",
+            "sugar",
+            "milk",
+            "ghee"
+          ],
+          "action": "ಗಂಟುಗಳಾಗದಂತೆ ಚೆನ್ನಾಗಿ ಬೆರೆಸಿ"
+        },
+        {
+          "id": "ground-nuts",
+          "inputs": [
+            "nuts"
+          ],
+          "action": "ಗೋಡಂಬಿ, ಬಾದಾಮಿಯನ್ನು ತರಿತರಿಯಾಗಿ ಪುಡಿಮಾಡಿ"
+        },
+        {
+          "id": "thickened",
+          "inputs": [
+            "mixture",
+            "ground-nuts"
+          ],
+          "action": "ಪುಡಿಯನ್ನು ಸೇರಿಸಿ; ಮಧ್ಯಮ ಉರಿಯಲ್ಲಿ ಸತತವಾಗಿ ತಿರುಗಿಸಿ, ಮಿಶ್ರಣ ತಳ ಬಿಡುವವರೆಗೆ ಬೇಯಿಸಿ"
+        },
+        {
+          "id": "tray",
+          "inputs": [
+            "tray-ghee"
+          ],
+          "action": "ತಟ್ಟೆಗೆ ಮುಂಚಿತವಾಗಿ ತುಪ್ಪ ಸವರಿ"
+        },
+        {
+          "id": "cut",
+          "inputs": [
+            "thickened",
+            "tray"
+          ],
+          "action": "ತಟ್ಟೆಗೆ ಸುರಿದು ಸ್ವಲ್ಪ ಆರಿದ ಬಳಿಕ ಬೇಕಾದ ಆಕಾರಕ್ಕೆ ಕತ್ತರಿಸಿ"
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "cut"
+          ],
+          "action": "ಸಂಪೂರ್ಣ ತಣ್ಣಗಾದ ಮೇಲೆ ತುಂಡುಗಳನ್ನು ಬೇರ್ಪಡಿಸಿ"
+        }
+      ],
+      "editorialQuestions": [
+        "Nut quantity unspecified.",
+        "Whether tray-greasing ghee is included in the listed cup is unspecified.",
+        "Yield, cook time and cooling time absent."
+      ]
+    },
+    {
+      "id": "pv-sabudana-vada",
+      "brand": "PV",
+      "language": "kn",
+      "title": "ಸಾಬುದಾನ ವಡೆ",
+      "workingEnglishTitle": "Sabudana vada",
+      "sourceStoryId": "ccd56f47-8323-408e-bcd0-76f8a8adc688",
+      "sourceUrl": "https://www.prajavani.net/health/recipe/sabudana-vada-recipe-evening-snacks-kannada-4329492",
+      "yield": null,
+      "totalTime": null,
+      "ingredients": [
+        [
+          "sabudana",
+          "ಸಾಬುದಾನ: 1 ಕಪ್"
+        ],
+        [
+          "water",
+          "ನೆನೆಸಲು ನೀರು: ವಿಧಾನದಲ್ಲಿ ಉಲ್ಲೇಖ; ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "potato",
+          "ಆಲೂಗಡ್ಡೆ: 2"
+        ],
+        [
+          "peanut",
+          "ಕಡಲೆಕಾಯಿ: ಅರ್ಧ ಕಪ್"
+        ],
+        [
+          "chilli",
+          "ಹಸಿಮೆಣಸಿನಕಾಯಿ: 2"
+        ],
+        [
+          "cumin",
+          "ಜೀರಿಗೆ: 1 ಚಮಚ"
+        ],
+        [
+          "coriander",
+          "ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ],
+        [
+          "lemon",
+          "ನಿಂಬೆ ರಸ: 1 ಚಮಚ"
+        ],
+        [
+          "salt",
+          "ರುಚಿಗೆ ತಕ್ಕಷ್ಟು ಉಪ್ಪು"
+        ],
+        [
+          "oil",
+          "ಎಣ್ಣೆ: ಪ್ರಮಾಣವಿಲ್ಲ"
+        ]
+      ],
+      "operations": [
+        {
+          "id": "soaked",
+          "inputs": [
+            "sabudana",
+            "water"
+          ],
+          "action": "4–5 ಗಂಟೆ ನೆನೆಸಿ, ನೀರನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸೋಸಿ",
+          "discarded": [
+            "water"
+          ]
+        },
+        {
+          "id": "mashed",
+          "inputs": [
+            "potato"
+          ],
+          "action": "ಬೇಯಿಸಿ ಹಿಸುಕಿ; ಸಮಯವನ್ನು ಮೂಲ ಲೇಖನ ನೀಡಿಲ್ಲ"
+        },
+        {
+          "id": "ground",
+          "inputs": [
+            "peanut"
+          ],
+          "action": "ಹುರಿದು ಪುಡಿ ಮಾಡಿ; ಸಮಯವನ್ನು ಮೂಲ ಲೇಖನ ನೀಡಿಲ್ಲ"
+        },
+        {
+          "id": "mixture",
+          "inputs": [
+            "soaked",
+            "mashed",
+            "ground",
+            "chilli",
+            "cumin",
+            "coriander",
+            "lemon",
+            "salt"
+          ],
+          "action": "ದೊಡ್ಡ ಪಾತ್ರೆಯಲ್ಲಿ ಚೆನ್ನಾಗಿ ಮಿಶ್ರಣ ಮಾಡಿ"
+        },
+        {
+          "id": "shaped",
+          "inputs": [
+            "mixture"
+          ],
+          "action": "ಸ್ವಲ್ಪ ಭಾಗ ತೆಗೆದು ಚಪ್ಪಟೆ ವಡೆಯಾಕಾರಕ್ಕೆ ತಟ್ಟಿ"
+        },
+        {
+          "id": "hot-oil",
+          "inputs": [
+            "oil"
+          ],
+          "action": "ಬಾಣಲೆಯಲ್ಲಿ ಎಣ್ಣೆ ಬಿಸಿ ಮಾಡಿ"
+        },
+        {
+          "id": "fried",
+          "inputs": [
+            "shaped",
+            "hot-oil"
+          ],
+          "action": "ಮಧ್ಯಮ ಉರಿಯಲ್ಲಿ ಎರಡೂ ಕಡೆ ಗೋಲ್ಡನ್ ಬಣ್ಣ ಬಂದು ಗರಿಗರಿಯಾಗುವವರೆಗೆ ಕರಿಯಿರಿ"
+        },
+        {
+          "id": "serve",
+          "inputs": [
+            "fried"
+          ],
+          "action": "ಚಟ್ನಿ ಅಥವಾ ಮೊಸರಿನೊಂದಿಗೆ ಸವಿಯಿರಿ (ಐಚ್ಛಿಕ ಜೊತೆಯ ಪದಾರ್ಥಗಳು)"
+        }
+      ],
+      "editorialQuestions": [
+        "ಚಮಚ is unspecified spoon size; do not convert to tsp or tbsp.",
+        "No soaking-water ratio, coriander/oil quantities, yield or frying duration.",
+        "Chilli preparation detail absent."
+      ]
+    }
+  ]
+}
